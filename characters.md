@@ -17,6 +17,13 @@
 - muscular giant
 - "Where I come from, opponents are invited for a feast before they are killed…"
 
+# Grub
+- enslaved orc shaman at __Royal Ore Mine__
+- "meet GRUB in room, with pointy black rock"
+- "free me from chains, hehe, only GRUB knows way to friend"
+- "eeeh, loud noise waked GRUB. GRUB fee now."
+- "GRUB see you are wizard, too."
+
 # Lee
 - ex-general, "war hero", convicted for life for murder of the "king's wife"
 - he wants a revenge against people who betrayed and convicted him
