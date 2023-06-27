@@ -81,10 +81,11 @@
 # Sendar
 - home city of __Milten Plescott__
 
+# Stone Circle Of The Damend
+- stone circle in __Mine Valley of Khorinis__
+- has power to create undead and resurrect (in multiplayer)
+
 # Swamp of Lost Souls
-- secluded area around end of the river, there is a camp
-- the river comes from the west ("New Camp in the west of the colony")
-- "camp is situated in the east, in the swamp"
 - "If you want to hear the dead speak, you should visit the Swamp of Lost Souls."
 - "The Swamp of Lost Souls is a place full of danger."
 - "No one returns from the Swamp of Lost Souls with a clear mind."
