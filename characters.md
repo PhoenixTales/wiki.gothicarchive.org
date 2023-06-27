@@ -40,3 +40,60 @@
 - "the one who united of the four Mirtanian kingdoms of the sea"
 - called __Rhotbar II__ in the Gothic I handbook
 - "King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration"
+
+# Removed characters
+ID                  | Name            | notes
+--------------------|-----------------|--------------------------
+BALDHEAD            | Baldhead        | (sect novice)
+EBR_100             | Big Boss        |
+EBR_101             | Rechte Hand     |
+EBR_102             | Linke Hand      |
+EBR_103             | Grauer Baron    |
+EBR_104             | Aussenminister  |
+GRD_STRIDER         | Strider         | (Gardist, looks like guru?!)
+???                 | Grub            | (enslaved orc shaman)
+HAWKEYE             | Hawkeye         | (GIL_WCH, "runner", wears thief clothes)
+KDF_40              | ???             | (alpha Earon?)
+KDF_400_EARON       | Earon Flamehand |
+KDF_APPRENTICE      | Looser          |
+KDF_HELLFIRE        | Hellfire        |
+MASTERMIND          | Mastermind      | (GIL_WCH, "instructor" "armed with short sword and bow", wears guru robes)
+NOV_130             | ???             | (alpha Fortuno?)
+NOV_QUICKTONGUE     | Quicktongue     |
+SLEEPER             | Sleeper         | (normal buddler, not sleeping)
+SHARPBLADE          | Sharpblade      | (guard)
+SLD_20              | ???             | (alpha Borik?)
+SLD_21              | ???             | (alpha Bloodwyn?)
+SLD_200_BORIK       | Borik           | 
+SLD_201_BLOODWYN    | Bloodwyn        |
+SLD_202_ANGAR       | Angar           |
+SLD_203_DRAGO       | Drago           |
+SLD_204_FRIGHTENING | ???             |
+SLD_205_TALON       | Talon           |
+SLD_206_FLETCHER    | Fletcher        |
+SLD_207_SNAKE       | Snake           |
+SLD_GRIMFACE        | Grimface        |
+SLD_GRUNT           | Grunt           |
+SLD_MAINGATEGUARDN1 | Mack            |
+SLD_MAINGATEGUARDN2 | Tack            |
+SLD_MAINGATEGUARDT1 | Greg            |
+SLD_MAINGATEGUARDT2 | Jack            |
+STT_300_RAVEN       | Raven           |
+STT_301_FINGERS     | Fingers         | 
+STT_302_LEFTY       | Lefty           |
+STT_DARKMAN         | Darkman         |
+VLK_50              | ???             | (VLK_50_NSCASpeech: "The forgotten people will rise", alpha Cutter?)
+VLK_500_CUTTER      | Cutter          |
+VLK_501_BROWNIE     | Brownie         | 
+VLK_503_SCARRY      | Scarry          |
+VLK_504_CREEP       | Creep           |
+VLK_505_GRUMPY      | Grumpy          |
+VLK_506_SMOKIE      | Smokie          |
+VLK_507_DEREK       | Derek           |
+VLK_508_JUG         | Jug             |
+VLK_509_OLON        | Olon            |
+VLK_CRUMB           | Crumb           | (mole, dressed like thief)
+VLK_DUMB            | Dumb            | (mole, dressed like thief)
+VLK_NIMBLEFINGER    | Nimblefinger    | ("Hehler" - trader of stolen goods, dressed like thief)
+VLK_NUMB            | Numb            | (Mole, dressed like thief)
+VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
