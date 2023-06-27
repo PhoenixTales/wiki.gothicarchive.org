@@ -4,6 +4,12 @@
 - hilly area
 - famous for vineyards
 
+# Great Northern Plains
+- "I was a soldier in the fortress in the large plain from the north."
+- "Soon they would have reached the end of the northern plains and overrun our little outpost with ease"
+- "Following the heavy battles in the north, every countryman now knows how to use a bow and arrows"
+- "Hoards of orcs invading the land from the North" (old official website)
+
 # Khorinis
 - a remote city, one closest to the __Royal Ore Mines__
 - deserter was able to reach it from the __Northern Plains__ without help and detection
@@ -36,12 +42,6 @@
 - only local masters know secret technique for smelting __Magic Ore__ without sacrificing it's magic power
 - ancient __Ore Armor__ of __Ancient General__ was made using similar technology
 - earliest real-world blast furnaces are from XII century
-
-# Northern Plains
-- "I was a soldier in the fortress in the large plain from the north."
-- "Soon they would have reached the end of the northern plains and overrun our little outpost with ease"
-- "Following the heavy battles in the north, every countryman now knows how to use a bow and arrows"
-- "Hoards of orcs invading the land from the North" (old official website)
 
 # Royal Ore Mines
 - a prison colony in the mountains, containing deposits of iron and __Magic Ore__
