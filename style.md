@@ -16,3 +16,6 @@ Gothic is:
 - mystical
 - strange
 - dangerous
+
+## Finster
+- title of Finster Episode I is "...and the darkness will come" ("...und Finsternis wird kommen")
