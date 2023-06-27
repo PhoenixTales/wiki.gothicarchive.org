@@ -27,6 +27,11 @@
 ## Potion "Sprinting Horse"
 - sprint potion
 
+## PSI potion
+- vial with yellow liquid
+- addictive / neccessary for survival under barrier (`I need a psi vial urgently.`)
+- provided from outside world in trade for ore
+
 ## Rune Sword 
 - sword of Mastermind
 - has extra magic damage
