@@ -9,10 +9,14 @@
 - deserter was able to reach it from the __Northern Plains__ without help and detection
   - even though "deserting is one of the worst crimes in the kingdom"
   - old official website indirectly mentions __Khorinis__ being "the next town" from a fort on __Northern Plains__
-  - "Als sein Spähtrupp von der herannahenden Orkarmee überrollt zu werden droht, sucht Milten rechtzeitig sein Heil in der Flucht. Völlig entkräftet schleppt er sich in die nächste Stadt, wo er unglücklicherweise von den Stadtwachen als Deserteur festgenommen wird."
+  - `Als sein Spähtrupp von der herannahenden Orkarmee überrollt zu werden droht, sucht Milten rechtzeitig sein Heil in der Flucht. Völlig entkräftet schleppt er sich in die nächste Stadt, wo er unglücklicherweise von den Stadtwachen als Deserteur festgenommen wird.`
 - "I preferred to hide for a while and there was no better place for this than Khorinis"
 - ruled by the __Lords of Khorinis__ (__Gorn__ in Gothic I comic) or the __High Council__ (__Lester__ in Gothic I comic)
 - "Khorinis... This city was far away from the central cities of the realm, and the people here did not care about how the war was going."
+- initial idea was to put the prison colony of an island
+  - it was inspired by the movie "Escape from New York", with prison covering entire former city-island of Manhattan
+  - __Gothic Der Comic__ shows city of Khorinis surrounded by mountains and without any view on the sea
+  - finally it was on purpose left undefined, to let studio decide later
 
 # Laran
 - home of famous scholar of magic __Barthos__
