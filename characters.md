@@ -23,6 +23,7 @@
 - "free me from chains, hehe, only GRUB knows way to friend"
 - "eeeh, loud noise waked GRUB. GRUB fee now."
 - "GRUB see you are wizard, too."
+- source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
 
 # Lee
 - ex-general, "war hero", convicted for life for murder of the "king's wife"
