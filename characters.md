@@ -13,6 +13,38 @@
 - called __Raoul__ on old website
 - cynical thief
 
+# Finster characters
+- Gorn (guard of "Tolben" people)
+- Damos (guard of "Tolben" people)
+- Elmore (mage/alchemist, assistant of Gygax)
+- Fenwick
+  - a mage
+  - lives in a cave accessible by underwater tunnel leading from Cranwater moat
+- Verne
+  - sent scroll for Fenwick
+  - "old embittered old Cran"
+- Gygax
+  - most powerful druid in Tolbenland
+  - lives at royal court of Cranwater
+- Mahr - priest
+- Oruc - king, father of Lyra
+- Gargravarr - someone who cursed some people to be ghosts?
+- Lyra - (Lyre?) sick daughter of the king Oruc
+- Lydra
+  - has three flaming heads??
+- Tolbens seem to be distinctively non-human
+- Asgoths (DE: Asgothen) - some infamous nation?
+- Moorcock
+  - "a Bone"
+- Bones
+  - some race? or skeletons?
+- Crans
+  - some race in Tolbenland
+- Nalakh
+  - gardener, herb specialist
+- Galdar
+  - "a Tolben"
+
 # Gorn
 - muscular giant
 - "Where I come from, opponents are invited for a feast before they are killed…"
