@@ -22,7 +22,7 @@
   - lives in a cave accessible by underwater tunnel leading from Cranwater moat
 - Verne
   - sent scroll for Fenwick
-  - "old embittered old Cran"
+  - "embittered old Cran"
 - Gygax
   - most powerful druid in Tolbenland
   - lives at royal court of Cranwater
