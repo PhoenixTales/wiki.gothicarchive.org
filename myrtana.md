@@ -20,3 +20,8 @@
 - __House of Innos__ or arch mage himself owns __Ore Armor__ of __Ancient General__
 - __Myrtana__ wins battles thanks to "the interplay of army and magic"
 - "The city watch has its eyes on everyone who's suspicious" (__Gorn__ in Gothic I comic)
+
+## Ranks of nobility
+- king
+- lord
+- burgrave
