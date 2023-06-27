@@ -34,7 +34,7 @@
 # Nordmar
 - place with blast furnaces
 - only local masters know secret technique for smelting __Magic Ore__ without sacrificing it's magic power
-- ancient __Ore Armor__ kept by __orcs__ around __Khorinis__ was made using this technology
+- ancient __Ore Armor__ of __Ancient General__ was made using similar technology
 - earliest real-world blast furnaces are from XII century
 
 # Northern Plains
