@@ -8,6 +8,10 @@
 - 40 years before the fall of __Magic Barrier__ crusades were made against 4 Myrtanian temples of __Beliar__ and two were successfully destroyed
 - the most important artifacts of national church are in the capitol and around __Khorinis__
 
+## Temples of Innos
+- monastery of House of Innos next to city Khorinis has reliefs with face made of leaves
+  - in real world, similar reliefs are often attributed to pagan gods of nature
+
 ## Temples of Beliar
 - there are four major temples of god __Beliar__ in __Myrtana__
 - northern and western one were destroyed by crusades of __Church of Innos__
