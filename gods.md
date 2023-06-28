@@ -5,8 +5,8 @@
   - "the man of the three gods, and governor of the highest god"
 - gods are not considered omnipotent
   - "faith in divine omnipotence soon became a myth"
-- there are prophecies that apocalyptic crisis from almost 1000 years ago is going to return
-  - "constellations of stars start moving to the same positions"
+
+## Priests
 -  __Priests of Innos__ are members of __House of Innos__ 
   - some of priests of Innos are members of __Circle of Fire__ and known as __Mages of Fire__ or __Fire Mages__
  
