@@ -1,4 +1,6 @@
-# Items
+---
+title: Items
+---
 
 ## Drug
 - separate item from psi potion

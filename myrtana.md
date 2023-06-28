@@ -1,4 +1,7 @@
-# Myrtana
+---
+title: Myrtana
+---
+
 - "The kingdom of Myrtana united by King Rhobar II"
   - "the one who united of the four Mirtanian kingdoms of the sea"
   - name __the kingdom of Myrtana__ includes annexed countries like __Varant__

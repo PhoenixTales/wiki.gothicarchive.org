@@ -1,4 +1,6 @@
-# Gods
+---
+title: Gods
+---
 
 ## National religion of Myrtana
 - trinity of gods is worshipped as whole, dark god is not rejected

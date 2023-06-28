@@ -1,4 +1,7 @@
-# Orcs
+---
+title: Orcs
+---
+
 - orc army arrived from the __Northern Plains__
 - "the kingdom is at war with the northern hordes"
 - "Soon they would have reached the end of the northern plains and overrun our little outpost with ease"

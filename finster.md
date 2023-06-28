@@ -1,4 +1,6 @@
-# Finster
+---
+title: Finster
+---
 
 ## Characters
 - Gorn (guard of "Tolben" people)

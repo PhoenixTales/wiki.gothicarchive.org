@@ -1,16 +1,18 @@
+---
+title: Locations
+---
 
-
-# Archolos
+## Archolos
 - hilly area
 - famous for vineyards
 
-# Great Northern Plains
+## Great Northern Plains
 - "I was a soldier in the fortress in the large plain from the north."
 - "Soon they would have reached the end of the northern plains and overrun our little outpost with ease"
 - "Following the heavy battles in the north, every countryman now knows how to use a bow and arrows"
 - "Hoards of orcs invading the land from the North" (old official website)
 
-# Khorinis
+## Khorinis
 - a remote city, one closest to the __Royal Ore Mines__
 - deserter was able to reach it from the __Northern Plains__ without help and detection
   - even though "deserting is one of the worst crimes in the kingdom"
@@ -24,26 +26,26 @@
   - __Gothic Der Comic__ shows city of Khorinis surrounded by mountains and without any view on the sea
   - finally it was on purpose left undefined, to let studio decide later
 
-# Laran
+## Laran
 - home of famous scholar of magic __Barthos__
 
-# Morgrad
+## Morgrad
 - name of the "world"
 - "In the center lies the Morgrad, containing the four elements earth, water, fire and air."
 - similar to "Midgard" from Germanic mythology
 
-# Myrtana
+## Myrtana
 - called both "kingdom" and "empire of four united kingdoms"
 - also called __Myrthana__ (handbook) and __Mirtana__ (comic)
 - the original kingdom was on the continental lands known as __Midlands__
 
-# Nordmar
+## Nordmar
 - place with blast furnaces
 - only local masters know secret technique for smelting __Magic Ore__ without sacrificing it's magic power
 - ancient __Ore Armor__ of __Ancient General__ was made using similar technology
 - earliest real-world blast furnaces are from XII century
 
-# Royal Ore Mines
+## Royal Ore Mines
 - a prison colony in the mountains, containing deposits of iron and __Magic Ore__
   - "our king to slave-work in the iron-ore mines sentences you" (old official website)
 - "the ore mines of Khorinis", "area where the royal ore mines are. It's the Prison of Khorinis."
@@ -62,36 +64,36 @@
   - "a massive fortress, which was built into the mountain"
   - "the lord of this area lived in this mountain fort. He controlled the land and the mines."
 
-# Ruined Monastery
+## Ruined Monastery
 - between the __Royal Ore Mines__ and the __Sea of Myrtana__
 - "old ruined monastery beyond the canyon"
 - "monks used to live here"
 - "they worshipped a god who gave them the power to turn into animals"
 
-# Tymoris
+## Tymoris
 - region ruled by the __Lord of Tymoris__
 - contains or governs area called __Western Field__ ruled by __Burgrave Bergmar__ and containing __Royal Ore Mines__
 
-# Sea
+## Sea
 - in the east from valley of the __Royal Ore Mines__
 - probably the __Sea of Myrtana__ / __Mirtanian Sea__
 - "Go beyond the forest until you can see the sea"
 - "the old ruined monastery by the sea"
 
-# Sendar
+## Sendar
 - home city of __Milten Plescott__
 
-# Stone Circle Of The Damend
+## Stone Circle Of The Damend
 - stone circle in __Mine Valley of Khorinis__
 - has power to create undead and resurrect (in multiplayer)
 
-# Swamp of Lost Souls
+## Swamp of Lost Souls
 - "If you want to hear the dead speak, you should visit the Swamp of Lost Souls."
 - "The Swamp of Lost Souls is a place full of danger."
 - "No one returns from the Swamp of Lost Souls with a clear mind."
 - "Swamp of Lost Souls is a dark place"
 
-# Varant
+## Varant
 - land neighbouring the __Midlands__, conquered by __Rhobar II__
 - "king Rhobar II, bearer of the Scepter of Varant"
 - "Varant had lost its seaports"

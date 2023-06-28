@@ -1,4 +1,6 @@
-# History
+---
+title: History
+---
 
 ## Common knowledge
 - __kingdom of Myrtana__ "united" (conquered/annexed?) __Nordmar__, __Varant__ and 4th land
