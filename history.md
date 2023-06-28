@@ -10,6 +10,8 @@
 - ancient Khorinis orcs first won battle against humans and __Ancient General__, but then their society mysteriously collapsed
 - in early days of human race, humans coexisted with dwarves and probably orcs
 - dwarves seem to have disappeared very early
+- there are prophecies that apocalyptic crisis from almost 1000 years ago is going to return
+  - "constellations of stars start moving to the same positions"
 
 ## War with orcs
 - war with orcs started during first year of reign of __Rhobar II__, after death of __Rhobar I__
