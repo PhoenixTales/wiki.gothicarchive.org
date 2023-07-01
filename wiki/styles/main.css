@@ -93,11 +93,14 @@ a:hover {
     top: 0;
   }
   article {
-    margin-left: 0 !important;
+    margin-left: 18px !important;
     padding: 2em 6vw !important;
     padding: 2em calc(30vw - 202px) !important;
     margin-right: 10px;
     margin-top: 44px;
+  }
+  h2::before {
+    opacity: 0 !important;
   }
 }
 
@@ -155,18 +158,19 @@ article li::before {
 }
 
 h2 {
-  margin-top: 4em;
+  margin-top: 3em;
   font-size: 1em;
 }
 
 h1 {
   font-size: 1.6em;
   color: #ffe5b4;
-  margin-left: 32px;
+  margin-left: 0;
 }
 
 article {
   padding: 2em 2em;
+  padding-left: 3em;
 }
 
 .menu a.logo {
@@ -250,7 +254,7 @@ article li:hover::before {
 }
 
 article h2 {
-  margin-left: 24px;
+  margin-left: 0px;
 }
 
 .menu > * {
@@ -284,10 +288,11 @@ article h2 {
   border-image-slice: 17 12;
   border-image-width: 22px 20px;
   border-image-repeat: stretch;
-  background: #0000005e;
+  /* background: #0000005e; */
+  background-image: url("../images/glass-bg.png");
   border-image-outset: 9px 6px;
   margin: 4px 4px;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(6px);
   /* border-bottom-width: 10px; */
   box-sizing: border-box;
   max-height: calc(100vh - 15px);
@@ -296,15 +301,18 @@ article h2 {
   position: fixed;
   box-shadow: 24px 0 24px black, 0 24px 24px black;
   overflow: visible;
+  margin-top: 9px;
 }
 
 article {
   margin-left: 205px;
+  max-width: 80ch;
 }
 
 article > ul {
   margin-left: 0;
-  padding-left: 30px;
+  padding-left: 2px;
+  margin-top: 0px;
 }
 
 #menu-toggle:not(:checked) ~ label[for="menu-toggle"] {
@@ -325,4 +333,8 @@ article > ul {
   width: 100vw;
   left: -16px;
   cursor: default;
+}
+
+#menu-toggle:checked ~ label[for="menu-toggle"]:hover {
+  color: var(--text-accent-color) !important;
 }
