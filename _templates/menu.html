@@ -5,8 +5,8 @@
 <ul>
   {%
     assign categoryUrlLength = categoryPage.url | size %}{%
-    for listPage in site.pages %}{%
-      %}  <li><a href="{{ listPage.url }}">{{ listPage.title }}</a></li>		
+    for listPage in site.pages %}
+      <li><a href="{{ listPage.url }}">{{ listPage.title }}</a></li>		
 {%
     endfor %}
 </ul>

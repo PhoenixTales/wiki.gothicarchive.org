@@ -1,2 +1,3 @@
 #!/bin/sh
+set -x
 bundle exec jekyll serve  --port 4056
