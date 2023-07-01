@@ -311,3 +311,18 @@ article > ul {
   padding-bottom: 0;
   margin-bottom: -4px;
 }
+
+#menu-toggle:checked ~ label[for="menu-toggle"]::before {
+  content: '';
+  width: calc(100vw - 205px);
+  height: 100vh;
+  display: block;
+  position: fixed;
+  top: -21px;
+  left: 205px;
+  background: transparent;
+  z-index: -10;
+  width: 100vw;
+  left: -16px;
+  cursor: default;
+}
