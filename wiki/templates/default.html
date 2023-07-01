@@ -1,0 +1,29 @@
+{% include abs-link-base.html %}
+{% include link-base.html %}
+{% include abs-media-link-base.html %}
+{% include media-link-base.html %}
+<!doctype html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link href="{{ absLinkBase }}/wiki/styles/main.css" rel="stylesheet" />
+<title>{{page.title}} | {{site.title}}</title>
+<link rel="icon" type="image/x-icon" href="{{ absLinkBase }}/favicon.ico" />
+
+<aside class="menu">
+  <input type="checkbox" id="menu-toggle">
+  <label for="menu-toggle">
+    <span class="menu-icon">&#8801;</span>
+    Menu
+  </label>
+  <header>
+    <a href="{{ absLinkBase }}/" class="logo">WIKI</a>
+  </header>
+  {% include menu.html %}
+</aside>
+<article>
+  <h1>{{ page.title }}</h1>
+	{% assign mediaLinkBasePlaceholder = '{{ mediaLinkBase }}' %}
+	{% assign absMediaLinkBasePlaceholder = '{{ absMediaLinkBase }}' %}
+	{% assign absLinkBasePlaceholder = '{{ absLinkBase }}' %}
+    {{ page.content | markdownify | replace: mediaLinkBasePlaceholder, mediaLinkBase | replace: absMediaLinkBasePlaceholder, absMediaLinkBase | replace: absLinkBasePlaceholder, absLinkBase }}
+</article>

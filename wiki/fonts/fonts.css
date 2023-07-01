@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "BlackChancery";
+  src: url("black-chancery.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Flat Brush";
+  src: url("flat-brush.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Gothic_alpha_font";
+  src: url("gothic-alpha-font.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Gothic im Spiel";
+  src: url("gothic-im-spiel.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "IBM VGA 8x16";
+  src: url("ibm-vga-8x16.ttf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+  font-size: 16px;
+}
+
+@font-face {
+  font-family: "TeXGyreChorus";
+  src: url("tex-gyre-chorus.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Viking";
+  src: url("viking.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}

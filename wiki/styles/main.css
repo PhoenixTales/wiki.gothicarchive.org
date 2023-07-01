@@ -1,0 +1,313 @@
+@import url("../fonts/fonts.css");
+
+body {
+  background: black;
+  /* background: gray; */
+  font-size: 30px;
+  font-family: "Gothic im Spiel";
+  color: var(--text-body-color);
+  margin: 0;
+--text-accent-color: #c0a470;
+--text-body-color: #baaf9a;
+}
+
+
+code {
+  font-size: 0.6em;
+  font-family: "Flat Brush";
+  font-style: italic;
+  color: var(--text-accent-color);
+  display: inline;
+}
+
+strong {
+  font-weight: normal;
+  /* background-color: currentColor; */
+  /* color: black; */
+  display: inline-block;
+  /* background-color: red; */
+  background-color: black;
+  /* filter: invert(100%); */
+}
+
+h1, h2, h3, h4 {
+  font-family: "Gothic_alpha_font";
+  font-weight: 100 !important;
+  color: var(--text-accent-color);
+}
+
+code::before, code::after {
+  content: '"';
+}
+
+*::selection {
+  background: #550000fa;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  /* color: white; */
+}
+
+a:hover {
+  color: white;
+}
+
+
+
+.menu header {
+  background-image: url("../images/header.png");
+  display: block;
+  height: 307px;
+  width: 262px;
+  margin: 0 0;
+  /* position: relative; */
+  /* left: -45px; */
+  /* background-position-x: -37px; */
+  /* background-size: 580px auto; */
+  margin-left: -53px;
+  margin-top: -19px;
+}
+
+.menu header:hover {
+  background-position-x: 326px;
+}
+
+#menu-toggle, label[for="menu-toggle"] {
+  display: none;
+}
+
+@media only screen and (max-width: 820px) {
+  #menu-toggle:not(:checked) ~ *:not(label[for="menu-toggle"]) {
+      display: none;
+  }
+
+  label[for="menu-toggle"] {
+    display: block;
+  }
+
+  .menu {
+    margin-right: -250px;
+    position: fixed;
+    top: 0;
+  }
+  article {
+    margin-left: 0 !important;
+    padding: 2em 6vw !important;
+    padding: 2em calc(30vw - 202px) !important;
+    margin-right: 10px;
+    margin-top: 44px;
+  }
+}
+
+label[for="menu-toggle"] {
+  white-space: nowrap;
+  margin-top: -12px;
+  cursor: pointer;
+  color: var(--text-accent-color);
+  padding-bottom: 17px;
+  /* width: 205px; */
+  /* display: none; */
+  text-align: center;
+  position: relative;
+}
+
+label[for="menu-toggle"]:hover {
+  color: white;
+}
+
+*, *::before, *::after {
+  user-select: none;
+  box-sizing: border-box;
+  image-rendering: pixelated;
+}
+
+article, article * {
+  user-select: text;
+}
+
+.menu li {
+  list-style-type: decimal;
+  text-shadow: 2px 4px black, 4px 2px black, -2px -2px black;
+}
+
+article li {
+  list-style-type: none;
+}
+
+article li::before {
+  content: '-';
+  position: relative;
+  top: -5px;
+  width: 18px;
+  display: inline-block;
+  left: -20px;
+  margin-right: -20px;
+}
+
+.menu li::marker, .menu a {
+  color: var(--text-accent-color);
+}
+
+.menu li:hover::marker, .menu li:hover a {
+  color: white;
+}
+
+h2 {
+  margin-top: 4em;
+  font-size: 1em;
+}
+
+h1 {
+  font-size: 1.6em;
+  color: #ffe5b4;
+  margin-left: 32px;
+}
+
+article {
+  padding: 2em 2em;
+}
+
+.menu a.logo {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 294px 0 0 121px;
+  font-family: sans-serif;
+  color: #968d80;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+}
+
+.logo:hover {
+  color: #968d80;
+}
+
+
+h2:first-of-type {
+  margin-top: 1em;
+}
+
+
+body {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu {
+  width: 205px;
+  flex-shrink: 0;
+  z-index: 1;
+  max-height: 100vh;
+}
+
+h2::before {
+  content: '# ';
+  position: relative;
+  bottom: -5px;
+  opacity: 0;
+  cursor: text;
+  width: 35px;
+  display: inline-block;
+  left: -35px;
+  margin-right: -35px;
+}
+
+h2:hover::before {
+  opacity: 0.3;
+}
+
+article li:hover {
+  color: #ffe5b4;
+}
+
+article li:hover::before {
+  color: white;
+  content: '+';
+  top: -2px;
+}
+
+.menu-icon {
+  font-family: sans-serif;
+  position: relative;
+  bottom: -4px;
+  padding: 0 11px;
+  position: absolute;
+  left: 0;
+  top: 3px;
+}
+
+.menu > * {
+  /* background: #000000b8; */
+  /* backdrop-filter: blur(10px); */
+}
+
+.menu > ul {
+  margin: 0;
+  padding: 0 0 16px 38px;
+}
+
+article h2 {
+  margin-left: 35px;
+}
+
+.menu > * {
+  pointer-events: all;
+}
+.menu {
+  pointer-events: none;
+}
+
+.menu::before {
+  /* content: ''; */
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  border-image-source: url(../images/stone-frame.png);
+  border-width: 17px 12px;
+  border-style: solid;
+  border-image-slice: 17 12;
+  border-image-width: 17px 12px;
+  border-image-repeat: stretch;
+  background: #00000087;
+  z-index: -1;
+  opacity: 0;
+}
+
+.menu {
+  border-image-source: url("../images/stone-frame.png");
+  border-width: 17px 12px;
+  border-style: solid;
+  border-image-slice: 17 12;
+  border-image-width: 22px 20px;
+  border-image-repeat: stretch;
+  background: #0000005e;
+  border-image-outset: 9px 6px;
+  margin: 4px 4px;
+  backdrop-filter: blur(10px);
+  /* border-bottom-width: 10px; */
+  box-sizing: border-box;
+  max-height: calc(100vh - 15px);
+  display: block;
+  height: auto;
+  position: fixed;
+  box-shadow: 24px 0 24px black, 0 24px 24px black;
+  overflow: visible;
+}
+
+article {
+  margin-left: 205px;
+}
+
+article > ul {
+  margin-left: 0;
+  padding-left: 30px;
+}
+
+#menu-toggle:not(:checked) ~ label[for="menu-toggle"] {
+  padding-bottom: 0;
+  margin-bottom: -4px;
+}

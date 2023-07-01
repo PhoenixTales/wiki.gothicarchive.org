@@ -1,5 +1,5 @@
 #!/bin/sh
 set -x
 gem install bundler
-bundle config set path 'vendor/bundle'
+bundle config set path 'wiki/jekyll'
 bundle install

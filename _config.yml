@@ -2,8 +2,8 @@ title: Gothic Archive Wiki
 description: Gothic Archive | Wiki
 author: PhoenixTales
 theme: null
-layouts_dir: ./_templates
-includes_dir: ./_templates
+layouts_dir: ./wiki/templates
+includes_dir: ./wiki/templates
 paginate: 4
 paginate_path: "/:num"
 permalink: /:year/:month/:day/:title
