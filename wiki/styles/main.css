@@ -172,8 +172,9 @@ article, article * {
 }
 
 .menu li {
-  list-style-type: decimal;
+  list-style-type: none;
   text-shadow: 2px 4px black, 4px 2px black, -2px -2px black;
+  counter-increment: menu-items;
 }
 
 article li {
@@ -190,11 +191,11 @@ article li::before {
   margin-right: -20px;
 }
 
-.menu li::marker, .menu a {
+.menu li, .menu a {
   color: #c0a470;
 }
 
-.menu li:hover::marker, .menu li:hover a {
+.menu li:hover, .menu li:hover a {
   color: white;
 }
 
@@ -291,7 +292,8 @@ article li:hover::before {
 
 .menu > ul {
   margin: 0;
-  padding: 0 0 16px 38px;
+  padding: 0 0 16px;
+  padding-top: 11px;
 }
 
 article h2 {
@@ -340,9 +342,9 @@ article h2 {
   /* overflow-x: hidden; */
   width: calc(var(--menu-width) + var(--scrollbar-width)) !important;
   padding: 20px 15px;
---menu-width: 219px;
-    --menu-height: 715px;
-    --scrollbar-width: 10px;
+  --menu-width: 219px;
+  --menu-height: 715px;
+  --scrollbar-width: 5px;
 }
 
 .menu {
@@ -355,8 +357,8 @@ article h2 {
 }
 
 .menu::-webkit-scrollbar-thumb {
-  color: var(--text-accent-color);
-  background-color: #b50000;
+  color: #ffcf71;
+  background-color: #ffcf71;
   width: 12px;
   height: 12px;
 }
@@ -471,4 +473,56 @@ aside.menu {}
 head, .menu:active > .frame {
     box-shadow: 0 0 30px #c0a470 inset, 0 -30px 30px -30px transparent inset;
     transition: box-shadow 1s;
+}
+
+h1 > a,
+h2 > a,
+h3 > a,
+h4 > a {
+  color: inherit;
+}
+
+h1 > a:hover,
+h2 > a:hover,
+h3 > a:hover,
+h4 > a:hover {
+  color: inherit;
+}
+.menu a.active {
+  color: white;
+}
+.menu ul a::before {
+    content: counter(menu-items) ".";
+    position: relative;
+    /* left: -14px; */
+    text-align: center;
+    width: 40px;
+    display: inline-block;
+    /* padding-right: 9px; */
+    padding-left: 12px;
+}
+
+.menu > ul {
+    counter-set: menu-items -1;
+}
+
+.menu a {
+    display: inline-block;
+    width: 100%;
+}
+
+a.return-up {
+  counter-increment: menu-items -1;
+}
+
+a.return-up::before {
+  content: '';
+}
+
+.menu ul a.return-up::before {
+  content: '▲';
+  font-family: sans-serif;
+  font-size: 14px;
+  position: relative;
+  top: -1px;
 }

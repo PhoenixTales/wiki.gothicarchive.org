@@ -2,11 +2,51 @@
 {% include link-base.html %}
 {% include abs-media-link-base.html %}
 {% include media-link-base.html %}
+
+<!-- 
+  TODO: list current page as item 0 if it is a category page with children. then below go child pages.
+  if current page is a leaf page or category page without children, then list it among sibling pages and categories
+ -->
+
 <ul>
-  {%
-    assign categoryUrlLength = categoryPage.url | size %}{%
-    for listPage in site.pages %}
-      <li><a href="{{ listPage.url }}">{{ listPage.title }}</a></li>		
-{%
-    endfor %}
+  {% assign has_children = false %}
+  {% for item in site.pages %}
+    {% if item.dir == page.dir and page.name == 'index.md' %}
+      {% assign has_children = true %}
+    {% endif %}
+  {% endfor %}
+
+  <!-- list return to parent directory if any -->
+  {% assign page_crumbs = page.url | split: '/' %}
+  {%- if page_crumbs.size > 2 or page_crumbs.size == 2 and page.name == 'index.md' -%}
+    <li><a class="return-up" href="..">(go back)</a></li>
+  {%- endif -%}
+
+  <!-- list just the directory index first, as item 0 -->
+  {% if has_children == true %}
+    <!-- we are in a directory index -->
+    <li><a class="active" href=".">{{ page.title }}</a></li>
+  {% else %}
+    {% for item in site.pages %}
+      {% if item.url == page.dir %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  <!-- list child or sibling pages -->
+  {% for item in site.pages %}
+    {% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
+    {% if has_children == false %}
+      <!-- without children, list all sibling pages and directories -->
+      {% if item.url != page.dir and item.dir == page.dir or item_crumbs.size == 1 and item.name == 'index.md' %}
+        <li><a {% if item.path == page.path %} class="active" {% endif %} href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% else %}
+      <!-- with children, list these children, and subdirectories -->
+      {% if item.path != page.path and item.dir == page.url or item_crumbs.size == 1 and item.name == 'index.md' %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 </ul>
