@@ -344,7 +344,7 @@ article h2 {
   padding: 20px 15px;
   --menu-width: 219px;
   --menu-height: 715px;
-  --scrollbar-width: 5px;
+  --scrollbar-width: 7px;
 }
 
 .menu {
@@ -358,7 +358,7 @@ article h2 {
 
 .menu::-webkit-scrollbar-thumb {
   color: #ffcf71;
-  background-color: #ffcf71;
+  background-color: #ff0000;
   width: 12px;
   height: 12px;
 }
