@@ -1,4 +1,6 @@
-# Style
+---
+title: Style
+---
 - "gothic medieval fantasy style"
 
 ## Gothic vs Fantasy
