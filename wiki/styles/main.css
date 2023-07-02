@@ -62,12 +62,13 @@ a:hover {
   height: 307px;
   width: 262px;
   margin: 0 0;
-  /* position: relative; */
+  position: relative;
   /* left: -45px; */
+  background-position-y: -4px;
   /* background-position-x: -37px; */
   /* background-size: 580px auto; */
-  margin-left: -43px;
-  margin-top: -19px;
+  margin-left: -50px;
+  margin-top: -8px;
   z-index: 12;
   /* position: absolute; */
 }
@@ -78,6 +79,20 @@ a:hover {
 
 #menu-toggle, label[for="menu-toggle"] {
   display: none;
+}
+
+@media (max-height: 715px), (max-width: 820px) and (max-height: 770px) {
+  .menu {
+      padding-bottom: 44px !important;
+      overflow-y: scroll !important;
+  }
+
+  .menu > .background {
+    width: calc(var(--menu-width) + var(--scrollbar-width)) !important;
+  }
+  .menu > .frame {
+    box-shadow: 0 0 30px 0 black inset, 0 -100px 50px -50px #000000d9 inset !important;
+  }
 }
 
 @media only screen and (max-width: 820px) {
@@ -93,6 +108,30 @@ a:hover {
     margin-right: -250px;
     position: fixed;
     top: 0;
+    --menu-height: 753px !important;
+  }
+
+  .menu, .menu > .background, .menu > .frame {
+      top: 10px !important;
+      left: 10px !important;
+      max-height: calc(100vh - 20px) !important;
+  }
+
+  #menu-toggle:not(:checked) ~ .background, #menu-toggle:not(:checked) ~ .frame {
+    display: block !important;
+    --menu-height: 81px;
+  }
+
+  #menu-toggle:not(:checked) ~ .frame {
+    box-shadow: 0 0 30px 0 black inset, 0 -100px 50px -50px #00000000 inset !important;
+  }
+  
+  #menu-toggle:checked ~ .background {
+    box-shadow: 0 0 0 100vmax rgb(0 0 0 / 50%);
+  }
+  
+  .menu > #menu-toggle:not(:checked) ~ .background {
+    width: var(--menu-width) !important;
   }
   article {
     margin-left: 18px !important;
@@ -265,59 +304,49 @@ article h2 {
 .menu {
   pointer-events: none;
 }
-
-.menu::before {
-  /* content: ''; */
-  display: block;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  border-image-source: url(../images/stone-frame.png);
-  border-width: 17px 12px;
-  border-style: solid;
-  border-image-slice: 17 12;
-  border-image-width: 17px 12px;
-  border-image-repeat: stretch;
-  background: #00000087;
-  z-index: -1;
-  opacity: 0;
-}
-
 .menu {
-  border-image-source: url("../images/stone-frame.png");
-  border-width: 10px 0px 10px 8px;
-  border-style: solid;
-  border-image-slice: 17 12;
-  border-image-width: 22px 20px;
-  border-image-repeat: stretch;
+  /* border-image-source: url("../images/stone-frame.png"); */
+  /* border-width: 10px 0px 10px 8px; */
+  /* border-style: solid; */
+  /* border-image-slice: 17 12; */
+  /* border-image-width: 22px 20px; */
+  /* border-image-repeat: stretch; */
   /* background: #0000005e; */
-  background-image: url("../images/glass-bg.png");
-  border-image-outset: 9px 0px 9px 6px;
-  margin: 4px 4px;
-  padding-bottom: 7px;
-  backdrop-filter: blur(6px);
+  /* background-image: url("../images/glass-bg.png"); */
+  /* border-image-outset: 9px 0px 9px 6px; */
+  /* margin: 4px 4px; */
+  /* padding-bottom: 7px; */
+  /* backdrop-filter: blur(6px); */
   /* border-bottom-width: 10px; */
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   /* max-height: calc(100vh - 15px); */
-  display: block;
+  /* display: block; */
   /* height: auto; */
-  position: fixed;
-  box-shadow: 24px 0 24px black, 0 24px 24px black;
-  overflow: visible;
-  margin-top: 9px;
-  overflow-y: auto;
-  overflow-x: clip;
-  display: flex;
-  max-height: calc(100vh - 19px) !important;
-  flex-direction: column;
-  flex-basis: auto;
-  flex: 1 1 auto;
-  flex-shrink: 1;
-  margin-left: 7px;
+  /* position: fixed; */
+  /* box-shadow: 24px 0 24px black, 0 24px 24px black; */
+  /* overflow: visible; */
+  /* margin-top: 9px; */
+  /* overflow-y: auto; */
+  /* overflow-x: hidden; */
+  /* display: flex; */
+  /* max-height: calc(100vh - 19px) !important; */
+  /* flex-direction: column; */
+  /* flex-basis: auto; */
+  /* flex: 1 1 auto; */
+  /* flex-shrink: 1; */
+  /* margin-left: 7px; */
+  /* overflow-y: auto !important; */
+  /* overflow-x: visible !important; */
+  /* overflow-x: hidden; */
+  width: calc(var(--menu-width) + var(--scrollbar-width)) !important;
+  padding: 20px 15px;
+--menu-width: 219px;
+    --menu-height: 715px;
+    --scrollbar-width: 10px;
 }
 
 .menu {
-  scrollbar-color: #5f0000 black;
+  scrollbar-width: thin;
 }
 
 .menu::-webkit-scrollbar {
@@ -327,7 +356,7 @@ article h2 {
 
 .menu::-webkit-scrollbar-thumb {
   color: var(--text-accent-color);
-  background-color: #1c0000b3;
+  background-color: #b50000;
   width: 12px;
   height: 12px;
 }
@@ -380,4 +409,66 @@ article > ul {
 
 .menu > *:last-child {
   margin-bottom: -6px;
+}
+
+.menu > .background {
+    /* content: ''; */
+    /* display: block; */
+    /* position: absolute; */
+    /* width: calc(100% - 12px); */
+    /* height: 100%; */
+    z-index: -10;
+    /* top: 0; */
+    pointer-events: none;
+    /* left: 0; */
+    backdrop-filter: blur(8px);
+    background-image: url("../images/glass-bg.png");
+    box-shadow: 24px 0 24px rgb(0 0 0 / 95%), 0 24px 24px #0000001f;
+}
+
+aside.menu {}
+
+.menu > .frame {
+    content: '';
+    /* display: block; */
+    /* position: absolute; */
+    /* width: 100%; */
+    /* height: 100%; */
+    /* z-index: 8; */
+    /* top: 0; */
+    /* left: 0; */
+    border-image-source: url("../images/stone-frame.png");
+    border-width: 17px 12px 17px 12px;
+    border-style: solid;
+    border-image-slice: 17 12;
+    border-image-width: 22px 20px;
+    /* border-image-repeat: stretch; */
+    /* background: #0000005e; */
+    /* background-image: url(../images/glass-bg.png); */
+    /* border-image-outset: 9px 0px 9px 6px; */
+    /* width: calc(var(--menu-width) + var(--scrollbar-width)); */
+    pointer-events: none;
+    box-shadow: 0 0 30px 0 black inset, 0 0 30px -30px black inset;
+    /* box-shadow: 0 0 30px red, 0 0 30px blue inset; */
+    border-bottom-width: 4px;
+    border-top-width: 4px;
+    transition: box-shadow 0.5s;
+}
+
+.menu, .menu > .background, .menu > .frame {
+  /* --menu-width: 219px; */
+  /* --menu-height: 700px; */
+  /* --scrollbar-width: 12px; */
+  width: var(--menu-width);
+  height: var(--menu-height);
+  max-height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+head, .menu:active > .frame {
+    box-shadow: 0 0 30px #c0a470 inset, 0 -30px 30px -30px transparent inset;
+    transition: box-shadow 1s;
 }
