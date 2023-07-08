@@ -6,22 +6,23 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link href="{{ absLinkBase }}/wiki/styles/main.css" rel="stylesheet" />
+<link href="{{ absLinkBase }}/wiki/styles/menu-media-query.css" rel="stylesheet" class="menu-media-query"/>
 <title>{{page.title}} | {{site.title}}</title>
 <link rel="icon" type="image/x-icon" href="{{ absLinkBase }}/favicon.ico" />
 <script src="{{ absLinkBase }}/wiki/scripts/turbolinks.js"></script>
 
-<aside class="menu">
-  <input type="checkbox" id="menu-toggle" data-turbolinks-permanent>
-  <div class="background"></div>
-  <label for="menu-toggle">
+<input type="checkbox" id="menu-toggle" data-turbolinks-permanent> 
+<aside class="menu" style="--menu-height: 740px">
+  <div class="background" data-turbolinks-permanent></div>
+  <label for="menu-toggle" data-turbolinks-permanent>
     <span class="menu-icon">&#8801;</span>
     Menu
   </label>
-  <header>
+  <header data-turbolinks-permanent>
     <a href="{{ absLinkBase }}/" class="logo">WIKI</a>
   </header>
   {% include menu.html %}
-  <div class="frame"></div>
+  <div class="frame" data-turbolinks-permanent></div>
 </aside>
 <article>
   <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
@@ -30,3 +31,5 @@
 	{% assign absLinkBasePlaceholder = '{{ absLinkBase }}' %}
     {{ page.content | markdownify | replace: mediaLinkBasePlaceholder, mediaLinkBase | replace: absMediaLinkBasePlaceholder, absMediaLinkBase | replace: absLinkBasePlaceholder, absLinkBase }}
 </article>
+
+<script data-turbolinks-eval="false" src="{{ absLinkBase }}/wiki/scripts/boot.js"></script>

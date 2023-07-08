@@ -1,0 +1,20 @@
+@media (max-height: 715px), (max-width: 820px) and (max-height: 790px) {
+  .menu {
+      /* outline: solid 1px blue; */
+      padding-bottom: 44px !important;
+      overflow-y: scroll;
+  }
+
+  .menu > .background {
+    width: calc(var(--menu-width) + var(--scrollbar-width)) !important;
+  }
+  .menu > .frame {
+    box-shadow: 0 0 30px 0 black inset, 0 -100px 50px -50px #000000d9 inset !important;
+  }
+}
+
+@media (max-width: 820px) {
+  #menu-toggle:not(:checked) ~ .menu {
+    overflow-y: hidden !important;
+  }
+}

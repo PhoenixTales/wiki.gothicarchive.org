@@ -9,8 +9,18 @@ body {
   margin: 0;
 --text-accent-color: #c0a470;
 --text-body-color: #baaf9a;
+  min-width: 320px;
 }
 
+:root {
+  overflow-x: hidden;
+}
+
+@media (max-width: 320px) {
+  :root {
+    overflow-x: auto;
+  }
+}
 
 code {
   font-size: 0.6em;
@@ -81,23 +91,15 @@ a:hover {
   display: none;
 }
 
-@media (max-height: 715px), (max-width: 820px) and (max-height: 770px) {
-  .menu {
-      padding-bottom: 44px !important;
-      overflow-y: scroll !important;
-  }
-
-  .menu > .background {
-    width: calc(var(--menu-width) + var(--scrollbar-width)) !important;
-  }
-  .menu > .frame {
-    box-shadow: 0 0 30px 0 black inset, 0 -100px 50px -50px #000000d9 inset !important;
-  }
-}
-
 @media only screen and (max-width: 820px) {
-  #menu-toggle:not(:checked) ~ *:not(label[for="menu-toggle"]) {
+  #menu-toggle:not(:checked) ~ .menu > *:not(label[for="menu-toggle"]):not(.background):not(.frame) {
       display: none;
+  }
+
+  #menu-toggle:not(:checked) ~ .menu,
+  #menu-toggle:not(:checked) ~ .menu .background,
+  #menu-toggle:not(:checked) ~ .menu .frame {
+    height: 83px !important;
   }
 
   label[for="menu-toggle"] {
@@ -108,7 +110,12 @@ a:hover {
     margin-right: -250px;
     position: fixed;
     top: 0;
-    --menu-height: 753px !important;
+  }
+
+  #menu-toggle:checked ~ .menu,
+  #menu-toggle:checked ~ .menu .background, 
+  #menu-toggle:checked ~ .menu .frame {
+    height: calc(var(--menu-height) + 50px) !important;
   }
 
   .menu, .menu > .background, .menu > .frame {
@@ -117,26 +124,22 @@ a:hover {
       max-height: calc(100vh - 20px) !important;
   }
 
-  #menu-toggle:not(:checked) ~ .background, #menu-toggle:not(:checked) ~ .frame {
-    display: block !important;
-    --menu-height: 81px;
-  }
-
-  #menu-toggle:not(:checked) ~ .frame {
+  #menu-toggle:not(:checked) ~ .menu .frame {
     box-shadow: 0 0 30px 0 black inset, 0 -100px 50px -50px #00000000 inset !important;
   }
   
-  #menu-toggle:checked ~ .background {
+  #menu-toggle:checked ~ .menu .background {
     box-shadow: 0 0 0 100vmax rgb(0 0 0 / 50%);
   }
   
-  .menu > #menu-toggle:not(:checked) ~ .background {
+  .menu > #menu-toggle:not(:checked) ~ .menu .background {
     width: var(--menu-width) !important;
   }
   article {
     margin-left: 18px !important;
-    padding: 2em 6vw !important;
+    /* padding: 2em 6vw !important; */
     padding: 2em calc(30vw - 202px) !important;
+    padding-right: 35px !important;
     margin-right: 10px;
     margin-top: 44px;
   }
@@ -155,6 +158,7 @@ label[for="menu-toggle"] {
   /* display: none; */
   text-align: center;
   position: relative;
+  width: calc(var(--menu-width) - 30px);
 }
 
 label[for="menu-toggle"]:hover {
@@ -165,6 +169,7 @@ label[for="menu-toggle"]:hover {
   user-select: none;
   box-sizing: border-box;
   image-rendering: pixelated;
+  -webkit-user-drag: none;
 }
 
 article, article * {
@@ -200,7 +205,8 @@ article li::before {
 }
 
 h2 {
-  margin-top: 3em;
+  padding-top: 4em;
+  margin-top: -1em;
   font-size: 1em;
 }
 
@@ -285,61 +291,17 @@ article li:hover::before {
   top: 3px;
 }
 
-.menu > * {
-  /* background: #000000b8; */
-  /* backdrop-filter: blur(10px); */
-}
-
 .menu > ul {
   margin: 0;
   padding: 0 0 16px;
-  padding-top: 11px;
+  padding-top: 24px;
 }
 
 article h2 {
   margin-left: 0px;
 }
 
-.menu > * {
-  pointer-events: all;
-}
 .menu {
-  pointer-events: none;
-}
-.menu {
-  /* border-image-source: url("../images/stone-frame.png"); */
-  /* border-width: 10px 0px 10px 8px; */
-  /* border-style: solid; */
-  /* border-image-slice: 17 12; */
-  /* border-image-width: 22px 20px; */
-  /* border-image-repeat: stretch; */
-  /* background: #0000005e; */
-  /* background-image: url("../images/glass-bg.png"); */
-  /* border-image-outset: 9px 0px 9px 6px; */
-  /* margin: 4px 4px; */
-  /* padding-bottom: 7px; */
-  /* backdrop-filter: blur(6px); */
-  /* border-bottom-width: 10px; */
-  /* box-sizing: border-box; */
-  /* max-height: calc(100vh - 15px); */
-  /* display: block; */
-  /* height: auto; */
-  /* position: fixed; */
-  /* box-shadow: 24px 0 24px black, 0 24px 24px black; */
-  /* overflow: visible; */
-  /* margin-top: 9px; */
-  /* overflow-y: auto; */
-  /* overflow-x: hidden; */
-  /* display: flex; */
-  /* max-height: calc(100vh - 19px) !important; */
-  /* flex-direction: column; */
-  /* flex-basis: auto; */
-  /* flex: 1 1 auto; */
-  /* flex-shrink: 1; */
-  /* margin-left: 7px; */
-  /* overflow-y: auto !important; */
-  /* overflow-x: visible !important; */
-  /* overflow-x: hidden; */
   width: calc(var(--menu-width) + var(--scrollbar-width)) !important;
   padding: 20px 15px;
   --menu-width: 219px;
@@ -377,6 +339,7 @@ article h2 {
 article {
   margin-left: 205px;
   max-width: 80ch;
+  min-width: 320px;
 }
 
 article > ul {
@@ -385,12 +348,12 @@ article > ul {
   margin-top: 0px;
 }
 
-#menu-toggle:not(:checked) ~ label[for="menu-toggle"] {
+#menu-toggle:not(:checked) ~ .menu label[for="menu-toggle"] {
   padding-bottom: 0;
   margin-bottom: 2px;
 }
 
-#menu-toggle:checked ~ label[for="menu-toggle"]::before {
+#menu-toggle:checked ~ .menu label[for="menu-toggle"]::before {
   content: '';
   width: calc(100vw - 205px);
   height: 100vh;
@@ -405,7 +368,7 @@ article > ul {
   cursor: default;
 }
 
-#menu-toggle:checked ~ label[for="menu-toggle"]:hover {
+#menu-toggle:checked ~ .menu label[for="menu-toggle"]:hover {
   color: var(--text-accent-color) !important;
 }
 
@@ -414,53 +377,29 @@ article > ul {
 }
 
 .menu > .background {
-    /* content: ''; */
-    /* display: block; */
-    /* position: absolute; */
-    /* width: calc(100% - 12px); */
-    /* height: 100%; */
     z-index: -10;
-    /* top: 0; */
     pointer-events: none;
-    /* left: 0; */
     backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
     background-image: url("../images/glass-bg.png");
     box-shadow: 24px 0 24px rgb(0 0 0 / 95%), 0 24px 24px #0000001f;
 }
 
-aside.menu {}
-
 .menu > .frame {
     content: '';
-    /* display: block; */
-    /* position: absolute; */
-    /* width: 100%; */
-    /* height: 100%; */
-    /* z-index: 8; */
-    /* top: 0; */
-    /* left: 0; */
     border-image-source: url("../images/stone-frame.png");
     border-width: 17px 12px 17px 12px;
     border-style: solid;
     border-image-slice: 17 12;
     border-image-width: 22px 20px;
-    /* border-image-repeat: stretch; */
-    /* background: #0000005e; */
-    /* background-image: url(../images/glass-bg.png); */
-    /* border-image-outset: 9px 0px 9px 6px; */
-    /* width: calc(var(--menu-width) + var(--scrollbar-width)); */
     pointer-events: none;
     box-shadow: 0 0 30px 0 black inset, 0 0 30px -30px black inset;
-    /* box-shadow: 0 0 30px red, 0 0 30px blue inset; */
     border-bottom-width: 4px;
     border-top-width: 4px;
     transition: box-shadow 0.5s;
 }
 
 .menu, .menu > .background, .menu > .frame {
-  /* --menu-width: 219px; */
-  /* --menu-height: 700px; */
-  /* --scrollbar-width: 12px; */
   width: var(--menu-width);
   height: var(--menu-height);
   max-height: 100vh;
