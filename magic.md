@@ -11,12 +11,15 @@ title: Magic
 
 ## Magic Ore
 - naturally stores certain amount of magic energy
-- violently explosive when hit with elemental spell
+- violently explosive when hit with fireball
 - used for making the famous alloy known as __steel of Khorinis__, considered the best in entire __Myrtana__
 - known since ancient times, used by "Kings and heroes of old"
 - "The magic ore does have special qualities. Weapons forged from it don't break, their blades are sharper than usual ones."
 - "the magic powers of the ore vanish during the smelting process"
 - "The best ore(...)is(...)in the ore mines of Khorinis.(...)A weapon forged from this steel(...)"
+
+### Speculation
+- explosion in contact with fireball can be explained by explosiveness of the magic ore itself, or by instantly transferring all of the ore's energy into the spell making contact with it
 
 ## Rune Stones
 - common spells are cast with __rune stones__
@@ -33,18 +36,14 @@ title: Magic
 - large amounts can bring visions from demons
 - if addicted, long depravation can bring insanity
 
-## High magic
-- ancient and mostly forgotten, survives mostly in rituals and artefacts 
-- most of the mages are high-rank members of __House of Innos__
-- only most powerful mages have access to high magic, and only using rare artefacts
-- known artefacts: __focus stones__, __hearts of ancient shamans__, __portal of the Sleeper__
-
 ## Focus Stone
 - crystal-based energy storage device
 - much easier to release than charge
-- possibly magically explosive when charged
-- can be used to cast high magic spells, like giant force-fields or catastrophic magic explosions
+- can be used to cast "high magic" spells, like giant force-fields or explosions able to destroy such force-fields
 - casting a spell with focus stone uses magic power from the stone, not (only) from the mage
+
+### Speculation
+- possibly magically explosive when charged
 - possibly changes color depending on current energy:
   - from gray-transparent (like on Discharged Uriziel)
   - trough color of water battle (like partially(?) discharged Focus Stones of mine valley)

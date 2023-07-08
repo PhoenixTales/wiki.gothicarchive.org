@@ -7,10 +7,14 @@ title: Locations
 - famous for vineyards
 
 ## Great Northern Plains
-- "I was a soldier in the fortress in the large plain from the north."
-- "Soon they would have reached the end of the northern plains and overrun our little outpost with ease"
 - "Following the heavy battles in the north, every countryman now knows how to use a bow and arrows"
 - "Hoards of orcs invading the land from the North" (old official website)
+
+
+### Myrtanian Outpost
+- "I was a soldier in the fortress in the large plain from the north."
+- "Soon they would have reached the end of the northern plains and overrun our little outpost with ease"
+- looks like archetypal fort from American Old Wild West, codified by "Fort Bravo" [source: interpretation of Gothic Comic visuals]
 
 ## Khorinis
 - a remote city, one closest to the __Royal Ore Mines__
