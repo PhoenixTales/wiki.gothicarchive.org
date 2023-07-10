@@ -10,5 +10,4 @@ Speculation about how to interpret some apparent inconsistencies is accepted, as
 
 We are also open to including information from other Piranha Bytes projects, and as long as it expands on ideas already existing at release of Gothic I, does not contradict any earlier material (decision up to moderators) and is under heading "Other Gamess".
 
-To contribute, submit a change ("pull request") [here on GitHub](https://github.com/phoenixTales/wiki.gothicarchive.org). After it is reviewed by our moderation team, it will appear online. Your contribution will be credited in the [commit history here](https://github.com/PhoenixTales/wiki.gothicarchive.org/commits/main).
- 
+To contribute, submit a change ("pull request") [on GitHub](https://github.com/phoenixTales/wiki.gothicarchive.org). The easiest way to do this is `edit` button in bottom right corner of each page. After the change is reviewed by our moderation team, it will appear online. Your contribution will be credited in the [commit history here](https://github.com/PhoenixTales/wiki.gothicarchive.org/commits/main). Content of this Wiki is available under [`CC BY-NC-ND 4.0`](https://creativecommons.org/licenses/by-nc-nd/4.0/).
