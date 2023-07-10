@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Main page
 ---
 Welcome to Gothic Archive wiki. 
