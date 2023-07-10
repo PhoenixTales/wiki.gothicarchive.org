@@ -4,6 +4,8 @@ title: Characters
 
 ## Ancient General
 - used _Uriziel_ and _Ore Armor_ in battle against orcs
+  - `the ore armor(...)belonged to the general who wielded URIZIEL in the battle against the Orc` (G1-final / `DIA_KDF_404_Xardas.d`)
+  - according to abandoned alpha idea, _Ore Armor_ was made inside of the barrier and did not belong to any ancient general
 - somehow orcs got the _Uriziel_ and it's fate was unknown
 - _House of Innos_ or _Arch Mage of Fire_ eventually acquired the armor
 - lived before _Temple of Sleeper_ was sealed, between centuries and thousand years ago
