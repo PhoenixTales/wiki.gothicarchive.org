@@ -29,7 +29,7 @@
 	{% assign mediaLinkBasePlaceholder = '{{ mediaLinkBase }}' %}
 	{% assign absMediaLinkBasePlaceholder = '{{ absMediaLinkBase }}' %}
 	{% assign absLinkBasePlaceholder = '{{ absLinkBase }}' %}
-    {{ page.content | markdownify | replace: mediaLinkBasePlaceholder, mediaLinkBase | replace: absMediaLinkBasePlaceholder, absMediaLinkBase | replace: absLinkBasePlaceholder, absLinkBase }}
+    {{ page.content | markdownify | replace: '…', '...' | replace: mediaLinkBasePlaceholder, mediaLinkBase | replace: absMediaLinkBasePlaceholder, absMediaLinkBase | replace: absLinkBasePlaceholder, absLinkBase }}
 </article>
 
 <script data-turbolinks-eval="false" src="{{ absLinkBase }}/wiki/scripts/boot.js"></script>
