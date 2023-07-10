@@ -24,7 +24,7 @@ title: Items
 - made with fire alchemy
 - drinking it teaches fireball spell
 - looks like health potion
-- "Drink it and you can breathe fire"
+- `Drink it and you can breathe fire`
 
 ## Potion "Sprinting Horse"
 - sprint potion

@@ -19,14 +19,14 @@ title: Characters
 
 ## Gorn
 - muscular giant
-- "Where I come from, opponents are invited for a feast before they are killed…"
+- `Where I come from, opponents are invited for a feast before they are killed…`
 
 ## Grub
 - enslaved orc shaman at __Royal Ore Mine__
-- "meet GRUB in room, with pointy black rock"
-- "free me from chains, hehe, only GRUB knows way to friend"
-- "eeeh, loud noise waked GRUB. GRUB fee now."
-- "GRUB see you are wizard, too."
+- `meet GRUB in room, with pointy black rock`
+- `free me from chains, hehe, only GRUB knows way to friend`
+- `eeeh, loud noise waked GRUB. GRUB fee now.`
+- `GRUB see you are wizard, too.`
 - source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
 
 ## Lee
@@ -45,13 +45,13 @@ title: Characters
 - he runs away before hopeless battle and later gets captured by Khorinis city guards as a deserter
 
 ## Rhobar II
-- "everything that his troops could not hold was razed to the ground"
-- "During the long years of his reign he was able to defeat all foes of his realm. All except (...) the orcs"
-- "Rhobar, the strategist, chose to attack"
-- "his royal highness King Rhobar II, bearer of the Scepter of Varant"
-- "the one who united of the four Mirtanian kingdoms of the sea"
+- `everything that his troops could not hold was razed to the ground`
+- `During the long years of his reign he was able to defeat all foes of his realm. All except (...) the orcs`
+- `Rhobar, the strategist, chose to attack`
+- `his royal highness King Rhobar II, bearer of the Scepter of Varant`
+- `the one who united of the four Mirtanian kingdoms of the sea`
 - called __Rhotbar II__ in the Gothic I handbook
-- "King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration"
+- `King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration`
 
 ## Removed characters
 ID                  | Name            | notes
@@ -94,7 +94,7 @@ STT_300_RAVEN       | Raven           |
 STT_301_FINGERS     | Fingers         | 
 STT_302_LEFTY       | Lefty           |
 STT_DARKMAN         | Darkman         |
-VLK_50              | ???             | (VLK_50_NSCASpeech: "The forgotten people will rise", alpha Cutter?)
+VLK_50              | ???             | (VLK_50_NSCASpeech: `The forgotten people will rise`, alpha Cutter?)
 VLK_500_CUTTER      | Cutter          |
 VLK_501_BROWNIE     | Brownie         | 
 VLK_503_SCARRY      | Scarry          |

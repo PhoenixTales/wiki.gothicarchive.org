@@ -11,7 +11,7 @@ title: Finster
   - lives in a cave accessible by underwater tunnel leading from Cranwater moat
 - Verne
   - sent scroll for Fenwick
-  - "embittered old Cran"
+  - `embittered old Cran`
 - Gygax
   - most powerful druid in Tolbenland
   - lives at royal court of Cranwater
@@ -36,9 +36,9 @@ title: Finster
 
 ## Monsters
 - Arachnids
-  - DE: "Arachnen"
+  - DE: `Arachnen`
   - giant spiders?
-  - "come from the valley and destroy the herbs"
+  - `come from the valley and destroy the herbs`
 - Unwyrm creatures
   - undead?
 
@@ -51,8 +51,8 @@ title: Finster
   - capital city?
   - has moat
   - snowy
-- "Caves Of Finster"
-  - the same as "H�hlen der Finsternis" ? (Caverns of Darkness)
+- `Caves Of Finster`
+  - the same as `H�hlen der Finsternis` ? (Caverns of Darkness)
 
 ## Items
 - Jynnan Tonnyx / JointOnyx
@@ -66,11 +66,11 @@ title: Finster
   - blue potion
   - made of Gyre
 - Herbs of Damnation
-  - "Kr�utern der Verdammnis"
+  - `Kr�utern der Verdammnis`
   - can heal
-  - have "indefinitely larger destructive power", one needs to be very careful with them
+  - have `indefinitely larger destructive power`, one needs to be very careful with them
 - Bashir (basil?)
 - Pyrrha
 
 # Magic
-- "Chratchrsi Wodhwysta Lollolisabo Chack" : teleportation spell
+- `Chratchrsi Wodhwysta Lollolisabo Chack` : teleportation spell

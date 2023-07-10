@@ -1,7 +1,7 @@
 ---
 title: Style
 ---
-- "gothic medieval fantasy style"
+- `gothic medieval fantasy style`
 
 ## Gothic vs Fantasy
 Fantasy is:
@@ -20,4 +20,4 @@ Gothic is:
 - dangerous
 
 ## Finster
-- title of Finster Episode I is "...and the darkness will come" ("...und Finsternis wird kommen")
+- title of Finster Episode I is `...and the darkness will come` (`...und Finsternis wird kommen`)
