@@ -511,3 +511,11 @@ code.language-code {
 article p a, article li a {
     border-bottom: 0.2em solid #c0a47052;
 }
+
+body > a.edit {
+  position: fixed;
+  bottom: 4px;
+  right: 9px;
+  color: var(--text-body-color);
+  opacity: 0.5;
+}

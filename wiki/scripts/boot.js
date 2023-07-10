@@ -1,7 +1,7 @@
 var loader = document.createElement("script");
 loader.innerHTML = `
   (async () => {
-    const modules = [ "menu", "headings" ];
+    const modules = [ "menu", "headings", "edit" ];
     const moduleObjects = await Promise.all(modules.map(async m => { return (await import("/wiki/scripts/" + m + ".js"))[m]; }));
     for (var moduleObject of moduleObjects) {
       moduleObject.main({});
