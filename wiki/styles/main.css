@@ -477,13 +477,15 @@ article code, article code::before, article code::after, article li, article str
     transition: color 0.3s, opacity 0.3s;
 }
 
-article code, article strong, article p a, article li a {
-    font-family: "TeXGyreChorus";
-    letter-spacing: 0.1em;
-    font-size: 0.7em;
-    font-weight: 800;
-    color: var(--text-accent-color);
+article code, article strong, article em, article p a, article li a {
+  font-family: "TeXGyreChorus";
+  letter-spacing: 0.1em;
+  font-size: 0.7em;
+  font-weight: 800;
+  color: var(--text-accent-color);
+  font-style: normal;
 }
+
 h2 > a {
     padding-top: 4em;
     margin-top: -1em;

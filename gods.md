@@ -9,8 +9,8 @@ title: Gods
   - `faith in divine omnipotence soon became a myth`
 
 ## Priests
--  __Priests of Innos__ are members of __House of Innos__ 
-  - some of priests of Innos are members of __Circle of Fire__ and known as __Mages of Fire__ or __Fire Mages__
+-  _Priests of Innos_ are members of _House of Innos_ 
+  - some of priests of Innos are members of _Circle of Fire_ and known as _Mages of Fire_ or _Fire Mages_
  
 ## Ra, God Of The Sun
 - `I am the rising sun, the light, and the life`
@@ -33,7 +33,7 @@ title: Gods
 - symbolized by red flame
 
 ## Adanos, God Of Water
-- before called __Cyvanis__
+- before called _Cyvanis_
 - also healing, work, knowledge, curiosity, courage, water
 - `The words Cyvanis: Work and live, for the day is made for man to work. Look for learning and knowledge so that you can pass it on`
 - `Adanos brought man versatility, knowledge, curiosity and courage`
@@ -46,7 +46,7 @@ title: Gods
   - based on `g1-final\data\Textures\Level\Tempel\256\OtWaMaskWater.tga`
 
 ## Beliar, God of Darkness
-- before called __Vandras__
+- before called _Vandras_
 - also punishment, night, shadows, death
 - `Beliar created the night`
 - `he created death and ended the lives of men`

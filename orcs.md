@@ -2,20 +2,20 @@
 title: Orcs
 ---
 
-- orc army arrived from the __Northern Plains__
+- orc army arrived from the _Northern Plains_
   - `the kingdom is at war with the northern hordes`
   - `Soon they would have reached the end of the northern plains and overrun our little outpost with ease`
 - orcs live in underground cities
   - `Deep beneath the Free Mine live large, dangerous creatures called orcs.`
 - orcs bury their dead in underground tombs
   - `The Orcs used to bury their dead there, that's why we call this system of caves the Orc cemetery.`
-- there are orcs living in the south-west of the __Royal Ore Mines__ around __Khorinis__
+- there are orcs living in the south-west of the _Royal Ore Mines_ around _Khorinis_
 - humans are using orc slaves, orcs used to do the same with humans in the past
 - orcs are similarly developed as humans, but in different ways
   - `Orcs are not animals, as many people think`, `Their culture is as old as the human culture.`
 - there are orc shamans wielding magic
   - `son of the spirit. People call shaman.`
-- there was an orc culture centuries or millenium ago around __Khorinis__
+- there was an orc culture centuries or millenium ago around _Khorinis_
   - they were at war with someone
   - they somehow got acces to dimensional portal and summoned an _arch demon_
   - they had human slaves

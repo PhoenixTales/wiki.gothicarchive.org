@@ -3,18 +3,18 @@ title: Characters
 ---
 
 ## Ancient General
-- used __Uriziel__ and __Ore Armor__ in battle against orcs
-- somehow orcs got the __Uriziel__ and it's fate was unknown
-- __House of Innos__ or __Arch Mage of Fire__ eventually acquired the armor
-- lived before __Temple of Sleeper__ was sealed, between centuries and thousand years ago
+- used _Uriziel_ and _Ore Armor_ in battle against orcs
+- somehow orcs got the _Uriziel_ and it's fate was unknown
+- _House of Innos_ or _Arch Mage of Fire_ eventually acquired the armor
+- lived before _Temple of Sleeper_ was sealed, between centuries and thousand years ago
 
 ## Burgrave Bergmar
-- comes from __Western Field__
-- owner of __Mountain Fortress__
-- past owner of some of __Royal Ore Mines__
+- comes from _Western Field_
+- owner of _Mountain Fortress_
+- past owner of some of _Royal Ore Mines_
 
 ## Diego
-- called __Raoul__ on old website
+- called _Raoul_ on old website
 - cynical thief
 
 ## Gorn
@@ -22,7 +22,7 @@ title: Characters
 - `Where I come from, opponents are invited for a feast before they are killed…`
 
 ## Grub
-- enslaved orc shaman at __Royal Ore Mine__
+- enslaved orc shaman at _Royal Ore Mine_
 - `meet GRUB in room, with pointy black rock`
 - `free me from chains, hehe, only GRUB knows way to friend`
 - `eeeh, loud noise waked GRUB. GRUB fee now.`
@@ -37,7 +37,7 @@ title: Characters
 - "freak", "cracked", drug user, amateur alchemist and psionic
 
 ## Lord of Tymoris
-- high feudal lord of the realm containing __Royal Ore Mines__
+- high feudal lord of the realm containing _Royal Ore Mines_
 
 ## Milten Plescott
 - young drifter who keeps himself afloat with little trickery
@@ -50,7 +50,7 @@ title: Characters
 - `Rhobar, the strategist, chose to attack`
 - `his royal highness King Rhobar II, bearer of the Scepter of Varant`
 - `the one who united of the four Mirtanian kingdoms of the sea`
-- called __Rhotbar II__ in the Gothic I handbook
+- called _Rhotbar II_ in the Gothic I handbook
 - `King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration`
 
 ## Removed characters
