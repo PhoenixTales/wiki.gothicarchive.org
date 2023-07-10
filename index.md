@@ -8,4 +8,4 @@ We document here information about the game universe known from pre-release prom
 
 Speculation about how to interpret some apparent inconsistencies is accepted, as long as it is very closely aligned with official material (decision up to moderators) and under heading "Speculation".
 
-We are also open to including information other Piranha Bytes projects, if it expands on ideas already existing at release of Gothic I, as long as it does not contradict any earlier material (decision up to moderators) and is under heading "Other Gamess".
+We are also open to including information from other Piranha Bytes projects, and as long as it expands on ideas already existing at release of Gothic I, does not contradict any earlier material (decision up to moderators) and is under heading "Other Gamess".
