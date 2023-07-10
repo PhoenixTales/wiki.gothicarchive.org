@@ -1,4 +1,6 @@
-# Undead
+---
+title: Undead
+---
 
 ## Undead Dragon
 - `Undead Dragon in chokepoint on the way towards the Sleeper`
