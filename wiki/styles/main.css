@@ -30,16 +30,6 @@ code {
   display: inline;
 }
 
-strong {
-  font-weight: normal;
-  /* background-color: currentColor; */
-  /* color: black; */
-  display: inline-block;
-  /* background-color: red; */
-  background-color: black;
-  /* filter: invert(100%); */
-}
-
 h1, h2, h3, h4 {
   font-family: "Gothic_alpha_font";
   font-weight: 100 !important;
@@ -473,8 +463,13 @@ a.return-up::before {
   top: -1px;
 }
 
-article code, article code::before, article code::after, article li, article strong {
+article *, article *::before, article *::after {
     transition: color 0.3s, opacity 0.3s;
+}
+
+article strong:hover, article em:hover {
+  color: white;
+  cursor: text;
 }
 
 article code, article strong, article em, article p a, article li a {
