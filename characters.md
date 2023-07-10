@@ -7,10 +7,7 @@ title: Characters
 - used _Uriziel_ in battle against orcs
   - `general who wielded URIZIEL in the battle against the Orc` (G1-final / `DIA_KDF_404_Xardas.d`)
 - somehow orcs got the _Uriziel_ and it's fate was unknown
-- _House of Innos_ or _Arch Mage of Fire_ eventually acquired the armor
 - lived before _Temple of Sleeper_ was sealed, between centuries and thousand years ago
-- according to final game, _Ore Armor_ belonged to him as well
-  - in alpha, _Ore Armor_ is made inside of barrier, already during the game
 
 ## Burgrave Bergmar
 - comes from _Western Field_

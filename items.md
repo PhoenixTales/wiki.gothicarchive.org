@@ -36,6 +36,11 @@ title: Items
 ## Oil Lamp
 - gives 20 minutes of light
 
+## Ore Armor
+- according to the final game, _Ore Armor_ once belonged to _Ancient General_
+  - _House of Innos_ or _Arch Mage of Fire_ own it in contemporary times
+- in alpha, it is made inside of barrier by prisoner-smith _Stone_ and was never owned by _Ancient General_ nor _Arch Mage of Fire_
+
 ## Potion "Mad Bull"
 - causes temporary madness (`Npc_SetToMad (self,30)`)
 
