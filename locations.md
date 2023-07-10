@@ -35,7 +35,7 @@ title: Locations
 
 ## Morgrad
 - name of the "world"
-- "In the center lies the Morgrad, containing the four elements earth, water, fire and air."
+- `In the center lies the Morgrad, containing the four elements earth, water, fire and air.`
 - similar to "Midgard" from Germanic mythology
 
 ## Myrtana

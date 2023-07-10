@@ -23,10 +23,10 @@ body {
 }
 
 code {
-  font-size: 0.6em;
+  font-size: 0.7em;
   font-family: "Flat Brush";
-  font-style: italic;
-  color: var(--text-accent-color);
+  /* font-style: italic; */
+  color: #cdb68c;
   display: inline;
 }
 
@@ -48,6 +48,14 @@ h1, h2, h3, h4 {
 
 code::before, code::after {
   content: '"';
+  font-size: 1.5em;
+  position: relative;
+  top: 0.2em;
+  line-height: 0;
+  /* color: #ffdb99; */
+  /* opacity: 0.7; */
+  font-style: italic;
+  left: -0.1em;
 }
 
 *::selection {
@@ -184,6 +192,7 @@ article, article * {
 
 article li {
   list-style-type: none;
+  /* display: block; */
 }
 
 article li::before {
@@ -221,7 +230,7 @@ h1 {
 
 h3 {
   font-size: 0.8em;
-  opacity: 0.7;
+  color: var(--text-body-color);
 }
 
 article {
@@ -270,17 +279,17 @@ h2::before {
 }
 
 h2:hover::before {
-  opacity: 0.3;
+  opacity: 0.5;
 }
 
 article li:hover {
-  color: #ffe5b4;
+  /* color: #ffe5b4; */
 }
 
-article li:hover::before {
+article > ul > li:hover::before {
   color: white;
-  content: '+';
-  top: -2px;
+  /* content: '+'; */
+  /* top: -2px; */
 }
 
 .menu-icon {
@@ -467,4 +476,35 @@ a.return-up::before {
   font-size: 14px;
   position: relative;
   top: -1px;
+}
+
+code:hover, code:hover::before, code:hover::after {
+    /* color: #ffe5b4; */
+}
+
+code:hover::before, code:hover::after {
+    opacity: 1 !important;
+}
+
+article code, article code::before, article code::after, article li, article strong {
+    transition: color 0.3s, opacity 0.3s;
+}
+
+article > ul > li:hover {
+    color: #ffe5b4;
+}
+
+article > ul > li:hover > ul *:not(code):not(strong) {
+    color: var(--text-body-color) !important;
+}
+
+article > ul > li:hover > code, article > ul > li:hover > strong {
+    color: #ffe5b4 !important;
+    /* color: red !important; */
+}
+
+article strong {
+    color: #cdb68c !important;
+    font-size: 0.7em;
+    font-family: "Flat Brush";
 }
