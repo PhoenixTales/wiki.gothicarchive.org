@@ -214,6 +214,14 @@ h1 {
   font-size: 1.6em;
   color: #ffe5b4;
   margin-left: 0;
+  margin-top: -2em;
+  padding-top: 4em;
+}
+
+
+h3 {
+  font-size: 0.8em;
+  opacity: 0.7;
 }
 
 article {
@@ -236,12 +244,6 @@ article {
 .logo:hover {
   color: #968d80;
 }
-
-
-h2:first-of-type {
-  margin-top: 1em;
-}
-
 
 body {
   display: flex;
@@ -351,6 +353,7 @@ article > ul {
 #menu-toggle:not(:checked) ~ .menu label[for="menu-toggle"] {
   padding-bottom: 0;
   margin-bottom: 2px;
+  position: fixed;
 }
 
 #menu-toggle:checked ~ .menu label[for="menu-toggle"]::before {
