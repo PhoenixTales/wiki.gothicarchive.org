@@ -54,6 +54,7 @@ title: Characters
 - `King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration`
 
 ## Removed characters
+```code
 ID                  | Name            | notes
 --------------------|-----------------|--------------------------
 BALDHEAD            | Baldhead        | (sect novice)
@@ -109,3 +110,4 @@ VLK_DUMB            | Dumb            | (mole, dressed like thief)
 VLK_NIMBLEFINGER    | Nimblefinger    | ("Hehler" - trader of stolen goods, dressed like thief)
 VLK_NUMB            | Numb            | (Mole, dressed like thief)
 VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
+```

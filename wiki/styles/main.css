@@ -23,10 +23,10 @@ body {
 }
 
 code {
-  font-size: 0.7em;
-  font-family: "Flat Brush";
+  /* font-size: 0.7em; */
+  /* font-family: "Flat Brush"; */
   /* font-style: italic; */
-  color: #cdb68c;
+  /* color: #cdb68c; */
   display: inline;
 }
 
@@ -54,8 +54,8 @@ code::before, code::after {
   line-height: 0;
   /* color: #ffdb99; */
   /* opacity: 0.7; */
-  font-style: italic;
-  left: -0.1em;
+  /* font-style: italic; */
+  /* left: -0.1em; */
 }
 
 *::selection {
@@ -214,8 +214,9 @@ article li::before {
 }
 
 h2 {
-  padding-top: 4em;
-  margin-top: -1em;
+  /* padding-top: 4em; */
+  /* margin-top: -1em; */
+  margin-top: 0;
   font-size: 1em;
 }
 
@@ -231,6 +232,8 @@ h1 {
 h3 {
   font-size: 0.8em;
   color: var(--text-body-color);
+  margin-bottom: 0;
+  margin-top: 1.5em;
 }
 
 article {
@@ -266,30 +269,21 @@ body {
   max-height: 100vh;
 }
 
-h2::before {
+h2 a::before {
   content: '# ';
   position: relative;
   bottom: -5px;
   opacity: 0;
-  cursor: text;
+  cursor: pointer;
   width: 35px;
   display: inline-block;
   left: -35px;
   margin-right: -35px;
+  vertical-align: unset;
 }
 
-h2:hover::before {
+h2 a:hover::before {
   opacity: 0.5;
-}
-
-article li:hover {
-  /* color: #ffe5b4; */
-}
-
-article > ul > li:hover::before {
-  color: white;
-  /* content: '+'; */
-  /* top: -2px; */
 }
 
 .menu-icon {
@@ -310,6 +304,7 @@ article > ul > li:hover::before {
 
 article h2 {
   margin-left: 0px;
+  display: block;
 }
 
 .menu {
@@ -478,33 +473,34 @@ a.return-up::before {
   top: -1px;
 }
 
-code:hover, code:hover::before, code:hover::after {
-    /* color: #ffe5b4; */
-}
-
-code:hover::before, code:hover::after {
-    opacity: 1 !important;
-}
-
 article code, article code::before, article code::after, article li, article strong {
     transition: color 0.3s, opacity 0.3s;
 }
 
-article > ul > li:hover {
-    color: #ffe5b4;
-}
-
-article > ul > li:hover > ul *:not(code):not(strong) {
-    color: var(--text-body-color) !important;
-}
-
-article > ul > li:hover > code, article > ul > li:hover > strong {
-    color: #ffe5b4 !important;
-    /* color: red !important; */
-}
-
-article strong {
-    color: #cdb68c !important;
+article code, article strong {
+    font-family: "TeXGyreChorus";
+    letter-spacing: 0.1em;
     font-size: 0.7em;
-    font-family: "Flat Brush";
+    font-weight: 800;
+    color: var(--text-accent-color);
+}
+h2 > a {
+    padding-top: 4em;
+    margin-top: -1em;
+    display: block;
+    cursor: text;
+}
+h1 > a:hover, h3 > a:hover {
+    cursor: text;
+}
+code.language-code::before, code.language-code::after {
+    content: '';
+}
+
+code.language-code {
+    font-family: monospace;
+    font-size: 0.5em;
+    letter-spacing: 0;
+    white-space: pre-wrap;
+    color: var(--text-body-color);
 }
