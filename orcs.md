@@ -25,4 +25,11 @@ title: Orcs
 - the orcs have ancient prophecies
   - `Ancient Orcish documents written shortly after the sealing of the underground temple mention a 'Holy Foe'`
   - `I have translated the Orcish prophecies and discovered what the five hearts are about.`
-  
+
+## Undead High Orc Priests
+- `few centuries ago, five Orc shamen invoked a very old arch demon`
+- _Varrag-Hashor_
+- _Varrag-Kasorg_
+- _Varrag-Unhilqt_
+- _Varrag-Ruuushk_
+- _Grash-Varrag-Arushat_

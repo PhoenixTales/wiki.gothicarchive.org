@@ -2,12 +2,32 @@
 title: Items
 ---
 
+## Ancient Shaman Swords
+- _Clefter of Worlds_ (`Welten Spalter`)
+- _Blade of Light_ (`Licht Bringer`)
+- _Blade of Time_ (`Zeiten Klinge`)
+- _Demon Strike_ (`Daemonen Streich`)
+- _Blade of Banishment_ (`Bann Klinge`)
+
+
+## Anti-barrier amulet
+- `Magical Amulet against WS in order to get closer than 10m to the Barrier, without becoming insanse`
+  - from early design docs
+
 ## Drug
 - separate item from psi potion
 
 ## Fiery Bow
 - bow of Hawkeye
 - without fire damage
+
+## Hood of the High Priest
+- `Hood of the High Priest, which protects the wearer from the wrath of the Sleeper`
+  - from early design docs
+
+### Speculation
+- anti-psionic, blocks magic sleep/visions?
+
 
 ## Holy Water
 - +10 to hp, mana, madness

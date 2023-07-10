@@ -6,6 +6,11 @@ title: Locations
 - hilly area
 - famous for vineyards
 
+## Demon World
+- accessible from portal in _Temple Of Sleeper_ and under the _Stone Circle Of The Damned_
+- _arch demons_ live there and fight each other
+- according to early designs, player was supposed to be able to enter it, or even accidentally help a demon enter the world of living
+
 ## Great Northern Plains
 - `Following the heavy battles in the north, every countryman now knows how to use a bow and arrows`
 - `Hoards of orcs invading the land from the North` (old official website)
@@ -73,6 +78,10 @@ title: Locations
 - `old ruined monastery beyond the canyon`
 - `monks used to live here`
 - `they worshipped a god who gave them the power to turn into animals`
+
+## Temple Of Sleeper
+- `in an uknown ancient temple, unchanged for 1000 years`
+- there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
 
 ## Tymoris
 - region ruled by the _Lord of Tymoris_
