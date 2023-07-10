@@ -477,7 +477,7 @@ article code, article code::before, article code::after, article li, article str
     transition: color 0.3s, opacity 0.3s;
 }
 
-article code, article strong {
+article code, article strong, article p a, article li a {
     font-family: "TeXGyreChorus";
     letter-spacing: 0.1em;
     font-size: 0.7em;
@@ -503,4 +503,8 @@ code.language-code {
     letter-spacing: 0;
     white-space: pre-wrap;
     color: var(--text-body-color);
+}
+
+article p a, article li a {
+    border-bottom: 0.2em solid #c0a47052;
 }

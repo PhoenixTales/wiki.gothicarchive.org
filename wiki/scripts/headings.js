@@ -7,6 +7,10 @@ export const headings = {
   makeHeadingsAnchors() {
     var headings = Array.from(document.querySelectorAll("h1, h2, h3, h4, h5"));
     for (var heading of headings) {
+      if (heading.id == null || heading.id == "") {
+        continue;
+      }
+      console.warn("making heading", heading.id);
       var anchor = document.createElement("a");
       anchor.href = document.location.origin + document.location.pathname + "#" + heading.id;
       anchor.innerText = heading.innerText;
