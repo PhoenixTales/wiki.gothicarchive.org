@@ -33,3 +33,4 @@ title: Orcs
 - _Varrag-Unhilqt_
 - _Varrag-Ruuushk_
 - _Grash-Varrag-Arushat_
+  - `Grash-Varrag-Arushat apparently doesn't belong to the undead Orc shamans. He is more powerful by far and my weapons don't harm him at all` (G1-final, DIA_Orc_HighPriest5.d)
