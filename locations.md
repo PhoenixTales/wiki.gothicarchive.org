@@ -43,11 +43,6 @@ title: Locations
 - `In the center lies the Morgrad, containing the four elements earth, water, fire and air.`
 - similar to "Midgard" from Germanic mythology
 
-## Myrtana
-- called both "kingdom" and "empire of four united kingdoms"
-- also called _Myrthana_ (handbook) and _Mirtana_ (comic)
-- the original kingdom was on the continental lands known as _Midlands_
-
 ## Nordmar
 - place with blast furnaces
 - only local masters know secret technique for smelting _Magic Ore_ without sacrificing it's magic power
