@@ -5,7 +5,7 @@ title: Characters
 ## Ancient General
 - in early design docs, mentioned as `Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him`
 - used _Uriziel_ in battle against orcs
-  - `general who wielded URIZIEL in the battle against the Orc` (G1-final / `DIA_KDF_404_Xardas.d`)
+  - `general who wielded URIZIEL in the battle against the Orc` (G1-final / DIA_KDF_404_Xardas.d)
 - somehow orcs got the _Uriziel_ and it's fate was unknown
 - lived before _Temple of Sleeper_ was sealed, between centuries and thousand years ago
 
