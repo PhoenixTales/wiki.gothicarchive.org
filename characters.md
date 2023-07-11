@@ -3,11 +3,16 @@ title: Characters
 ---
 
 ## Ancient General
-- in early design docs, mentioned as `Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him`
-- used _Uriziel_ in battle against orcs
-  - `general who wielded URIZIEL in the battle against the Orc` (G1-final / DIA_KDF_404_Xardas.d)
-- somehow orcs got the _Uriziel_ and it's fate was unknown
-- lived before _Temple of Sleeper_ was sealed, between centuries and thousand years ago
+- called both `General` and `Paladin` in different documents
+- `Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him` (from early alpha docs)
+- `general who wielded URIZIEL in the battle against the Orc` (G1-final / DIA_KDF_404_Xardas.d)
+
+### Speculation
+- he could have raided the temple already after it was sealed, but all his companions turned into undead, and he stayed imprisoned there while temple was re-sealed
+
+- lived before _Temple of Sleeper_ was sealed, not after (so over 1000 years ago)
+- was either defeated by orcs in battle, or died inside of the temple
+- if he died inside of the temple, 
 
 ## Burgrave Bergmar
 - comes from _Western Field_
