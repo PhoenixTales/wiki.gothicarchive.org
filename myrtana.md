@@ -20,7 +20,6 @@ title: Myrtana
 - king keeps penal colonies / forced work camps mostly in secret
   - `only a few news of what goes around inside there are known. Sometimes some rumors can be heard, but for some reason, the king, and the Lords of Khorinis keep all this information secret, so only a few know what's happening there.`
   - _Milten_ didn't hear about prison colony even during his visit to _Khorinis_
-- _House of Innos_ or arch mage himself owns _Ore Armor_ of _Ancient General_
 - _Myrtana_ wins battles thanks to `the interplay of army and magic`
 - `The city watch has its eyes on everyone who's suspicious` (_Gorn_ in Gothic I comic)
 
