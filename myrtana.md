@@ -5,6 +5,9 @@ title: Myrtana
 - `The kingdom of Myrtana united by King Rhobar II`
   - `the one who united of the four Mirtanian kingdoms of the sea`
   - term _Kingdom Of Myrtana_ includes annexed realms like _Varant_
+- called both `kingdom` and `empire of four united kingdoms`
+- also called _Myrthana_ (handbook) and _Mirtana_ (comic)
+- the original kingdom was on the continental lands known as _Midlands_
 - army is led by generals that are also king's trusted advisors
   - `King (...) left his generals to deal with the few remaining enemy troops`
 - _The Nobles_ have "dirty business" and are jelaous of generals' influence
