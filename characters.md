@@ -48,7 +48,7 @@ title: Characters
 - `During the long years of his reign he was able to defeat all foes of his realm. All except (...) the orcs`
 - `Rhobar, the strategist, chose to attack`
 - `his royal highness King Rhobar II, bearer of the Scepter of Varant`
-- `the one who united of the four Mirtanian kingdoms of the sea`
+- `the one who united the four Mirtanian kingdoms of the sea`
 - called _Rhotbar II_ in the Gothic I handbook
 - `King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration`
 
