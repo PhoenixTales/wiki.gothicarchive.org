@@ -19,7 +19,7 @@ title: Locations
 ### Myrtanian Outpost
 - `I was a soldier in the fortress in the large plain from the north.`
 - `Soon they would have reached the end of the northern plains and overrun our little outpost with ease`
-- looks like archetypal fort from American Old Wild West, codified by "Fort Bravo" [source: interpretation of Gothic Comic visuals]
+- from outside looks like archetypal fort from American Old Wild West, [as codified by Fort Texas Hollywood theme park in Spain](https://en.wikipedia.org/wiki/Texas_Hollywood#/media/File:Fort_Bravo_Texas_Hollywood_September_2013.JPG), which appeared as background of many XX century western movies (source: interpretation of [Gothic Comic visuals](https://media.gothicarchive.org/promotion/comic/GothicComic.pdf))
 
 ## Khorinis
 - a remote city, one closest to the _Royal Ore Mines_
