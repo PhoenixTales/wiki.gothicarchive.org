@@ -34,7 +34,7 @@ title: Gods
 
 ## Adanos, God Of Water
 - before called _Cyvanis_
-- also healing, work, knowledge, curiosity, courage, water
+- patron of healing, work, knowledge, curiosity, courage
 - `The words Cyvanis: Work and live, for the day is made for man to work. Look for learning and knowledge so that you can pass it on`
 - `Adanos brought man versatility, knowledge, curiosity and courage`
 - `god Adanos, who is the balance between good and evil`
@@ -47,7 +47,7 @@ title: Gods
 
 ## Beliar, God of Darkness
 - before called _Vandras_
-- also punishment, night, shadows, death
+- patron of punishment, night, shadows, death
 - `Beliar created the night`
 - `he created death and ended the lives of men`
 - `spirit shall join me in the shadows forever more`
