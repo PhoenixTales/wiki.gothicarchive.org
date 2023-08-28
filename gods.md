@@ -3,9 +3,9 @@ title: Gods
 ---
 
 ## National religion of Myrtana
-- trinity of gods is worshipped as whole, dark god is not rejected
+- three gods are worshipped
   - `the man of the three gods, and governor of the highest god`
-- gods are not considered omnipotent
+- but not considered almighty
   - `faith in divine omnipotence soon became a myth`
 
 ## Priests
@@ -17,7 +17,6 @@ title: Gods
 - king of Myrtana is `governor of the highest god, Ra`
 
 ### Speculation
-- at some point merged into _Innos_
 - spells of the Sun: healing, light, transformation into animal
   - they have yellow color theme, corresponding to `g1-final\data\Textures\Level\Tempel\256\OtWaMaskSun.tga`
 - symbolized by bright yellow 8-armed star
@@ -31,6 +30,7 @@ title: Gods
 ### Speculation
 - at some point, was merged with Ra and became highest god of Myrtana
 - symbolized by red flame
+  - based on `g1-final\data\Textures\Level\Tempel\256\OtWaMaskFire.tga`
 
 ## Adanos, God Of Water
 - before called _Cyvanis_
