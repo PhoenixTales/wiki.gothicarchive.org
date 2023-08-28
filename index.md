@@ -3,7 +3,7 @@ title: Main page
 ---
 Welcome to the Gothic Archive wiki. 
 
-It is a compilation of knowledge about the universe of cRPG Gothic (2001) by Piranha Bytes coming from:
+It is a compilation of knowledge about the universe of cRPG Gothic (2001) by Piranha Bytes, coming from:
 - pre-release official promotional materials
 - unreleased and abandoned ideas, documents and demos made by Piranha Bytes members
 - high-level knowledge about the realm and the world present in the final release of the game
