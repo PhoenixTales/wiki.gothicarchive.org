@@ -29,6 +29,10 @@ title: Characters
 - source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
 
 ## Lee
+- initially he was serving as a guard in the king's court
+  - source: alpha docs
+- "Lord" (member of nobility)
+  - source: alpha docs
 - ex-general, "war hero", convicted for life for murder of the "king's wife"
 - he wants a revenge against people who betrayed and convicted him
 
