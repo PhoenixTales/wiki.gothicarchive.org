@@ -2,6 +2,7 @@
 title: Style
 ---
 - `gothic medieval fantasy style`
+- `Escape From New York` in the middle ages
 
 ## Gothic vs Fantasy
 Fantasy is:
