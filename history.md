@@ -15,8 +15,7 @@ title: History
 
 ## Ancient history
 - ancient Khorinis orcs first won battle against humans and _Ancient General_, but then their society mysteriously collapsed
-- in early days of human race, humans coexisted with dwarves and probably orcs
-- dwarves seem to have disappeared very early
+- in early days of human race, humans coexisted with orcs on the surface, until racist conflicts led the orcs to seek refuge in underground cities
 - there are prophecies that apocalyptic crisis from almost 1000 years ago is going to return
   - `constellations of stars start moving to the same positions`
 
