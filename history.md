@@ -19,11 +19,11 @@ title: History
 - there are prophecies that apocalyptic crisis from almost 1000 years ago is going to return
   - `constellations of stars start moving to the same positions`
 
-## War with orcs
+## First War with orcs
 - war with orcs started during first year of reign of _Rhobar II_, after death of _Rhobar I_
 - it was few months after conquest of _Varant_
-- `King Rhotbar died that winter (...) But when winter was over, the kingdom was facing the next danger. Orc hordes from the northern lands came over the borders and plundered hamlets and estates. `
+- orcs emerged from underground in many places of the kingdom, they were not specifically invading from the North
+- `King Rhotbar died that winter (...) But when winter was over, the kingdom was facing the next danger. Orc hordes from the northern lands came over the borders and plundered hamlets and estates.`
 - `army had become small and few weapons were available to him. He needed ore to make new weapons. The situation was bad all over the country, especially in the mining towns. Thieves and deserters rioted and many prisoners fled the mines`
 - first war somehow ended (`The kingdom was gradually recovering from the wounds of the past. Wheat flourished in the fields and new trade agreements were signed.`)
-- _Royal Ore Mines_ are in area around front lines during the _First Orc War_
 - there are `old fortifications dating back to the time of the first Orc war`
