@@ -43,6 +43,14 @@ title: Locations
 - `In the center lies the Morgrad, containing the four elements earth, water, fire and air.`
 - similar to "Midgard" from Germanic mythology
 
+## Myrtana
+- `The kingdom of Myrtana united by King Rhobar II`
+  - `the one who united of the four Mirtanian kingdoms of the sea`
+  - term _Kingdom Of Myrtana_ includes annexed realms like _Varant_
+- called both `kingdom` and `empire of four united kingdoms`
+- also called _Martiana_ (alpha docs) _Myrthana_ (handbook) and _Mirtana_ (comic)
+- the original kingdom was on the continental lands known as _Midlands_
+
 ## Nordmar
 - place with blast furnaces
 - only local masters know secret technique for smelting _Magic Ore_ without sacrificing it's magic power
