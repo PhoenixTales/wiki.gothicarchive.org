@@ -18,6 +18,24 @@ title: History
 - in early days of human race, humans coexisted with orcs on the surface, until racist conflicts led the orcs to seek refuge in underground cities
 - there are prophecies that apocalyptic crisis from almost 1000 years ago is going to return
   - `constellations of stars start moving to the same positions`
+ 
+## Timeline
+
+### German booklet
+- Myrtana prospers during rule of _Rhobar I_
+- Varant invades Myrtana and ends up conquered (_War With Varant_)
+  - war lasts `over 4 solstices`, on both land and the sea
+  - won thanks to good strategy of a general, and military use of _Fire Magic_
+  - king `was not satisfied with protecting the country's borders, (...) advanced deep into the country and conquered counties, villages and cities. And whatever his troops could not hold was razed to the ground. (...)had the ruler of Varant hanged, appointed a governor and a council`
+- _Rhotbar I_ dies when that atumn turns into winter
+- _Rhotbar II_, son of _Rhotbar II_ ascends to the throne
+- Orcs attack from the North Lands at the end of winter (_First Orc War_)
+- _Magic Barrier Of Khorinis_ is created
+- _First Orc War_ ended
+  - `The kingdom, meanwhile, was gradually recovering from the wounds of the past. Wheat thrived in the fields and new trade treaties were made.`
+- _Second Orc War_ starts
+  - `And then the orcs came. Like a storm swept over the land, the armies cut down and killed every human being that fell into their hands.`
+- king decides to send all sorts of prisoners and enemies of the society to _Royal Mines Of Khorinis_
 
 ## First War with orcs
 - war with orcs started during first year of reign of _Rhobar II_, after death of _Rhobar I_
