@@ -103,3 +103,31 @@ With a surge of desperation and your last ounce of strength you endea-vour to br
 
 You see the blurred outlines of the shore. Slowly, with little strength left, you swim towards land and drag yourself gasping onto the muddy sand. You see through half closed eyes, a heavy foot in the mud in front of your face, you look up... mom than one! Prisoners in ragged cloth and rotted pieces of armour unmoving, glaring, with folded arms, one hefty ruffian bends down to you, pulls up your head by your hair and spits at you with rotten breath: "Welcome to jail !"
 ```
+
+## Official english final manual
+- [original pdf](https://media.gothicarchive.org/documents/manuals/Gothic-Manual_en.pdf)
+```
+Myrtana...
+
+In these times the Gods looked upon Myrtana with a kind heart and blessed all the land with peace, lavish crops and an abundance of Copper, bronze and Ore. Myrtana thrived in this blissful age until others received word of their fortune...
+
+The Orks made war upon the land of Myrtana.
+
+Endless raids and battles devastated the land throughout the next years and as Myrtana's armies grew smaller and weaker, the Orks moved on, in greedy destruction. Eventually no longer able to watch the mindless losses to his people, King Rhotbar chose to take desperate measures...
+
+THE BARRIER...
+
+In order to save his most precious mine in Khorinis, where his people gathered magical Ore and forged them into the strongest weapons in the land, King Rhotbar called together 12 of the most talented Mages of Myrtana...
+
+The bright winter sky grew gray and dark as thick black clouds obscured the sun. Lightning flashed across the sky darting through a whirlwind of energy as the mages cast the spell using the foci.A blue-hazed sheet drove across the mine, passing the boundaries of will enclosing even the Mages within its walls.
+
+And so it came to pass that fleeing from greed itself brought greed and thus tribulations upon King Rhotbar. And he was forced to make deals with the prisoners to get at his Ore. Throwing letters through the Barrier was the only way the outside world was able to contact people within the colony.
+
+Those prisoners who had always been the toughest among the miners, saw their chance and agreed to send all the ore they could to the King in exchange for goods from the outside world. Their leader was Gomez. They took over the old castle, killed the guards there and so they created the old camp.
+
+The other prisoners, rebelled against doing anything for the King or Gomez and traveled to another mine area: the free mine, and built there, their own camp: the new camp. Their leader was Lares and they lived from hunting, stealing and farming rice.
+
+Among the prisoners in the old camp were some who talked of visions and strange dreams. They felt themselves misunderstood and different from the rest of the camp. So their leader Y'Berion took them on a journey to find a place where they could dwell amongst themselves. Without explanation he chose a swamp area and so created there a sect named the Brotherhood. The sect members also found that the strange plants that grew there in abundance increased their visions and that some had access to magical powers. They were able to sell these plants and magical scrolls to the rest of the colony and so traded to make a living.
+
+Of the 12 Mages in the colony there were 6 of the circle of fire, and 6 of the circle of water. The fire mages thought it important that theKing should win the war. And so took it upon themselves to control the situation in the old camp. The water mages thought it more important to find out what went wrong with the barrier and to find a way to breech the magical walls surrounding them. They decided to go to the new camp to control the ore from the free mine and were certain it would lead them to freedom. And just another convict is thrown into the Barrier...
+```
