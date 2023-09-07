@@ -16,3 +16,17 @@ title: Factions
 ## Farmers
 - peaceful, grown their own food and trade it with camps
 - some of them lived around the valley already before it became prison colony
+
+## Nobility
+- _The Nobles_ have "dirty business" and are jelaous of generals' influence
+- ranks of nobility: king, lord, burgrave
+
+## Army
+- army is led by generals that are also king's trusted advisors
+  - `King (...) left his generals to deal with the few remaining enemy troops`
+- special assignments like escorting royal governors are done by _Royal Guard_ in gold-themed armors
+- there's a fleet/ of _Royal Warships_
+  - `I was involved in a mutiny as mate of a royal warship.`
+  - `The King's Armada sank ship after ship`
+- army service is mandatory
+ - `all the others that were forced by the king to fight in the war against the orcs` (_Milten_ in Gothic I comic)
