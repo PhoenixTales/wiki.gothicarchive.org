@@ -21,6 +21,10 @@ title: Items
 - bow of Hawkeye
 - without fire damage
 
+## Gold
+- major unit of currency is _Unit Of Gold_ (e.g. 400 for a mountain fort)
+- middle unit of currency is _Piece Of Gold_ (e.g. 50 for rare magic scroll)
+
 ## Hood of the High Priest
 - `Hood of the High Priest, which protects the wearer from the wrath of the Sleeper`
   - from early design docs
