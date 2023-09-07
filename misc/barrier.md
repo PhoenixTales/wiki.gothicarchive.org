@@ -34,3 +34,10 @@ On the other side of the cliff you see the enormous shimmering dome, that you sa
 Stunned, you stand gaping at the vastness of the barrier, frozen in a moment of horror.
 The dark humming hardly noticeable before, is now clearer and louder.
 ```
+
+## Secret forced work camp
+- king sentences for lifetime in there even for being unable to pay taxes, and imports convicts from entire kingdom
+- `only a few news of what goes around inside there are known. Sometimes some rumors can be heard, but for some reason, the king, and the Lords of Khorinis keep all this information secret, so only a few know what's happening there.`
+- `My shed was as empty as my stomach, and I just couldn't pay. So one day the soldiers came and brought me here. (...) I'd always paid my taxes before - all my life. But that wasn't good enough for that son of a bitch with the crown!`
+- _Milten_ didn't hear about _Prison Colony Of Khorinis_ until he was arrested right there
+  - he travelled to Khorinis because he actually thought it is a safe place for a deserter to stay _away_ from royal attention
