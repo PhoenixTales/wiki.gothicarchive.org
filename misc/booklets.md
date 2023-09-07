@@ -35,3 +35,26 @@ Today another convict is brought into the mine.
 This condemned person is you. Just another prisoner who will be trapped in the barrier for the rest of his life. At least they think so....
 What nobody sees, nobody can judge.
 ```
+
+## Egmont promotional English booklet
+- [original PDF](https://media.gothicarchive.org/documents/press/Gothic_PromoBooklet.pdf)
+- Genre: action role-playing game
+- Scenery: dark fantasy
+- `has got all the important game elements of a typical RPG, but presents them in an easy-to-understand way`
+- `we've eliminated irritating, old-fashioned elements like long player statistics and difficult handling`
+- `for those action players who are fed up with mere monster killing and are longing for a somewhat deeper form of entertainment`
+- `"Mainstreamers" who usually fear the complexity and difficulty of RPGs won't get lost in this game`
+- `You'll be able to start playing as soon as you start the program. There is no puzzling character generation before starting the game`
+- `NPCs have memory, will log/remember your actions, tell their friends and even blame you next time they see you`
+- `depending on which group you join, some pleople will become your friends though others may hate you. If you harm a key member of any group, the whole group's attitude towards you will become worse`
+- `5 times during the course of the game, major events will change the world and group relationships to keep you on your toes`
+- `trought the day and night cycle each NPC works, sleeps and interacts with other NPCs`
+- `Monsters express feelings (...) you can watch them express their joy or alternatively show fear (e.g. of fire). Monsters will have their own life. Monsters are able to behave the same way as human NPCs do`
+- `GOTHIC offers a multitude of missions and riddles. Most of them lead to bonus areas, where you can get better weapons and equipment. However if you don't like the difficult puzzles, you can hack and slay your way through the game and only tackle the easier ones.`
+- `as you become stronger, people will show you more respect`
+- `4 major profession classes: Warrior, Assassin, Wizard, Psionic Mage`
+- new abilities gained by joining a class unlock new solutions to problems and allow access to previously inaccessible locations
+- potential merchandise products: posters, mousepads, displays, action-characters, book
+- advertising series: one episode per key NPC
+- promotional "webcam": looped animated 3d scene from the game world for watching
+- `Common Fantasy (...) is divided into black & white, good & evil. Common Fantasy is neat, cleand and colorful. GOTHIC is different, gloomy, dark, mystical, strange, dangerous.`
