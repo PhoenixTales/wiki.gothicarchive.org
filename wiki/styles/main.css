@@ -513,3 +513,7 @@ body > a.edit {
   color: var(--text-body-color);
   opacity: 0.5;
 }
+
+article pre > code {
+    white-space: pre-wrap;
+}
