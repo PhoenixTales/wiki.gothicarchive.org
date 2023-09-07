@@ -19,6 +19,7 @@ title: Factions
 
 ## Nobility
 - _The Nobles_ have "dirty business" and are jelaous of generals' influence
+  - design docs imply that general(s) are also "Lords" (nobles)
 - ranks of nobility: king, lord, burgrave
 
 ## Army
