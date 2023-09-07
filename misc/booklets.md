@@ -131,3 +131,6 @@ Among the prisoners in the old camp were some who talked of visions and strange 
 
 Of the 12 Mages in the colony there were 6 of the circle of fire, and 6 of the circle of water. The fire mages thought it important that theKing should win the war. And so took it upon themselves to control the situation in the old camp. The water mages thought it more important to find out what went wrong with the barrier and to find a way to breech the magical walls surrounding them. They decided to go to the new camp to control the ore from the free mine and were certain it would lead them to freedom. And just another convict is thrown into the Barrier...
 ```
+
+## Phenomedia Annual Report "99
+- `Piranha Bytes is already working intensively on a follow-up game with Zerberus as a working title`
