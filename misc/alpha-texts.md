@@ -5,12 +5,11 @@ title: Alpha texts
 ## 0.94k text intro
 ```
 The kingdom of Myrtana is at war with the Northern Hordes.
-In these times, convicted men are thrown into the prison mine colony
-of Khorinis to provide the royal army with its most urgent need:
+
+In these times, convicted men are thrown into the prison mine colony of Khorinis to provide the royal army with its most urgent need:
 The magic ore from the mines.
 
-The king's master mages have surrounded the whole area
-with a magic barrier, a giant dome which prevents all convicts from escape.
+The king's master mages have surrounded the whole area with a magic barrier, a giant dome which prevents all convicts from escape.
 
 Ten years ago all royal guards were killed during a great revolt.
 
