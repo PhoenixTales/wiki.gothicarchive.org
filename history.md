@@ -20,10 +20,8 @@ title: History
   - this is mentioned by Mike, not in the booklets
 - _Rhotbar II_, son of _Rhotbar I_ ascends to the throne without ceremony
 - _First Orc War_
+  - `The situation was bad all over the country, especially in the mining towns. Thieves and deserters rioted and many prisoners fled the mines`
   - _Magic Barrier Of Khorinis_ is created to help with war effort
-    - `The situation was bad all over the country, especially in the mining towns. Thieves and deserters rioted and many prisoners fled the mines`
-    - `barrier that let all life in but not out`
-    - `No living being can pass through from the inside however, only lifeless ob-jects.`
   - raids quietly ended, Myrtana recovered
 - _Second Orc War_
   - orcs come back stronger and better organized
