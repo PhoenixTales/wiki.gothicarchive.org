@@ -56,6 +56,8 @@ title: Characters
 - called _Rhotbar II_ in the Gothic I handbook
 - `King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration`
 
+## Royal Judge
+
 ## Removed characters
 ```code
 ID                  | Name            | notes
