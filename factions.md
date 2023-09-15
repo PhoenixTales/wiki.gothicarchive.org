@@ -25,7 +25,7 @@ title: Factions
 ## Army
 - army is led by generals that are also king's trusted advisors
   - `King (...) left his generals to deal with the few remaining enemy troops`
-- special assignments like escorting royal governors are done by _Royal Guard_ in gold-themed armors
+- special assignments like escorting _Royal Judges_ are done by _Royal Guard_ in gold-themed armors
 - there's a fleet of _Royal Warships_
   - `I was involved in a mutiny as mate of a royal warship.`
   - `The King's Armada sank ship after ship`
