@@ -1,7 +1,7 @@
 ---
 title: Main page
 ---
-Welcome to the Gothic Archive wiki. 
+Welcome to the [Gothic Archive](https://gothicarchive.org) wiki. 
 
 It is a compilation of knowledge about the universe of cRPG Gothic (2001) by Piranha Bytes. We cover:
 - pre-release official promotional materials
