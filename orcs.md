@@ -25,6 +25,8 @@ title: Orcs
 - the orcs have ancient prophecies
   - `Ancient Orcish documents written shortly after the sealing of the underground temple mention a 'Holy Foe'`
   - `I have translated the Orcish prophecies and discovered what the five hearts are about.`
+- at least partially invulnerable to psionic magic
+  - `the orcs don't react to my magic spells like the gullible people in the Old Camp do` (Baal Lukor, G1-final)
 
 ## Undead High Orc Priests
 - `few centuries ago, five Orc shamen invoked a very old arch demon`
