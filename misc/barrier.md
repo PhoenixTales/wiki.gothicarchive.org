@@ -2,9 +2,14 @@
 title: Barrier
 ---
 
-```
-King Rhotbar chose to take desperate measures... THE BARRIER...
-```
+- great magic forcefield surrounding the whole `Mine Valley Of Khorinis`
+- was only supposed to surround the `Labor camp` including 
+- due to Barrier's magic radiation inside is always warm
+  - source: `Sleeper's Ban`
+- trying to cross it from inside to outside causes incapacitating "madness"
+  - considered impenetrable by prisoners
+  - no one ever managed to cross it and keep their brain working
+  - there are no signs that anyone is still trying to escape trough it
 
 ```
 In order to save his most precious mine in Khorinis,
@@ -35,7 +40,8 @@ Stunned, you stand gaping at the vastness of the barrier, frozen in a moment of 
 The dark humming hardly noticeable before, is now clearer and louder.
 ```
 
-## Secret forced work camp
+## Labor camp
+- made of few `magic ore` mines, small underground ironworks and a fortified prison
 - king sentences for lifetime in there even for being unable to pay taxes, and imports convicts from entire kingdom
 - `only a few news of what goes around inside there are known. Sometimes some rumors can be heard, but for some reason, the king, and the Lords of Khorinis keep all this information secret, so only a few know what's happening there.`
 - `My shed was as empty as my stomach, and I just couldn't pay. So one day the soldiers came and brought me here. (...) I'd always paid my taxes before - all my life. But that wasn't good enough for that son of a bitch with the crown!`
