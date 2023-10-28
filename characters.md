@@ -27,6 +27,7 @@ title: Characters
 - `has a lot to offer`
 - `during his experiments here in the Old Camp, some people rose to, well, new forms of existence, so that he had to leave the camp`
   - this may imply that he killed someone and turned them into undead
+- `He lives alone now, he leaves us alone, we leave him alone, and every now and then we do a few simple tasks for each other`
 
 ## Diego
 - called _Raoul_ on old website
