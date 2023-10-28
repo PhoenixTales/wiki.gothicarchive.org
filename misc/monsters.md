@@ -2,16 +2,6 @@
 title: Monsters
 ---
 
-## Minesprayer
-- known as `Felssprüher` in German version of `Sleeper's Ban`
-
-## Warhound
-- known as `Kriegshund` in German version of `Sleeper's Ban`
-
-## Polar badger
-- lives in the far northern lands of `Shirtakkihn` people
-- known as "Kumatekk" in the language of `Shirtakkihn`
-
 ## Mid'ssa
 - underwater monster living at the `Exchange Place`
 ```
@@ -29,4 +19,27 @@ It was dominated by greenish shining eyes and a wide, wide mouth with several ro
 Around were dozens of arm-thick, green-scaled tentacles diving in his direction, making the water splash against the edge of the cliff.
 ```
 
+## Minesprayer
+- known as `Felssprüher` in German version of `Sleeper's Ban`
 
+## Polar badger
+- lives in the far northern lands of `Shirtakkihn` people
+- known as "Kumatekk" in the language of `Shirtakkihn`
+
+## Polar Bear
+
+### Creesh a Suul's Polar Bear
+- `gigantic polar bears`
+- `four-meter-tall polar bear, and red runes of flames over the left side of the face and neck`
+- `bright red markings that covered the left side of the face, neck and upper body of these creatures`
+- `red mark covering the left side of a polar bear`
+- have special connection with `Creesh a Suul` poeple
+- `staring from a height of four meters`
+- `bright white fur, a wall of fur, head-sized paws with finger-length claws, panting mouths with long fangs`
+
+## Polar shark
+- `Sharks (...) whose skin was so brilliantly blue that it even faded the color of the sea in that bright sunshine.`
+- `bright blue fins`
+
+## Warhound
+- known as `Kriegshund` in German version of `Sleeper's Ban`
