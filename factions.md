@@ -3,9 +3,12 @@ title: Factions
 ---
 
 ## Alchemists Of Fire
-- 6 of them accidentally imprisoned in Khorinis Mine Valley `perform some services to the ore barons, in return for which they're allowed to play their own games.`
+- in the final game release known as `Fire Mages`
+- 6 of them accidentally imprisoned in Khorinis Mine Valley
+  - `perform some services to the ore barons, in return for which they're allowed to play their own games.` (_Sleeper's Ban_)
 
 ## Alchemists Of Water
+- in the final game release known as `Water Mages`
 - 6 of them accidentally imprisoned in Khorinis Mine Valley
   - `have been rambling for years that they want to carry out an escape plan` (_Sleeper's Ban_)
   - `they brew their potions with the ore and spoil it so that it can no longer be used; and this brew has so far not harmed the barrier`  (_Sleeper's Ban_)
