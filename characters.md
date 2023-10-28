@@ -22,6 +22,12 @@ title: Characters
 - was supposedly a sword master of the king
 - has ability to show others some kind of vision, that lets her test their character
 
+## The Demon Conjurer
+- ex `Alchemist Of Fire`
+- `has a lot to offer`
+- `during his experiments here in the Old Camp, some people rose to, well, new forms of existence, so that he had to leave the camp`
+  - this may imply that he killed someone and turned them into undead
+
 ## Diego
 - called _Raoul_ on old website
 - cynical thief
