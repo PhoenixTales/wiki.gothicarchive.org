@@ -63,3 +63,5 @@ title: Factions
 - `those 'I see the light' guys who believe that the visions and nightmares have something to do with someone deep down, an uncanny power that saves us all`
 - `bang like rabbits` according to an Old Camp member
 - their gurus are told to be able to `float in the air`
+- `they try to awaken this power with some dark ceremonies and call for it's help`
+- some blame them for demonic visions and earthquakes troubling the prisoners
