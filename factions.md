@@ -2,6 +2,9 @@
 title: Factions
 ---
 
+## Alchemists Of Fire
+- 6 of them accidentally imprisoned in Khorinis Mine Valley `perform some services to the ore barons, in return for which they're allowed to play their own games.`
+
 ## Army
 - army is led by generals that are also king's trusted advisors
   - `King (...) left his generals to deal with the few remaining enemy troops`
@@ -9,7 +12,7 @@ title: Factions
 - there's a fleet of _Royal Warships_
   - `I was involved in a mutiny as mate of a royal warship.`
   - `The King's Armada sank ship after ship`
-- army service is mandatory
+- army service is mandatory 
  - `all the others that were forced by the king to fight in the war against the orcs` (_Milten_ in Gothic I comic)
 - _Myrtana_ wins battles thanks to `the interplay of army and magic`
 
