@@ -5,6 +5,11 @@ title: Factions
 ## Alchemists Of Fire
 - 6 of them accidentally imprisoned in Khorinis Mine Valley `perform some services to the ore barons, in return for which they're allowed to play their own games.`
 
+## Alchemists Of Water
+- 6 of them accidentally imprisoned in Khorinis Mine Valley
+  - `have been rambling for years that they want to carry out an escape plan` (_Sleeper's Ban_)
+  - `they brew their potions with the ore and spoil it so that it can no longer be used; and this brew has so far not harmed the barrier`  (_Sleeper's Ban_)
+
 ## Army
 - army is led by generals that are also king's trusted advisors
   - `King (...) left his generals to deal with the few remaining enemy troops`
