@@ -55,13 +55,14 @@ title: History
   - `Orc hordes from the northlands swept across the borders and plundered hamlets and estates`
   - `Hoards of ores invading the land from the North`
 - `the king sent out his armies, had borders fortified and sent protective troops into the contested areas.`
-- 
 - raids somehow ended quietly (?) 
   - `battles (...) were small, brief skirmishes with no victors`
   - `The kingdom was gradually recovering from the wounds of the past. Wheat flourished in the fields and new trade agreements were signed.`
 - on _Khorinis_ there are `old fortifications dating back to the time of the first Orc war`
+  - according to Mike, that's because in those times Orc lived all over (under) Myrthana, not only in the North
 
 ## Second Orc War
+- `the great Orc Wars in the north`
 - `King Rhotbar knew the orcs were strong enough to wage war against Myrtana. But his army had grown small and few weapons were left at his disposal.`
 - `And then the orcs came. Like a storm swept over the land, the armies cut down and killed every human being that fell into their hands.`
 - king decides to send all sorts of prisoners and enemies of the society to _Royal Mines Of Khorinis_
