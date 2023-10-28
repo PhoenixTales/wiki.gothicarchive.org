@@ -69,7 +69,7 @@ title: Items
 ## Sruup
 - also known as `PSI potion`
 - vial with yellow liquid
-- addictive / neccessary for survival under barrier (`I need a psi vial urgently.`)
+- addictive / neccessary for survival under barrier (`I need a psi vial urgently`, `sruup addicts`)
 - provided from outside world in trade for ore
 - `You can get anything for ore, and the Sruup is also made with the help of this material`
 - `Without Sruup you will go mad, there are visions, visions of some temple, of orcs, of the undead; and they drive you crazy if you don't drink that stuff`
