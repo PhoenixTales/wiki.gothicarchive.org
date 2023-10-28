@@ -49,7 +49,7 @@ title: Factions
 
 ## Mercenaries
 - in German version of `Sleeper's Ban` known as `Söldnergilde`
-- in final released version of Gothic I known as `The Guards`
+- in final released version of Gothic I known as `The Guards Of Old Camp`
 - `the group that, put the Barons' ideas into practice.`
 
 ## Nobility
