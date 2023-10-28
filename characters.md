@@ -24,10 +24,10 @@ title: Characters
 
 ## The Demon Conjurer
 - ex `Alchemist Of Fire`
-- `has a lot to offer`
+- `has a lot to offer` (_Sleeper's Ban_)
 - `during his experiments here in the Old Camp, some people rose to, well, new forms of existence, so that he had to leave the camp`
-  - this may imply that he killed someone and turned them into undead
-- `He lives alone now, he leaves us alone, we leave him alone, and every now and then we do a few simple tasks for each other`
+  - this may imply that he killed someone and turned them into undead (source: _Sleeper's Ban_)
+- `He lives alone now, he leaves us alone, we leave him alone, and every now and then we do a few simple tasks for each other` (_Sleeper's Ban_)
 
 ## Diego
 - called _Raoul_ on old website
