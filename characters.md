@@ -14,6 +14,7 @@ title: Characters
 
 ## Dailah The Iceskin
 - one of `Creesh a Suul` people
+- `the first warrior of her people`
 - `Nobody can say exactly where does she comes from`
 - also called "The Amazon" and "Bear's Daughter"
 - has violet eyes
