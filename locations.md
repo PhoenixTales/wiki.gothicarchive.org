@@ -25,7 +25,7 @@ title: Locations
 - a remote city, one closest to the _Royal Ore Mines_
 - deserter was able to reach it from the _Northern Plains_ without help and detection
   - even though `deserting is one of the worst crimes in the kingdom`
-  - old official website indirectly mentions _Khorinis_ being `the next town` from a fort on _Northern Plains_
+  - old official website indirectly mentions _Khorinis_ being `the next town` from a fort by _Northern Plains_
   - `Als sein Spähtrupp von der herannahenden Orkarmee überrollt zu werden droht, sucht Milten rechtzeitig sein Heil in der Flucht. Völlig entkräftet schleppt er sich in die nächste Stadt, wo er unglücklicherweise von den Stadtwachen als Deserteur festgenommen wird.`
 - `I preferred to hide for a while and there was no better place for this than Khorinis`
 - ruled by the _Lords of Khorinis_ (_Gorn_ in Gothic I comic) or the _High Council_ (_Lester_ in Gothic I comic)
@@ -34,6 +34,7 @@ title: Locations
   - it was inspired by the movie "Escape from New York", with prison covering entire former city-island of Manhattan
   - _Gothic Der Comic_ shows city of Khorinis surrounded by mountains and without any view on the sea
   - finally it was on purpose left undefined, to let studio decide later
+- `Here they used to mine the ore, (...) before the accursed king made a prison out of it and created this barrier`
  
 ## Land of Cresh a Suul
 - `the north, where all the water freezes immediately`
