@@ -34,6 +34,20 @@ title: Locations
   - it was inspired by the movie "Escape from New York", with prison covering entire former city-island of Manhattan
   - _Gothic Der Comic_ shows city of Khorinis surrounded by mountains and without any view on the sea
   - finally it was on purpose left undefined, to let studio decide later
+ 
+## Land of Cresh a Suul
+- `the north, where all the water freezes immediately`
+- surrounded by `endless blue of an expanse of water`
+- `shining white shapes with bizarre jagged outlines, towering several hundred meters high. Icebergs.`
+  - `gigantic iceberg loomed several hundred meters above him`
+
+### City of Cresh a Suul
+```
+A city, or rather a pueblo-like complex, all born from the ice of the mountain, which covered almost the entire flank of this colossus; Hundreds of houses were there, with ledges, stairs, and walkways connecting them. Myriads of graceful turrets and minarets, which, in defiance of all laws of gravity, rose above them in the most impossible nooks and crannies. Everything seemed to be made of green, glittering ice.
+```
+```
+Point at the base of the mountain (...) Stomp took a closer look and saw a free-standing portal there, made up of two irregularly shaped ice columns, behind which a flight of stairs led up into the city and after about forty meters lost itself in the tangle of houses, turrets and stairs. Finally he reached the portal, (...) massive stalagmites of greenish-white shimmering ice, towering a good ten meters high. Beyond it was the wide, gently curved staircase.
+```
 
 ## Laran
 - home of famous scholar of magic _Barthos_
