@@ -21,9 +21,9 @@ title: Nations
 - particularly brutal and in some areas even man-eating
 
 ## Shirtakkihn
-- "northern race, he recognized them immediately by their white mane of hair, jet black eyes, broad faces and the famous bright blue tattoo on the forehead"
-- "used to the hard life in the polar regions"
-- "Just as proverbial as the wildness and aggressiveness of this animal species was the violence and unforgiveness
-of the Shirtakkihn"
-- "All of this people, children, women, men had proved to be feared fighters in their long history, and the members of the
-Kumatekk clan, who were the only ones allowed to wear this tattoo, were generally considered the elite warriors of this race."
+- `northern race, he recognized them immediately by their white mane of hair, jet black eyes, broad faces and the famous bright blue tattoo on the forehead`
+- `used to the hard life in the polar regions`
+- `Just as proverbial as the wildness and aggressiveness of this animal species was the violence and unforgiveness
+of the Shirtakkihn`
+- `All of this people, children, women, men had proved to be feared fighters in their long history, and the members of the
+Kumatekk clan, who were the only ones allowed to wear this tattoo, were generally considered the elite warriors of this race.`
