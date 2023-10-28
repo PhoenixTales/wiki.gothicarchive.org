@@ -58,10 +58,11 @@ title: Factions
 - ranks of nobility: king, lord, burgrave
 
 ## Psykers
-- `orange-clad`
-- `spend their whole day singing songs, stuffing themselves with all sorts of drugs as if it was a cotton candy`
-- `those 'I see the light' guys who believe that the visions and nightmares have something to do with someone deep down, an uncanny power that saves us all`
+- `orange-clad` (_Sleeper's Ban_)
+- `spend their whole day singing songs, stuffing themselves with all sorts of drugs as if it was a cotton candy` (_Sleeper's Ban_)
+- `those 'I see the light' guys who believe that the visions and nightmares have something to do with someone deep down, an uncanny power that saves us all` (_Sleeper's Ban_)
 - `bang like rabbits` according to an Old Camp member
 - their gurus are told to be able to `float in the air`
-- `they try to awaken this power with some dark ceremonies and call for it's help`
+- `They report some power that resides deep beneath us. And they try to awaken this power and call for help with some dark ceremonies.` (_Sleeper's Ban_)
+- `hold black masses every now and then in order to get through to this being with magical rituals` (_Sleeper's Ban_)
 - some blame them for demonic visions and earthquakes troubling the prisoners
