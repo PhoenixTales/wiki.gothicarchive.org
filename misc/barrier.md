@@ -8,7 +8,7 @@ title: Barrier
   - source: `Sleeper's Ban`
 - trying to cross it from inside to outside causes incapacitating "madness" and eventually catatonic state
   - considered impenetrable by prisoners
-  - no one ever managed to cross it and keep their brain working
+  - `all the attempts to break trough it so far were for nothing` (`Sleeper's Ban`)
   - there are no signs that anyone is still trying to escape trough it
 
 ```
