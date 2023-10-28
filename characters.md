@@ -20,6 +20,7 @@ title: Characters
 - known as `Eishaut` in German version of `Sleeper's Ban`
 - her sword has ornate hilt
 - was supposedly a sword master of the king
+- has ability to show others some kind of vision, that lets her test their character
 
 ## Diego
 - called _Raoul_ on old website
