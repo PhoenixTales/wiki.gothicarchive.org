@@ -12,6 +12,15 @@ title: Characters
 - owner of _Mountain Fortress_
 - past owner of some of _Royal Ore Mines_
 
+## Dailah The Iceskin
+- one of `Creesh a Suul` people
+- `Nobody can say exactly where does she comes from`
+- also called "The Amazon"
+- has violet eyes
+- known as `Eishaut` in German version of `Sleeper's Ban`
+- her sword has ornate hilt
+- was supposedly a sword master of the king
+
 ## Diego
 - called _Raoul_ on old website
 - cynical thief
@@ -27,15 +36,6 @@ title: Characters
 - `eeeh, loud noise waked GRUB. GRUB fee now.`
 - `GRUB see you are wizard, too.`
 - source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
-
-## Dailah The Iceskin
-- one of `Creesh a Suul` people
-- `Nobody can say exactly where does she comes from`
-- also called "The Amazon"
-- has violet eyes
-- known as `Eishaut` in German version of `Sleeper's Ban`
-- her sword has ornate hilt
-- was supposedly a sword master of the king
 
 ## Lee
 - initially he was serving as a guard in the king's court
