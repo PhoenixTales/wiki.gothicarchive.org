@@ -11,10 +11,14 @@ title: Locations
 - _arch demons_ live there and fight each other
 - according to early designs, player was supposed to be able to enter it, or even accidentally help a demon enter the world of living
 
+## Free Mine of Khorinis Mine Valley
+- there is an association of free miners mining for themselves
+- they trade the ore with other camps
+- they are under risk of invasion by `Old Camp`
+
 ## Great Northern Plains
 - `Following the heavy battles in the north, every countryman now knows how to use a bow and arrows`
 - `Hoards of orcs invading the land from the North` (old official website)
-
 
 ### Myrtanian Outpost
 - `I was a soldier in the fortress in the large plain from the north.`
@@ -58,6 +62,9 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - `In the center lies the Morgrad, containing the four elements earth, water, fire and air.`
 - similar to "Midgard" from Germanic mythology
 
+## Mountain Fort of Khorinis Mine Valley
+- farmers are farming grain aroind and making beer
+
 ## Myrtana
 - `The kingdom of Myrtana united by King Rhobar II`
   - `the one who united of the four Mirtanian kingdoms of the sea`
@@ -65,6 +72,10 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - called both `kingdom` and `empire of four united kingdoms`
 - also called _Martiana_ (alpha docs) _Myrthana_ (handbook) and _Mirtana_ (comic)
 - the original kingdom was on the continental lands known as _Midlands_
+
+## New Camp
+- according to `Sleeper's Ban`, North from `Old Camp`
+- populated by `Alchemists Of Water`, few of the `Farmers`, and their protectors (`Die Recken`)
 
 ## Nordmar
 - place with blast furnaces
