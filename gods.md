@@ -71,6 +71,8 @@ title: Gods
 - can gradually change into smoke and back, and walk trough the stone
   - `The creature turned its head and stared at the wall, where yellowish glimmer of light started to appear. It walked towards this glow and then without stopping, as if it was natural, disappeared into the rock with a soft hissing movement.`
 - can speak (`he heard that muffled, rumbling voice "Use the gift of the rock spray!"`)
+- possibly only visible to those it wants to be visible to, and invisible to others
+  - 
 - in `Sleeper's Ban` it saved Stomp (prototype of the Nameless Hero) from attackers who were going to murder him just after he was imprisoned
 ```
 And again he heard this rumbling and hissing, which came from the creature, but also seemed to echo from the ground below and from the rock next to him: "Keep the grace period!".
