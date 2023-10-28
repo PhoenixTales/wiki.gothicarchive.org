@@ -6,7 +6,7 @@ title: Barrier
 - was only supposed to surround the `Labor camp` including 
 - due to Barrier's magic radiation inside is always warm
   - source: `Sleeper's Ban`
-- trying to cross it from inside to outside causes incapacitating "madness"
+- trying to cross it from inside to outside causes incapacitating "madness" and eventually catatonic state
   - considered impenetrable by prisoners
   - no one ever managed to cross it and keep their brain working
   - there are no signs that anyone is still trying to escape trough it
@@ -38,6 +38,20 @@ Thousand metres in diameter, stretches over the prison reaching through the unde
 On the other side of the cliff you see the enormous shimmering dome, that you saw from afar, now towering above you.
 Stunned, you stand gaping at the vastness of the barrier, frozen in a moment of horror.
 The dark humming hardly noticeable before, is now clearer and louder.
+```
+
+```
+Without Sruup you will go just as insane as when you approach the barrier.
+You have to understand that this damned wall that surrounds us can only be crossed once and in one direction.
+You can completely forget about getting from the inside to the outside; anyone who comes closer than a step falls over, starts screaming and drooling like a newborn child.
+When you pull them out, they slowly recover.
+Those who weren't taken away in time, went permanently insane.
+They just screech, shit themselves and are incapable of any sensible action until they go to Kasakk's realm at some point, simply because they forget to eat, breathe, drink or whatever.
+```
+
+```
+The damn light here is always constant.
+There will be no day, no night, the light is always the same, the temperature is always the same; that too makes this damned barrier.
 ```
 
 ## Labor camp
