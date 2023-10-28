@@ -54,7 +54,7 @@ title: Factions
 
 ## Psykers
 - `orange-clad`
-- `spend their whole day singing songs, stuffing themselves with all sorts of drugs`
+- `spend their whole day singing songs, stuffing themselves with all sorts of drugs as if it was a cotton candy`
 - `those 'I see the light' guys who believe that the visions and nightmares have something to do with someone deep down, an uncanny power that saves us all`
 - `bang like rabbits` according to an Old Camp member
 - their gurus are told to be able to `float in the air`
