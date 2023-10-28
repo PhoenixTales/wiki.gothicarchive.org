@@ -28,6 +28,15 @@ title: Characters
 - `GRUB see you are wizard, too.`
 - source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
 
+## Dailah The Iceskin
+- one of `Creesh a Suul` people
+- `Nobody can say exactly where does she comes from`
+- also called "The Amazon"
+- has violet eyes
+- known as `Eishaut` in German version of `Sleeper's Ban`
+- her sword has ornate hilt
+- was supposedly a sword master of the king
+
 ## Lee
 - initially he was serving as a guard in the king's court
   - source: alpha docs
@@ -57,6 +66,7 @@ title: Characters
 - `King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration`
 
 ## Royal Judge
+- called "Archon" in `Sleeper's Ban`
 
 ## Removed characters
 ```code
