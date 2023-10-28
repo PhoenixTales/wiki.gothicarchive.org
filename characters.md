@@ -15,10 +15,9 @@ title: Characters
 ## Dailah The Iceskin
 - one of `Creesh a Suul` people
 - `Nobody can say exactly where does she comes from`
-- also called "The Amazon"
+- also called "The Amazon" and "Bear's Daughter"
 - has violet eyes
 - known as `Eishaut` in German version of `Sleeper's Ban`
-- her sword has ornate hilt
 - was supposedly a sword master of the king
 - has ability to show others some kind of vision, that lets her test their character
 
