@@ -13,10 +13,9 @@ title: Characters
 - past owner of some of _Royal Ore Mines_
 
 ## Dailah The Iceskin
-- one of `Creesh a Suul` people
+- uses title `Creesh a Suul` (`Daughter of a Bear`), is also called "The Amazon"
 - `the first warrior of her people`
-- `Nobody can say exactly where does she comes from`
-- also called "The Amazon" and "Bear's Daughter"
+- member of _Unknown Northern Race_, `Nobody can say exactly where does she comes from`
 - has violet eyes
 - known as `Eishaut` in German version of `Sleeper's Ban`
 - was supposedly a sword master of the king
