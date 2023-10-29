@@ -66,7 +66,7 @@ title: Factions
   - design docs imply that general(s) are also "Lords" (nobles)
 - ranks of nobility: king, lord, burgrave
 
-## Psykers
+## Psionics
 - `orange-clad` (_Sleeper's Ban_)
 - `spend their whole day singing songs, stuffing themselves with all sorts of drugs as if it was a cotton candy` (_Sleeper's Ban_)
 - `those 'I see the light' guys who believe that the visions and nightmares have something to do with someone deep down, an uncanny power that saves us all` (_Sleeper's Ban_)
