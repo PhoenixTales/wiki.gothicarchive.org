@@ -28,12 +28,12 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 
 ## Polar Bear
 
-### Creesh a Suul's Polar Bear
+### Polar Bear guarding Unknown Northern Race
 - `gigantic polar bears`
 - `four-meter-tall polar bear, and red runes of flames over the left side of the face and neck`
 - `bright red markings that covered the left side of the face, neck and upper body of these creatures`
 - `red mark covering the left side of a polar bear`
-- have special connection with `Creesh a Suul` poeple
+- have special connection with _Unknown Northern Race_
 - `staring from a height of four meters`
 - `bright white fur, a wall of fur, head-sized paws with finger-length claws, panting mouths with long fangs`
 
