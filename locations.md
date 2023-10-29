@@ -89,6 +89,7 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - German: `Altes Kastell`
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
 - in the final game moved to the _orc territorry_
+- in the early designs, farmers lived around it
 
 ## Royal Ore Mines
 - a prison colony in the mountains, containing deposits of iron and _Magic Ore_
