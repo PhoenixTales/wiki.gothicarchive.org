@@ -104,7 +104,7 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - there's ancient _Ring of Stone_ (or _Stone Circle of the Damned_) with underground vault / crypt / tomb
 - road to nearest city (_Khorinis_) goes trough the mountain pass in the north
   - `troll[s] (...) live in the northern mountains of the colony`
-- there are probably some areas to the east (ruler of _Mountain Fort_ comes from _Western Field_)
+- past ruler of the area comes from place called _Western Field_
 - there are ruins of _The Old Citadel_ on the hill south from _The Castle_
   - `They call it the old citadel`, `It's been a ruin for many decades.`
 - there is a _Mountain Fort_ that belonged to _Burgrave Bergmar_ of _Western Field_
