@@ -4,6 +4,7 @@ title: Barrier
 
 - great magic forcefield surrounding the whole `Mine Valley Of Khorinis`
 - `whitish shimmering wall` (_Sleeper's Ban_)
+- `gloomy, shimmering hemisphere, on the surface of which the light wavered, and worm-like movements could be seen, which seemed to change vaguely into structures` (_Sleeper's Ban_)
 - was only supposed to surround the `Labor camp`, including prison and a nearby mine, but expanded due to magic anomaly
 - due to Barrier's magic radiation inside is always warm
   - source: `Sleeper's Ban`
