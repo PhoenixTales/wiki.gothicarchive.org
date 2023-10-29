@@ -84,6 +84,12 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - ancient _Ore Armor_ of _Ancient General_ was made using similar technology
 - earliest real-world blast furnaces are from XII century
 
+## Old Citadel of Khorinis Mine Valley
+- completely ruined remains of a fortress on the top a steep hill
+- German: `Altes Kastell`
+- originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
+- in the final game moved to the _orc territorry_
+
 ## Royal Ore Mines
 - a prison colony in the mountains, containing deposits of iron and _Magic Ore_
   - `our king to slave-work in the iron-ore mines sentences you` (old official website)
