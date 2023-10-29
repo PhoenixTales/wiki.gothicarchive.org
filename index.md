@@ -6,6 +6,7 @@ Welcome to the [Gothic Archive](https://gothicarchive.org) wiki.
 It is a compilation of knowledge about the universe of cRPG Gothic (2001) by Piranha Bytes. We cover:
 - pre-release official promotional materials
 - unreleased and abandoned ideas, documents and demos made by Piranha Bytes members
+- book [Schläfer's Bann](https://media.gothicarchive.org/documents/sleepersban/Schlafers_Bann_Endversion_2020.pdf) by Alexander Wittmann
 - cutscenes, dialogues and booklet from the final release
 
 ## Contributing
