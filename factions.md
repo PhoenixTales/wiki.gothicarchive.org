@@ -41,6 +41,7 @@ title: Factions
 - `know how to grow grain and a few of them can even brew really good beer`
 
 ## Guards of New Camp
+- in the final game release known as `Mercenaries of New Camp`
 - known as `die Recken` in German version of `Sleeper's Ban`
 - protect `Alchemists of Water` and farmers living in `New Camp`
 
@@ -51,8 +52,8 @@ title: Factions
 - player was supposed to have a chance of discovering and joining it
 
 ## Mercenaries
-- in German version of `Sleeper's Ban` known as `Söldnergilde`
 - in final released version of Gothic I known as `The Guards Of Old Camp`
+- in German version of `Sleeper's Ban` known as `Söldnergilde`
 - `the group that, put the Barons' ideas into practice.`
 
 ## Nobility
