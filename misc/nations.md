@@ -20,9 +20,8 @@ of the Shirtakkihn`
 Kumatekk clan, who were the only ones allowed to wear this tattoo, were generally considered the elite warriors of this race.`
 
 ## Unknown Northern Race
-- seen in vision of homeland of _Dailah The Iceskin_
-  - `Nobody can say exactly where does she comes from`
-- `from the north, where all the water freezes immediately`
+- only seen in vision shown by _Dailah The Iceskin_, likely of her homeland
+  - `from the north, where all the water freezes immediately`, `Nobody can say exactly where does she comes from`
 - `wrapped in bright blue simple leather robes`
 - `blue eyes under blonde hair`
 - `bright blue wave pattern that covered the left side of the face and neck`
