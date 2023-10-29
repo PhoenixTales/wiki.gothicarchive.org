@@ -5,7 +5,7 @@ title: Items
 ## Almost Priceless Amulet
 - only mentioned in _Sleeper's Ban_
 - stored at treasury of the _Peace Council_ of _Stomp's Hometown_
-- `magically covered`
+- `magically proven` (?) (`magisch belegtes` in German)
 
 ## Ancient Shaman Swords
 - _Clefter of Worlds_ (`Welten Spalter`)
@@ -13,7 +13,6 @@ title: Items
 - _Blade of Time_ (`Zeiten Klinge`)
 - _Demon Strike_ (`Daemonen Streich`)
 - _Blade of Banishment_ (`Bann Klinge`)
-
 
 ## Anti-barrier amulet
 - `Magical Amulet against WS in order to get closer than 10m to the Barrier, without becoming insanse`
@@ -36,7 +35,6 @@ title: Items
 
 ### Speculation
 - anti-psionic, blocks magic sleep/visions?
-
 
 ## Holy Water
 - +10 to hp, mana, madness
