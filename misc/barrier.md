@@ -3,7 +3,7 @@ title: Barrier
 ---
 
 - great magic forcefield surrounding the whole `Mine Valley Of Khorinis`
-- was only supposed to surround the `Labor camp` including 
+- was only supposed to surround the `Labor camp`, including prison and a nearby mine, but expanded due to magic anomaly
 - due to Barrier's magic radiation inside is always warm
   - source: `Sleeper's Ban`
 - trying to cross it from inside to outside causes incapacitating "madness" and eventually catatonic state
