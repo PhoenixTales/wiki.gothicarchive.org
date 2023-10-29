@@ -74,7 +74,7 @@ title: Characters
 - `King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration`
 
 ## Royal Judge
-- called "Archon" in `Sleeper's Ban`
+- called "Court Archon" in `Sleeper's Ban`
 
 ## Removed characters
 ```code
