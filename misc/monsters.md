@@ -28,7 +28,7 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 
 ## Polar Bear
 
-### Polar Bear guarding Unknown Northern Race
+### Polar Bears guarding Unknown Northern Race
 - `gigantic polar bears`
 - `four-meter-tall polar bear, and red runes of flames over the left side of the face and neck`
 - `bright red markings that covered the left side of the face, neck and upper body of these creatures`
