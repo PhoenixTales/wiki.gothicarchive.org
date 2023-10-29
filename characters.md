@@ -141,7 +141,7 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 - `Stomp` is a nickname he took after being imprisoned, his real name is unknown
 - heir of a `respected merchant family`
 - going on drinking sprees in his hometown
-- friends with the `fencing instructor his father had appointed for him`
+- friends with the `fencing instructor his father had appointed for him`, they did `years of drilling`
 - sentenced due to conspiracy of his younger stepbrother, who framed him for stealing a valuable amulet and bribed the `Princeps` (German: `Prinzeps`) to sentence Stomp to a lifetime imprisonment in _Khorinis Prison Colony_ (it's mentioned that most of the other convicts committed much, much worse crimes than stealing something)
 - actually innocent of crimes
 - a `good swimmer` according to _Sleeper's Ban_
