@@ -26,3 +26,5 @@ Kumatekk clan, who were the only ones allowed to wear this tattoo, were generall
 - `wrapped in bright blue simple leather robes`
 - `blue eyes under blonde hair` (_Dailah_ has violet eyes instead)
 - `bright blue wave pattern that covered the left side of the face and neck`
+  - but `Dailah` has `deep RED tattoo that crisply and precisely covered the left side of the face and neck`
+- `tall, towering over the bystanders by a head`
