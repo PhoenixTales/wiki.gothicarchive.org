@@ -70,3 +70,10 @@ title: Factions
 - `They report some power that resides deep beneath us. And they try to awaken this power and call for help with some dark ceremonies.` (_Sleeper's Ban_)
 - `hold black masses every now and then in order to get through to this being with magical rituals` (_Sleeper's Ban_)
 - some blame them for demonic visions and earthquakes troubling the prisoners
+
+## Stomp's Family
+- only mentioned in _Sleeper's Ban_
+- `one of the largest trading houses in his hometown, used to living in a large mansion, looked after by servants`
+- head of the family lost his wife (dead?) and married again
+  - he has two sons, one from the first marriage who is his heir, and one from second marriage who is jealous of being the heir
+  - `his stepbrother, the man who came into the family through his father's second marriage and envied him from the start the position of heir.`
