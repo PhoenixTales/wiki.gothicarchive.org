@@ -116,3 +116,5 @@ There was a strange aroma in the air, smoky, sweet. He'd smelled that smell befo
 - `Kasakk put copper on the eyes of three of our men` (they died) 
 - `by Kasakk's stinking heap!`
 - `for Kasakk's sake, let's get out of here`
+- `Kasakk, Kasakk? Right, there was this little god, I remember`
+
