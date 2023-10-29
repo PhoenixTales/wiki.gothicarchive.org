@@ -28,11 +28,11 @@ title: Characters
 - `during his experiments here in the Old Camp, some people rose to, well, new forms of existence, so that he had to leave the camp`
   - this may imply that he killed someone and turned them into undead (source: _Sleeper's Ban_)
 - `He lives alone now, he leaves us alone, we leave him alone, and every now and then we do a few simple tasks for each other` (_Sleeper's Ban_)
-- `voice, which seemed to come from everywhere, soft and effeminate whisper` (German: `weibisch säuselnd`)
-- `the air seemed to wobble and the outlines behind it blurred, distorted by something that seemed to crystallize out of the air itself. A circular funnel of shimmering air appeared and out of this stepped a slim red-clad figure`
-- `The person opposite him appeared smaller than him, almost delicate. He was dressed in blood-red robes that flowed around his shoulders. A bush of blue-black hair crowned a soft, youthful, almost childlike face. The eyes were terrible, they were completely white, a brilliant white glow stared between the lids`
-- `The sweet smell of putrefaction became deafening and the voice could be heard again, while the red-robed man's face did not move a muscle`
-- `They call me the demon summoner. I have been privileged to make my servants some of the fascinating creatures of the lower hells`
+- `voice, which seemed to come from everywhere, soft and effeminate whisper` (German: `weibisch säuselnd`) (_Sleeper's Ban_)
+- `the air seemed to wobble and the outlines behind it blurred, distorted by something that seemed to crystallize out of the air itself. A circular funnel of shimmering air appeared and out of this stepped a slim red-clad figure` (_Sleeper's Ban_)
+- `The person opposite him appeared smaller than him, almost delicate. He was dressed in blood-red robes that flowed around his shoulders. A bush of blue-black hair crowned a soft, youthful, almost childlike face. The eyes were terrible, they were completely white, a brilliant white glow stared between the lids` (_Sleeper's Ban_)
+- `The sweet smell of putrefaction became deafening and the voice could be heard again, while the red-robed man's face did not move a muscle` (_Sleeper's Ban_)
+- `They call me the demon summoner. I have been privileged to make my servants some of the fascinating creatures of the lower hells` (_Sleeper's Ban_)
 
 ## Diego
 - called _Raoul_ on old website
