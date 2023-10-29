@@ -18,9 +18,6 @@ title: Magic
 - `the magic powers of the ore vanish during the smelting process`
 - `The best ore(...)is(...)in the ore mines of Khorinis.(...)A weapon forged from this steel(...)`
 
-### Speculation
-- explosion in contact with fireball can be explained by explosiveness of the magic ore itself, or by instantly transferring all of the ore's energy into the spell making contact with it
-
 ## Rune Stones
 - common spells are cast with _rune stones_
 - `holds a glowing stone in his hand, which is about as big as a fist`
@@ -41,13 +38,6 @@ title: Magic
 - much easier to release than charge
 - can be used to cast "high magic" spells, like giant force-fields or explosions able to destroy such force-fields
 - casting a spell with focus stone uses magic power from the stone, not (only) from the mage
-
-### Speculation
-- possibly magically explosive when charged
-- possibly changes color depending on current energy:
-  - from gray-transparent (like on Discharged Uriziel)
-  - trough color of water battle (like partially(?) discharged Focus Stones of mine valley)
-  - to intense dark blue (like on charged Uriziel)
 
 ## Uriziel
 - sword powerful enough to harm, but not kill, arch demon
