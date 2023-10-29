@@ -35,7 +35,7 @@ title: Factions
 - there's mention of _Crusade_ (`Kreuzzug`)
 
 ## Farmers of Khorinis Mine Valley
-- live around the `Mountain Fort`
+- live around the _Old Citadel_ (German: `Altes Kastell`)
 - peaceful, grown their own food and trade it with camps
 - some of them lived around the valley already before it became prison colony
 - `know how to grow grain and a few of them can even brew really good beer`
