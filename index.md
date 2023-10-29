@@ -13,7 +13,7 @@ It is a compilation of knowledge about the universe of cRPG Gothic (2001) by Pir
 To contribute, submit a change ("pull request") [on GitHub](https://github.com/phoenixTales/wiki.gothicarchive.org). The easiest way to do this is the `edit` button in the bottom right corner of each page. After the change is reviewed by our moderation team, it will appear online. Your contribution will be credited in the [commit history here](https://github.com/PhoenixTales/wiki.gothicarchive.org/commits/main). Content quoted on this wiki is Copyright 1997-2001 [Piranha Bytes Software GmbH](https://piranha-bytes.com/). The compilation and analysis are under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) - you agree that whatever you contribute may be used by anyone for free, as long as they credit you.
 
 ### Speculation
-Speculation on how to fix / elaborate on Piranha Bytes' material is not welcome. Please only quote or summarize, and avoid anything that is not present in source material.
+Speculation on how to fix / elaborate on Piranha Bytes' material is not welcome. Please only quote, summarize or synthesize, and avoid anything that is not present in source material at all.
 
 ### Other games
 We accept information from other Piranha Bytes projects, but only if it expands on ideas that first appeared during development of Gothic I, and is separated under sub-heading "Other Games".
