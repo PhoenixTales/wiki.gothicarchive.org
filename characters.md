@@ -136,7 +136,7 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 ```
 
 ## Stomp
-- in the fimal release known as `The Nameless One`
+- in the final release known as `The Nameless One`
 - main character of _Sleeper's Ban_ and _Gothic I_
 - `Stomp` is a nickname he took after being imprisoned, his real name is unknown
 - heir of a `respected merchant family`
