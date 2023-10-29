@@ -39,22 +39,6 @@ title: Locations
   - _Gothic Der Comic_ shows city of Khorinis surrounded by mountains and without any view on the sea
   - finally it was on purpose left undefined, to let studio decide later
 - `Here they used to mine the ore, (...) before the accursed king made a prison out of it and created this barrier`
- 
-## Land of Cresh a Suul
-- `the north, where all the water freezes immediately`
-- surrounded by `endless blue of an expanse of water`
-- `shining white shapes with bizarre jagged outlines, towering several hundred meters high. Icebergs.`
-  - `gigantic iceberg loomed several hundred meters above him`
-- convicts of _Khorinis Prison Colony_ seem to be unsure where it is exactly, it's said about one _Cresh a Suul_: `Nobody can say exactly where does she comes from`
-
-### City of Cresh a Suul
-- the city is only described in a vision sent to _Stomp_ by _Creesh a Suul_, it's not made clear if it accurately describes actual location in _Morgrad_, or if it's fantastic dream only containing some seed of truth
-```
-A city, or rather a pueblo-like complex, all born from the ice of the mountain, which covered almost the entire flank of this colossus; Hundreds of houses were there, with ledges, stairs, and walkways connecting them. Myriads of graceful turrets and minarets, which, in defiance of all laws of gravity, rose above them in the most impossible nooks and crannies. Everything seemed to be made of green, glittering ice.
-```
-```
-Point at the base of the mountain (...) Stomp took a closer look and saw a free-standing portal there, made up of two irregularly shaped ice columns, behind which a flight of stairs led up into the city and after about forty meters lost itself in the tangle of houses, turrets and stairs. Finally he reached the portal, (...) massive stalagmites of greenish-white shimmering ice, towering a good ten meters high. Beyond it was the wide, gently curved staircase.
-```
 
 ## Laran
 - home of famous scholar of magic _Barthos_
@@ -91,6 +75,22 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
 - in the final game moved to the _orc territorry_
 - in the early designs, farmers lived around it
+ 
+## Polar north
+- home of _Cresh a Suul_ and _Shirtakkihn_ tribe, as well as of _Polar Bears_, _Polar Badgers_ and _Polar Sharks_
+- `the north, where all the water freezes immediately`
+- surrounded by `endless blue surface of water`
+- `shining white shapes with bizarre jagged outlines, towering several hundred meters high. Icebergs.`
+  - `gigantic iceberg loomed several hundred meters above him`
+
+### The Ice City
+- the city is only described in a vision sent to _Stomp_ by _Creesh a Suul_, it's not made clear if it accurately describes actual location in _Morgrad_, or if it's fantastic dream only containing some seed of truth
+```
+A city, or rather a pueblo-like complex, all born from the ice of the mountain, which covered almost the entire flank of this colossus; Hundreds of houses were there, with ledges, stairs, and walkways connecting them. Myriads of graceful turrets and minarets, which, in defiance of all laws of gravity, rose above them in the most impossible nooks and crannies. Everything seemed to be made of green, glittering ice.
+```
+```
+Point at the base of the mountain (...) Stomp took a closer look and saw a free-standing portal there, made up of two irregularly shaped ice columns, behind which a flight of stairs led up into the city and after about forty meters lost itself in the tangle of houses, turrets and stairs. Finally he reached the portal, (...) massive stalagmites of greenish-white shimmering ice, towering a good ten meters high. Beyond it was the wide, gently curved staircase.
+```
 
 ## Royal Ore Mines
 - a prison colony in the mountains, containing deposits of iron and _Magic Ore_
