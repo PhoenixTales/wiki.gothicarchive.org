@@ -15,22 +15,16 @@ title: Religion
 ## Ra, God Of The Sun
 - `I am the rising sun, the light, and the life`
 - king of Myrtana is `governor of the highest god, Ra`
-
-### Speculation
-- spells of the Sun: healing, light, transformation into animal
-  - they have yellow color theme, corresponding to `g1-final\data\Textures\Level\Tempel\256\OtWaMaskSun.tga`
-- symbolized by bright yellow 8-armed star
-  - based on `g1-final\data\Textures\Level\Tempel\256\OtWaMaskSun.tga`
+- as suggested by `OtWaMaskSun.tga`, symbolized by bright yellow 8-armed star
+- there are spells that in game have yellow color theme, which is linked with term `sun`: healing, light, transformation into animal
+  - see `g1-final\data\Textures\Level\Tempel\256\OtWaMaskSun.tga` and other `OtWaMask...tga`
+- does not appear in the final release of the game, apparently replaced with _Innos_
 
 ## Innos, God Of Fire
 - `The god of light, truth and justice`
 - `Innos, the highest of all gods`
 - spells of Fire: ball, bolt, rain, storm
-
-### Speculation
-- at some point, was merged with Ra and became highest god of Myrtana
-- symbolized by red flame
-  - based on `g1-final\data\Textures\Level\Tempel\256\OtWaMaskFire.tga`
+- as suggested by `OtWaMaskSun.tga`, symbolized by red flame
 
 ## Adanos, God Of Water
 - before called _Cyvanis_
@@ -40,10 +34,7 @@ title: Religion
 - `god Adanos, who is the balance between good and evil`
 - spells of Lightning: chain, ball
 - spells of Ice: block, wave, bolt
-
-### Speculation
-- symbolized by light blue droplet
-  - based on `g1-final\data\Textures\Level\Tempel\256\OtWaMaskWater.tga`
+- as suggested by `OtWaMaskSun.tga`, symbolized by light blue droplet
 
 ## Beliar, God of Darkness
 - before called _Vandras_
@@ -54,10 +45,7 @@ title: Religion
 - `until my body shall return to the realm of Beliar and the fire of my life be extinguished`
 - `the mightiest spell of the Fifth Circle is the Ripple of Death. (...) Be careful to use this kind of magic as little as possible. It's a gift from the god of darkness.`
 - spells of Darkness: breath of death, death to the undead, summon demon/skeleton/golem
-
-### Speculation
-- symbolized by crescent moon on dark purple
-  - based on `g1-final\data\Textures\Level\Tempel\256\OtWaMaskMoon.tga`
+- as suggested by `OtWaMaskSun.tga`, symbolized by crescent moon on dark purple
 
 ## Arch demon Sleeper
 - `The Sleeper(...)has been sleeping for a thousand years, but now the moment of his awakening is near.`
