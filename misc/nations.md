@@ -11,6 +11,7 @@ title: Nations
   - they have `ornate hilts`
   - permanently freeze hand of the thief who steals them
 - have special connection with `Polar Bears`
+- at least some of them have violet eyes
 
 ## Hueroth
 - northern tribe known reddish beards and blue eyes
