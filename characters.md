@@ -161,3 +161,8 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 - `bright yellow eyes and a relaxed grin on his lean, weathered face`
 - `the old man's cloak began to sway, although he felt no wind (...) the noise rang out: It seemed to come deeply from the earth, the stones under his feet vibrated at its sound. It was a growl, underlaid by hissing noises, deep, booming, and slowly rising. (...) the old man had risen. He stood upright on the boulder, the cloak waved behind him with a loud, almost horizontal flutter... The sound swelled, louder, and louder... Then Stomp found himself crouching on the floor, the pebbles pressing painfully through his Thin trousers, and when he straightened up in a daze he saw the old man sitting with his legs dangling on the boulder, humming a tune and holding a long-handled pipe from which thick clouds of smoke rose.`
 - `he turned to the old man "I have to you thank you, I don't know what..." He fell silent because the boulder was empty. Looking around wildly, Stomp searched the beach and saw no sign of the old man anywhere. Only a cloud of the sweet smelling smoke that had emerged from the strange person's pipe still hovered over the stone.`
+
+
+## Warhound
+- known as `Kriegshund` in German version of `Sleeper's Ban`
+- person, son of an ore baron
