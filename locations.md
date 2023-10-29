@@ -45,6 +45,7 @@ title: Locations
 - surrounded by `endless blue of an expanse of water`
 - `shining white shapes with bizarre jagged outlines, towering several hundred meters high. Icebergs.`
   - `gigantic iceberg loomed several hundred meters above him`
+- convicts of _Khorinis Prison Colony_ seem to be unsure where it is exactly, it's said about one _Cresh a Suul_: `Nobody can say exactly where does she comes from`
 
 ### City of Cresh a Suul
 ```
