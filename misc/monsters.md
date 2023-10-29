@@ -40,6 +40,3 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 ## Polar shark
 - `Sharks (...) whose skin was so brilliantly blue that it even faded the color of the sea in that bright sunshine.`
 - `bright blue fins`
-
-## Warhound
-- known as `Kriegshund` in German version of `Sleeper's Ban`
