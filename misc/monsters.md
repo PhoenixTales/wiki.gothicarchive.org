@@ -21,6 +21,9 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 
 ## Minesprayer
 - known as `Felssprüher` in German version of `Sleeper's Ban`
+- great underground monster
+- usually takes multiple people to kill one
+- it's venom is an acid that quickly melts rock and can be stored in glass vials
 
 ## Polar badger
 - lives in the far northern lands of `Shirtakkihn` people
@@ -40,3 +43,9 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 ## Polar shark
 - `Sharks (...) whose skin was so brilliantly blue that it even faded the color of the sea in that bright sunshine.`
 - `bright blue fins`
+
+## Stonestrangler
+- probably later renamed `minecrawler`
+- `they are five meters long and look like giant cockroaches` (_Sleeper's Ban_)
+- `SNAP! - a large, hooked gripping arm rattles towards you, claws at your back and pulls you into a tube like this, faster than you can say "stonestrangler"` (_Sleeper's Ban_)
+- `we thought a stonestrangler had already feasted on you and laid its eggs in your flesh.` (_Sleeper's Ban_)
