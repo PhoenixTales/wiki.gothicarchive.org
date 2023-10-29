@@ -25,4 +25,4 @@ We are a [team of a few hardcore Gothic I fans](https://phoenixtales.de/) who di
 
 In our fan projects we are trying to extrapolate in the opposite direction. We analyze early and rejected ideas of Piranha Bytes, expand and build around them. 
 
-We need this compilation internally to ensure consensus on what the "pre-alpha-to-final Gothic I" canon entails. We make this analysis public under Creative Commons license to benefit other Gothic nerds and fan projects in the making. The individual pieces of source material are intellectual property of Piranha Bytes GmbH, Mike Hoge, Alexander Wittman and others.
+We need such wiki internally to ensure consensus on what the "pre-alpha-to-final Gothic I" canon entails. We make this compilation public under Creative Commons license to benefit other Gothic nerds and fan projects in the making. The individual pieces of source material are intellectual property of Piranha Bytes GmbH, Mike Hoge, Alexander Wittman and others.
