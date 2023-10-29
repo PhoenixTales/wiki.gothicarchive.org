@@ -140,6 +140,8 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 - main character of _Sleeper's Ban_ and _Gothic I_
 - `Stomp` is a nickname he took after being imprisoned, his real name is unknown
 - heir of a `respected merchant family`
+- going on drinking sprees in his hometown
+- friends with his fencing teacher (probably employed by his family)
 - sentenced due to conspiracy of his younger stepbrother, who framed him for stealing a valuable amulet and bribed the `Princeps` (German: `Prinzeps`) to sentence Stomp to a lifetime imprisonment in _Khorinis Prison Colony_ (it's mentioned that most of the other convicts committed much, much worse crimes than stealing something)
-- was friends with his fencing teacher
+- actually innocent of crimes
 - a `good swimmer` according to _Sleeper's Ban_
