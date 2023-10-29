@@ -6,6 +6,7 @@ title: Barrier
 - `whitish shimmering wall` (_Sleeper's Ban_)
 - `gloomy, shimmering hemisphere, on the surface of which the light wavered, and worm-like movements could be seen, which seemed to change vaguely into structures` (_Sleeper's Ban_)
 - `a perfect sphere ten miles in diameter` (_Sleeper's Ban_)
+- `he stumbled towards the white of the barrier. The movements in it seemed to get faster and with horror he saw little white fingers of light stretching out in his direction, as if eager to take him` (_Sleeper's Ban_)
 - was only supposed to surround the `Labor camp`, including prison and a nearby mine, but expanded due to magic anomaly
 - due to Barrier's magic radiation inside is always warm
   - source: `Sleeper's Ban`
