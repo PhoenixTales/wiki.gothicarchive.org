@@ -26,9 +26,11 @@ Kumatekk clan, who were the only ones allowed to wear this tattoo, were generall
 - `blue eyes under blonde hair`
 - `bright blue wave pattern that covered the left side of the face and neck`
 - at least _Dailah_ is `tall, towering over the bystanders by a head`
+- have special connection with giant _Polar Bears_ tattooed in similar way
 
-### Cresh a Suul
-- _Dailah_ the _Cresh a Suul_ likely comes from the same land, but is visually different than people seen in vision she shown to Stump
+### Cresh a Suul (Daughter of a Bear)
+- _Dailah_ the _Cresh a Suul_ (Daughter of a Bear) likely comes from the same land, but is visually different than people seen in vision she shown to Stump
 - has violet eyes and black hair
 - her tattoo is in exactly the same place, but just like her armor is red instead of blue
+  - her tattoo is the same position and color as tattoo of _Polar Bears_ guarding _Unknown Northern Race_ 
 - she is `tall, towering over the bystanders by a head`
