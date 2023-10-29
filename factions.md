@@ -77,6 +77,7 @@ title: Factions
 
 ## Stomp's Family
 - only mentioned in _Sleeper's Ban_
+- `respected merchant family`
 - `one of the largest trading houses in his hometown, used to living in a large mansion, looked after by servants`
 - head of the family lost his wife (dead?) and married again
   - he has two sons, one from the first marriage who is his heir, and one from second marriage who is jealous of being the heir
