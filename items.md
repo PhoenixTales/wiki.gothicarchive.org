@@ -71,7 +71,7 @@ title: Items
 ## Silver Amulet
 
 ## Sruup
-- also known as `PSI potion`
+- appears mostly in _Sleeper's Ban_, but also in alpha builds as `PSI potion`
 - vial with yellow liquid
 - addictive / neccessary for survival under barrier (`I need a psi vial urgently`, `sruup addicts`)
 - provided from outside world in trade for ore
