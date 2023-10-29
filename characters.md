@@ -145,6 +145,7 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 - sentenced due to conspiracy of his younger stepbrother, who framed him for stealing a valuable amulet and bribed the `Princeps` (German: `Prinzeps`) to sentence Stomp to a lifetime imprisonment in _Khorinis Prison Colony_ (it's mentioned that most of the other convicts committed much, much worse crimes than stealing something)
 - actually innocent of crimes
 - a `good swimmer` according to _Sleeper's Ban_
+- `a city dweller who had little knowledge of the wilderness`
 
 ## The Old Man
 - only appears in _Sleeper's Ban_
