@@ -76,7 +76,7 @@ title: Characters
 ## Royal Judge
 - called "Court Archon" in `Sleeper's Ban`
 
-## Removed characters
+## Removed characters from alpha builds
 ```code
 ID                  | Name            | notes
 --------------------|-----------------|--------------------------
