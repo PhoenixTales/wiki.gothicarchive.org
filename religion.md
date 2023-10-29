@@ -18,7 +18,7 @@ title: Religion
 - as suggested by `OtWaMaskSun.tga`, symbolized by bright yellow 8-armed star
 - some of the in-game spells have yellow color theme, which is linked with term `sun`: healing, light, transformation into animal
   - compare textures of runes and scrolls with matching textures of deity symbols
-  - ( `g1-final\data\Textures\Level\Tempel\256\OtWaMask{Fire|Water|Moon|Sun}.tga`)
+  - ( `g1-final\data\Textures\Level\Tempel\256\OtWaMask{Fire|Water|Moon|Sun}.tga`, `ItAr_Scrolls.tga`, `ItArRunes.tga`)
   - red: `fire`, blue: `water`, purple: `moon`, yellow: `sun`, green: doesn't correspond to symbol of any deity (these are psionic spells of the sect)
 - does not appear in the final release of the game, mostly replaced with _Innos_
   - final in-game texts mention spells mentioned above as belonging to either element of `fire` or `water` instead of the `sun`
