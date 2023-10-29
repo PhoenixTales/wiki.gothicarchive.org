@@ -47,5 +47,5 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 ## Stonestrangler
 - probably later renamed `minecrawler`
 - `they are five meters long and look like giant cockroaches` (_Sleeper's Ban_)
-- `SNAP! - a large, hooked gripping arm rattles towards you, claws at your back and pulls you into a tube like this, faster than you can say "stonestrangler"` (_Sleeper's Ban_)
+- `they dig attack tunnels through the stone and camouflage the opening to look like solid rock (...) BOOM! - a large, hooked arm rattles towards you, grabs your back and pulls you one of these tubes, faster than you can say "stonestrangler"` (_Sleeper's Ban_)
 - `we thought a stonestrangler had already feasted on you and laid its eggs in your flesh.` (_Sleeper's Ban_)
