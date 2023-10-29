@@ -10,7 +10,7 @@ title: Religion
 
 ## Priests
 -  _Priests of Innos_ are members of _House of Innos_ 
-  - some of priests of Innos are members of _Circle of Fire_ and known as _Mages of Fire_ or _Fire Mages_
+  - some of priests of Innos are members of _Circle of Fire_ and known as _Alchemists of Fire_ or _Fire Mages_
  
 ## Ra, God Of The Sun
 - `I am the rising sun, the light, and the life`
