@@ -126,6 +126,12 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 ## Sendar
 - homeland of _Milten Plescott_
 
+## Stomp's Hometown
+- only mentioned in _Sleeper's Ban_
+- there are multiple `trading houses` ran by rich families
+- there is at least one `large mansion` with multiple servants
+- there is a `peace council` (`der Friedensräte der Stadt`) with a treasury storing valuable artefacts
+
 ## Stone Circle Of The Damend
 - stone circle in _Mine Valley of Khorinis_
 - has power to create undead and resurrect (player respawn point in multiplayer mode)
