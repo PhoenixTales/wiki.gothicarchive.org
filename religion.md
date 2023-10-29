@@ -1,5 +1,5 @@
 ---
-title: Gods
+title: Religion
 ---
 
 ## National religion of Myrtana
@@ -104,3 +104,15 @@ The massive skull twisted and the yellow lights fixed on his astonished face.
 ```
 There was a strange aroma in the air, smoky, sweet. He'd smelled that smell before, but couldn't tell when or where.
 ```
+
+## Kasakk
+- only mentioned in _Sleeper's Ban_
+- appears to be the deity of the realm of the dead, similarly to _Beliar_ from the final game release
+  - `until they go to Kasakk's realm at some point, simply because they forget to eat or breathe or drink or whatever`
+- mentioned by the convicts, including main character, way more often than any other deity
+- `in Kasakk's name, let me kindly all alone!`
+- `thank Kasakk they are not organized`
+- `He really deserved it, in Kasakk's name`
+- `Kasakk put copper on the eyes of three of our men` (they died) 
+- `by Kasakk's stinking heap!`
+- `for Kasakk's sake, let's get out of here`
