@@ -16,7 +16,9 @@ title: Characters
 - uses title `Creesh a Suul` (`Daughter of a Bear`), is also called "The Amazon"
 - `the first warrior of her people`
 - member of _Unknown Northern Race_, `Nobody can say exactly where does she comes from`
-- has violet eyes
+- `the most beautiful woman he had met in his life`
+- `tall, towering over the bystanders by a head`, `youthful, tight body`
+- `Explosion of jet black hair`, `violet eyes`
 - known as `Eishaut` in German version of `Sleeper's Ban`
 - was supposedly a sword master of the king
 - has ability to show others some kind of vision, that lets her test their character
