@@ -36,6 +36,7 @@ title: Factions
 
 ## Farmers of Khorinis Mine Valley
 - live around the _Old Citadel_ (German: `Altes Kastell`)
+  - originally, the New Camp was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the New Camp running through the fields
 - peaceful, grown their own food and trade it with camps
 - some of them lived around the valley already before it became prison colony
 - `know how to grow grain and a few of them can even brew really good beer`
