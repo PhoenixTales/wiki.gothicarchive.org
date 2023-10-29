@@ -25,4 +25,4 @@ We are a [team of a few hardcore Gothic I fans](https://phoenixtales.de/) who di
 
 In our fan projects we are trying to extrapolate in the opposite direction. We analyze early and rejected ideas of Piranha Bytes, expand and build around them. 
 
-We need this wiki internally to ensure consensus on what the "pre-alpha-to-final Gothic I" canon entails. We make it public to benefit other Gothic nerds and fan projects in the making. 
+We need this wiki internally to ensure consensus on what the "pre-alpha-to-final Gothic I" canon possibly entails. We make it public to benefit other Gothic nerds and fan projects in the making. 
