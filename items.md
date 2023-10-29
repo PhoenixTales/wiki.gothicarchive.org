@@ -2,6 +2,11 @@
 title: Items
 ---
 
+## Almost Priceless Amulet
+- only mentioned in _Sleeper's Ban_
+- stored at treasury of the _Peace Council_ of _Stomp's Hometown_
+- `magically covered`
+
 ## Ancient Shaman Swords
 - _Clefter of Worlds_ (`Welten Spalter`)
 - _Blade of Light_ (`Licht Bringer`)
