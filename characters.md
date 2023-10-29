@@ -22,6 +22,8 @@ title: Characters
 - known as `Eishaut` in German version of `Sleeper's Ban`
 - was supposedly a sword master of the king
 - has ability to show others some kind of vision, that lets her test their character
+- wears `red-brown leather armor`
+- `deep red tattoo that sharply and precisely covered the left side of the face and neck`
 
 ## Demon Summoner
 - ex `Alchemist Of Fire`
