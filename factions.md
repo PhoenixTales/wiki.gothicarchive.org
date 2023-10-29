@@ -48,7 +48,8 @@ title: Factions
 
 ## Guild of Mages
 - only mentioned in _Sleeper's Ban_, as `der Magiergilde`
-- jointly ruled by _The Principals_ (`Prinzipalen`): 6 _Alchemists Of Fire_ and 6 _Alchemists Of Water_
+- ruled by 12 _Principals_ (`Prinzipalen`)
+  - originally they were all _Alchemists Of Fire_, later 6 of them were replaced with _Alchemists Of Water_
 
 ## Masters
 - secret secondary guild accepting members of all the camps
