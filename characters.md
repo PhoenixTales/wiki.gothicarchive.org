@@ -15,7 +15,7 @@ title: Characters
 ## Dailah The Iceskin
 - uses title `Creesh a Suul` (`Daughter of a Bear`), is also called "The Amazon"
 - `the first warrior of her people`
-- member of _Unknown Northern Race_, `Nobody can say exactly where does she comes from`
+- probably member of _Unknown Northern Race_ (`Nobody can say exactly where does she comes from`)
 - `the most beautiful woman he had met in his life`
 - `tall, towering over the bystanders by a head`, `youthful, tight body`
 - `Explosion of jet black hair`, `violet eyes`
