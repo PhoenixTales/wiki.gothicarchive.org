@@ -19,13 +19,10 @@ of the Shirtakkihn`
 - `All of this people, children, women, men had proved to be feared fighters in their long history, and the members of the
 Kumatekk clan, who were the only ones allowed to wear this tattoo, were generally considered the elite warriors of this race.`
 
-## Unknown northern race
+## Unknown Northern Race
 - _Dailah The Iceskin_ is one of them
+  - `Nobody can say exactly where does she comes from`
 - `from the north, where all the water freezes immediately`
 - `wrapped in bright blue simple leather robes`
 - `blue eyes under blonde hair` (_Dailah_ has violet eyes instead)
 - `bright blue wave pattern that covered the left side of the face and neck`
-- their swords are called `Qinna Suul` 
-  - they have `ornate hilts`
-  - permanently freeze hand of the thief who steals them
-- have special connection with `Polar Bears`
