@@ -26,10 +26,11 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - it's venom is an acid that quickly melts rock and can be stored in glass vials
 
 ## Polar badger
-- lives in the far northern lands of `Shirtakkihn` people
+- lives in the far _Polar North_
 - known as "Kumatekk" in the language of `Shirtakkihn`
 
 ## Polar Bear
+- lives in the far _Polar North_
 
 ### Polar Bears guarding Unknown Northern Race
 - `gigantic polar bears`
@@ -41,6 +42,7 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - `bright white fur, a wall of fur, head-sized paws with finger-length claws, panting mouths with long fangs`
 
 ## Polar shark
+- lives in the far _Polar North_
 - `Sharks (...) whose skin was so brilliantly blue that it even faded the color of the sea in that bright sunshine.`
 - `bright blue fins`
 
