@@ -48,6 +48,7 @@ title: Locations
 - convicts of _Khorinis Prison Colony_ seem to be unsure where it is exactly, it's said about one _Cresh a Suul_: `Nobody can say exactly where does she comes from`
 
 ### City of Cresh a Suul
+- the city is only described in a vision sent to _Stomp_ by _Creesh a Suul_, it's not made clear if it accurately describes actual location in _Morgrad_, or if it's fantastic dream only containing some seed of truth
 ```
 A city, or rather a pueblo-like complex, all born from the ice of the mountain, which covered almost the entire flank of this colossus; Hundreds of houses were there, with ledges, stairs, and walkways connecting them. Myriads of graceful turrets and minarets, which, in defiance of all laws of gravity, rose above them in the most impossible nooks and crannies. Everything seemed to be made of green, glittering ice.
 ```
