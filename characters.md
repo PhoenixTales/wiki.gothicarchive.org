@@ -22,7 +22,7 @@ title: Characters
 - was supposedly a sword master of the king
 - has ability to show others some kind of vision, that lets her test their character
 
-## The Demon Conjurer
+## Demon Summoner
 - ex `Alchemist Of Fire`
 - `has a lot to offer` (_Sleeper's Ban_)
 - `during his experiments here in the Old Camp, some people rose to, well, new forms of existence, so that he had to leave the camp`
