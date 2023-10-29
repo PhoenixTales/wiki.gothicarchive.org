@@ -25,7 +25,11 @@ Kumatekk clan, who were the only ones allowed to wear this tattoo, were generall
 - `from the north, where all the water freezes immediately`
 - `wrapped in bright blue simple leather robes`
 - `blue eyes under blonde hair`
-  - but _Dailah_ has violet eyes and black hair instead
 - `bright blue wave pattern that covered the left side of the face and neck`
-  - but `Dailah` has `deep RED tattoo that crisply and precisely covered the left side of the face and neck`
-- _Dailah_ is `tall, towering over the bystanders by a head`
+- at least _Dailah_ is `tall, towering over the bystanders by a head`
+
+### Cresh a Suul
+- _Dailah_ the _Cresh a Suul_ likely comes from the same land, but is visually different than people seen in vision she shown to Stump
+- has violet eyes and black hair
+- her tattoo is in exactly the same place, but just like her armor is red instead of blue
+- she is `tall, towering over the bystanders by a head`
