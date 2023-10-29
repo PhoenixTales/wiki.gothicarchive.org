@@ -17,7 +17,8 @@ title: Religion
 - king of Myrtana is `governor of the highest god, Ra`
 - as suggested by `OtWaMaskSun.tga`, symbolized by bright yellow 8-armed star
 - there are spells that in game have yellow color theme, which is linked with term `sun`: healing, light, transformation into animal
-  - see `g1-final\data\Textures\Level\Tempel\256\OtWaMaskSun.tga` and other `OtWaMask...tga`
+  - compare textures of runes and scrolls with matching textures `g1-final\data\Textures\Level\Tempel\256\OtWaMask...tga`
+  - red: `fire`, blue: `water`, purple: `moon`, yellow: `sun`, green: doesn't correspond to symbol of any deity (these are psionic spells of the sect)
 - does not appear in the final release of the game, apparently replaced with _Innos_
 
 ## Innos, God Of Fire
