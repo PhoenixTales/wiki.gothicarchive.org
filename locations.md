@@ -121,6 +121,7 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - probably the _Sea of Myrtana_ / _Mirtanian Sea_
 - `Go beyond the forest until you can see the sea`
 - `the old ruined monastery by the sea`
+- mentioned as `Dummymeer` (German) in the internal game files
 
 ## Sendar
 - homeland of _Milten Plescott_
