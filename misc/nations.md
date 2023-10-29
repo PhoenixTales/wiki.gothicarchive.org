@@ -14,8 +14,9 @@ title: Nations
 - at least some of them have violet eyes
 
 ## Hueroth
-- northern tribe known reddish beards and blue eyes
+- "barbaric" northern tribe known reddish beards and blue eyes
 - in previous generations had repeatedly haunted the coast of the kingdom and sent many merchant ships to the bootom of the sea
+- `With his reddish beard and blue eyes, the person who had carried him so roughly into the clearing identified himself as Hueroth, a member of that barbaric northern tribe that in previous generations repeatedly haunted the coast of his homeland and ran aground many merchant ships of the sea.` (_Sleeper's Ban_)
 
 ## Nurrba
 - race with dark skin with and long green hair
