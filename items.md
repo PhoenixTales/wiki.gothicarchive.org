@@ -6,6 +6,7 @@ title: Items
 - only mentioned in _Sleeper's Ban_
 - stored at treasury of the _Peace Council_ of _Stomp's Hometown_
 - `magically proven` (?) (`magisch belegtes` in German)
+- _Stomp_ was falsely accused of stealing it, and sentenced to lifetime in _Khorinis Prison Colony_
 
 ## Ancient Shaman Swords
 - _Clefter of Worlds_ (`Welten Spalter`)
