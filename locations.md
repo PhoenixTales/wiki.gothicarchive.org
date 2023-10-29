@@ -123,11 +123,11 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - `the old ruined monastery by the sea`
 
 ## Sendar
-- home city of _Milten Plescott_
+- homeland of _Milten Plescott_
 
 ## Stone Circle Of The Damend
 - stone circle in _Mine Valley of Khorinis_
-- has power to create undead and resurrect (in multiplayer)
+- has power to create undead and resurrect (player respawn point in multiplayer mode)
 
 ## Swamp of Lost Souls
 - `If you want to hear the dead speak, you should visit the Swamp of Lost Souls.`
