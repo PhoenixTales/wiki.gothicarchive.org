@@ -24,7 +24,8 @@ Kumatekk clan, who were the only ones allowed to wear this tattoo, were generall
   - `Nobody can say exactly where does she comes from`
 - `from the north, where all the water freezes immediately`
 - `wrapped in bright blue simple leather robes`
-- `blue eyes under blonde hair` (_Dailah_ has violet eyes instead)
+- `blue eyes under blonde hair`
+  - but _Dailah_ has violet eyes and black hair instead
 - `bright blue wave pattern that covered the left side of the face and neck`
   - but `Dailah` has `deep RED tattoo that crisply and precisely covered the left side of the face and neck`
-- `tall, towering over the bystanders by a head`
+- _Dailah_ is `tall, towering over the bystanders by a head`
