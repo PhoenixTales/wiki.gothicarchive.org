@@ -25,7 +25,7 @@ title: Factions
 - _Myrtana_ wins battles thanks to `the interplay of army and magic`
 
 ## City Watch
-- guard city of `Khorinis`
+- guard city of _Khorinis_
 - distinct from _Royal Guard_
 - `The city watch has its eyes on everyone who's suspicious` (_Gorn_ in Gothic I comic)
 
