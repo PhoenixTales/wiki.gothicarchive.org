@@ -51,7 +51,7 @@ title: History
 - orc raids started during first year of reign of _Rhobar II_, after death of _Rhobar I_
   - `King Rhotbar died that winter (...) But when winter was over, the kingdom was facing the next danger.`
   - it was few months after conquest of _Varant_
-- according to booklet Orcs came from the North, while according to Mike in early plans this invasion came from underground caves
+- according to booklet Orcs came from the North, while according to Mike in early plans this invasion came from underground caves and had no single front line
   - `Orc hordes from the northlands swept across the borders and plundered hamlets and estates`
   - `Hoards of ores invading the land from the North`
 - `the king sent out his armies, had borders fortified and sent protective troops into the contested areas.`
@@ -62,6 +62,7 @@ title: History
   - according to Mike, that's because in those times Orc lived all over (under) Myrthana, not only in the North
 
 ## Second Orc War
+- the front line was along the _Northern Plains_
 - `the great Orc Wars in the north`
 - `King Rhotbar knew the orcs were strong enough to wage war against Myrtana. But his army had grown small and few weapons were left at his disposal.`
 - `And then the orcs came. Like a storm swept over the land, the armies cut down and killed every human being that fell into their hands.`
