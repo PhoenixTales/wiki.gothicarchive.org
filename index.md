@@ -25,4 +25,4 @@ We are a [team of a few hardcore Gothic I fans](https://phoenixtales.de/) who di
 
 In our fan projects we are trying to extrapolate in the opposite direction. We analyze early and rejected ideas of Piranha Bytes, expand and build around them. We personally met with Mike Hoge who originally created the world and story design, and gathered additional pieces of material from other former Piranha Bytes members.
 
-We need this wiki internally to ensure consensus on what the "pre-alpha-to-final Gothic I" canon possibly entails. We make it public to benefit other Gothic nerds and fan projects in the making. 
+We need this wiki internally to ensure consensus on what is the possible scope of "pre-alpha-to-final Gothic I" canon. We make it public to benefit other Gothic nerds and fan projects in the making. 
