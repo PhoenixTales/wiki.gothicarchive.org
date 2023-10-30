@@ -39,10 +39,10 @@ title: Characters
 
 ## Diego
 - called _Raoul_ on old website
-- cynical thief
+- `cynical thief`
 
 ## Gorn
-- muscular giant
+- `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed…`
 
 ## Grub
@@ -56,9 +56,12 @@ title: Characters
 ## Lee
 - initially he was serving as a guard in the king's court
   - source: alpha docs
-- "Lord" (member of nobility)
+- `Lord` (member of nobility)
   - source: alpha docs
-- ex-general, "war hero", convicted for life for murder of the "king's wife"
+- ex-general, `war hero`
+- convicted for life for murder of the `king's wife`
+  - he insists that he's innocent, and that he was framed by conspiring nobles
+  - according to earlier version of his story, his arest was related to some piece of correspondence written by another nobleman, again without him actually committing any crime
 - he wants a revenge against people who betrayed and convicted him
 
 ## Lester
