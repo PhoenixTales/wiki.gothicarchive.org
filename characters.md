@@ -38,7 +38,7 @@ title: Characters
 - `They call me the demon summoner. I have been privileged to make my servants some of the fascinating creatures of the lower hells` (_Sleeper's Ban_)
 
 ## Diego
-- called _Raoul_ on old website
+- called `Raoul` on old website
 - `cynical thief`
 
 ## Gorn
@@ -65,7 +65,7 @@ title: Characters
 - he wants a revenge against people who betrayed and convicted him
 
 ## Lester
-- "freak", "cracked", drug user, amateur alchemist and psionic
+- `freak`, `cracked`, drug user, amateur alchemist and psionic
 
 ## Lord of Tymoris
 - high feudal lord of the realm containing _Royal Ore Mines_
@@ -85,7 +85,7 @@ title: Characters
 - `King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration`
 
 ## Royal Judge
-- called "Court Archon" in `Sleeper's Ban`
+- called `Court Archon` in _Sleeper's Ban_
 
 ## Removed characters from alpha builds
 ```code
@@ -168,7 +168,6 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 - `the old man's cloak began to sway, although he felt no wind (...) the noise rang out: It seemed to come deeply from the earth, the stones under his feet vibrated at its sound. It was a growl, underlaid by hissing noises, deep, booming, and slowly rising. (...) the old man had risen. He stood upright on the boulder, the cloak waved behind him with a loud, almost horizontal flutter... The sound swelled, louder, and louder... Then Stomp found himself crouching on the floor, the pebbles pressing painfully through his Thin trousers, and when he straightened up in a daze he saw the old man sitting with his legs dangling on the boulder, humming a tune and holding a long-handled pipe from which thick clouds of smoke rose.`
 - `he turned to the old man "I have to you thank you, I don't know what..." He fell silent because the boulder was empty. Looking around wildly, Stomp searched the beach and saw no sign of the old man anywhere. Only a cloud of the sweet smelling smoke that had emerged from the strange person's pipe still hovered over the stone.`
 
-
 ## Warhound
-- known as `Kriegshund` in German version of `Sleeper's Ban`
-- person, son of an ore baron
+- known as `Kriegshund` in German version of _Sleeper's Ban_
+- person, son of an _Ore Baron_
