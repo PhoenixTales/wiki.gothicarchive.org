@@ -39,12 +39,12 @@ title: Factions
   - originally, the New Camp was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the New Camp running through the fields
 - peaceful, grow their own food and trade it with camps
 - some of them lived around the valley already before it became prison colony
-- `know how to grow grain and a few of them can even brew really good beer`
+- `know how to grow grain and a few of them can even brew really good beer` (_Sleeper's Ban_)
 
 ## Guards of New Camp
 - in the final game release known as `Mercenaries of New Camp`
-- known as `die Recken` in German version of `Sleeper's Ban`
-- protect `Alchemists of Water` and farmers living in `New Camp`
+- known as `die Recken` in German version of _Sleeper's Ban_
+- protect _Alchemists of Water_ and farmers living in _New Camp_
 
 ## Guild of Mages
 - only mentioned in _Sleeper's Ban_, as `der Magiergilde`
