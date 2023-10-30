@@ -81,6 +81,11 @@ title: Factions
 - `hold black masses every now and then in order to get through to this being with magical rituals` (_Sleeper's Ban_)
 - some blame them for demonic visions and earthquakes troubling the prisoners
 
+## Shadows Of The Old Camp
+- secretive spies and assassins working for _Ore Barons_
+- their headquarters are in the dungeons of _Old Camp Castle_
+- for obvious reasons they are unlikely to wear easily recognizable uniforms and may even pretend to be members of other factions
+
 ## Stomp's Family
 - only mentioned in _Sleeper's Ban_
 - `respected merchant family`
