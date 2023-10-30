@@ -65,7 +65,11 @@ title: Factions
 ## Nobility
 - _The Nobles_ have "dirty business" and are jelaous of generals' influence
   - design docs imply that general(s) are also "Lords" (nobles)
-- ranks of nobility: king, lord, burgrave
+- known ranks of nobility: `king`, `lord`, `burgrave`, possibly `baron`
+  - `ore barons` likely based their title on a title used outside of the barrier rather than inventing it from scratch
+
+## Ore Barons
+- rule the _Old Camp_ since the rebellion of the prisoners
 
 ## Psionics
 - `orange-clad` (_Sleeper's Ban_)
