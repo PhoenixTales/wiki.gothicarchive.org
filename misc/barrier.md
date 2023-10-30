@@ -63,7 +63,7 @@ There will be no day, no night, the light is always the same, the temperature is
 - made of few `magic ore` mines, small underground ironworks and a fortified prison
 - originally meant for `the scum of society: assassins, highwaymen, murderers, rapists and insurgents` (_Sleeper's Ban_)
   - `this is where the scum of our great kingdom lives (...), the whole camp is full of murderers, thieves, insurgents`
-- king sentences for lifetime in there even for being unable to pay taxes, and imports convicts from entire kingdom
+- since the _War With Orcs_ escalated, king sentences for lifetime in there even for being unable to pay taxes, and brings there convicts from the entire kingdom
 - `only a few news of what goes around inside there are known. Sometimes some rumors can be heard, but for some reason, the king, and the Lords of Khorinis keep all this information secret, so only a few know what's happening there.`
 - `My shed was as empty as my stomach, and I just couldn't pay. So one day the soldiers came and brought me here. (...) I'd always paid my taxes before - all my life. But that wasn't good enough for that son of a bitch with the crown!`
 - _Milten_ didn't hear about _Prison Colony Of Khorinis_ until he was arrested right there
