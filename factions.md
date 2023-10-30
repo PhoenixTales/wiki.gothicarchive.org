@@ -85,6 +85,7 @@ title: Factions
 - secretive spies and assassins working for _Ore Barons_
 - their headquarters are in the dungeons of _Old Camp Castle_
 - for obvious reasons they are unlikely to wear easily recognizable uniforms and may even pretend to be members of other factions
+- in the final release of the game they are no longer spies, assassins nor secretive, and instead are more like simply a lower rank of the _Old Camp Guard_ and consistently wear red armors
 
 ## Stomp's Family
 - only mentioned in _Sleeper's Ban_
