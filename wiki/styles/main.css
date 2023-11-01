@@ -336,6 +336,9 @@ article {
   margin-left: 205px;
   max-width: 80ch;
   min-width: 320px;
+  overflow: hidden;
+  word-wrap: break-word;
+  text-overflow: ellipsis;
 }
 
 article > ul {
