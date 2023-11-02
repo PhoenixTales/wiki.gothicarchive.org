@@ -21,3 +21,5 @@ title: Curiosities
   - `CABBIE: I thought you were dead.`
   - `GIRL: I know who you are. Yeah! But I heard you were dead. SNAKE: I am.`
   - `BRAIN: I swear to God, Snake, I thought you were dead.`
+  - _Escape From New York_ is confirmed as major inspiration for _Gothic I_
+  
