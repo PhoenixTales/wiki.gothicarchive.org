@@ -2,6 +2,15 @@
 title: Items
 ---
 
+## Alchemical supplies
+- Lab flask
+- Sulfur
+- Quicksilver
+- Salt
+- Syrian Oil
+- Molerat Fat
+- Pure Alcohol
+
 ## Almost Priceless Amulet
 - only mentioned in _Sleeper's Ban_
 - stored at treasury of the _Peace Council_ of _Stomp's Hometown_
