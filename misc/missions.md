@@ -10,7 +10,7 @@ title: Missions
 - internal comment: `The player buys a betting slip from the arena master, which he has to bring back the next day. Since the Arena Master is a sneaky cheater, the player automatically loses.`
 - offered by the _Arena Master_
 
-## Holy Water
+## Bring Psi Potion
 - first appears in 0.56c alpha as `Mis_HolyWater`
 - `Hey, I have a mission for you! I urgently need a PSI vial.`
 - player needs to bring him item `PSI_POTION`, corresponding to _Sruup_
