@@ -63,6 +63,8 @@ title: Factions
 - in original English translation of the alpha builds called `soldiers`
   - `Nobody'll ever get away with killing a soldier of the ore-barons`
 - `the group that puts the Barons' ideas into practice.`
+- supposed to protect the _Diggers_
+  - `You've knocked down a Digger. That wasn't clever. The Ore-Barons pay us for protecting them, so don't do that shit again`
 
 ## Nobility
 - _The Nobles_ have "dirty business" and are jelaous of generals' influence
