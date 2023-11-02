@@ -11,6 +11,9 @@ title: Factions
 
 ## Alchemists Of Water
 - in the final game release known as `Water Mages`
+  - also mentioned as `Circle Of Water`, already in alpha
+- in poor relationship with _Alchemists Of Fire` under the barrier
+  - `KDF_40_FriendKilledMage`: `we don't like the circle of water`
 - 6 of them accidentally imprisoned in Khorinis Mine Valley
   - `have been rambling for years that they want to carry out an escape plan` (_Sleeper's Ban_)
   - `they brew their potions with the ore and spoil it so that it can no longer be used; and this brew has so far not harmed the barrier`  (_Sleeper's Ban_)
