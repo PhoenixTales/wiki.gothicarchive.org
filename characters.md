@@ -85,6 +85,8 @@ title: Characters
 - he runs away before hopeless battle and later gets captured by Khorinis city guards as a deserter
 
 ## Quicktongue
+- sect novice, `stands in the Old Camp's marketplace during the day and tries to recruit people for the sect`
+- removed in late alpha
 - `Come to us in the sect. With us you don't have to work as hard as you do here.`
 - `when was the last time you got PSI? Come to us WE have PSI.`
 - `when was the last time YOU got a babe? If you come to us, you'll get babes too.`
