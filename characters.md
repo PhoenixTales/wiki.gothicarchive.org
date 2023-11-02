@@ -14,6 +14,13 @@ title: Characters
   - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
   - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a devil mushroom in the ravine.`
 
+## Bloodwyn
+- his likely alpha equivalent (`SLD_21`) tells player character `You're alive? I thought you were dead!`
+  - possible reference to _Snake Plissken_ from _Escape From New York_ who keeps hearing it from others
+  - `CABBIE: I thought you were dead.`
+  - `GIRL: I know who you are. Yeah! But I heard you were dead. SNAKE: I am.`
+  - `BRAIN: I swear to God, Snake, I thought you were dead.`
+
 ## Burgrave Bergmar
 - comes from _Western Field_
 - owner of _Mountain Fortress_
