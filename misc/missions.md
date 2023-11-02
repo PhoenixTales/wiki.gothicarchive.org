@@ -75,3 +75,25 @@ title: Missions
 - `Would you like to have my powerful magical artifact of fire magic? Bring me that old sword from the chapel.`
 - the reward is a _Fire Stone_ of the dead _Apprentice of Hellfire_
 - offered by _Nimblefinger_, trader of stolen goods
+
+## Bow Practice
+- only appears as traces in 0.64b alpha build as `SLD_20_BoPr`
+- offered by `SLD_20` (possibly early prototype of _Borik_)
+- since player can fail both by not hitting the target at all, and by barely hitting it, it suggests that either auto-aiming was supposed to be disabled, or that result was randomized (as opposed to bow shooting in the final game, which is always perfectly auto-aimed)
+- we know some of the sentences spoken and their context:
+  - `WannaShoot`: `Do you want a go as well?` (offer)
+  - `TooClose`: `Why don't you get even nearer?`
+  - `TooClose2`: `Just put it in with your hand!`
+  - `Wait`: `Wait.`
+  - `Now`: `Shoot now`
+  - `Yawn`: `Still today?` (too slow)
+  - `OutOfWay`: `Get out of the way, bugger.`
+  - `HandsOffAim`: `Get away from the target.`
+  - `Lose`: `That was poor.`
+  - `Lose2`: `Hey! He's hit the target!`
+  - `Win`: `Not bad.`
+  - `LetMe`: `Hey! It's my turn.`
+  - `LetMeOrSuffer`: `I've told you to get out of the way.`
+  - `ShotBetween`: `Wait till it's your turn.`
+  
+
