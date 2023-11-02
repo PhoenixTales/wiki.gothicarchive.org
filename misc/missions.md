@@ -9,6 +9,8 @@ title: Missions
 - `Bad luck, 'Blade Fodder' unfortunately lost`
 - internal comment: `The player buys a betting slip from the arena master, which he has to bring back the next day. Since the Arena Master is a sneaky cheater, the player automatically loses.`
 - offered by the _Arena Master_
+- it is hinted that player can earn by participating himself
+  - `I've heard that you've won the fight in the arena. You might as well challenge the champ- if you survive it you'll be stinking rich.`
 
 ## Bring Psi Potion
 - first appears in 0.56c alpha as `Mis_HolyWater`
