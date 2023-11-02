@@ -14,14 +14,6 @@ title: Characters
   - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
   - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a devil mushroom in the ravine.`
 
-## Scatty The Arena Master
-- his likely alpha equivalent (`SLD_21`) tells player character `You're alive? I thought you were dead!`
-  - possible reference to _Snake Plissken_ from _Escape From New York_ who keeps hearing it from others
-  - `CABBIE: I thought you were dead.`
-  - `GIRL: I know who you are. Yeah! But I heard you were dead. SNAKE: I am.`
-  - `BRAIN: I swear to God, Snake, I thought you were dead.`
-- offers quest `Arena Betting` and facilitates player's participation in arena fights
-
 ## Burgrave Bergmar
 - comes from _Western Field_
 - owner of _Mountain Fortress_
@@ -209,6 +201,16 @@ VLK_NIMBLEFINGER    | Nimblefinger    | ("Hehler" - trader of stolen goods, dres
 VLK_NUMB            | Numb            | (Mole, dressed like thief)
 VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 ```
+
+## Scatty The Arena Master
+- offers quest `Arena Betting` and facilitates player's participation in arena fights
+- internal comment in the script of `Arena Betting` quest calls him a `sneaky cheater`
+  - it seems that he suggests player to place a bet on a weak participant (the `Blade Fodder`), making player loose the bet
+- his likely alpha equivalent (`SLD_21`) tells player character `You're alive? I thought you were dead!`
+  - possible reference to _Snake Plissken_ from _Escape From New York_ who keeps hearing it from others
+  - `CABBIE: I thought you were dead.`
+  - `GIRL: I know who you are. Yeah! But I heard you were dead. SNAKE: I am.`
+  - `BRAIN: I swear to God, Snake, I thought you were dead.`
 
 ## Stomp
 - in the final release known as `The Nameless One`
