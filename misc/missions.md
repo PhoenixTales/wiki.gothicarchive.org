@@ -59,7 +59,11 @@ title: Missions
 
 ## Demand the Ring
 - first appears in 1.01d alpha as `Mis_1_NC_Ringfordern`
+- `I come from Lares. He wants his ring back that you stole from him.`
+- `Oh what? Didn't he tell you that he lost the ring in a bet!? You are making a big mistake. I have friends here, you don't! So go away!`
+- offered by _Lares_ 
 
 ## Milten's Mission
 - first appears in 1.01d alpha as `Mis_1_Milten`
+- involved locations `FP_MIS_1_MILTEN` and `FP_MIS_1_MILTEN_ITEM`
 
