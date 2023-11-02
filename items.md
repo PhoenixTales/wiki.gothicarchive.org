@@ -51,8 +51,9 @@ title: Items
 - `honey mushroom`
 - `stinking mushroom`
 - `devil mushroom`
-- there is a _Talent_ called `mushrooms`
-  - probably allowed the player to tell kinds of mushrooms apart
+  - subject of a quest from _Hellfire_
+- there is a _talent_ called `mushrooms`
+  - possibly allowed the player to tell kinds of mushrooms apart
 
 ## Oil Lamp
 - gives 20 minutes of light
