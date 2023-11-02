@@ -40,7 +40,7 @@ title: Missions
 
 ## Drug Monopoly
 - first appears in 1.01d alpha as `Mis_1_Psi_DrugMonopol`
-- `Salm, one of our brothers got together with some poor souls from the New Camp and started making drugs. He gets the swamp weed and everything else they need and the others make the drugs. We cannot tolerate others making drugs - only we make drugs! You should meet the guys and pretend to be a new courier and find out where the laboratory is hidden. Brother Salm has decided to leave us, and he won't bother you. Simply tell his buddies that you got Salm out of the way so that you can take over his business; that will seem more credible to them than if you say anything else. Before Salm left, he confided in us that he always met with them at night at the wooden tower not far from the New Camp to exchange the things stolen from the temple. Go there and find out where the lab is.`
+- `Salm, one of our brothers got together with some poor souls from the New Camp and started making drugs. He gets the swamp weed and everything else they need and the others make the drugs. We cannot tolerate others making drugs - only we make drugs! You should meet these guys, pretend to be a new courier and find out where the laboratory is hidden. Brother Salm has decided to leave us, and he won't bother you. Simply tell his buddies that you got Salm out of the way so that you can take over his business; that will seem more credible to them than anything else. Before Salm left, he confided in us that he always met with them at night at the wooden tower not far from the New Camp to exchange the things stolen from the temple. Go there and find out where the lab is.`
 
 ## Help Brothers
 - first appears in 1.01d alpha as `Mis_1_Psi_HelpBrothers`
