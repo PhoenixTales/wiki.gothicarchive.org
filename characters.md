@@ -45,6 +45,10 @@ title: Characters
 - `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed…`
 
+## Grimface
+- _Old Camp Mercenary_ removed in late alpha
+- `Oh man, that Quicktongue is a crazy weirdo! Trying to steal our workhorses! Tststs! I'll give you some good advice. Stay away from his cult. I heard the gurus are gradually burning your mind out of your skull. It won't be long before Quicktongue wakes up with a knife in his back. (Harharhar!!!)`
+
 ## Grub
 - enslaved orc shaman at _Royal Ore Mine_
 - `meet GRUB in room, with pointy black rock`
