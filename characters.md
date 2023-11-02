@@ -7,6 +7,13 @@ title: Characters
 - `Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him` (from early alpha docs)
 - `general who wielded URIZIEL in the battle against the Orc` (G1-final / DIA_KDF_404_Xardas.d)
 
+## Apprentice of Hellfire
+- novice _Fire Mage_, removed in late alpha
+- lies dead in _Troll Canyon Ravine_ where he was trying to collect a _Devil Mushroom_
+- it is hinted that he was either murdered, or that his body was robbed after his death before player found him
+  - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
+  - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a devil mushroom in the ravine.`
+
 ## Burgrave Bergmar
 - comes from _Western Field_
 - owner of _Mountain Fortress_
@@ -24,13 +31,6 @@ title: Characters
 - has ability to show others some kind of vision, that lets her test their character
 - wears `red-brown leather armor`
 - `deep red tattoo that sharply and precisely covered the left side of the face and neck`
-
-## Dead Fire Mage Apprentice
-- apprentice of _Hellfire_, removed in late alpha
-- lies dead in _Troll Canyon Ravine_ where he was trying to collect a _Devil Mushroom_
-- it is hinted that he was either murdered, or that his body was robbed after his death before player found him
-  - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
-  - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a devil mushroom in the ravine.`
 
 ## Demon Summoner
 - ex `Alchemist Of Fire`
@@ -114,9 +114,9 @@ title: Characters
 - he runs away before hopeless battle and later gets captured by Khorinis city guards as a deserter
 
 ## Nimblefinger
-- trader of stolen goods in _Old Camp_ removed in late alpha
+- trader of stolen goods in _Old Camp_, removed in late alpha
 - dressed like a thief
-- somehow got hold of a _Fire Stone_ of now dead apprentice of _Hellfire_ 
+- somehow got hold of a _Fire Stone_ of now dead _Apprentice of Hellfire_
 
 ## Quicktongue
 - sect novice, `stands in the Old Camp's marketplace during the day and tries to recruit people for the sect`
