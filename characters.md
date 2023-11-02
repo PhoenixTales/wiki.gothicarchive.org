@@ -64,6 +64,9 @@ title: Characters
   - according to earlier version of his story, his arest was related to some piece of correspondence written by another nobleman, again without him actually committing any crime
 - he wants a revenge against people who betrayed and convicted him
 
+### Other games
+- `[King's] sycophants betrayed me, because I knew something I shouldn't have known. They tossed me into the mining colony, and the King allowed it.` (Gothic 2)
+
 ## Lester
 - `freak`, `cracked`, drug user, amateur alchemist and psionic
 
