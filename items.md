@@ -32,6 +32,11 @@ title: Items
 - bow of Hawkeye
 - without fire damage
 
+## Fire Stone
+- apprentice of _Hellfire_ had one
+- _Nimblefinger_ calls it a `powerful magical artifact of fire magic`
+- _Hellfire_ is able to recognize the _Fire Stone_ that belonged to his apprentice
+
 ## Gold
 - major unit of currency is _Unit Of Gold_ (e.g. 400 for a mountain fort)
 - middle unit of currency is _Piece Of Gold_ (e.g. 50 for rare magic scroll)
@@ -126,6 +131,11 @@ title: Items
 - Gothic 2 NotR:
   - _Fortuno_ suggests that even the _Green Novice_, weakest of the weed blends prepared by _The Sect_, is stronger than pure _Swampweed_ joint prepared in a simple way
   - `Green Novice` joint can be made by mixing `essence of two swampweed plants and a meadow knotweed`
+
+## Old Sword From The Chapel
+- stored in the _Chapel Of Old Camp Castle_
+- _Nimblefinger_ wants it
+- apparently worth more than a _Fire Stone_
 
 ## Uriziel
 - `It says here, Uriziel the Great`
