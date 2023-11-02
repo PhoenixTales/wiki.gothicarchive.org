@@ -128,11 +128,11 @@ title: Characters
 ## Quicktongue
 - sect novice, `stands in the Old Camp's marketplace during the day and tries to recruit people for the sect`
 - removed in late alpha
-- `Come to us in the sect. With us you don't have to work as hard as you do here.`
-- `when was the last time you got PSI? Come to us WE have PSI.`
-- `when was the last time YOU got a babe? If you come to us, you'll get babes too.`
-- `Have you lately eaten until satisfied? You see, everyone in the sect is always full.`
-- `All you have to do is come to us and you'll have a good time`
+- `Join our sect. You won't have to work as hard as you do here.`
+- `when was the last time you got PSI? Join us. We have PSI.`
+- `when was the last time you got a woman? If you join us, you'll get women as well.`
+- `Have you had a decent meal recently? See, nobody is hungry in our sect.`
+- `You just need to join us, then you'll have a good time.`
 - `Here, take this healing potion. If you join the cult you'll get even more of it.`
 - `We take good care of our people, here in the old camp there is only oppression`
 
