@@ -29,6 +29,8 @@ title: Items
   - from early design docs
 
 ## Drug
+- some kind of potion that appears in alpha builds
+  - possibly early prototype of `Crawler Potion` made of _Minecrawler Eggs_
 - separate item from psi potion
 
 ## Fiery Bow
