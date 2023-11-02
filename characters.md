@@ -116,7 +116,7 @@ title: Characters
 ## Nimblefinger
 - trader of stolen goods in _Old Camp_ removed in late alpha
 - dressed like a thief
-- `Would you like to have my powerful magical artifact of fire magic? Bring me that old sword from the chapel.`
+- somehow got hold of a _Fire Stone_ of now dead apprentice of _Hellfire_ 
 
 ## Quicktongue
 - sect novice, `stands in the Old Camp's marketplace during the day and tries to recruit people for the sect`
