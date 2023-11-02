@@ -59,13 +59,19 @@ title: Characters
 - `Lord` (member of nobility)
   - source: alpha docs
 - ex-general, `war hero`
-- convicted for life for murder of the `king's wife`
+- convicted for lifetime of forced labor for murder of the `king's wife`
   - he insists that he's innocent, and that he was framed by conspiring nobles
   - according to earlier version of his story, his arest was related to some piece of correspondence written by another nobleman, again without him actually committing any crime
-- he wants a revenge against people who betrayed and convicted him
+
+> I was one of the best generals of this country.
+> I've spent my whole life fighting for my country.
+> But the nobles didn't like me, because the King listened to my advice. 
+> And they knew I posed a threat to their dirty business.
+> They used the King's wife to get me. I was blamed for her pointless murder.
 
 ### Other games
-- `[King's] sycophants betrayed me, because I knew something I shouldn't have known. They tossed me into the mining colony, and the King allowed it.` (Gothic 2)
+- `[King's] sycophants betrayed me, because I knew something I shouldn't have known. They tossed me into the mining colony, and the King allowed it.` (_Gothic 2_)
+- `I know General Lee. I also know the circumstances under which he was condemned to forced labor in the colony. I consider him to be an honorable man.` (_Lord Hagen_ in _Gothic 2_)
 
 ## Lester
 - `freak`, `cracked`, drug user, amateur alchemist and psionic
