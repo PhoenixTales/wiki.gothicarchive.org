@@ -17,6 +17,7 @@ title: Missions
 - internal comment: `The player must obtain a vial of Holy Water and bring it back to the client.`
   - this comment is incorrect/obsolete, as the quest actually only involves `PSI_POTION` and not `HOLYWATER` (both items exist in game)
 - offered by _Hawkeye_
+- reward is a `Rune Sword`
 
 ## Devil Mushroom
 - first appears in 0.56c alpha as `Mis_DevilMushroom`
