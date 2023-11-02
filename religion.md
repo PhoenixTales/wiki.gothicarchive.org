@@ -5,6 +5,7 @@ title: Religion
 ## National religion of Myrtana
 - three gods are worshipped
   - `the man of the three gods, and governor of the highest god`
+  - `Pray for the last time to your gods` (alpha threat from a _Sect Novice_)
 - but not considered almighty
   - `faith in divine omnipotence soon became a myth`
 
