@@ -8,9 +8,14 @@ title: Missions
 - `Here's your betting slip for 'Blade Fodder'. He's a great fighter. Come back here after the fight.`
 - `Bad luck, 'Blade Fodder' unfortunately lost`
 - internal comment: `The player buys a betting slip from the arena master, which he has to bring back the next day. Since the Arena Master is a sneaky cheater, the player automatically loses.`
-- offered by  _Scatty The Arena Master_
-- it is hinted that player can earn by participating himself
-  - `I've heard that you've won the fight in the arena. You might as well challenge the champ- if you survive it you'll be stinking rich.`
+- offered by _Scatty The Arena Master_
+ 
+## Arena Championship
+- `I've heard that you've won the fight in the arena. You might as well challenge the champ- if you survive it you'll be stinking rich.`
+- `The last fight was bad luck for me. Next time I'll put a bet on you.`
+- `You have really won!!! Who would have thought that you'd be worth betting!`
+- `Man, you really got beaten up in the arena, didn't you?`
+- offered by _Scatty The Arena Master_
 
 ## Bring Psi Potion
 - first appears in 0.56c alpha as `Mis_HolyWater`
