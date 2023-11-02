@@ -14,12 +14,13 @@ title: Characters
   - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
   - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a devil mushroom in the ravine.`
 
-## Bloodwyn
+## Scatty The Arena Master
 - his likely alpha equivalent (`SLD_21`) tells player character `You're alive? I thought you were dead!`
   - possible reference to _Snake Plissken_ from _Escape From New York_ who keeps hearing it from others
   - `CABBIE: I thought you were dead.`
   - `GIRL: I know who you are. Yeah! But I heard you were dead. SNAKE: I am.`
   - `BRAIN: I swear to God, Snake, I thought you were dead.`
+- offers quest `Arena Betting` and facilitates player's participation in arena fights
 
 ## Burgrave Bergmar
 - comes from _Western Field_
@@ -171,7 +172,7 @@ NOV_QUICKTONGUE     | Quicktongue     |
 SLEEPER             | Sleeper         | (normal buddler, not sleeping)
 SHARPBLADE          | Sharpblade      | (guard)
 SLD_20              | ???             | (alpha Borik?)
-SLD_21              | ???             | (alpha Bloodwyn?)
+SLD_21              | ???             | (alpha Scatty?)
 SLD_200_BORIK       | Borik           | 
 SLD_201_BLOODWYN    | Bloodwyn        |
 SLD_202_ANGAR       | Angar           |
