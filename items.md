@@ -88,9 +88,11 @@ title: Items
 - increases attributte `madness` by 5
   - the only other item affecting this attribute is `Holy Water`, increasing it by 10
 
-## Rune Sword 
-- sword of Mastermind
-- has extra magic damage
+## Rune Sword
+- appears in alpha builds
+- has owner set to _Mastermind_, but there are multiple NPCs with "copies" of it: _Earon_, _Hellfire_ and _Hawkeye_
+- has extra magic damage and unique visual `special_sword.3ds`
+- offered as reward by _Hawkeye_ for delivering him _Sruup_
 
 ## Sacrificial Dagger
 
