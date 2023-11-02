@@ -48,9 +48,14 @@ title: Missions
 - first appears in 1.01d alpha as `Mis_1_Psi_HelpBrothers`
 - `Some brothers need help in the swampweed fields. Go to them and simply ask them how you can help them.`
 - `Ah, you have the swamp herb with you, good. You were definitely a great help to your future brothers.`
+- offered by _Baal Namib_
 
 ## Bring Focus Stones
 - first appears in 1.01d alpha as `Mis_3_NC_Saturas_BringFoki`
+- `You actually did it. Thank you. Now we can start the ceremony. I will gather my brothers to begin concentrating the energy on the axles. Then we will use the focused force to transfer the energy along a concentrated path...`
+  - original German text: `Du hast es tatsächlich geschafft. Danke. Nun könnenwir mit der Zeremonie anfangen. Ich werde meine Brüder zusammenrufen, damit sie mit der Bündelung der Energie auf den Achsen beginnen. Dann werden wir mit der fokussierten Kraft, die Energie über eine konzentrierte Bahn...`
+- offered by _Saturas_
+- it seems that as opposed to the final version of the quest, initially _Fire Mages_ were not neccessary
 
 ## Demand the Ring
 - first appears in 1.01d alpha as `Mis_1_NC_Ringfordern`
