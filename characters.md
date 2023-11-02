@@ -48,6 +48,7 @@ title: Characters
 ## Grimface
 - _Old Camp Mercenary_ removed in late alpha
 - `Oh man, that Quicktongue is a crazy weirdo! Trying to steal our workhorses! Tststs! I'll give you some good advice. Stay away from his cult. I heard the gurus are gradually burning your mind out of your skull. It won't be long before Quicktongue wakes up with a knife in his back. (Harharhar!!!)`
+- `PLAYER: Hey, what's your job? GRIMFACE: I ensure that weirdos don't ask stupid questions around here. BUZZ OFF!!!!`
 
 ## Grub
 - enslaved orc shaman at _Royal Ore Mine_
