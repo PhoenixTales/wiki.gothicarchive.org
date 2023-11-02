@@ -110,6 +110,7 @@ title: Items
   - it uses mesh `drug.3ds` and material `IT_DRUG_YELLOW`, looks like a vial with yellow liquid 
   - changes attribute `madness`
   - the quest also internally refers to the `holy water`, but it appears to be a mistake / abandoned idea: such alpha item does exist, but isn't mentioned by _Hawkeye_ nor used in this quest
+  - _Quicksilver_ calls it simply `PSI` without explicitly mentioning `vial` or `potion`
 
 ## Swampweed
 - `grown in the swamp (...) has to be processed before it can be smoked`
