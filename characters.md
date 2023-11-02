@@ -84,6 +84,15 @@ title: Characters
 - the army recruits him for the war
 - he runs away before hopeless battle and later gets captured by Khorinis city guards as a deserter
 
+## Quicktongue
+- `Come to us in the sect. With us you don't have to work as hard as you do here.`
+- `when was the last time you got PSI? Come to us WE have PSI.`
+- `when was the last time YOU got a babe? If you come to us, you'll get babes too.`
+- `Have you lately eaten until satisfied? You see, everyone in the sect is always full.`
+- `All you have to do is come to us and you'll have a good time`
+- `Here, take this healing potion. If you join the cult you'll get even more of it.`
+- `We take good care of our people, here in the old camp there is only oppression`
+
 ## Rhobar II
 - `everything that his troops could not hold was razed to the ground`
 - `During the long years of his reign he was able to defeat all foes of his realm. All except (...) the orcs`
