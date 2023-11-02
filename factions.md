@@ -4,7 +4,7 @@ title: Factions
 
 ## Alchemists Of Fire
 - in the final game release known as `Fire Mages`
-  - in alpha also mentioned as `Circle Of Fire`
+  - also mentioned as `Circle Of Fire`, already in alpha
   - `KDF_40_FoeStoleFromMyGuild`: `You've stolen from the circle of fire`
 - 6 of them accidentally imprisoned in Khorinis Mine Valley
   - `perform some services to the ore barons, in return for which they're allowed to play their own games.` (_Sleeper's Ban_)
