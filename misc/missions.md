@@ -11,8 +11,9 @@ title: Missions
 
 ## Holy Water
 - `Hey, I have a mission for you! I urgently need a PSI vial.`
-- player needs to bring him item `PSI_POTION` corresponding to _Sruup_
+- player needs to bring him item `PSI_POTION`, corresponding to _Sruup_
 - internal comment: `The player must obtain a vial of Holy Water and bring it back to the client.`
+  - this comment is incorrect/obsolete, as the quest actually only involves `PSI_POTION` and not `HOLYWATER` (both items exist in game)
 - offered by _Hawkeye_
 
 ## Devil Mushroom
