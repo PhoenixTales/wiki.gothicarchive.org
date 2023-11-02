@@ -117,14 +117,6 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - `monks used to live here`
 - `they worshipped a god who gave them the power to turn into animals`
 
-## Temple Of Sleeper
-- `in an uknown ancient temple, unchanged for 1000 years`
-- there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
-
-## Tymoris
-- region ruled by the _Lord of Tymoris_
-- contains or governs area called _Western Field_ ruled by _Burgrave Bergmar_ and containing _Royal Ore Mines_
-
 ## Sea
 - in the east from valley of the _Royal Ore Mines_
 - probably the _Sea of Myrtana_ / _Mirtanian Sea_
@@ -150,6 +142,19 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - `The Swamp of Lost Souls is a place full of danger.`
 - `No one returns from the Swamp of Lost Souls with a clear mind.`
 - `Swamp of Lost Souls is a dark place`
+
+## Temple Of Sleeper
+- `in an uknown ancient temple, unchanged for 1000 years`
+- there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
+
+## Troll Canyon
+- in early alpha builds divided by a rather shallow ravine
+- German: `Troll-Schlucht`
+- `there's supposed to be a huge troll hanging around there with a few gobbos`
+
+## Tymoris
+- region ruled by the _Lord of Tymoris_
+- contains or governs area called _Western Field_ ruled by _Burgrave Bergmar_ and containing _Royal Ore Mines_
 
 ## Varant
 - land neighbouring the _Midlands_, conquered by _Rhobar II_
