@@ -80,6 +80,33 @@ title: Items
 - `Without Sruup you will go just as insane as when you approach the barrier.`
 - has `pungent odor` (German: `ein stechender Geruch`) (_Sleeper's Ban_)
 
+## Swampweed
+- `grown in the swamp. Of course it has to be processed before it can be smoked`
+- `have a tranquilizing and relaxing effect. They help you concentrate on the essentials and increase your awareness.`
+-  `opens your spirit` and gives chance to `get in touch with the Sleeper`
+- `If you take the weed which grows in the swamp, you will be close to the Sleeper and able to hear him. Some people even see images.`
+- give 5-10 when new blend is tried for the first time
+- there are at least 4 progressively stronger blends of _Swampweed_ prepared by _The Sect_:
+  - `Green Novice`
+  - `Northern Dark` (`Good stuff`, 3 free portions are given daily to each member of _The Sect_)
+  - Dreamcall (gives `+2 max mana` when used for the first time)
+  - `Prepared Dreamcall` (special mission item `with a stronger effect`, causes short instant sleep)
+- according to _Cor Kalom_, `daily swampweed harvest` is expected to be `at least a 100 stalks`
+- `Sleeper (...) guided us [The Sect] to the swamp, (...) showed us what swampweed can do`
+
+### Other games
+- _Gothic 2_ describes _Swampweed_ as `resinous stalk`, and package of it as `sticky` and `stinking`
+- in _Gothic 2_ has effect of slowing down the time, allowing the user to react with greater reflexes, and it's written that it `helps against all sorts of pain and clears the head`
+- in _Gothic 2_ can be mixed with tobacco, resulting in a joint described as `Harsh stuff` by an NPC
+- in _Gothic 2_ the _Swampweed_ is required for creating the _Sleep_ spell rune
+- in _Gothic 2 NotR_, _Fortuno_ suggests that even the _Green Novice_, weakest of the weed blends prepared by _The Sect_, is stronger than pure _Swampweed_ joint prepared in a simple way, and requires mixing `essence of two swampweed plants and  a meadow knotweed`
+- according to _Gothic 2 NotR_, `excessive use of the swampweed` causes addicts to be `more confused than believable` and they are `no longer able to work, let alone wield a weapon`, `completely stoned`
+- in _Gothic 2_, trade in _Swampweed_ is persecuted by militia (`If the city guards catch me with that, they'll throw me into jail`)
+- according to _Gothic 2_, _Khorinis Prison Colony_ was a major exporter of _Swampweed_ (`Since none of that stuff comes out from behind the barrier anymore, the price in the city has tripled.`)
+- in _Gothic 2_, _Vatras_ claims that `a lot of swampweed is required for this ritual` which can repair _Eye Of Innos_, and reminds player `don't forget to bring the swampweed. I am counting on you`, but later admits that it's not actually required
+  - `VATRAS: Indeed, there is nothing missing now for the performance of the ritual. HERO: What about the swampweed? VATRAS: Ah, yes. Do you have 3 swampweed plants, then? HERO: No. Alas not. VATRAS: All right. Then we shall have to make do without.`
+- in _Gothic 2_ there is a witch in the woods who collects and sells herbs, including _Swampweed_ 
+
 ## Uriziel
 - `It says here, Uriziel the Great`
   - `Hier steht, Uriziel das Grosse.` (G1-1.01d, ou.bin)
