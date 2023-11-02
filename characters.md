@@ -206,11 +206,6 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 - offers quest `Arena Betting` and facilitates player's participation in arena fights
 - internal comment in the script of `Arena Betting` quest calls him a `sneaky cheater`
   - it seems that he suggests player to place a bet on a weak participant (the `Blade Fodder`), making player loose the bet
-- his likely alpha equivalent (`SLD_21`) tells player character `You're alive? I thought you were dead!`
-  - possible reference to _Snake Plissken_ from _Escape From New York_ who keeps hearing it from others
-  - `CABBIE: I thought you were dead.`
-  - `GIRL: I know who you are. Yeah! But I heard you were dead. SNAKE: I am.`
-  - `BRAIN: I swear to God, Snake, I thought you were dead.`
 
 ## Stomp
 - in the final release known as `The Nameless One`
