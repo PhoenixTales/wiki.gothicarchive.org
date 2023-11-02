@@ -3,7 +3,7 @@ title: Items
 ---
 
 ## Alchemical supplies
-- Lab flask
+- Lab Flask
 - Sulfur
 - Quicksilver
 - Salt
