@@ -2,6 +2,14 @@
 title: Monsters
 ---
 
+## Goblin
+- if player tries to talk to one, it shouts `Bonami! Schagaluga! Aitascha! Wazsashi! Kawwasakki!`
+- some of them try to `lure the player into a cave and with other CaveGobbos`
+- some of them are thrown over a chasm by troll
+- there are `KamikazeGobbo` who fall down on the player from above
+- when picks up an item, they make `happy` shout `Bonami!`
+- when starts attacking, they make `alarm` shout `Aitascha!`
+
 ## Mid'ssa
 - underwater monster living at the `Exchange Place`
 ```
