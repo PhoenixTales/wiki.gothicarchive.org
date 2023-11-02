@@ -45,10 +45,18 @@ title: Characters
 - `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed…`
 
+## Greg
+- `Old Camp Mercenary_ removed in late alpha
+- `During the day I'm the boss of the south gate!`
+
 ## Grimface
 - _Old Camp Mercenary_ removed in late alpha
 - `Oh man, that Quicktongue is a crazy weirdo! Trying to steal our workhorses! Tststs! I'll give you some good advice. Stay away from his cult. I heard the gurus are gradually burning your mind out of your skull. It won't be long before Quicktongue wakes up with a knife in his back. (Harharhar!!!)`
 - `PLAYER: Hey, what's your job? GRIMFACE: I ensure that weirdos don't ask stupid questions around here. BUZZ OFF!!!!`
+
+## Grunt
+- _Old Camp Mercenary_ removed in late alpha
+- `Ahhh, come over here and see if I can use some of your stuff!`
 
 ## Grub
 - enslaved orc shaman at _Royal Ore Mine_
@@ -84,10 +92,19 @@ title: Characters
 ## Lord of Tymoris
 - high feudal lord of the realm containing _Royal Ore Mines_
 
+## Mack
+- _Old Camp Mercenary_ removed in late alpha
+- `At night I'm the boss of the south gate!`
+
 ## Milten Plescott
 - young drifter who keeps himself afloat with little trickery
 - the army recruits him for the war
 - he runs away before hopeless battle and later gets captured by Khorinis city guards as a deserter
+
+## Nimblefinger
+- trader of stolen goods in _Old Camp_ removed in late alpha
+- dressed like a thief
+- `Would you like to have my powerful magical artifact of fire magic? Bring me that old sword from the chapel.`
 
 ## Quicktongue
 - sect novice, `stands in the Old Camp's marketplace during the day and tries to recruit people for the sect`
@@ -182,6 +199,10 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 - actually innocent of crimes
 - a `good swimmer` according to _Sleeper's Ban_
 - `a city dweller who had little knowledge of the wilderness`
+
+## Strider
+- wears guru robes, probably is a _New Camp Guard_, removed in late alpha
+- `Hey, I can teach you a little sword fighting. Interested?`
 
 ## The Old Man
 - only appears in _Sleeper's Ban_
