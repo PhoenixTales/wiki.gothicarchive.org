@@ -25,6 +25,13 @@ title: Characters
 - wears `red-brown leather armor`
 - `deep red tattoo that sharply and precisely covered the left side of the face and neck`
 
+## Dead Fire Mage Apprentice
+- apprentice of _Hellfire_, removed in late alpha
+- lies dead in _Troll Canyon Ravine_ where he was trying to collect a _Devil Mushroom_
+- it is hinted that he was either murdered, or that his body was robbed after his death before player found him
+  - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
+  - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a devil mushroom in the ravine.`
+
 ## Demon Summoner
 - ex `Alchemist Of Fire`
 - `has a lot to offer` (_Sleeper's Ban_)
@@ -65,6 +72,11 @@ title: Characters
 - `eeeh, loud noise waked GRUB. GRUB fee now.`
 - `GRUB see you are wizard, too.`
 - source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
+
+## Hellfire
+- _Fire Mage_ removed in late alpha
+- had an apprentice, who was killed in _Troll Canyon Ravine_
+- sends player to finish the quest of the dead apprentice and bring him a _Devil Mushroom_
 
 ## Lee
 - initially he was serving as a guard in the king's court
