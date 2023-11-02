@@ -28,11 +28,6 @@ title: Items
 - `Magical Amulet against WS in order to get closer than 10m to the Barrier, without becoming insanse`
   - from early design docs
 
-## Drug
-- some kind of potion that appears in alpha builds
-  - possibly early prototype of `Crawler Potion` made of _Minecrawler Eggs_
-- separate item from psi potion
-
 ## Fiery Bow
 - bow of Hawkeye
 - without fire damage
@@ -45,12 +40,19 @@ title: Items
 - `Hood of the High Priest, which protects the wearer from the wrath of the Sleeper`
   - from early design docs
 
-### Speculation
-- anti-psionic, blocks magic sleep/visions?
-
 ## Holy Water
 - +10 to hp, mana, madness
 - looks like mana potion
+- in alpha builds technically separate from the `Drug` and `PSI potion` but mixed up with them in a mission
+  - that mission is titled `The Holy Water` and described as `The player must obtain a vial of Holy Water and bring it`
+  - NPC ordering it says `I urgently need a PSI vial` (German: `PSI-Phiole`)
+
+## Mushrooms
+- `honey mushroom`
+- `stinking mushroom`
+- `devil mushroom`
+- there is a _Talent_ called `mushrooms`
+  - probably allowed the player to tell kinds of mushrooms apart
 
 ## Oil Lamp
 - gives 20 minutes of light
@@ -62,6 +64,7 @@ title: Items
 
 ## Potion "Mad Bull"
 - causes temporary madness (`Npc_SetToMad (self,30)`)
+- looks like a vial of yellow liquid
 
 ## Potion of "Inferno"
 - made of devil mushrooms?
@@ -73,6 +76,12 @@ title: Items
 ## Potion "Sprinting Horse"
 - sprint potion
 
+## PSI potion
+- appears in alpha builds
+- vial with yellow liquid (visual file `drug.3ds`)
+- increases attributte `madness` by 5
+  - the only other item affecting this attribute is `Holy Water`, increasing it by 10
+
 ## Rune Sword 
 - sword of Mastermind
 - has extra magic damage
@@ -82,14 +91,17 @@ title: Items
 ## Silver Amulet
 
 ## Sruup
-- appears mostly in _Sleeper's Ban_, but also in alpha builds as `PSI potion`
-- vial with yellow liquid
+- appears in _Sleeper's Ban_, is referred in alpha game builds as `PSI Potion`, `Psi vial` or as `drug` (still in potion form) 
 - addictive / neccessary for survival under barrier (`I need a psi vial urgently`, `sruup addicts`)
 - provided from outside world in trade for ore
 - `You can get anything for ore, and the Sruup is also made with the help of this material`
 - `Without Sruup you will go mad, there are visions, visions of some temple, of orcs, of the undead; and they drive you crazy if you don't drink that stuff`
 - `Without Sruup you will go just as insane as when you approach the barrier.`
 - has `pungent odor` (German: `ein stechender Geruch`) (_Sleeper's Ban_)
+- there is a related alpha quest: _Hawkeye_ requests `I urgently need a PSI vial`
+  - it uses mesh `drug.3ds` and material `IT_DRUG_YELLOW`, looks like a vial with yellow liquid 
+  - changes attribute `madness`
+  - the quest also internally refers to the `holy water`, but it appears to be a mistake / abandoned idea: such alpha item does exist, but isn't mentioned by _Hawkeye_ nor used in this quest
 
 ## Swampweed
 - `grown in the swamp (...) has to be processed before it can be smoked`
