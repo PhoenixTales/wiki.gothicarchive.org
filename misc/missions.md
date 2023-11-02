@@ -67,3 +67,8 @@ title: Missions
 - first appears in 1.01d alpha as `Mis_1_Milten`
 - involved locations `FP_MIS_1_MILTEN` and `FP_MIS_1_MILTEN_ITEM`
 
+## Steal Old Sword From The Chapel
+- only partially implemented in early alpha builds and impossible to finish
+- `Would you like to have my powerful magical artifact of fire magic? Bring me that old sword from the chapel.`
+- the reward is a _Fire Stone_ of the dead _Apprentice of Hellfire_
+- offered by _Nimblefinger_, trader of stolen goods
