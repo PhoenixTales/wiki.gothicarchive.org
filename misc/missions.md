@@ -86,12 +86,12 @@ title: Missions
   - `TooClose2`: `Just put it in with your hand!`
   - `Wait`: `Wait.`
   - `Now`: `Shoot now`
-  - `Yawn`: `Still today?` (too slow)
+  - `Yawn`: `Still today?`
   - `OutOfWay`: `Get out of the way, bugger.`
   - `HandsOffAim`: `Get away from the target.`
-  - `Lose`: `That was poor.`
-  - `Lose2`: `Hey! He's hit the target!`
-  - `Win`: `Not bad.`
+  - `Lose`: `That was poor.` (failure)
+  - `Lose2`: `Hey! He's hit the target!` (failure)
+  - `Win`: `Not bad.` (success)
   - `LetMe`: `Hey! It's my turn.`
   - `LetMeOrSuffer`: `I've told you to get out of the way.`
   - `ShotBetween`: `Wait till it's your turn.`
