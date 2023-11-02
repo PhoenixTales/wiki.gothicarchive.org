@@ -148,6 +148,7 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
 
 ## Troll Canyon
+- North from the _Old Camp_
 - in early alpha builds divided by a rather shallow ravine
 - German: `Troll-Schlucht`
 - `there's supposed to be a huge troll hanging around there with a few gobbos`
