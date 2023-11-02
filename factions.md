@@ -57,9 +57,11 @@ title: Factions
 - 4 Friends (Diego, Milten, Lester and Gorn) are members of it
 - player was supposed to have a chance of discovering and joining it
 
-## Mercenaries
+## Mercenaries Of Old Camp
 - in final released version of Gothic I known as `The Guards Of Old Camp`
 - in German version of `Sleeper's Ban` known as `Söldnergilde`
+- in original English translation of the alpha builds called `soldiers`
+  - `Nobody'll ever get away with killing a soldier of the ore-barons`
 - `the group that puts the Barons' ideas into practice.`
 
 ## Nobility
