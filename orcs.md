@@ -29,10 +29,13 @@ title: Orcs
   - `the orcs don't react to my magic spells like the gullible people in the Old Camp do` (Baal Lukor, G1-final)
 
 ## Types of orcs found in game
+- boss (only one exists, with ID `Boss` and name `Orc Boss`)
 - scout
 - shaman
 - slave
 - warrior
+- peasant
+- mummy (actually dead)
 - undead shaman
 - undead warrior
 
