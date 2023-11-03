@@ -21,7 +21,7 @@ title: Locations
 
 ## Free Camp of Khorinis Mine Valley
 - German: `Freies Lager` (`FL`)
-- owns the _Free Mine_, allied with the _New Camp_
+- owns the _Free Mine_, is controlled by the _Miner's Association_
 - `the Free Camp is built into a large crater and is barely visible from far away`
 
 ## Free Mine of Khorinis Mine Valley
