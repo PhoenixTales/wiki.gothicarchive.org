@@ -87,6 +87,10 @@ title: Locations
 - ancient _Ore Armor_ of _Ancient General_ was made using similar technology
 - earliest real-world blast furnaces are from XII century
 
+## Old Camp of Khorinis Mine Valley
+- divided into `Old Camp Ring` (`OCR`) (home of _diggers_) and `Old Camp Castle` (`OCC`) (home of _Ore Barons_, _Mercenaries Of Old Camp_ and _Alchemists Of Fire_) 
+
+
 ## Old Citadel of Khorinis Mine Valley
 - completely ruined remains of a fortress on the top a steep hill
 - German: `Altes Kastell` or `Verlassenes Kastell` (`VK`)
