@@ -148,6 +148,7 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - German: `Steinkreis der Verdammten` (`SKV`)
 - stone circle in _Mine Valley of Khorinis_
 - has power to create undead and resurrect (player respawn point in multiplayer mode)
+- `a place which can give life back to the dead. An altar in the middle of a stone circle.` (`Inf_Ebr_SKV`)
 
 ## Swamp of Lost Souls
 - German: `Sumpf der Verlorenen Seelen` (`SVS`)
