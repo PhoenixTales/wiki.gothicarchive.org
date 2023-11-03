@@ -32,10 +32,13 @@ title: Items
 - bow of Hawkeye
 - without fire damage
 
-## Fire Stone
-- apprentice of _Hellfire_ had one
+## Fire Stone / Potion Of Inferno
+- in different alpha versions called either `Fire Stone` (probably runestone) or `Potion Of Inferno` (a red drink)
+  - both variants have exactly the same function: allow the one using them to cast fireballs (`Drink it and you can breathe fire`)
+  - both variants appear in exactly the same context: as property of _Apprentice Of Hellfire_ which after his death is somehow acquired by _Nimblefinger_ who tries to offer it to the player as a reward for the mission `Steal The Old Sword Of Fire Mages` and is later recognized by _Hellfire_ as a confirmation that his apprentice is dead
 - _Nimblefinger_ calls it a `powerful magical artifact of fire magic`
-- _Hellfire_ is able to recognize the _Fire Stone_ that belonged to his apprentice
+- _Hellfire_ is able to recognize the particular _Fire Stone_ that belonged to his apprentice
+  - alternatively he guesses it based on how few of them are under the barrier
 
 ## Gold
 - major unit of currency is _Unit Of Gold_ (e.g. 400 for a mountain fort)
@@ -71,13 +74,6 @@ title: Items
 ## Potion "Mad Bull"
 - causes temporary madness (`Npc_SetToMad (self,30)`)
 - looks like a vial of yellow liquid
-
-## Potion of "Inferno"
-- made of devil mushrooms?
-- made with fire alchemy
-- drinking it teaches fireball spell
-- looks like health potion
-- `Drink it and you can breathe fire`
 
 ## Potion "Sprinting Horse"
 - sprint potion
