@@ -149,6 +149,7 @@ title: Characters
 
 ## The Noname
 - _digger_ from alpha 0.56c
+- there are 10 identical copies of him (that even share the faces)
 ```
 // Buddler No.1
 INSTANCE Vlk_Mole_01 (Npc_Default)
