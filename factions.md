@@ -101,6 +101,8 @@ title: Factions
 - some blame them for demonic visions and earthquakes troubling the prisoners
 - script programmers refer to them as `sect suckers` even when it's about one psionic talking about another
   - `NOV_130_FriendKilledSectSucker`: `Hey you killed a friend of all of us. Go away and beg the sleeper for pardon.`
+- in alpha they call each other cute names (?!)
+ - `NOV_130_FriendStoleFromEBr`: `Stupid pumpkin, you stole from the baron`
 
 ## Shadows Of The Old Camp
 - secretive spies and assassins working for _Ore Barons_
