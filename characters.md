@@ -247,14 +247,14 @@ SFB_1013_DAGGER     | Dagger          |
 SFB_1015_OLDMAN     | Old Man         |
 SLD_20              | ???             | (alpha Borik?)
 SLD_21              | ???             | (alpha Scatty?)
-SLD_200_BORIK       | Borik           | 
-SLD_201_BLOODWYN    | Bloodwyn        |
-SLD_202_ANGAR       | Angar           |
-SLD_203_DRAGO       | Drago           |
-SLD_204_FRIGHTENING | ???             |
+SLD_200_BORIK       | Borik           | `bad-tampered` friend of Bloodwyn
+SLD_201_BLOODWYN    | Bloodwyn        | became GRD_233_Bloodwyn
+SLD_202_ANGAR       | Angar           | became GUR_1202_CorAngar
+SLD_203_DRAGO       | Drago           | became KDF_403_Drago
+SLD_204_FRIGHTENING | Frightening     |
 SLD_205_TALON       | Talon           |
-SLD_206_FLETCHER    | Fletcher        |
-SLD_207_SNAKE       | Snake           |
+SLD_206_FLETCHER    | Fletcher        | became GRD_255_Fletcher
+SLD_207_SNAKE       | Snake           | walktrough suggests to use Control spell on him and kill him with suicidal jump
 SLD_GRIMFACE        | Grimface        |
 SLD_GRUNT           | Grunt           |
 SLD_MAINGATEGUARDN1 | Mack            |
