@@ -91,6 +91,14 @@ title: Locations
 - ancient _Ore Armor_ of _Ancient General_ was made using similar technology
 - earliest real-world blast furnaces are from XII century
 
+## Old Fort
+- codename: `OF`
+- unclear if the same as or different from _Old Citadel_ (`Altes Kastell`/`Verlassenes Kastell`/`VK`) 
+- mentioned in the scripts as the `Meeting Place`
+- it corresponds to waypoint `OF_CENTER` connected to waypoints `OF_ENTRANCE`, `OF_TOWER_ENTRANCE` and `OW_FORTTRAIL`
+- _Quicktongue_ spends time there every day between 7pm and midnight
+  - German: `geht nach Hause ins Sektenlager zum Versammlungsplatz` (in `Rtn_Quicktongue`)
+
 ## Old Camp of Khorinis Mine Valley
 - divided into `Old Camp Ring` (`OCR`) (home of _diggers_) and `Old Camp Castle` (`OCC`) (home of _Ore Barons_, _Mercenaries Of Old Camp_)
   - there is a _Chapel_ within the castle walls, where _Alchemists Of Fire_ are staying
@@ -186,6 +194,13 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - `The Swamp of Lost Souls is a place full of danger.`
 - `No one returns from the Swamp of Lost Souls with a clear mind.`
 - `Swamp of Lost Souls is a dark place`
+
+## Teleport Network
+- _New Camp_: `Teleport to NewCamp` / `NC_TEL_EXIT`
+- _Old Camp_: `Teleport to OldCamp` / `OC_TEL_EXIT`
+- _Old Fort_: `Teleport to Old Fort` / `OF_TEL_EXIT`
+- only mentioned in compiled file `worlds.vdf` from alpha 0.64b
+- all teleports use visual `STARGATE.3DS` and `sfxTeleport=string:various_cast2.wav`
 
 ## Temple Of Sleeper
 - `in an uknown ancient temple, unchanged for 1000 years`
