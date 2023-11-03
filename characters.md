@@ -38,7 +38,8 @@ title: Characters
   - `OU_NPCS_DEMO3_STT_DARKMAN_286`: `Here, take this bow, it's old. I'll make myself a new one`
 
 ## Demon Summoner
-- German: `Dämonenbeschwörers` (`DMB`) living at `Turm des Dämonenbeschwörers` (`TDB`)
+- German: `Dämonenbeschwörer` (`DMB`)
+- living in _Tower Of Demon Summoners_, the only known member of his faction
 - ex `Alchemist Of Fire`
 - `has a lot to offer` (_Sleeper's Ban_)
 - `during his experiments here in the Old Camp, some people rose to, well, new forms of existence, so that he had to leave the camp`
