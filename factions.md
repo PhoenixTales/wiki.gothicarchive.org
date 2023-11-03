@@ -44,6 +44,14 @@ title: Factions
 - disdainfully called `work horses` or `working animals` by other camp members
   - `KDF_40_FoeKilledDigger`: `Hey, nobody gets away with killing our working animals`
   - `OU_NPCS_DEMO3_SLD_GRIMFACE_225`: `Trying to outright talk us into giving up our workhorses` (German: `Versucht doch glatt uns unsere Arbeitstiere abzuschwatzen`)
+- German: `Das Volk` (`VLK`)
+- in original English translation of the early alpha translated in one place as `normal people`
+  - `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
+  - but other places of the same build translate it as `diggers`
+  - `SLD_20_FriendDefeatedByVlk`: `A digger has beaten you up`
+  - `KDF_40_FriendDefeatedByVlk`: `You defeated by one of those stupid diggers?`
+- compiled binary file `scripts.vdf` from alpha 0.64b explicitly associates them with `buddler` (German for `diggers`)
+  - `CONST INT GIL_VLK = 5; // Volk/Buddler`
 
 ## Farmers of Khorinis Mine Valley
 - German: `Die Bauern` (`BAU`)
@@ -155,15 +163,6 @@ title: Factions
 - wife of the family's head died, and he married again
   - he has two sons, one from the first marriage who is his heir, and one from second marriage who is jealous of being the heir
   - `his stepbrother, the man who came into the family through his father's second marriage and envied him from the start the position of heir.`
-
-## The People
-- German: `Das Volk`
-- in original English translation of the early alpha translated in one place as `normal people`
-  - `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
-  - but other places of the same build translate it as `diggers`
-  - `SLD_20_FriendDefeatedByVlk`: `A digger has beaten you up`
-- compiled binary file `scripts.vdf` from alpha 0.64b contains text associating them with `buddlers` (miners)
-  - `CONST INT GIL_VLK = 5; // Volk/Buddler`
 
 ## Trappers
 - hunt by setting up traps (and very likely with bows as well)
