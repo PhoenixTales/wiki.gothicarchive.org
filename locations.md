@@ -25,6 +25,7 @@ title: Locations
 - there is an association of free miners mining for themselves
 - they trade the ore with other camps
 - they are under risk of invasion by `Old Camp`
+  - in alpha 0.56c, _Ore Barons_ admit that early and openly: `In reality, we are entitled to the Free Mine. This situation will be remedied in the foreseeable future` (`Inf_Ebr_FM`)
 
 ## Great Northern Plains
 - `Following the heavy battles in the north, every countryman now knows how to use a bow and arrows`
