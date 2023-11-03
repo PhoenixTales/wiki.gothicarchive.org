@@ -27,3 +27,4 @@ title: Curiosities
 - `SLD_20_VlkSpeech`: `Bla Bla Bla. Rarlala. Ble Bli Blub`
 - `KDF_40_NSCASmalltalk`: `Don't make blabla.`
 - `UUUAARRRGGGHHHH!!!!!  - auf English!`
+- `Blabla - auf English!`
