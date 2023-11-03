@@ -162,6 +162,6 @@ title: Factions
 - `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
 
 ## Trappers
+- hunt by setting up traps (and very likely with bows as well)
 - known in alpha builds as `Die Fallensteller` (`FLL`)
 - correspond to _The Hunters_ from the final game (who wear _Organizer_ armors and are all _New Camp_ members)
-
