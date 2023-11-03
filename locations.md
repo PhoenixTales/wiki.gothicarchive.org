@@ -79,7 +79,7 @@ title: Locations
 
 ## New Camp
 - according to `Sleeper's Ban`, North from `Old Camp`
-- populated by `Alchemists Of Water`, few of the `Farmers`, and their protectors (`Die Recken`)
+- populated by `Alchemists Of Water`, few of the `Farmers`, and their protectors _The Guards Of New Camp_
 
 ## Nordmar
 - place with blast furnaces
@@ -137,6 +137,11 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - `monks used to live here`
 - `they worshipped a god who gave them the power to turn into animals`
 
+## Sect Camp
+- German: `Sektenlager` (`SL`)
+- nearby _Swamp Of The Lost Souls_
+- `Our camp is a haven of peace and spiritual fulfillment. Whoever lives here attains enlightenment` (`Inf_Gur_SL`)
+
 ## Sea
 - in the east from valley of the _Royal Ore Mines_
 - probably the _Sea of Myrtana_ / _Mirtanian Sea_
@@ -169,6 +174,11 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 ## Temple Of Sleeper
 - `in an uknown ancient temple, unchanged for 1000 years`
 - there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
+
+## Tower Of Demon Summoners
+- German: `Turm des Dämonenbeschwörers` (`TDB`)
+- there is only one _Demon Summoner_ living there at the time of the game
+- _Fire Mages_ know very well where it is and apparently from time to time attempt a visit
 
 ## Troll Canyon Of Khorinis Mine Valley
 - North from the _Old Camp_
