@@ -29,6 +29,11 @@ title: Curiosities
   - `BRAIN: I swear to God, Snake, I thought you were dead.`
   - _Escape From New York_ is confirmed as major inspiration for _Gothic I_
 
+## Poisons
+- in 0.56 alpha, there was NPC protection attribute against poisons (`ATR_RESIST_POISON`)
+- some monsters and weapons were supposed to deal poison damage (`dam_poison`)
+- it would probably work the same way as fire damage, distributed over time (just without flame effect)
+
 ## Respawn
 - probabaly multiplayer-only mechanic
 - dead players return at _Stone Circle Of The Damend_
