@@ -2,6 +2,12 @@
 title: Curiosities
 ---
 
+## Alpha placeholders (or an unknown language;)
+- `SLD_20_VlkSpeech`: `Bla Bla Bla. Rarlala. Ble Bli Blub`
+- `KDF_40_NSCASmalltalk`: `Don't make blabla.`
+- `UUUAARRRGGGHHHH!!!!!  - auf English!`
+- `Blabla - auf English!`
+
 ## Armor stealing
 - `Hey, you're wearing MY armor. Give it back immediately!!!`
 - German: `Hey, du trgst MEINE Rstung. Gib sie sofort zurck!!!'`
@@ -12,11 +18,7 @@ title: Curiosities
 
 ## Drunkenness
 - `KDF_40_DrunkenBastard`: `You drunk pig! Fuck off.`
-
-## Respawn
-- probabaly multiplayer-only mechanic
-- dead players return at _Stone Circle Of The Damend_
-- `KDF_40_GladYouWereDead`: `Risen from the dead, eh?  Watch out the next time!`
+- `NOV_130_DrunkenBastard`: `You don't know what you're doing. Go and have a break.`
 
 ## "I thought you were dead..."
 - player in some situations hears from various NPC's lines along:
@@ -26,9 +28,8 @@ title: Curiosities
   - `GIRL: I know who you are. Yeah! But I heard you were dead. SNAKE: I am.`
   - `BRAIN: I swear to God, Snake, I thought you were dead.`
   - _Escape From New York_ is confirmed as major inspiration for _Gothic I_
-  
-## Alpha placeholders (or an unknown language;)
-- `SLD_20_VlkSpeech`: `Bla Bla Bla. Rarlala. Ble Bli Blub`
-- `KDF_40_NSCASmalltalk`: `Don't make blabla.`
-- `UUUAARRRGGGHHHH!!!!!  - auf English!`
-- `Blabla - auf English!`
+
+## Respawn
+- probabaly multiplayer-only mechanic
+- dead players return at _Stone Circle Of The Damend_
+- `KDF_40_GladYouWereDead`: `Risen from the dead, eh?  Watch out the next time!`
