@@ -37,7 +37,7 @@ title: Missions
 - reward is a _Potion Of Inferno_
 
 ## Bring Minecrawler Queen Eggs
-- first appears in 1.01d alpha as `Mis_2_PSI_Kalom_BringMCQEggs`
+- first appears in 1.01d alpha as `Mis_2_PSI_Kalom_BringMCQEggs` and is mentioned in another place as  `CorKalom_BringMcqBalls`
 - basically identical as in the final game
 - offered by _Cor Kalom_
 
@@ -60,7 +60,7 @@ title: Missions
 - offered by _Baal Namib_
 
 ## Bring Focus Stones
-- first appears in 1.01d alpha as `Mis_3_NC_Saturas_BringFoki`
+- first appears in 1.01d alpha as `Mis_3_NC_Saturas_BringFoki` and is also mentioned as `SaturasBringFoci`
 - `You actually did it. Thank you. Now we can start the ceremony. I will gather my brothers to begin concentrating the energy on the axles. Then we will use the focused force to transfer the energy along a concentrated path...`
   - original German text: `Du hast es tatsächlich geschafft. Danke. Nun könnenwir mit der Zeremonie anfangen. Ich werde meine Brüder zusammenrufen, damit sie mit der Bündelung der Energie auf den Achsen beginnen. Dann werden wir mit der fokussierten Kraft, die Energie über eine konzentrierte Bahn...`
 - offered by _Saturas_
@@ -107,4 +107,42 @@ title: Missions
   - `LetMeOrSuffer`: `I've told you to get out of the way.`
   - `ShotBetween`: `Wait till it's your turn.`
   
+## Lester Guide
+- mentioned in 1.01d as `LesterGuide`
+
+## Aaron's Lock
+- mentioned in 1.01d as `Aaron_Lock`
+
+## Snipe's Deal
+- mentioned in 1.01d as `Snipes_Deal`
+
+## Gearwheel For Ian
+- mentioned in 1.01d as `Ian_Gearwheel`
+
+## Bring Book To Cor Kalom
+- mentioned in 1.01d as `CorKalom_BringBook`
+
+## Bring Focus To Y'Berion
+- mentioned in 1.01d as `YBerion_BringFocus`
+
+## CorAngar - Sent to NC
+- mentioned in 1.01d as `CorAngar_SendToNc`
+
+## YBerion Dead
+- mentioned in 1.01d as `YBerion_Dead`
+
+## Bring Parchment To Baal Lukor
+- mentioned in 1.01d as `BaalLukor_BringParchment`
+
+## Open Gate To Monastery Ruin
+- mentioned in 1.01d as `MonasteryRuin_GateOpen`
+
+## Bring List To Diego
+- mentioned in 1.01d as `Diego_BringList`
+
+## Whistler's Sword
+- mentioned in 1.01d as `Whistler_MySword`
+
+
+
 
