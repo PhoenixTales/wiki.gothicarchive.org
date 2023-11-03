@@ -2,6 +2,13 @@
 title: Monsters
 ---
 
+## Black Wolf
+- variant of _Wolf_ present in alpha 1.01d
+
+## Blood Hound
+- huge dog-like monster
+- clearly separate from _Orcdog_ (there's both `MST_DEFAULT_BLOODHOUND` and `MST_DEFAULT_ORCDOG`)
+
 ## Goblin
 - if player tries to talk to one, it shouts `Bonami! Schagaluga! Aitascha! Wazsashi! Kawwasakki!`
 - some of them try to `lure the player into a cave and with other CaveGobbos`
@@ -31,6 +38,10 @@ Greenish mass, which had perversely taken shape of a meter-long female face.
 It was dominated by greenish shining eyes and a wide, wide mouth with several rows of pointed teeth.
 Around were dozens of arm-thick, green-scaled tentacles diving in his direction, making the water splash against the edge of the cliff.
 ```
+
+## Orcbiter
+- monster present in alpha 1.01d (`ID_ORCBITER`)
+- clearly separate from _Orcdog_ (there's both `MST_DEFAULT_ORCBITER` and `MST_DEFAULT_ORCDOG`)
 
 ## Minesprayer
 - known as `Felssprüher` in German version of `Sleeper's Ban`
@@ -64,6 +75,7 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
   - this is a nickname for _Shugul Sath_, a legendary monster of similar posture from _Sleeper's Ban_
   - compare these two lists from a compiled file: `SCAVENGER SCAVENGER2 SHADOWBEAST SNAPPER` and `Scavenger n/a Schattenläufer Snapper`
   - another place in compiled `gothic.dat` from the same version also maps `Schattenläufer` to `Shadow.mds`
+- codename is just `shadow`
 
 ## Skeleton
 - the only monster in the alpha builds using engine attribute `regrow`
