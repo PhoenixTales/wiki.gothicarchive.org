@@ -17,17 +17,12 @@ title: Religion
 - `I am the rising sun, the light, and the life`
 - king of Myrtana is `governor of the highest god, Ra`
 - as suggested by `OtWaMaskSun.tga`, symbolized by bright yellow 8-armed star
-- some of the in-game spells have yellow color theme, which is linked with term `sun`: healing, light, transformation into animal
-  - compare textures of runes and scrolls with matching textures of deity symbols
-  - ( `g1-final\data\Textures\Level\Tempel\256\OtWaMask{Fire|Water|Moon|Sun}.tga`, `ItAr_Scrolls.tga`, `ItArRunes.tga`)
-  - red: `fire`, blue: `water`, purple: `moon`, yellow: `sun`, green: doesn't correspond to symbol of any deity (these are psionic spells of the sect)
 - does not appear in the final release of the game, mostly replaced with _Innos_
   - final in-game texts mention spells mentioned above as belonging to either element of `fire` or `water` instead of the `sun`
 
 ## Innos, God Of Fire
 - `The god of light, truth and justice`
 - `Innos, the highest of all gods`
-- spells of Fire: ball, bolt, rain, storm
 - as suggested by `OtWaMaskFire.tga`, symbolized by red flame
 - `KDF_40_VlkSpeech`: `Follow the way of mana, and all will be saved. Otherwise the earth will burn.`
 
@@ -37,8 +32,6 @@ title: Religion
 - `The words Cyvanis: Work and live, for the day is made for man to work. Look for learning and knowledge so that you can pass it on`
 - `Adanos brought man versatility, knowledge, curiosity and courage`
 - `god Adanos, who is the balance between good and evil`
-- spells of Lightning: chain, ball
-- spells of Ice: block, wave, bolt
 - as suggested by `OtWaMaskWater.tga`, symbolized by light blue droplet
 
 ## Beliar, God of Darkness
@@ -49,7 +42,6 @@ title: Religion
 - `spirit shall join me in the shadows forever more`
 - `until my body shall return to the realm of Beliar and the fire of my life be extinguished`
 - `the mightiest spell of the Fifth Circle is the Ripple of Death. (...) Be careful to use this kind of magic as little as possible. It's a gift from the god of darkness.`
-- spells of Darkness: breath of death, death to the undead, summon demon/skeleton/golem
 - as suggested by `OtWaMaskMoon.tga`, symbolized by crescent moon on dark purple
 
 ## Arch demon Sleeper
