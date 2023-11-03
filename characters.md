@@ -150,10 +150,10 @@ title: Characters
 ## The Noname
 - digger from alpha 0.56c
 ```
-//	Buddler No.1
+// Buddler No.1
 INSTANCE Vlk_Mole_01 (Npc_Default)
 {
-	name[0] =						"Noname, the";
+    name[0] = "Noname, the";
 ```
 
 ## Quicktongue
