@@ -28,6 +28,9 @@ title: Items
 - `Magical Amulet against WS in order to get closer than 10m to the Barrier, without becoming insanse`
   - from early design docs
 
+## Extra Large Organiser Armor
+- item with ID `ORG_ARMOR_XL` in 1.01d alpha
+
 ## Fiery Bow
 - bow of Hawkeye
 - without fire damage
@@ -62,6 +65,10 @@ title: Items
 - in alpha builds technically separate from the `Drug` and `PSI potion` but mixed up with them in a mission
   - that mission is titled `The Holy Water` and described as `The player must obtain a vial of Holy Water and bring it`
   - NPC ordering it says `I urgently need a PSI vial` (German: `PSI-Phiole`)
+
+## Leather Armor
+- the only armor separate from body mesh entire game
+- only present in alpha 0.56
 
 ## Magic Ore Armor
 - `ore armor (...) belonged to the general who wielded URIZIEL in the battle against the Orcs.`
