@@ -19,8 +19,8 @@ title: Monsters
 
 ## Iguana
 - mentioned in 1.01d alpha
-- probably alternative name for _Waran_ (on monster guild list, both are just before the _Sleeper_)
-  - `GIL_WARAN GIL_SLF GIL_GOBBO`
+- in the final game translated as `Waran`
+  - compare lists `GIL_WARAN GIL_SLF GIL_GOBBO` and `Iguana Sleeper Gobbo`
 
 ## Mid'ssa
 - underwater monster living at the `Exchange Place`
