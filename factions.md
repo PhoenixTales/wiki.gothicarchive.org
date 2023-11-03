@@ -41,7 +41,7 @@ title: Factions
 
 ## Diggers
 - miners of the _Old Camp_
-- contemptously called `work horses` or `working animals` by other camp members
+- disdainfully called `work horses` or `working animals` by other camp members
   - `KDF_40_FoeKilledDigger`: `Hey, nobody gets away with killing our working animals`
 
 ## Farmers of Khorinis Mine Valley
