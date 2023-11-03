@@ -101,6 +101,7 @@ title: Locations
   - `LeftTower` has `LowerRoom` and `UpperRoom`
   - on the final map, the tower that survived, and was always taller according to the comic, was on the West, so that when map drawing is oriented usual way, it's on the left, while the collapsed tower is on the right (East)
   - terms `left` and `right` may refer to what player can see after entering trough the castle gate (looking South) rather than to directions on map drawing (oriented North)
+- place used as smithy is called in the level file a `stable`, and indeed looks like a building suitable for horses
 
 ## Old Citadel of Khorinis Mine Valley
 - completely ruined remains of a fortress on the top a steep hill
