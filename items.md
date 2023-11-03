@@ -42,6 +42,12 @@ title: Items
   - `So that wretched imp tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days.`
   - German: `Dieser elende Wicht hat also versucht, dir den Feuerstein anzudrehen, tststs. Der Feuerstein gehört meinem Lehrling, den ich schon seit zwei Tagen nicht mehr gesehen habe.`
 
+## Focus Stone
+- crystal-based energy storage device
+- much easier to release than charge
+- can be used to cast "high magic" spells, like giant force-fields or explosions able to destroy such force-fields
+- casting a spell with focus stone uses magic power from the stone, not (only) from the mage
+
 ## Gold
 - major unit of currency is _Unit Of Gold_ (e.g. 400 for a mountain fort)
 - middle unit of currency is _Piece Of Gold_ (e.g. 50 for rare magic scroll)
@@ -56,6 +62,10 @@ title: Items
 - in alpha builds technically separate from the `Drug` and `PSI potion` but mixed up with them in a mission
   - that mission is titled `The Holy Water` and described as `The player must obtain a vial of Holy Water and bring it`
   - NPC ordering it says `I urgently need a PSI vial` (German: `PSI-Phiole`)
+
+## Magic Ore Armor
+- `ore armor (...) belonged to the general who wielded URIZIEL in the battle against the Orcs.`
+- `This ancient armor was made of magic ore`
 
 ## Mushrooms
 - `honey mushroom`
@@ -142,18 +152,27 @@ title: Items
 - apparently worth more than a _Fire Stone_
 
 ## Uriziel
-- `It says here, Uriziel the Great`
+- `Ancient runes have been engraved into the blade`, `It says here, Uriziel the Great`
   - `Hier steht, Uriziel das Grosse.` (G1-1.01d, ou.bin)
 - `This ancient blade supposedly had immense powers before, but in the course of the years it's lost its magic energy`
 - can be `magically charged` using heap of _magic ore_
 - it contains magic rune known as _Ring of Death_ that `has Beliar's powers`
   - it is mentioned in book _Sixth Circle of Magic_ sold by _Mages Of Fire_ and _Mages Of Water_ under Magic Barrier Of Khorinis
   - `the big blue jewel in the blade. It contains the magical powers of the blade. If I remove the jewel, I'll be able to create a magic rune which contains the attributes of URIZIEL itself.` (G1-final, DIA_KDF_404_Xardas.d)
-- `Weapon with which you can destroy undeads(...)Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him`
-  - from early design docs
-  - unclear if it's about one weapon, or one against undead and one against Sleeper
+- orcs took it from the defeated _Ancient General_ 
+  - `the Orcs took it from a powerful warlord`
+  - `Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him` (early design docs)
 - the only weapon that can hurt the final undead boss before the sleeper
-  - in alpha it was undead dragon, in final it was 5th High Orc Priest
-
+  - in alpha it was the _Undead Dragon_, in final it was 5th High Orc Priest
+- sword powerful enough to harm, but not kill, arch demon
+- has codename `Mythrilklinge`
+  - reference to supernatural metal from _Lord Of The Rings_ that could only be find in a mine that was just above imprisoned enormous primeval demon (`Balrog`) 
+- `It's a weapon from the olden days, when the human race was still young.`
+- can be used to make a rune that `has Beliar's powers`, called `Wave of Death`
+- `the weapon was able to pierce the strongest armor and to overcome even the most powerful of protection spells.`
+- `This sword is forged from a noble ore by dwarves who were master craftsmen`
+  - `Dieses Schwert ist aus einem edelen Erz geschmiedet, von Zwergen, die ihr Handwerk meisterlich verstanden`
+  - this sentence was later removed, and all later references to _dwarves_ are displayed as easter eggs
+  - `The weapon was forged from an unknown material. And there's nothing written about who created it!`
 
 ## Winepipe
