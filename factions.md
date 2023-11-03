@@ -47,7 +47,7 @@ title: Factions
 - German: `Das Volk` (`VLK`)
 - in original English translation of the early alpha translated in one place as `normal people`
   - `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
-  - `Das Volk` indead means literally `The Poeple` in German rather than `Diggers`, but some part of that original alpha translation are done rather poorly and it may be unintentional
+  - `Das Volk` indead means literally `The Poeple` in German rather than `Diggers`, but parts of that original alpha translation are done rather poorly and this wording may be unintentional
   - all other places of the same build translate it as `diggers`
   - `SLD_20_FriendDefeatedByVlk`: `A digger has beaten you up`
   - `KDF_40_FriendDefeatedByVlk`: `You defeated by one of those stupid diggers?`
