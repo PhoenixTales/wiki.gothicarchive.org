@@ -80,6 +80,7 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 ## Skeleton
 - the only monster in the alpha builds using engine attribute `regrow`
   - has value of 80, all the other monsters and NPCs have 0
+- types of skeletons: normal, warrior, scout, mage
 
 ## Stonestrangler
 - probably later renamed `minecrawler`
