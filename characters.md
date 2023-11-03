@@ -75,6 +75,14 @@ title: Characters
 - plays dice
   - `KDF_40_RTPlayDice`: `Roll, roll, roll my dice.`
 
+## Fox
+- according to alpha walktrough can be found talking with _Ryan_
+- according to comment in final version, can be found talking with `STT_330_Schatten`
+- originally found in alpha 1.01d as _Organiser_ `ORG_827_FOX`
+- later changed into _New Camp Mercenary_ `GRD_265_FOX`
+- finally he lost his name and became `GRD_265_GARDIST`
+  - `Wld_InsertNpc (Grd_265_Gardist, "OC1"); // OC Südtor (Ex-Fox)`
+
 ## Gorn
 - `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed…`
@@ -92,6 +100,11 @@ title: Characters
 - _Old Camp Mercenary_ removed in late alpha
 - `Ahhh, come over here and see if I can use some of your stuff!`
 - originally `SLD_GRUNT`, later `SLD_702_GRUNT`
+- attacks the player if he refuses to give away his sword
+- killing him is rewarded with a free sword fighting lesson from _Strider_
+- in the final release became Lee's bodyguard
+  - `SLD_702_Soeldner`: `24h Wache vor Lee (Ex-Grunt)`
+  - in the meantime `SLD` changed meaning from _Old Camp Mercenary_ to _New Camp Mercenary_ 
 
 ## Grub
 - enslaved orc shaman at _Royal Ore Mine_
@@ -209,6 +222,7 @@ EBR_102             | Linke Hand      |
 EBR_103             | Grauer Baron    |
 EBR_104             | Aussenminister  |
 GRD_STRIDER         | Strider         | (Gardist, looks like guru?!)
+GRD_239_MORT        | Mort            | later lost his name and became `GRD_239_GARDIST`
 ???                 | Grub            | (enslaved orc shaman)
 HAWKEYE             | Hawkeye         | (GIL_WCH, "runner", wears thief clothes)
 KDF_40              | ???             | (alpha Earon?)
@@ -218,7 +232,6 @@ KDF_HELLFIRE        | Hellfire        |
 MASTERMIND          | Mastermind      | (GIL_WCH, "instructor" "armed with short sword and bow", wears guru robes)
 NOV_130             | ???             | (alpha Fortuno?)
 NOV_QUICKTONGUE     | Quicktongue     |
-ORG_827_FOX         | Fox             |
 ORG_856_MARVIN      | Marvin          |
 SLEEPER             | Sleeper         | (normal buddler, not sleeping)
 SHARPBLADE          | Sharpblade      | (guard)
@@ -254,12 +267,14 @@ STT_302_LEFTY       | Lefty           |
 STT_DARKMAN         | Darkman         |
 VLK_50              | ???             | (VLK_50_NSCASpeech: `The forgotten people will rise`, alpha Cutter?)
 VLK_500_CUTTER      | Cutter          |
-VLK_501_BROWNIE     | Brownie         | 
+VLK_501_BROWNIE     | Brownie         |
+VLK_502_MARUS       | Marus           | lost his name and became `VLK_502_BUDDLER`
 VLK_503_SCARRY      | Scarry          |
-VLK_504_CREEP       | Creep           |
+VLK_504_CREEP       | Creep / Ryan    | first renamed to `Ryan`, later lost his name and became `VLK_502_BUDDLER`
 VLK_505_GRUMPY      | Grumpy          |
 VLK_506_SMOKIE      | Smokie          |
 VLK_507_DEREK       | Derek           |
+VLK_517_CANTHAR     | Canthar         | later lost his name and became `VLK_517_BUDDLER`
 VLK_508_JUG         | Jug             |
 VLK_509_OLON        | Olon            |
 VLK_CRUMB           | Crumb           | (mole, dressed like thief)
