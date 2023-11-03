@@ -122,6 +122,11 @@ title: Characters
 - _Old Camp Mercenary_ removed in late alpha
 - `At night I'm the boss of the south gate!`
 
+## Mastermind
+- in 0.56 alpha build, set as an owner of a wooden stool
+- described as `instructor`
+- `armed with short sword and bow`, wears guru robes
+
 ## Milten Plescott
 - young drifter who keeps himself afloat with little trickery
 - the army recruits him for the war
