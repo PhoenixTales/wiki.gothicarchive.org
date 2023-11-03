@@ -240,6 +240,11 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 - `the old man's cloak began to sway, although he felt no wind (...) the noise rang out: It seemed to come deeply from the earth, the stones under his feet vibrated at its sound. It was a growl, underlaid by hissing noises, deep, booming, and slowly rising. (...) the old man had risen. He stood upright on the boulder, the cloak waved behind him with a loud, almost horizontal flutter... The sound swelled, louder, and louder... Then Stomp found himself crouching on the floor, the pebbles pressing painfully through his Thin trousers, and when he straightened up in a daze he saw the old man sitting with his legs dangling on the boulder, humming a tune and holding a long-handled pipe from which thick clouds of smoke rose.`
 - `he turned to the old man "I have to you thank you, I don't know what..." He fell silent because the boulder was empty. Looking around wildly, Stomp searched the beach and saw no sign of the old man anywhere. Only a cloud of the sweet smelling smoke that had emerged from the strange person's pipe still hovered over the stone.`
 
+## VLK_50
+- gives some kind of speeches
+- `VLK_50_NSCASpeech`: `The forgotten people will rise.`
+- `VLK_50_VlkSpeech`: `Listen to me and you will see better times. If there are no better times the world will stumble and fall, or the stars will come down.`
+
 ## Warhound
 - known as `Kriegshund` in German version of _Sleeper's Ban_
 - person, son of an _Ore Baron_
