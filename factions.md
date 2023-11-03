@@ -43,6 +43,7 @@ title: Factions
 - miners of the _Old Camp_
 - disdainfully called `work horses` or `working animals` by other camp members
   - `KDF_40_FoeKilledDigger`: `Hey, nobody gets away with killing our working animals`
+  - `OU_NPCS_DEMO3_SLD_GRIMFACE_225`: `Trying to outright talk us into giving up our workhorses` (German: `Versucht doch glatt uns unsere Arbeitstiere abzuschwatzen`)
 
 ## Farmers of Khorinis Mine Valley
 - live around the _Old Citadel_ (German: `Altes Kastell`)
