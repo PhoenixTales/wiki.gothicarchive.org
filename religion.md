@@ -29,6 +29,7 @@ title: Religion
 - `Innos, the highest of all gods`
 - spells of Fire: ball, bolt, rain, storm
 - as suggested by `OtWaMaskFire.tga`, symbolized by red flame
+- `KDF_40_VlkSpeech`: `Follow the way of mana, and all will be saved. Otherwise the earth will burn.`
 
 ## Adanos, God Of Water
 - before called _Cyvanis_
