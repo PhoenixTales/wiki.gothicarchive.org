@@ -27,6 +27,8 @@ title: Orcs
   - `I have translated the Orcish prophecies and discovered what the five hearts are about.`
 - at least partially invulnerable to psionic magic
   - `the orcs don't react to my magic spells like the gullible people in the Old Camp do` (Baal Lukor, G1-final)
+- orcs can learn human language, and humans can learn orcish language
+  - this skill is no longer available to player in the final release of the game
 
 ## Types of orcs found in game
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
