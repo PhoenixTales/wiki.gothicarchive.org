@@ -67,6 +67,7 @@ title: Factions
 - some of them lived around the valley already before it became prison colony
 - `know how to grow grain and a few of them can even brew really good beer` (_Sleeper's Ban_)
 - `We feed the new camp and in return we are protected from the archbarons` (alpha 0.56)
+- in the final release they are farming rice just in front of the _New Camp_
 
 ## Guards of New Camp
 - in the final game release known as `Mercenaries of New Camp`
@@ -110,6 +111,7 @@ title: Factions
 - `the group that puts the Barons' ideas into practice.`
 - supposed to protect the _Diggers_
   - `You've knocked down a Digger. That wasn't clever. The Ore-Barons pay us for protecting them, so don't do that shit again`
+- subgroups: `gate guards`, 
 
 ## Miner's Association
 - German: `Der Schürferbund` (`SFB`)
@@ -131,6 +133,14 @@ title: Factions
   - design docs imply that general(s) are also "Lords" (nobles)
 - known ranks of nobility: `king`, `lord`, `burgrave`, possibly `baron`
   - `ore barons` likely based their title on a title used outside of the barrier rather than inventing it from scratch
+
+## Organisators
+- free criminals living in _New Camp_, mostly robbing _Old Camp_ and it's members
+- subgroups:
+  - _Thugs_ (German: `Schlaeger`)
+  - _Robbers_ (German: `Raeuber`)
+  - doormen (German: `Tuersteher`)
+  - blackmailers (German: `Erpresser`)
 
 ## Ore Barons
 - rule the _Old Camp_ since the rebellion of the prisoners
@@ -155,6 +165,7 @@ title: Factions
   - `NOV_130_FriendKilledSectSucker`: `Hey you killed a friend of all of us. Go away and beg the sleeper for pardon.`
 - in alpha they call each other cute names (?!)
  - `NOV_130_FriendStoleFromEBr`: `Stupid pumpkin, you stole from the baron`
+- subgroups: novices
 
 ## Shadows Of The Old Camp
 - secretive spies and assassins working for _Ore Barons_
