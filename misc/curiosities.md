@@ -23,3 +23,5 @@ title: Curiosities
   - `BRAIN: I swear to God, Snake, I thought you were dead.`
   - _Escape From New York_ is confirmed as major inspiration for _Gothic I_
   
+## Alpha placeholders (or an unknown language)
+- `SLD_20_VlkSpeech`: `Bla Bla Bla. Rarlala. Ble Bli Blub`
