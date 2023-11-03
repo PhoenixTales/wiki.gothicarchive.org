@@ -100,6 +100,7 @@ These objects can stand in the world and be interacted with, but are too big to 
 ### Special
 - ropeway ("Exchange Place mechanism")
 - pillar (can be knocked down)
+- backpack (free standing container that can also be moved on the back)
 - rice basket (can be worn like a huge backpack)
 - `GROUND_SLOT` (?)
 - drum
