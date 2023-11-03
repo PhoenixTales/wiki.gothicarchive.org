@@ -14,6 +14,11 @@ title: Locations
 - _arch demons_ live there and fight each other
 - according to early designs, player was supposed to be able to enter it, or even accidentally help a demon enter the world of living
 
+## Exchange Place
+- German: `Handelsplatz`
+- controlled by _Old Camp_, used to exchange _Magic Ore_ for goods from the king 
+- `If you wait at the Exchange Place at the noon, you can get hold of new goods from the mercenary convoy.`
+
 ## Free Camp of Khorinis Mine Valley
 - German: `Freies Lager` (`FL`)
 - owns the _Free Mine_, allied with the _New Camp_
