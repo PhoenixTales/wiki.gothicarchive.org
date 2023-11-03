@@ -104,6 +104,10 @@ title: Items
 
 ## Sacrificial Dagger
 
+## Scale Armor
+- armor mentioned in 0.56
+- possibly an early prototype of `Minecrawler Plate Armor`
+
 ## Silver Amulet
 
 ## Sruup
