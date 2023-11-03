@@ -88,7 +88,8 @@ title: Locations
 - earliest real-world blast furnaces are from XII century
 
 ## Old Camp of Khorinis Mine Valley
-- divided into `Old Camp Ring` (`OCR`) (home of _diggers_) and `Old Camp Castle` (`OCC`) (home of _Ore Barons_, _Mercenaries Of Old Camp_ and _Alchemists Of Fire_)
+- divided into `Old Camp Ring` (`OCR`) (home of _diggers_) and `Old Camp Castle` (`OCC`) (home of _Ore Barons_, _Mercenaries Of Old Camp_)
+  - there is a _Chapel_ within the castle walls, where _Alchemists Of Fire_ are staying
 - alpha scripts mention that there is a `main gate` and `North gate`
   - this contradicts the final map layout where the main gate points to the North, and back gate to the South
 - according to `Sleeper's Ban`, South from `New Camp` (in the final game, East from that camp)
