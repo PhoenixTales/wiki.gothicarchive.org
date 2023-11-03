@@ -310,7 +310,8 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
   - and the comment in the script says that' he's wearing a leather armor instead (`Lederrustung`)
 - removed in late alpha
 - `stands in front of the gate to the Castle of the Old Camp and helps the player when he enters` (script comment)
-- can teach player advanced sword fight if player kills _Grunt_ first
+- sees _Grunt_ blackmailing and attacking the player character, and then helps to kill _Grunt_
+- can teach player advanced sword fight after _Grunt_ is dead
   - `You see, here you have to be able to handle a sword. I can teach you a little sword fighting. Interested? Great, then attack me.`
 - has custom AI which allows player to attack him without getting into trouble, after player accepted sword fighting lesson and before that lesson ends
 
