@@ -49,9 +49,11 @@ title: Factions
 - German: `Die Bauern` (`BAU`)
 - live around the _Old Citadel_ (German: `Altes Kastell`)
   - originally, the New Camp was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the New Camp running through the fields
+  - `Just to the south of our fields lies the ruins of a former fort` (alpha 0.56c)
 - peaceful, grow their own food and trade it with camps
 - some of them lived around the valley already before it became prison colony
 - `know how to grow grain and a few of them can even brew really good beer` (_Sleeper's Ban_)
+- `We feed the new camp and in return we are protected from the archbarons` (alpha 0.56)
 
 ## Guards of New Camp
 - in the final game release known as `Mercenaries of New Camp`
@@ -98,6 +100,7 @@ title: Factions
 ## Miner's Association
 - German: `Der Schürferbund` (`SFB`)
 - work at _Free Mine_ and live at _Free Camp_
+- `A whole pack of unruly miners has settled in the Free Camp.`
 - allied with the _New Camp_
 
 ## Morlocks
