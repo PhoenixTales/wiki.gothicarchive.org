@@ -15,6 +15,9 @@ title: Characters
   - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
   - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a devil mushroom in the ravine.`
 
+## Arto
+- originally _Free Miner_ `SFB_1007_ARTO`, later _Old Camp Mercenary_ bodyguarding _Ore Barons_, finally _Ore Baron_ himself
+
 ## Burgrave Bergmar
 - comes from _Western Field_
 - owner of _Mountain Fortress_
@@ -88,6 +91,7 @@ title: Characters
 ## Grunt
 - _Old Camp Mercenary_ removed in late alpha
 - `Ahhh, come over here and see if I can use some of your stuff!`
+- originally `SLD_GRUNT`, later `SLD_702_GRUNT`
 
 ## Grub
 - enslaved orc shaman at _Royal Ore Mine_
@@ -107,6 +111,9 @@ title: Characters
 - he's member of the _(Some) Guards_ guild (`WCH`)
 - wears clothes of a thief
 - offers mission _Bring Psi Potion_
+
+## Herek
+- originally _Free Miner_ `SFB_1011_Herek`, finally `VLK_511_Herek`
 
 ## Hunter
 - appears in 1.01d alpha as `GRD_207_Hunter`
@@ -212,8 +219,19 @@ MASTERMIND          | Mastermind      | (GIL_WCH, "instructor" "armed with short
 NOV_130             | ???             | (alpha Fortuno?)
 NOV_QUICKTONGUE     | Quicktongue     |
 ORG_827_FOX         | Fox             |
+ORG_856_MARVIN      | Marvin          |
 SLEEPER             | Sleeper         | (normal buddler, not sleeping)
 SHARPBLADE          | Sharpblade      | (guard)
+SFB_1002_AIKO       |                 |
+SFB_1004_GARBAR     |                 |
+SFB_1005_MIHAI      |                 |
+SFB_1006_GORNIOS    |                 |
+SFB_1008_THREP      |                 |
+SFB_1009_CAER       |                 |
+SFB_1010_KILAN      |                 |
+SFB_1012_WEEZE      |                 |
+SFB_1013_DAGGER     |                 |
+SFB_1015_OLDMAN     |                 |
 SLD_20              | ???             | (alpha Borik?)
 SLD_21              | ???             | (alpha Scatty?)
 SLD_200_BORIK       | Borik           | 
@@ -277,7 +295,8 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
   - and the comment in the script says that' he's wearing a leather armor instead (`Lederrustung`)
 - removed in late alpha
 - `stands in front of the gate to the Castle of the Old Camp and helps the player when he enters` (script comment)
-- `You see, here you have to be able to handle a sword. I can teach you a little sword fighting. Interested? Great, then attack me.`
+- can teach player advanced sword fight if player kills _Grunt_ first
+  - `You see, here you have to be able to handle a sword. I can teach you a little sword fighting. Interested? Great, then attack me.`
 - has custom AI which allows player to attack him without getting into trouble, after player accepted sword fighting lesson and before that lesson ends
 
 ## The Old Man
