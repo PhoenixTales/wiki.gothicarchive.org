@@ -42,4 +42,69 @@ title: Curiosities
 - there is also another vob, `TRIGGER_FALLGITTER` targetting `FALGITTER`
 - there is also trigger vob `WAND` with visual `WAND.3DS` targetting `FALGITTER`
 
+## Interactive Objects
+These objects can stand in the world and be interacted with, but are too big to be taken into inventory.
 
+### Furniture
+- chest
+- bed
+- lovebed
+- throne
+
+### Magic and alchemy
+- alchemy lab
+- book stand
+
+### Smithing
+- anvil
+- bucket
+- forge
+- grindstone
+
+### Mining
+- ore deposit
+- stomper / ore crusher
+- bellows (air pump)
+- stone mill
+
+### Architecture
+- door
+- repair spot (for placing on "broken" walls)
+- secret door (invisible) (a fake moving wall?) (`LEAN_WALL`)
+
+### Orcs
+- orc mummy
+- orc drum
+
+### Outdoor
+- campfire
+- torch holder
+- scavenger barbecue
+- bench
+
+### Storage
+- crate (huge chest)
+- barrel (can be used for hiding, as seen in _The Comic_)
+
+### Control mechanisms
+- vertical wheel / turnstile
+- touchplate
+- target stone (button that can be shot with a projectile)
+- switch
+
+### Cooking
+- cauldron
+- pan
+
+### Sect
+- waterpipe
+- herb masher
+- idol statuette (for praying)
+
+### Special
+- ropeway ("Exchange Place mechanism")
+- pillar (can be knocked down)
+- rice basket (can be worn like a huge backpack)
+- `GROUND_SLOT` (?)
+- drum
+  
