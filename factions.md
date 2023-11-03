@@ -160,6 +160,8 @@ title: Factions
 - German: `Das Volk`
 - in original English translation of the early alpha mentioned as `normal people`
 - `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
+- compiled binary file `scripts.vdf` from alpha 0.64b contains text associating them with `buddlers` (miners)
+  - `CONST INT GIL_VLK = 5; // Volk/Buddler`
 
 ## Trappers
 - hunt by setting up traps (and very likely with bows as well)
