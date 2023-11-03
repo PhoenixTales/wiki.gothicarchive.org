@@ -39,7 +39,7 @@ Spells can categorized in a few ways: based on in-game books, based on comments 
   - color code yellow
   - later moved to _Fire_ type
 - Stop Time
-  - according to 0.56c, doesn't belong to Fire nor Water nor Psionic
+  - according to 0.56c, doesn't belong to Fire nor Water nor Darkness nor Psionic
   - later moved to Water type
 - Magic Arrow
   - German: `Magischer Pfeil`
