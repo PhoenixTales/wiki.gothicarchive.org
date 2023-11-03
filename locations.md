@@ -147,11 +147,11 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - `in an uknown ancient temple, unchanged for 1000 years`
 - there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
 
-## Troll Canyon
+## Troll Canyon Of Khorinis Mine Valley
 - North from the _Old Camp_
 - in early alpha builds divided by a rather shallow ravine
 - German: `Troll-Schlucht`
-- `there's supposed to be a huge troll hanging around there with a few gobbos`
+- `If you follow the path over the bridge you will come to Troll Canyon. There's supposed to be a huge troll hanging around  with a few gobbos. Be careful when you go there.`
 
 ## Tymoris
 - region ruled by the _Lord of Tymoris_
