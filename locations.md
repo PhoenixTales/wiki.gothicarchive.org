@@ -201,6 +201,7 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - _Old Fort_: `Teleport to Old Fort` / `OF_TEL_EXIT`
 - only mentioned in compiled file `worlds.vdf` from alpha 0.64b
 - all teleports use visual `STARGATE.3DS` and `sfxTeleport=string:various_cast2.wav`
+- may be connected to particle effects `PORTAL`, `EinleitungTeleport` and `Teleporter/teleport`
 
 ## Temple Of Sleeper
 - `in an uknown ancient temple, unchanged for 1000 years`
