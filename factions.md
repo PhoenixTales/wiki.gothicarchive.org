@@ -46,6 +46,7 @@ title: Factions
   - `OU_NPCS_DEMO3_SLD_GRIMFACE_225`: `Trying to outright talk us into giving up our workhorses` (German: `Versucht doch glatt uns unsere Arbeitstiere abzuschwatzen`)
 
 ## Farmers of Khorinis Mine Valley
+- German: `Die Bauern` (`BAU`)
 - live around the _Old Citadel_ (German: `Altes Kastell`)
   - originally, the New Camp was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the New Camp running through the fields
 - peaceful, grow their own food and trade it with camps
@@ -54,7 +55,7 @@ title: Factions
 
 ## Guards of New Camp
 - in the final game release known as `Mercenaries of New Camp`
-- known as `die Recken` in German version of _Sleeper's Ban_
+- known as `die Recken` in German version of _Sleeper's Ban_, and as `Die Garde` (`GRD`) in alpha builds
 - protect _Alchemists of Water_ and farmers living in _New Camp_
 
 ## Guild of Mages
@@ -63,6 +64,7 @@ title: Factions
   - originally they were all _Alchemists Of Fire_, later 6 of them were replaced with _Alchemists Of Water_
 
 ## Masters
+- German: `Die Meister` (`MST`)
 - secret secondary guild accepting members of all the camps
 - it's much harder to discover and join than the three camps
 - 4 Friends (Diego, Milten, Lester and Gorn) are members of it
@@ -71,18 +73,33 @@ title: Factions
 
 ## Mercenaries Of Old Camp
 - in final released version of Gothic I known as `The Guards Of Old Camp`
-- in German version of `Sleeper's Ban` known as `Söldnergilde`
+- in German version of `Sleeper's Ban` known as `Söldnergilde` and in alpha builds as `Die Söldner` (`SLD`)
 - in original English translation of the alpha builds called `soldiers`
   - `Nobody'll ever get away with killing a soldier of the ore-barons`
 - `the group that puts the Barons' ideas into practice.`
 - supposed to protect the _Diggers_
   - `You've knocked down a Digger. That wasn't clever. The Ore-Barons pay us for protecting them, so don't do that shit again`
 
+## Miner's Association
+- German: `Der Schürferbund` (`SFB`)
+- work at _Free Mine_
+- allied with the _New Camp_
+
 ## Nobility
 - _The Nobles_ have "dirty business" and are jelaous of generals' influence
   - design docs imply that general(s) are also "Lords" (nobles)
 - known ranks of nobility: `king`, `lord`, `burgrave`, possibly `baron`
   - `ore barons` likely based their title on a title used outside of the barrier rather than inventing it from scratch
+
+## Guards
+- in alpha builds a distinct guild (German: `Der Waechter` / `WCH`)
+- on the guild list, they are between _The Orcs_ and _The Sleeper_, and this word is only mentioned in context of orcs:
+  - `B_OrcGuard_ObserveIntruder: Waechter sieht Player`
+  - `B_OrcGuard_ObserveIntruder: Waechter tutet ins Horn -> TOR`
+  - `ZS_OrcGUARD_ObserveIntruder_Loop: Waechter!`
+  - `ZS_OrcGuard_ObserveIntruder_Loop: Ork-Waechter zieht Waffe`
+- but there's also a file `INF_WCH.BAK` which inside contains code for `Inf_Sld` and `GIL_SLD`, suggesting it's renamed version of _Mercenaries Of Old Camp_
+
 
 ## Ore Barons
 - rule the _Old Camp_ since the rebellion of the prisoners
@@ -119,6 +136,12 @@ title: Factions
   - he has two sons, one from the first marriage who is his heir, and one from second marriage who is jealous of being the heir
   - `his stepbrother, the man who came into the family through his father's second marriage and envied him from the start the position of heir.`
 
-## VLK
+## The People
+- German: `Das Volk`
 - in original English translation of the early alpha mentioned as `normal people`
 - `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
+
+## Trappers
+- known in alpha builds as `Die Fallensteller` (`FLL`)
+- correspond to _The Hunters_ from the final game (who wear _Organizer_ armors and are all _New Camp_ members)
+
