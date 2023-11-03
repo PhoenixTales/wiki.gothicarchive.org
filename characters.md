@@ -208,6 +208,7 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 
 ## Royal Judge
 - called `Court Archon` in _Sleeper's Ban_
+- appears in game scripts as `CS_Richter`
 
 ## Removed characters from alpha builds
 ```code
