@@ -139,7 +139,7 @@ title: Items
   - trade in _Swampweed_ is persecuted by militia (`If the city guards catch me with that, they'll throw me into jail`)
   - _Vatras_ claims that `a lot of swampweed is required for this ritual` which is the only way to repair _Eye Of Innos_ and save the world
    - he reminds player `don't forget to bring the swampweed. I am counting on you`
-   - _Vatras_ advises the player that there is a witch in the woods who collects and sells _Swampweed_ among other herbs, and also hints where it can be bought in the city
+   - _Vatras_ is suspiciously well informed where to get it even though trade in it is illegal and risks imprisonment by _Militia_, he advises the player that there is a witch in the woods who collects and sells _Swampweed_ among other herbs, and also hints where it can be bought in the city
    - later admits that it was not actually needed, and they conduct ritual without it just fine
    - `VATRAS: Indeed, there is nothing missing now for the performance of the ritual. HERO: What about the swampweed? VATRAS: Ah, yes. Do you have swampweed plants, then? HERO: No. Alas not. VATRAS: All right. Then we shall have to make do without.`
 - Gothic 2 NotR:
