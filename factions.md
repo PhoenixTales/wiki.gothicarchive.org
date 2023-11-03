@@ -125,6 +125,8 @@ title: Factions
   - singular form suggests that there was supposed to be only one of them (?)
   - `VLK_50_FoeAttackedEBr`: `the baron is mighty as god`
   - `VLK_50_FoeStoleFromEBr`: `Isn't the leader great and wise ?`
+- one of them always joins the _Convoy To Exchange Place_
+  - `The convoys that come from the Exchange Place are swarming with mercenaries. Even an Ore Baron is always there` (`Inf_Grd_HP`)
 
 ## Psionics
 - `orange-clad` (_Sleeper's Ban_)
