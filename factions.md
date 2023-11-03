@@ -51,8 +51,11 @@ title: Factions
   - all other places of the same build translate it as `diggers`
   - `SLD_20_FriendDefeatedByVlk`: `A digger has beaten you up`
   - `KDF_40_FriendDefeatedByVlk`: `You defeated by one of those stupid diggers?`
-- compiled binary file `scripts.vdf` from alpha 0.64b explicitly associates them with `buddler` (German for `diggers`)
-  - `CONST INT GIL_VLK = 5; // Volk/Buddler`
+  - there's also a script comment making clear that `Volk` and `Diggers` (German: `Buddler`) are the same: `GIL_VLK = 5; // Volk/Buddler`
+- some diggers are also called `moles` (e.g. `VLK_MOLE_01-VLK_MOLE_10`)
+- named alpha diggers: `Crumb`, `Dumb`, `Numb`, `Sira`, `Nimblefinger`
+  - `Nimblefinger` is officially a digger, but actually earns by trading stolen goods
+  - `Crumb`, `Dumb` and `Numb` spend their time listening to preaching of `Quicktongue`
 
 ## Farmers of Khorinis Mine Valley
 - German: `Die Bauern` (`BAU`)
