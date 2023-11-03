@@ -147,6 +147,15 @@ title: Characters
 - dressed like a thief
 - somehow got hold of a _Fire Stone_ of now dead _Apprentice of Hellfire_
 
+## The Noname
+- digger from alpha 0.56c
+```
+//	Buddler No.1
+INSTANCE Vlk_Mole_01 (Npc_Default)
+{
+	name[0] =						"Noname, the";
+```
+
 ## Quicktongue
 - sect novice, `stands in the Old Camp's marketplace during the day and tries to recruit people for the sect`
 - removed in late alpha
