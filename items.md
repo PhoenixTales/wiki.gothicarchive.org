@@ -128,6 +128,7 @@ title: Items
 ## Teleport Stone
 - single item `TeleportStone` connected with single spell `Spell_Teleportation`
 - as opposed to teleportation spells in the final release, this one doesn't seem to be tied to single target location
+- in the script has comment `magischer Teleport-Stein`, using it calls engine function `Npc_SetTeleportPos(self)` of unclear purpose
 
 ### Other games
 - Gothic 2:
