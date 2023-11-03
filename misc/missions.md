@@ -80,7 +80,8 @@ title: Missions
 - `Would you like to have my powerful magical artifact of fire magic? Bring me that old sword from the chapel.`
   - there is an older version of this dialogue: `Would you like to have my powerful magical artifact of fire magic? In return, bring me the old sword that the magician named Hellfire carries around with him.` (`OU_NPCS_DEMO3_VLK_NIMBLEFINGER_166`-`170`)
 - the reward is a _Fire Stone_ of the dead _Apprentice of Hellfire_
-  - in older version it was `An incredibly powerful potion that spits fireballs` (`OU_NPCS_DEMO3_VLK_NIMBLEFINGER_168`), clearly reference to potion `Inferno`, which later became a reward of another quest, given by _Hellfire_ himself
+  - in older version it was _Potion Of Inferno_, `An incredibly powerful potion that spits fireballs` (`OU_NPCS_DEMO3_VLK_NIMBLEFINGER_168`)
+  - _Potion Of Inferno_ later was changed to be a reward of another quest (_Devil Mushroom_), given by _Hellfire_ himself
 - offered by _Nimblefinger_, trader of stolen goods
 - `KDF_40_ENDGuard`: `I have to guard this cause it's important and you have to leave me alone`
 
