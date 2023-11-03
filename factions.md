@@ -59,7 +59,7 @@ title: Factions
 
 ## Farmers of Khorinis Mine Valley
 - German: `Die Bauern` (`BAU`)
-- likely mentioned as `Peasants` in 1.01d alpha
+- in the final game release translated as `peasants` (`NAME_Bauer = "Peasant"`)
 - live around the _Old Citadel_ (German: `Altes Kastell`)
   - originally, the New Camp was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the New Camp running through the fields
   - `Just to the south of our fields lies the ruins of a former fort` (alpha 0.56c)
@@ -115,6 +115,7 @@ title: Factions
 
 ## Miner's Association
 - German: `Der Schürferbund` (`SFB`)
+- in the final game release, translated as `scrapers` (`NAME_Schuerfer = "Scraper"`)
 - work at _Free Mine_ and live at _Free Camp_
 - `A whole pack of unruly miners has settled in the Free Camp.`
 - allied with the _New Camp_
@@ -134,13 +135,14 @@ title: Factions
 - known ranks of nobility: `king`, `lord`, `burgrave`, possibly `baron`
   - `ore barons` likely based their title on a title used outside of the barrier rather than inventing it from scratch
 
-## Organisators
+## Rogues
+- German: `Organisator` (`ORG`)
 - free criminals living in _New Camp_, mostly robbing _Old Camp_ and it's members
 - subgroups:
   - _Thugs_ (German: `Schlaeger`)
   - _Robbers_ (German: `Raeuber`)
-  - doormen (German: `Tuersteher`)
-  - blackmailers (German: `Erpresser`)
+  - _Bouncers_ (German: `Tuersteher`)
+  - _Blackmailers_ (German: `Erpresser`)
 
 ## Ore Barons
 - rule the _Old Camp_ since the rebellion of the prisoners
