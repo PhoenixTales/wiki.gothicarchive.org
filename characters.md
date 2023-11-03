@@ -20,6 +20,10 @@ title: Characters
 - owner of _Mountain Fortress_
 - past owner of some of _Royal Ore Mines_
 
+## Charlotte
+- _In Extremo's_ dancer
+- script comment mentions she's from `VIVA 2`
+
 ## Dailah The Iceskin
 - uses title `Creesh a Suul` (`Daughter of a Bear`), is also called "The Amazon"
 - `the first warrior of her people`
@@ -207,6 +211,7 @@ KDF_HELLFIRE        | Hellfire        |
 MASTERMIND          | Mastermind      | (GIL_WCH, "instructor" "armed with short sword and bow", wears guru robes)
 NOV_130             | ???             | (alpha Fortuno?)
 NOV_QUICKTONGUE     | Quicktongue     |
+ORG_827_FOX         | Fox             |
 SLEEPER             | Sleeper         | (normal buddler, not sleeping)
 SHARPBLADE          | Sharpblade      | (guard)
 SLD_20              | ???             | (alpha Borik?)
@@ -245,6 +250,10 @@ VLK_NIMBLEFINGER    | Nimblefinger    | ("Hehler" - trader of stolen goods, dres
 VLK_NUMB            | Numb            | (Mole, dressed like thief)
 VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 ```
+
+## Riddler
+- side-quest character added in the final release of the game
+- technically a farmer (`BAU`)
 
 ## Scatty The Arena Master
 - offers quest `Arena Betting` and facilitates player's participation in arena fights
