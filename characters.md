@@ -56,8 +56,8 @@ title: Characters
 - `cynical thief`
 
 ## Earon Flamehand
-- very relaxed alpha fire mage
-- plays some music
+- very chill alpha Fire Mage
+- plays lute
   - `KDF_40_NSCAPlayMusic`: `Just to recreate my mana`
 - plays dice
   - `KDF_40_RTPlayDice`: `Roll, roll, roll my dice.`
