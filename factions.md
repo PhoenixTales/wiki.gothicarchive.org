@@ -59,6 +59,7 @@ title: Factions
 
 ## Farmers of Khorinis Mine Valley
 - German: `Die Bauern` (`BAU`)
+- likely mentioned as `Peasants` in 1.01d alpha
 - live around the _Old Citadel_ (German: `Altes Kastell`)
   - originally, the New Camp was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the New Camp running through the fields
   - `Just to the south of our fields lies the ruins of a former fort` (alpha 0.56c)
