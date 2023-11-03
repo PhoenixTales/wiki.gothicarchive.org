@@ -34,6 +34,7 @@ title: Missions
 - when this mission is in progress, guards allow player to enter the Old Camp Castle
   - in progress: `Guard: 'Hellfire told me you can pass!'`
   - after: `Guard: 'So, from now on the following applies again: You have no business here. Is that clear!?!'`
+- reward is a _Potion Of Inferno_
 
 ## Bring Minecrawler Queen Eggs
 - first appears in 1.01d alpha as `Mis_2_PSI_Kalom_BringMCQEggs`
