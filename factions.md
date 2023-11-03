@@ -99,6 +99,8 @@ title: Factions
 - `They report some power that resides deep beneath us. And they try to awaken this power and call for help with some dark ceremonies.` (_Sleeper's Ban_)
 - `hold black masses every now and then in order to get through to this being with magical rituals` (_Sleeper's Ban_)
 - some blame them for demonic visions and earthquakes troubling the prisoners
+- script programmers refer to them as `sect suckers` even when it's about one psionic talking about another
+  - `NOV_130_FriendKilledSectSucker`: `Hey you killed a friend of all of us. Go away and beg the sleeper for pardon.`
 
 ## Shadows Of The Old Camp
 - secretive spies and assassins working for _Ore Barons_
