@@ -80,6 +80,7 @@ title: Missions
 - `Would you like to have my powerful magical artifact of fire magic? Bring me that old sword from the chapel.`
 - the reward is a _Fire Stone_ of the dead _Apprentice of Hellfire_
 - offered by _Nimblefinger_, trader of stolen goods
+- `KDF_40_ENDGuard`: `I have to guard this cause it's important and you have to leave me alone`
 
 ## Bow Practice
 - only appears as traces in 0.64b alpha build as `SLD_20_BoPr`
