@@ -93,6 +93,9 @@ title: Locations
 - alpha scripts mention that there is a `main gate` and `North gate`
   - this contradicts the final map layout where the main gate points to the North, and back gate to the South
 - according to `Sleeper's Ban`, South from `New Camp` (in the final game, East from that camp)
+- there are waypoints `GreatTower` and `LeftTower`
+  - `LeftTower` has `LowerRoom` and `UpperRoom`
+  - on the final map, the tower that survived, and was always taller according to the comic, was on the West, so that when map drawing is oriented usual way, it's on the left, while the collapsed tower is on the right (East)
 
 ## Old Citadel of Khorinis Mine Valley
 - completely ruined remains of a fortress on the top a steep hill
