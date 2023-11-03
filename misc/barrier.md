@@ -59,6 +59,10 @@ The damn light here is always constant.
 There will be no day, no night, the light is always the same, the temperature is always the same; that too makes this damned barrier.
 ```
 
+```
+This enchanted magical barrier is not good for the crops. Not enough sunlight gets through.
+```
+
 ## Labor camp
 - made of few `magic ore` mines, small underground ironworks and a fortified prison
 - originally meant for `the scum of society: assassins, highwaymen, murderers, rapists and insurgents` (_Sleeper's Ban_)
