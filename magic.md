@@ -107,9 +107,9 @@ Spells can categorized in a few ways: based on in-game books, based on comments 
 - ... Meatbug
 - ... Molerat
 - ... Orc-dog
-- ... ?
+- ... Razor
 - ... Scavenger
-- ... ?
+- ... Scavenger2 (?)
 - ... Shadowbeast
 - ... Snapper
 - ... Waran
