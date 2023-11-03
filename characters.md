@@ -96,6 +96,7 @@ title: Characters
 - his script mentions `slot = Runner` (whatever it means)
 - he's member of the _(Some) Guards_ guild (`WCH`)
 - wears clothes of a thief
+- offers mission _Bring Psi Potion_
 
 ## Lee
 - initially he was serving as a guard in the king's court
