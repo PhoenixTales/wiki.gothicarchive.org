@@ -3,9 +3,10 @@ title: Characters
 ---
 
 ## Ancient General
-- called both `General` and `Paladin` in different documents
+- called `General`, `powerful warlord` and `Paladin` in different documents
 - `Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him` (from early alpha docs)
 - `general who wielded URIZIEL in the battle against the Orc` (G1-final / DIA_KDF_404_Xardas.d)
+- `the Orcs took it from a powerful warlord`
 
 ## Apprentice of Hellfire
 - novice _Fire Mage_, removed in late alpha
