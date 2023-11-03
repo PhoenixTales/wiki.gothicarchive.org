@@ -4,7 +4,6 @@ title: Magic
 
 ## Mages
 - wielder of magic is sometimes called "magus" or "artist of arcane power"
-- spells: light, petrify, heal, turn to animal, invisibility, stop time, telekinesis, control, insanity
 - `The magicians consider themselves to be the chosen ones - and that's how they treat others.`
 - `Magic is(...)A healing power that only a few chosen ones are able to control`
 - `Our magic is a gift from the gods. We've been chosen to act as priests, tutors and judges. It is a gift which is a constant burden to us. A task which determines our lives.`
@@ -25,3 +24,104 @@ title: Magic
 - `Each rune contains the structure of a special magic spell. By using your own magic powers, you'll be able to cast the magic of the rune. But in contrast to the magic scrolls, which are magic formulas as well, the magic power of the rune ensures that the structure of the spell endures. Every rune is a source of magic power which you can fall back on anytime. Your own magic power is used up when you use a rune, just as with a spell scroll.`
 - `The magic of the runes is based on the stone. They are magic stones, created out of magic ore. It's the same ore which is collected in the mines. This ore is endowed with magic formulas in the temples. (...)With the runes you control now, you have the entire knowledge of the temples of the realm at your fingertips.`
 - `Many have learnt the language of the runes, but only very few understand their magic.`
+
+## Spells
+Spells in game are can categorized in few ways: based on in-game books, based on comments in the game scripts or based on texture of the scroll or runestone. If in doubt, compare textures `OtWaMask{Fire|Water|Moon|Sun}.tga` with `ItAr_Scrolls.tga` and `ItArRunes.tga`. Red means `fire`, blue means `water`, purple means `darkness`, yellow means `sun` and green means psionic. Categorization below is a hybrid of these approaches attempting to reconstruct an early design.
+
+### Sun
+- Heal
+  - color code yellow
+  - later moved to _Water_ type
+- Light
+  - color code yellow
+  - later moved to _Fire_ type
+- Turn Into Animal
+  - color code yellow
+  - later moved to _Fire_ type
+- Stop Time
+  - according to 0.56c, doesn't belong to Fire nor Water nor Psionic
+  - later moved to Water type
+- Magic Arrow
+  - German: `Magischer Pfeil`
+  - later renamed Firebolt and moved to Fire type
+
+### Fire
+- Fireball
+- Rain Of Fire
+- Firestorm
+  - spattering variant of _Fireball_
+- Earthquake
+  - in _Sleeper's Ban_ used by _Shugul Sath_
+  - according to 0.56c, a fire spell
+  - could be Fire type in reference to _Old Testament God Of Fire_ causing earth to shake when manifesting
+- Petrify
+  - turn into stone
+  - according to 0.56c, a fire spell
+  - could be Fire type in reference to _Old Testament God Of Fire_ making a person turn into pillar of salt
+
+### Water
+- Lightning
+  - the vertical one
+- Chain Lightning
+  - German: `Blitz`
+- Ball Lightning
+- Ice Cube / Freeze
+- Ice Wave
+- Ice Arrow
+  - German: `Eispfeil`
+  - later renamed _Thunderbolt_ and finally _Ice Bolt_
+- Invisibility
+ 
+### Darkness
+- Breath Of Death
+- Death To The Undead / Banish Undead / Destroy Undead
+- Summon Demon / Deamon
+- Summon Skeleton
+- Summon Golem
+- Army Of Darkness
+- Mass Death / Ring Of Death
+
+### Psionic
+- Telestorm / Telekinetic Storm
+- Insanity / Mass Insanity
+- Control Human
+- Telekinesis
+- Wind Fist / Aerial Fist
+- Storm Fist
+  - advanced version of _Wind Fist_
+- Forget / Befuddle
+- Fear
+- Charm / Friendship
+  - German: `Freundlich Stimmen`
+- Sleep
+- Pyrokinesis
+- Undress (?)
+- Dance (?)
+- Rage
+  - German: `Berzerk` or `Raserei`
+
+### Transform Into
+- ... Bloodfly
+- ... Minecrawler
+- ... Lurker
+- ... Meatbug
+- ... Molerat
+- ... Orc-dog
+- ... ?
+- ... Scavenger
+- ... ?
+- ... Shadowbeast
+- ... Snapper
+- ... Waran
+- ... Wolf
+
+### Teleport To
+- ... Fire Mages
+- ... Water Mages
+- ... Demon Summoner
+- ... Orc Graveyard Secret
+- ... Ore Baron House
+
+### Unknown / other
+- Speed (later changed into a potion)
+- Shrink (color-coded as Psionic spell but doesn't seem to belong there)
