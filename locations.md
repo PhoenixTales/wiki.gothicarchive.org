@@ -31,6 +31,8 @@ title: Locations
 - they trade the ore with other camps
 - they are under risk of invasion by `Old Camp`
   - in alpha 0.56c, _Ore Barons_ admit that early and openly: `In reality, we are entitled to the Free Mine. This situation will be remedied in the foreseeable future` (`Inf_Ebr_FM`)
+- it is under protection of both _Mercenaries Of New Camp_ and of _Templars Of The Sect_
+  - `Our Templars are in the Free Mine every day, guarding it from attacks from the Old Camp.` (`Inf_Gur_FM`)
 
 ## Great Northern Plains
 - `Following the heavy battles in the north, every countryman now knows how to use a bow and arrows`
@@ -90,7 +92,9 @@ title: Locations
 - German: `Altes Kastell` or `Verlassenes Kastell` (`VK`)
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
 - in the final game moved to the _orc territorry_
-- in the early designs, farmers lived around it
+- in the early designs, farmers lived just North of it
+  - `Just to the south of our fields lies the ruins of a former fort`
+- `The only place where things are still fair is the abandoned castle`
  
 ## Polar north
 - home of _Cresh a Suul_ and _Shirtakkihn_ tribe, as well as of _Polar Bears_, _Polar Badgers_ and _Polar Sharks_
