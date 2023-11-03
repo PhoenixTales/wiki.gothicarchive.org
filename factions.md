@@ -87,6 +87,8 @@ title: Factions
 - rule the _Old Camp_ since the rebellion of the prisoners
 - in alpha called by their mercenaries `king-like ruler`, `our master`, `our big boss`, `our leader`, `The Baron`
   - singular form suggests that there was supposed to be only one of them (?)
+  - `VLK_50_FoeAttackedEBr`: `the baron is mighty as god`
+  - `VLK_50_FoeStoleFromEBr`: `Isn't the leader great and wise ?`
 
 ## Psionics
 - `orange-clad` (_Sleeper's Ban_)
