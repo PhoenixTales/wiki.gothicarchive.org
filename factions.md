@@ -99,6 +99,7 @@ title: Factions
   - `ZS_OrcGUARD_ObserveIntruder_Loop: Waechter!`
   - `ZS_OrcGuard_ObserveIntruder_Loop: Ork-Waechter zieht Waffe`
 - but there's also a file `INF_WCH.BAK` which inside contains code for `Inf_Sld` and `GIL_SLD`, suggesting it's renamed version of _Mercenaries Of Old Camp_
+- probably by accident, set as owner of moveable world objects of type `TableHeavy`
 
 
 ## Ore Barons
