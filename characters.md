@@ -104,6 +104,11 @@ title: Characters
 - wears clothes of a thief
 - offers mission _Bring Psi Potion_
 
+## Hunter
+- appears in 1.01d alpha as `GRD_207_Hunter`
+- completely removed from the final release
+- can teach player advanced crossbow shooting
+
 ## Lee
 - initially he was serving as a guard in the king's court
   - source: alpha docs
