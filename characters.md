@@ -34,7 +34,8 @@ title: Characters
 
 ## Darkman
 - removed early alpha character
-- offers the player an old bow for free (`It's old, I'll make a new one.`)
+- offers the player an old bow for free
+  - `OU_NPCS_DEMO3_STT_DARKMAN_286`: `Here, take this bow, it's old. I'll make myself a new one`
 
 ## Demon Summoner
 - ex `Alchemist Of Fire`
