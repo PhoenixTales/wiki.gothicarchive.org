@@ -58,7 +58,8 @@ title: Factions
 ## Guards of New Camp
 - in the final game release known as `Mercenaries of New Camp`
 - known as `die Recken` in German version of _Sleeper's Ban_, and as `Die Garde` (`GRD`) in alpha builds
-- protect _Alchemists of Water_ and farmers living in _New Camp_
+- protect _Alchemists of Water_, farmers living in _New Camp_ and _Miner's Association_ of _Free Camp_
+  - `The miners from the Free Camp need our protection and we need their ore.` (`Inf_Grd_FL`)
 
 ## Removed Pre-Alpha Guards
 - German: `Der Waechter` / `WCH`
@@ -102,6 +103,8 @@ title: Factions
 - work at _Free Mine_ and live at _Free Camp_
 - `A whole pack of unruly miners has settled in the Free Camp.`
 - allied with the _New Camp_
+- pay _Guards Of New Camp_ for protection from _Mercenaries Of Old Camp_
+  - `The miners from the Free Camp need our protection and we need their ore.` (`Inf_Grd_FL`)
 
 ## Morlocks
 - removed pre-alpha guild, already in 0.56 alpha mentioned as `GIL_MRL = 17; // (gibt es nicht mehr)` (`no longer used`)
