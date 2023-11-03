@@ -3,7 +3,7 @@ title: Missions
 ---
 
 ## Arena Betting
-- first appears in 0.56c alpha as `Mis_ArenaBetting`
+- first appears in 0.56c alpha as `Mis_ArenaBetting`, mentioned in 1.01d alpha as `Scatty_WannaBet`
 - `You just need to buy a bet slip for the next day. How about it?`
 - `Here's your betting slip for 'Blade Fodder'. He's a great fighter. Come back here after the fight.`
 - `Bad luck, 'Blade Fodder' unfortunately lost`
@@ -11,6 +11,7 @@ title: Missions
 - offered by _Scatty The Arena Master_
  
 ## Arena Championship
+- mentioned in 1.01d alpha as `Scatty_WannaFight`
 - `I've heard that you've won the fight in the arena. You might as well challenge the champ- if you survive it you'll be stinking rich.`
 - `The last fight was bad luck for me. Next time I'll put a bet on you.`
 - `You have really won!!! Who would have thought that you'd be worth betting!`
