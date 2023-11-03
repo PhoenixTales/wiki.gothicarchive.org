@@ -2,6 +2,9 @@
 title: Locations
 ---
 
+## Abandoned Mine Of Khorinis Mine Valley
+- German: `Verlassene Mine` (`VM`)
+
 ## Archolos
 - hilly area
 - famous for vineyards
@@ -11,7 +14,13 @@ title: Locations
 - _arch demons_ live there and fight each other
 - according to early designs, player was supposed to be able to enter it, or even accidentally help a demon enter the world of living
 
+## Free Camp of Khorinis Mine Valley
+- German: `Freies Lager` (`FL`)
+- associated with _Free Mine_
+
 ## Free Mine of Khorinis Mine Valley
+- German: `Freie Mine` (`FM`)
+- associated with _Free Camp_
 - there is an association of free miners mining for themselves
 - they trade the ore with other camps
 - they are under risk of invasion by `Old Camp`
@@ -71,7 +80,7 @@ title: Locations
 
 ## Old Citadel of Khorinis Mine Valley
 - completely ruined remains of a fortress on the top a steep hill
-- German: `Altes Kastell`
+- German: `Altes Kastell` or `Verlassenes Kastell` (`VK`)
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
 - in the final game moved to the _orc territorry_
 - in the early designs, farmers lived around it
@@ -134,10 +143,12 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - there is a `peace council` (`der Friedensräte der Stadt`) with a treasury storing valuable artefacts
 
 ## Stone Circle Of The Damend
+- German: `Steinkreis der Verdammten` (`SKV`)
 - stone circle in _Mine Valley of Khorinis_
 - has power to create undead and resurrect (player respawn point in multiplayer mode)
 
 ## Swamp of Lost Souls
+- German: `Sumpf der Verlorenen Seelen` (`SVS`)
 - `If you want to hear the dead speak, you should visit the Swamp of Lost Souls.`
 - `The Swamp of Lost Souls is a place full of danger.`
 - `No one returns from the Swamp of Lost Souls with a clear mind.`
