@@ -51,9 +51,11 @@ title: Characters
 - `cynical thief`
 
 ## Earon Flamehand
-- alpha fire mage
+- very relaxed alpha fire mage
 - plays some music
   - `KDF_40_NSCAPlayMusic`: `Just to recreate my mana`
+- plays dice
+  - `KDF_40_RTPlayDice`: `Roll, roll, roll my dice.`
 
 ## Gorn
 - `muscular giant`
