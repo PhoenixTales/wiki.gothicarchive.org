@@ -97,7 +97,7 @@ title: Factions
 
 ## Miner's Association
 - German: `Der Schürferbund` (`SFB`)
-- work at _Free Mine_
+- work at _Free Mine_ and live at _Free Camp_
 - allied with the _New Camp_
 
 ## Morlocks
