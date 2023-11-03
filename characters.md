@@ -232,7 +232,7 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 
 ## Strider
 - wears guru robes, probably is a _New Camp Guard_, removed in late alpha
-- `Hey, I can teach you a little sword fighting. Interested?`
+- `You see, here you have to be able to handle a sword. I can teach you a little sword fighting. Interested? Great, then attack me.`
 
 ## The Old Man
 - only appears in _Sleeper's Ban_
