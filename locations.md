@@ -19,6 +19,10 @@ title: Locations
 - controlled by _Old Camp_, used to exchange _Magic Ore_ for goods from the king 
 - `If you wait at the Exchange Place at the noon, you can get hold of new goods from the mercenary convoy.` (`Inf_Vlk_HP`)
 
+## Fog Tower
+- codename `FT`
+- NPC `New Novice` hangs around there
+
 ## Free Camp of Khorinis Mine Valley
 - German: `Freies Lager` (`FL`)
 - owns the _Free Mine_, is controlled by the _Miner's Association_
