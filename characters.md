@@ -92,6 +92,11 @@ title: Characters
 - had an apprentice, who was killed in _Troll Canyon Ravine_
 - sends player to finish the quest of the dead apprentice and bring him a _Devil Mushroom_
 
+## Hawkeye
+- his script mentions `slot = Runner` (whatever it means)
+- he's member of the _(Some) Guards_ guild (`WCH`)
+- wears clothes of a thief
+
 ## Lee
 - initially he was serving as a guard in the king's court
   - source: alpha docs
