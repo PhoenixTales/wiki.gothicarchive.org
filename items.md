@@ -35,10 +35,12 @@ title: Items
 ## Fire Stone / Potion Of Inferno
 - in different alpha versions called either `Fire Stone` (probably runestone) or `Potion Of Inferno` (a red drink)
   - both variants have exactly the same function: allow the one using them to cast fireballs (`Drink it and you can breathe fire`)
-  - both variants appear in exactly the same context: as property of _Apprentice Of Hellfire_ which after his death is somehow acquired by _Nimblefinger_ who tries to offer it to the player as a reward for the mission `Steal The Old Sword Of Fire Mages` and is later recognized by _Hellfire_ as a confirmation that his apprentice is dead
+  - both variants appear in exactly the same context: as property of _Apprentice Of Hellfire_ which after his death is somehow acquired by _Nimblefinger_ who tries to offer it to the player as a reward for the mission `Steal The Old Sword Of Fire Mages`
 - _Nimblefinger_ calls it a `powerful magical artifact of fire magic`
 - _Hellfire_ is able to recognize the particular _Fire Stone_ that belonged to his apprentice
   - alternatively he guesses it based on how few of them are under the barrier
+  - `So that wretched imp tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days.`
+  - German: `Dieser elende Wicht hat also versucht, dir den Feuerstein anzudrehen, tststs. Der Feuerstein gehört meinem Lehrling, den ich schon seit zwei Tagen nicht mehr gesehen habe.`
 
 ## Gold
 - major unit of currency is _Unit Of Gold_ (e.g. 400 for a mountain fort)
