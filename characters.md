@@ -257,8 +257,12 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 - `a city dweller who had little knowledge of the wilderness`
 
 ## Strider
-- wears guru robes, probably is a _New Camp Guard_, removed in late alpha
+- wears guru robes, but technically is a _New Camp Guard_ (`GRD`)
+  - and the comment in the script says that' he's wearing a leather armor instead (`Lederrustung`)
+- removed in late alpha
+- `stands in front of the gate to the Castle of the Old Camp and helps the player when he enters` (script comment)
 - `You see, here you have to be able to handle a sword. I can teach you a little sword fighting. Interested? Great, then attack me.`
+- has custom AI which allows player to attack him without getting into trouble, after player accepted sword fighting lesson and before that lesson ends
 
 ## The Old Man
 - only appears in _Sleeper's Ban_
