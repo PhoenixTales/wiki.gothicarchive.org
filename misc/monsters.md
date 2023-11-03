@@ -54,6 +54,10 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - `Sharks (...) whose skin was so brilliantly blue that it even faded the color of the sea in that bright sunshine.`
 - `bright blue fins`
 
+## Skeleton
+- the only monster in the alpha builds using engine attribute `regrow`
+  - has value of 80, all the other monsters and NPCs have 0
+
 ## Stonestrangler
 - probably later renamed `minecrawler`
 - `they are five meters long and look like giant cockroaches` (_Sleeper's Ban_)
