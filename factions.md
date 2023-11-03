@@ -84,7 +84,8 @@ title: Factions
 
 ## Ore Barons
 - rule the _Old Camp_ since the rebellion of the prisoners
-- called by their mercenaries `king-like ruler`, `our master`, `our big boss`, `our leader`
+- in alpha called by their mercenaries `king-like ruler`, `our master`, `our big boss`, `our leader`, `The Baron`
+  - singular form suggests that there was supposed to be only one of them (?)
 
 ## Psionics
 - `orange-clad` (_Sleeper's Ban_)
