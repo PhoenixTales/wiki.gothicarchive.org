@@ -50,6 +50,11 @@ title: Characters
 - called `Raoul` on old website
 - `cynical thief`
 
+## Earon Flamehand
+- alpha fire mage
+- plays some music
+  - `KDF_40_NSCAPlayMusic`: `Just to recreate my mana`
+
 ## Gorn
 - `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed…`
