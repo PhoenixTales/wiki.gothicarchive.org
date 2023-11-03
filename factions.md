@@ -171,6 +171,7 @@ title: Factions
 - escort the main character during his sentencing
 - appear in game scripts as `CS_ESKORTE1-6`
 - wear gold-themed armors using the same 3d model as prison guard armors (which became armors of _Old Camp Mercenaries_)
+- in commented-out scripts use two-handed swords and crossbows
 
 ## Shadows Of The Old Camp
 - secretive spies and assassins working for _Ore Barons_
