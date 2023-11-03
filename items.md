@@ -115,6 +115,10 @@ title: Items
 - `opens your spirit` and gives chance to experience visions (`Some people even see images`)
 - there are multiple distinct blends of _Swampweed_ that differ in strength and price
 
+## Teleport Stone
+- single item `TeleportStone` connected with single spell `Spell_Teleportation`
+- as opposed to teleportation spells in the final release, this one doesn't seem to be tied to single target location
+
 ### Other games
 - Gothic 2:
   - described as `resinous stalk`, and package of it as `sticky` and `stinking`
