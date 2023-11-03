@@ -66,6 +66,7 @@ title: Factions
 - it's much harder to discover and join than the three camps
 - 4 Friends (Diego, Milten, Lester and Gorn) are members of it
 - player was supposed to have a chance of discovering and joining it
+- `SLD_21_NSCASpeech`: `Just listen people. This is the masters message.` (unclear if he actually means this guild)
 
 ## Mercenaries Of Old Camp
 - in final released version of Gothic I known as `The Guards Of Old Camp`
