@@ -139,6 +139,7 @@ title: Factions
   - `VLK_50_FoeStoleFromEBr`: `Isn't the leader great and wise ?`
 - one of them always joins the _Convoy To Exchange Place_
   - `The convoys that come from the Exchange Place are swarming with mercenaries. Even an Ore Baron is always there` (`Inf_Grd_HP`)
+- there are three _Mercenaries Of Old Camp_ (`SLD`) bodyguarding them (`SLD_BARONSGUARDN1-3`)
 
 ## Psionics
 - `orange-clad` (_Sleeper's Ban_)
