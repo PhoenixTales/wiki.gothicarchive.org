@@ -32,6 +32,10 @@ title: Characters
 - wears `red-brown leather armor`
 - `deep red tattoo that sharply and precisely covered the left side of the face and neck`
 
+## Darkman
+- removed early alpha character
+- offers the player an old bow for free (`It's old, I'll make a new one.`)
+
 ## Demon Summoner
 - ex `Alchemist Of Fire`
 - `has a lot to offer` (_Sleeper's Ban_)
