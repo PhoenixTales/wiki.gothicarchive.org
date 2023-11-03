@@ -235,16 +235,16 @@ NOV_QUICKTONGUE     | Quicktongue     |
 ORG_856_MARVIN      | Marvin          |
 SLEEPER             | Sleeper         | (normal buddler, not sleeping)
 SHARPBLADE          | Sharpblade      | (guard)
-SFB_1002_AIKO       |                 |
-SFB_1004_GARBAR     |                 |
-SFB_1005_MIHAI      |                 |
-SFB_1006_GORNIOS    |                 |
-SFB_1008_THREP      |                 |
-SFB_1009_CAER       |                 |
-SFB_1010_KILAN      |                 |
-SFB_1012_WEEZE      |                 |
-SFB_1013_DAGGER     |                 |
-SFB_1015_OLDMAN     |                 |
+SFB_1002_AIKO       | Aiko            |
+SFB_1004_GARBAR     | Garbar          |
+SFB_1005_MIHAI      | Mihai           |
+SFB_1006_GORNIOS    | Gornios         |
+SFB_1008_THREP      | Threp           |
+SFB_1009_CAER       | Caer            |
+SFB_1010_KILAN      | Kilan           |
+SFB_1012_WEEZE      | Weeze           |
+SFB_1013_DAGGER     | Dagger          |
+SFB_1015_OLDMAN     | Old Man         |
 SLD_20              | ???             | (alpha Borik?)
 SLD_21              | ???             | (alpha Scatty?)
 SLD_200_BORIK       | Borik           | 
@@ -285,8 +285,9 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 ```
 
 ## Riddler
-- side-quest character added in the final release of the game
+- side-quest character added in the final release of the game as `BAU_940_Riddler`
 - technically a farmer (`BAU`)
+- judging by look and _New Camp_ allegiance, may correspond to removed alpha NPC `SFB_1015_OLDMAN`
 
 ## Scatty The Arena Master
 - offers quest `Arena Betting` and facilitates player's participation in arena fights
