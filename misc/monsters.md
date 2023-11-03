@@ -10,6 +10,9 @@ title: Monsters
 - when picks up an item, they make `happy` shout `Bonami!`
 - when starts attacking, they make `alarm` shout `Aitascha!`
 
+## Iguana
+- mentioned in 1.01d alpha
+
 ## Mid'ssa
 - underwater monster living at the `Exchange Place`
 ```
@@ -53,6 +56,10 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - lives in the far _Polar North_
 - `Sharks (...) whose skin was so brilliantly blue that it even faded the color of the sea in that bright sunshine.`
 - `bright blue fins`
+
+## Shadowbeast
+- mentioned as `Schattenläufer` (German for `Shadow Walker`) in 1.01d alpha
+  - this is a nickname for _Shugul Sath_, a legendary monster of similar posture from _Sleeper's Ban_
 
 ## Skeleton
 - the only monster in the alpha builds using engine attribute `regrow`
