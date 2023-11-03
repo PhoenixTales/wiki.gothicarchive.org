@@ -33,3 +33,13 @@ title: Curiosities
 - probabaly multiplayer-only mechanic
 - dead players return at _Stone Circle Of The Damend_
 - `KDF_40_GladYouWereDead`: `Risen from the dead, eh?  Watch out the next time!`
+
+## Fall Gitter Secret
+- only found in one of zens in 0.64b (unclear in which one)
+- trigger with identifier `TRIGGER_FALLGITTER_SECRET`
+- likely coordinates `-2416.28882 57.2834854 -2650.854`
+- triggers vob `FALLGITTER` with visual `FALLGITTER.3DS`
+- there is also another vob, `TRIGGER_FALLGITTER` targetting `FALGITTER`
+- there is also trigger vob `WAND` with visual `WAND.3DS` targetting `FALGITTER`
+
+
