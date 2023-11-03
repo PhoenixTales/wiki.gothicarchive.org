@@ -196,12 +196,33 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - `Swamp of Lost Souls is a dark place`
 
 ## Teleport Network
-- _New Camp_: `Teleport to NewCamp` / `NC_TEL_EXIT`
-- _Old Camp_: `Teleport to OldCamp` / `OC_TEL_EXIT`
-- _Old Fort_: `Teleport to Old Fort` / `OF_TEL_EXIT`
+- _Old Camp_ has two way connections with both _New Camp_ and _Old Fort_
+  - _New Camp_ and _Old Fort_ are not connected
+- `NC_2_OC` / `Teleport to OldCamp` leads to `OC_TEL_EXIT`
+- `OC_2_OF` / `Teleport to Old Fort` leads to `OF_TEL_EXIT`
+- `OC_2_NC` / `Teleport to NewCamp` leads to `NC_TEL_EXIT`
+- `OF_TELEPORT` / `Teleport to OldCamp` leads to `OC_TEL_EXIT`
+- `TELEPORT2` leads to `EXIT2`
+- `TELEPORT1` leads to `EXIT1`
+- `TELEPORT1` (yes, another one) leads to `TP1_TARGET`
+- `TELEPORT2`(yes, another one) leads to `TP2_TARGET`
 - only mentioned in compiled file `worlds.vdf` from alpha 0.64b
-- all teleports use visual `STARGATE.3DS`, `sfxTeleport=string:various_cast2.wav` and probably animated texture `TELEPORT_A*.TGA`
+- teleports use visual `STARGATE.3DS`, `sfxTeleport=string:various_cast2.wav` and animated texture `TELEPORT_A*.TGA`
 - may be connected to particle effects `PORTAL`, `EinleitungTeleport` and `Teleporter/teleport`
+- implemented using object `zCTriggerTeleport` which moves the character to the `destination vob` (`triggerTarget`)
+- likely coordinates, found in a compiled file, unconfirmed, not even clear in which ZENs/levels:
+  - `-51319.4805 1713.69409 -1326.97949`
+  - `845.911255 366.672821 -2426.46509`
+  - `1137.30322 350.482788 -2425.89575`
+  - `5049.49854 8228.94727 -15677.3232`
+  - `-1729.63269 74.0524139 -619.367737`
+  - `158.321213 89.7027893 488.486237`
+  - `175.372742 93.8808823 481.832001`
+  - `1911.15845 93.9981079 -6002.50732`
+  - `-51319.4805 1713.69409 -1326.97949`
+  - `5049.49854 8228.94727 -15677.3232`
+  - `845.911255 366.672821 -2426.46509`
+  - `1137.30322 350.482788 -2425.89575`
 
 ## Temple Of Sleeper
 - `in an uknown ancient temple, unchanged for 1000 years`
