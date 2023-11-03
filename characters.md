@@ -148,7 +148,7 @@ title: Characters
 - somehow got hold of a _Fire Stone_ of now dead _Apprentice of Hellfire_
 
 ## The Noname
-- digger from alpha 0.56c
+- _digger_ from alpha 0.56c
 ```
 // Buddler No.1
 INSTANCE Vlk_Mole_01 (Npc_Default)
