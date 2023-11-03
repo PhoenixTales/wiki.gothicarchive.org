@@ -58,6 +58,21 @@ title: Factions
 - known as `die Recken` in German version of _Sleeper's Ban_, and as `Die Garde` (`GRD`) in alpha builds
 - protect _Alchemists of Water_ and farmers living in _New Camp_
 
+## Removed Pre-Alpha Guards
+- German: `Der Waechter` / `WCH`
+- it is almost removed already in 0.56 alpha (`GIL_WCH = 18; // (gibt es nicht mehr)` - `no longer used`)
+- in very early alpha builds was guild separate from both _Mercenaries Of Old Camp_ and _Guards Of New Camp_
+- on the guild list, they are between _The Orcs_ and _The Sleeper_, and word `Waechter` is only mentioned elsewhere in context of orcs:
+  - `B_OrcGuard_ObserveIntruder: Waechter sieht Player`
+  - `B_OrcGuard_ObserveIntruder: Waechter tutet ins Horn -> TOR`
+  - `ZS_OrcGUARD_ObserveIntruder_Loop: Waechter!`
+  - `ZS_OrcGuard_ObserveIntruder_Loop: Ork-Waechter zieht Waffe`
+- but there's also a file `INF_WCH.BAK` which inside contains code for `Inf_Sld` and `GIL_SLD`, suggesting it could be a renamed version of _Mercenaries Of Old Camp_
+- probably by accident, set as owner of moveable world objects of type `TableHeavy`
+- in 0.56 alpha there are two NPCs with this guild set, who wear clothing of other guilds:
+  - _Mastermind_, wears _Guru_ robes
+  - _Hawkeye_, wears _Thiefs_ clothes (`thief.asc`)
+
 ## Guild of Mages
 - only mentioned in _Sleeper's Ban_, as `der Magiergilde`
 - ruled by 12 _Principals_ (`Prinzipalen`)
@@ -90,17 +105,6 @@ title: Factions
   - design docs imply that general(s) are also "Lords" (nobles)
 - known ranks of nobility: `king`, `lord`, `burgrave`, possibly `baron`
   - `ore barons` likely based their title on a title used outside of the barrier rather than inventing it from scratch
-
-## Guards
-- in alpha builds a distinct guild (German: `Der Waechter` / `WCH`)
-- on the guild list, they are between _The Orcs_ and _The Sleeper_, and this word is only mentioned in context of orcs:
-  - `B_OrcGuard_ObserveIntruder: Waechter sieht Player`
-  - `B_OrcGuard_ObserveIntruder: Waechter tutet ins Horn -> TOR`
-  - `ZS_OrcGUARD_ObserveIntruder_Loop: Waechter!`
-  - `ZS_OrcGuard_ObserveIntruder_Loop: Ork-Waechter zieht Waffe`
-- but there's also a file `INF_WCH.BAK` which inside contains code for `Inf_Sld` and `GIL_SLD`, suggesting it's renamed version of _Mercenaries Of Old Camp_
-- probably by accident, set as owner of moveable world objects of type `TableHeavy`
-
 
 ## Ore Barons
 - rule the _Old Camp_ since the rebellion of the prisoners
