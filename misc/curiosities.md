@@ -50,9 +50,9 @@ These objects can stand in the world and be interacted with, but are too big to 
 - bed
 - lovebed
 - throne
-
-### Magic and alchemy
-- alchemy lab
+- crate (huge chest)
+- barrel (can be used for hiding, as seen in _The Comic_)
+- bench
 - book stand
 
 ### Smithing
@@ -79,12 +79,6 @@ These objects can stand in the world and be interacted with, but are too big to 
 ### Outdoor
 - campfire
 - torch holder
-- scavenger barbecue
-- bench
-
-### Storage
-- crate (huge chest)
-- barrel (can be used for hiding, as seen in _The Comic_)
 
 ### Control mechanisms
 - vertical wheel / turnstile
@@ -93,6 +87,7 @@ These objects can stand in the world and be interacted with, but are too big to 
 - switch
 
 ### Cooking
+- scavenger barbecue
 - cauldron
 - pan
 
@@ -100,6 +95,7 @@ These objects can stand in the world and be interacted with, but are too big to 
 - waterpipe
 - herb masher
 - idol statuette (for praying)
+- alchemy lab
 
 ### Special
 - ropeway ("Exchange Place mechanism")
