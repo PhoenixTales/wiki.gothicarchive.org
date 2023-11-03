@@ -200,7 +200,7 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - _Old Camp_: `Teleport to OldCamp` / `OC_TEL_EXIT`
 - _Old Fort_: `Teleport to Old Fort` / `OF_TEL_EXIT`
 - only mentioned in compiled file `worlds.vdf` from alpha 0.64b
-- all teleports use visual `STARGATE.3DS` and `sfxTeleport=string:various_cast2.wav`
+- all teleports use visual `STARGATE.3DS`, `sfxTeleport=string:various_cast2.wav` and probably animated texture `TELEPORT_A*.TGA`
 - may be connected to particle effects `PORTAL`, `EinleitungTeleport` and `Teleporter/teleport`
 
 ## Temple Of Sleeper
