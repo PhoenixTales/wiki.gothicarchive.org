@@ -261,22 +261,22 @@ SLD_MAINGATEGUARDN1 | Mack            |
 SLD_MAINGATEGUARDN2 | Tack            |
 SLD_MAINGATEGUARDT1 | Greg            |
 SLD_MAINGATEGUARDT2 | Jack            |
-STT_300_RAVEN       | Raven           |
-STT_301_FINGERS     | Fingers         | 
-STT_302_LEFTY       | Lefty           |
+STT_300_RAVEN       | Raven           | became EBR_105_Raven
+STT_301_FINGERS     | Fingers         | changed ID to STT_331_Fingers
+STT_302_LEFTY       | Lefty           | became ORG_844_Lefty
 STT_DARKMAN         | Darkman         |
 VLK_50              | ???             | (VLK_50_NSCASpeech: `The forgotten people will rise`, alpha Cutter?)
 VLK_500_CUTTER      | Cutter          |
 VLK_501_BROWNIE     | Brownie         |
-VLK_502_MARUS       | Marus           | lost his name and became `VLK_502_BUDDLER`
-VLK_503_SCARRY      | Scarry          |
-VLK_504_CREEP       | Creep / Ryan    | first renamed to `Ryan`, later lost his name and became `VLK_502_BUDDLER`
-VLK_505_GRUMPY      | Grumpy          |
-VLK_506_SMOKIE      | Smokie          |
-VLK_507_DEREK       | Derek           |
+VLK_502_WOODY       | Woody / Marus   | first renamed to Marus, finally lost his name and became `VLK_502_BUDDLER`
+VLK_503_SCARRY      | Scarry          | lost his name and became `VLK_503_BUDDLER`
+VLK_504_CREEP       | Creep / Ryan    | first renamed to `Ryan`, later lost his name and became `VLK_504_BUDDLER`
+VLK_505_GRUMPY      | Grumpy          | lost his name and became `VLK_505_BUDDLER`
+VLK_506_SMOKIE      | Smokie          | not smoking, lost his name and became `VLK_506_BUDDLER`
+VLK_507_DEREK       | Derek           | lost his name and became `VLK_507_BUDDLER`
 VLK_517_CANTHAR     | Canthar         | later lost his name and became `VLK_517_BUDDLER`
-VLK_508_JUG         | Jug             |
-VLK_509_OLON        | Olon            |
+VLK_508_JUG         | Jug             | lost his name and became `VLK_508_BUDDLER`
+VLK_509_OLON        | Olon            | lost his name and became `VLK_509_BUDDLER`
 VLK_CRUMB           | Crumb           | (mole, dressed like thief)
 VLK_DUMB            | Dumb            | (mole, dressed like thief)
 VLK_NIMBLEFINGER    | Nimblefinger    | ("Hehler" - trader of stolen goods, dressed like thief)
