@@ -158,8 +158,10 @@ title: Factions
 
 ## The People
 - German: `Das Volk`
-- in original English translation of the early alpha mentioned as `normal people`
-- `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
+- in original English translation of the early alpha translated in one place as `normal people`
+  - `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
+  - but other places of the same build translate it as `diggers`
+  - `SLD_20_FriendDefeatedByVlk`: `A digger has beaten you up`
 - compiled binary file `scripts.vdf` from alpha 0.64b contains text associating them with `buddlers` (miners)
   - `CONST INT GIL_VLK = 5; // Volk/Buddler`
 
