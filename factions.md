@@ -167,6 +167,11 @@ title: Factions
  - `NOV_130_FriendStoleFromEBr`: `Stupid pumpkin, you stole from the baron`
 - subgroups: novices
 
+## Royal Guard
+- escort the main character during his sentencing
+- appear in game scripts as `CS_ESKORTE1-6`
+- wear gold-themed armors using the same 3d model as prison guard armors (which became armors of _Old Camp Mercenaries_)
+
 ## Shadows Of The Old Camp
 - secretive spies and assassins working for _Ore Barons_
 - their headquarters are in the dungeons of _Old Camp Castle_
