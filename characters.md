@@ -23,10 +23,6 @@ title: Characters
 - owner of _Mountain Fortress_
 - past owner of some of _Royal Ore Mines_
 
-## Charlotte
-- _In Extremo's_ dancer
-- script comment mentions she's from `VIVA 2`
-
 ## Dailah The Iceskin
 - uses title `Creesh a Suul` (`Daughter of a Bear`), is also called "The Amazon"
 - `the first warrior of her people`
@@ -41,7 +37,8 @@ title: Characters
 - `deep red tattoo that sharply and precisely covered the left side of the face and neck`
 
 ## Darkman
-- removed early alpha character
+- introduced in 0.56 alpha as `STT_DARKMAN`, later removed
+- member of _Shadows Of The Old Camp_
 - offers the player an old bow for free
   - `OU_NPCS_DEMO3_STT_DARKMAN_286`: `Here, take this bow, it's old. I'll make myself a new one`
 
@@ -69,7 +66,8 @@ title: Characters
 - `cynical thief`
 
 ## Earon Flamehand
-- very chill alpha Fire Mage
+- very chill alpha Fire Mage with ID `KDF_400_EARON`
+- later renamed to `Rodriguez`
 - plays lute
   - `KDF_40_NSCAPlayMusic`: `Just to recreate my mana`
 - plays dice
@@ -88,11 +86,11 @@ title: Characters
 - `Where I come from, opponents are invited for a feast before they are killed…`
 
 ## Greg
-- `Old Camp Mercenary_ removed in late alpha
+- `Old Camp Mercenary_ with ID `SLD_MAINGATEGUARDT1`, removed in late alpha
 - `During the day I'm the boss of the south gate!`
 
 ## Grimface
-- _Old Camp Mercenary_ removed in late alpha
+- _Old Camp Mercenary_ with ID `SLD_GRIMFACE`, removed in late alpha
 - `Oh man, that Quicktongue is a crazy weirdo! Trying to steal our workhorses! Tststs! I'll give you some good advice. Stay away from his cult. I heard the gurus are gradually burning your mind out of your skull. It won't be long before Quicktongue wakes up with a knife in his back. (Harharhar!!!)`
 - `PLAYER: Hey, what's your job? GRIMFACE: I ensure that weirdos don't ask stupid questions around here. BUZZ OFF!!!!`
 
