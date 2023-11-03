@@ -113,3 +113,7 @@ title: Factions
 - wife of the family's head died, and he married again
   - he has two sons, one from the first marriage who is his heir, and one from second marriage who is jealous of being the heir
   - `his stepbrother, the man who came into the family through his father's second marriage and envied him from the start the position of heir.`
+
+## VLK
+- in original English translation of the early alpha mentioned as `normal people`
+- `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
