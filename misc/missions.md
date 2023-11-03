@@ -75,10 +75,10 @@ title: Missions
 - first appears in 1.01d alpha as `Mis_1_Milten`
 - involved locations `FP_MIS_1_MILTEN` and `FP_MIS_1_MILTEN_ITEM`
 
-## Steal Old Sword From The Chapel
+## Steal The Old Sword Of Fire Mages
 - only partially implemented in early alpha builds and impossible to finish
 - `Would you like to have my powerful magical artifact of fire magic? Bring me that old sword from the chapel.`
-  - there is older version of this dialogue: `Would you like to have my powerful magical artifact of fire magic? In return, bring me the old sword that the magician named Hellfire carries around with him.` (`OU_NPCS_DEMO3_VLK_NIMBLEFINGER_166`-`170`)
+  - there is an older version of this dialogue: `Would you like to have my powerful magical artifact of fire magic? In return, bring me the old sword that the magician named Hellfire carries around with him.` (`OU_NPCS_DEMO3_VLK_NIMBLEFINGER_166`-`170`)
 - the reward is a _Fire Stone_ of the dead _Apprentice of Hellfire_
   - in older version it was `An incredibly powerful potion that spits fireballs` (`OU_NPCS_DEMO3_VLK_NIMBLEFINGER_168`), clearly reference to potion `Inferno`, which later became a reward of another quest, given by _Hellfire_ himself
 - offered by _Nimblefinger_, trader of stolen goods
