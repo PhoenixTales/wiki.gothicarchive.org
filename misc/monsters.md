@@ -4,6 +4,7 @@ title: Monsters
 
 ## Black Wolf
 - variant of _Wolf_ present in alpha 1.01d
+- later changed into _Orcdog_, which in final release still uses `ID_BLACKWOLF`
 
 ## Blood Hound
 - huge dog-like monster
