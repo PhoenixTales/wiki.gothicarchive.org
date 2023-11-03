@@ -39,6 +39,11 @@ title: Factions
 - probably some subset of Sect Templars
 - there's mention of _Crusade_ (`Kreuzzug`)
 
+## Diggers
+- miners of the _Old Camp_
+- contemptously called `work horses` or `working animals` by other camp members
+  - `KDF_40_FoeKilledDigger`: `Hey, nobody gets away with killing our working animals`
+
 ## Farmers of Khorinis Mine Valley
 - live around the _Old Citadel_ (German: `Altes Kastell`)
   - originally, the New Camp was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the New Camp running through the fields
