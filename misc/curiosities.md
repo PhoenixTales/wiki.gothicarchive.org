@@ -2,6 +2,10 @@
 title: Curiosities
 ---
 
+## Armor stealing
+- `Hey, you're wearing MY armor. Give it back immediately!!!`
+- German: `Hey, du trgst MEINE Rstung. Gib sie sofort zurck!!!'`
+
 ## Disguise mechanic
 - `KDF_40_RecognizeDisguise`: `What is this masquerade for?`
 - `KDF_40_RemoveDisguise`: `WHO is this HERE!?!`
