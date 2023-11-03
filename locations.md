@@ -15,9 +15,9 @@ title: Locations
 - according to early designs, player was supposed to be able to enter it, or even accidentally help a demon enter the world of living
 
 ## Exchange Place
-- German: `Handelsplatz`
+- German: `Handelsplatz` (`HP`)
 - controlled by _Old Camp_, used to exchange _Magic Ore_ for goods from the king 
-- `If you wait at the Exchange Place at the noon, you can get hold of new goods from the mercenary convoy.`
+- `If you wait at the Exchange Place at the noon, you can get hold of new goods from the mercenary convoy.` (`Inf_Vlk_HP`)
 
 ## Free Camp of Khorinis Mine Valley
 - German: `Freies Lager` (`FL`)
