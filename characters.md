@@ -38,6 +38,7 @@ title: Characters
   - `OU_NPCS_DEMO3_STT_DARKMAN_286`: `Here, take this bow, it's old. I'll make myself a new one`
 
 ## Demon Summoner
+- German: `Dämonenbeschwörers` (`DMB`) living at `Turm des Dämonenbeschwörers` (`TDB`)
 - ex `Alchemist Of Fire`
 - `has a lot to offer` (_Sleeper's Ban_)
 - `during his experiments here in the Old Camp, some people rose to, well, new forms of existence, so that he had to leave the camp`
@@ -50,6 +51,8 @@ title: Characters
 - `They call me the demon summoner. I have been privileged to make my servants some of the fascinating creatures of the lower hells` (_Sleeper's Ban_)
 - called _Demon Lord_ in original English translation of early alpha
   - `You look worse than the guy who tried to finish with the Demon Lord.`
+- according to alpha builds, _Fire Mages_ still try to stay in contact and learn from him
+  - `Our magicians just can't resist going to the Demon Summoner's Tower to learn` (`Inf_Ebr_TDB`)
 
 ## Diego
 - called `Raoul` on old website
