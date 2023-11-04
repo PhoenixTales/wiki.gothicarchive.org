@@ -179,6 +179,12 @@ title: Characters
 - the army recruits him for the war
 - he runs away before hopeless battle and later gets captured by Khorinis city guards as a deserter
 
+### The Negotiator
+- `A tough fighter lives in the castle and offers his services as a negotiator.`
+  - `the castle` refers to the `Old Citadel` (codenamed `VK`) 
+  - German: `Im Kastell wohnt ein harter Kampfer, der seine Dienste als Unterhandler anbietet.`
+  - from 0.56c alpha, `Inf_Ebr_VK`
+
 ## Nimblefinger
 - trader of stolen goods in _Old Camp_, removed in late alpha
 - dressed like a thief
