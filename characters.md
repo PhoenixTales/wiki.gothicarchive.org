@@ -17,7 +17,7 @@ title: Characters
 - lies dead with a label `Looser` in _Troll Canyon Ravine_, where he was trying to collect a _Devil Mushroom_
 - it is hinted that he was either murdered, or that his body was robbed after his death before player found him
   - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
-  - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a devil mushroom in the ravine.`
+  - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a Devil Mushroom in the ravine.`
 
 ## Arto
 - in alpha initially a member of _Free Camp_, `SFB_1007_ARTO`
