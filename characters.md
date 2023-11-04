@@ -156,9 +156,6 @@ title: Characters
 - wears clothes of a thief
 - offers mission _Bring Psi Potion_
 
-## Herek
-- originally _Free Miner_ `SFB_1011_Herek`, finally `VLK_511_Herek`
-
 ## Hunter
 - appears in 1.01d alpha as `GRD_207_Hunter`
 - completely removed from the final release
