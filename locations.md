@@ -43,12 +43,12 @@ title: Locations
 - `beware of the lower level, there are all sorts of creatures hanging around there` (`Inf_Org_FM`)
 
 ## New Camp
-- referred by two codenames: `NC` and `NL` (German: `Neues Lager`)
+- referred to by two codenames: `NC` and `NL` (German: `Neues Lager`)
 - according to `Sleeper's Ban`, North from `Old Camp`
 - populated by `Alchemists Of Water`, few of the `Farmers`, and their protectors _The Guards Of New Camp_
 
 ## Old Camp
-- referred by two codenames: `OC` and `AL` (German: `Altes Lager`)
+- referred to by two codenames: `OC` and `AL` (German: `Altes Lager`)
   - divided into `Old Camp Ring` (`OCR`) (home of _diggers_) and `Old Camp Castle` (`OCC`) (home of _Ore Barons_, _Mercenaries Of Old Camp_)
   - there is a _Chapel_ within the castle walls, where _Alchemists Of Fire_ are staying
 - alpha scripts mention that there is a `main gate` and `North gate`
