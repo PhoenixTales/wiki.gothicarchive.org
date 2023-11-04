@@ -109,6 +109,7 @@ title: Items
 
 ## Potion "Sprinting Horse"
 - sprint potion
+- drinking it triggers `SpellFX_Sprint` (also in the final release), which may suggest that originally it was going to be a magic spell
 
 ## PSI Potion
 - appears in alpha builds, is almost for sure the same as _Sruup_
