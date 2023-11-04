@@ -115,11 +115,14 @@ title: Items
 ## Potion "Sprinting Horse"
 - sprint potion
 
-## PSI potion
-- appears in alpha builds
-- vial with yellow liquid (visual file `drug.3ds`)
-- increases attributte `madness` by 5
+## PSI Potion
+- appears in alpha builds, is almost for sure the same as _Sruup_
+- vial with yellow liquid, uses mesh `drug.3ds` and material `IT_DRUG_YELLOW`
+- _Quicksilver_ and others call it simply `PSI` or `drug` without explicitly mentioning `vial` or `potion`
+- increases attributte `madness` by 5 (counter-intuitively, this probably means getting _less_ close to becoming insane)
   - the only other item affecting this attribute is `Holy Water`, increasing it by 10
+- there is a related mission, _Bring Psi Potion_ (`I urgently need a PSI vial`)
+- `There isn't much to pick up in the cult camp other than mountains of drug vials` (`Inf_Org_SL`)
 
 ## Rune Sword
 - appears in alpha builds
@@ -153,10 +156,7 @@ title: Items
 - `Without Sruup you will go mad, there are visions, visions of some temple, of orcs, of the undead; and they drive you crazy if you don't drink that stuff`
 - `Without Sruup you will go just as insane as when you approach the barrier.`
 - has `pungent odor` (German: `ein stechender Geruch`) (_Sleeper's Ban_)
-- there is a related alpha quest: _Hawkeye_ requests `I urgently need a PSI vial`
-  - it uses mesh `drug.3ds` and material `IT_DRUG_YELLOW`, looks like a vial with yellow liquid 
-  - changes attribute `madness`
-  - _Quicksilver_ calls it simply `PSI` without explicitly mentioning `vial` or `potion`
+- almost for sure the same as `PSI Potion` in alpha game builds
 
 ## Swampweed
 - `grown in the swamp (...) has to be processed before it can be smoked`
