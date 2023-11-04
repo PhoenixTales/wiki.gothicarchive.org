@@ -52,13 +52,6 @@ title: Locations
 - referred to by two codenames: `OC` and `AL` (German: `Altes Lager`)
   - divided into `Old Camp Ring` (`OCR`) (home of _diggers_) and `Old Camp Castle` (`OCC`) (home of _Ore Barons_, _Mercenaries Of Old Camp_)
   - there is a _Chapel_ within the castle walls, where _Alchemists Of Fire_ are staying
-- alpha scripts mention that there is a `main gate` and `North gate`
-  - this contradicts the final map layout where the main gate points to the North, and back gate to the South
-- according to `Sleeper's Ban`, South from `New Camp` (in the final game, East from that camp)
-- there are waypoints `GreatTower` and `LeftTower`
-  - `LeftTower` has `LowerRoom` and `UpperRoom`
-  - on the final map, the tower that survived, and was always taller according to the comic, was on the West, so that when map drawing is oriented usual way, it's on the left, while the collapsed tower is on the right (East)
-  - terms `left` and `right` may refer to what player can see after entering trough the castle gate (looking South) rather than to directions on map drawing (oriented North)
 - place used as smithy is called in the level file a `stable`, and indeed looks like a building suitable for horses
 
 ## Old Citadel
@@ -66,8 +59,6 @@ title: Locations
   - later called in German `Verlassenes Kastell` (`VK`), `Altes Kastell` or `Versammlungsplatz` (meeting place)
 - completely ruined, abandoned remains of old fortress on the top a steep hill
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
-  - south from the _Fields Of Farmers_ (`Just to the south of our fields lies the ruins of a former fort` - alpha 0.56c)
-  - and also south from the _Old Camp_ (`Inf_Gur_VK`: `Südlich des Alten Lagers befindet sich eine Kastell-Ruine`)
   - in the final game moved to the _orc territorry_
 - _The Negotiator_ lives in there
   - his neighbours, _The Farmers_, don't know about him (`Inf_Bau_VK`: `Soviel ich weiß lebt dort niemand`)
