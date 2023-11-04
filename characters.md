@@ -109,6 +109,8 @@ title: Characters
 ## Gorn
 - `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed...`
+  - he is dark-skinned, and from _Sleeper's Ban_ we know about a dark skinned tribe which does just that
+  - plot twist is that after being killed, these enemies participate in the feast in role of the meal
 
 ## Greg
 - _Old Camp Mercenary_ with ID `SLD_MAINGATEGUARDT1`, removed in late alpha
