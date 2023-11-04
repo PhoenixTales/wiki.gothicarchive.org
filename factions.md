@@ -121,9 +121,9 @@ title: Factions
 - allied with the _New Camp_
 - pay _Guards Of New Camp_ for protection from _Mercenaries Of Old Camp_
   - `The miners from the Free Camp need our protection and we need their ore.` (`Inf_Grd_FL`)
-- they conduct their own trade with the outside world separately from _Old Camp_, which seems to be at least aggressive about it
+- they conduct their own trade with the outside world separately from _Old Camp_
+  - they use the same _Exchange Place_ as _Old Camp Mercenaries_, who are aggressive about this
   - `Escorting the hunters' association to the trading center is usually associated with trouble. Those damned mercenaries` (`Inf_Tpl_HP`)
-  - _Mercenaries_ refers here to _Mercenaries Of Old Camp_ (`SLD`)
 
 ## Morlocks
 - removed pre-alpha guild, already in 0.56 alpha mentioned as `GIL_MRL = 17; // (gibt es nicht mehr)` (`no longer used`)
