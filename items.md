@@ -65,7 +65,7 @@ title: Items
 - mission titled _The Holy Water_ is actually about `PSI Potion` (corresponding to _Sruup_) and doesn't actually involve the _Holy Water_ item
 
 ## Leather Armor
-- the only armor separate from body mesh entire game
+- the only armor separate from body mesh (rendered on top of it) in the entire game
 - only present in alpha 0.56
 
 ## Light sources
