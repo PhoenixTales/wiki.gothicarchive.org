@@ -54,9 +54,10 @@ title: Locations
   - there is a _Chapel_ within the castle walls, where _Alchemists Of Fire_ are staying
 - place used as smithy is called in the level file a `stable`, and indeed looks like a building suitable for horses
 
-## Old Citadel
-- in alpha builds called `Old Fort` (`OF`) 
+## Old Fort
+- codename `OF`
   - later called in German `Verlassenes Kastell` (`VK`, Abandoned Castle), `Altes Kastell` or `Versammlungsplatz` (Meeting Place)
+  - in the final English translation called `Old Citadel`
 - completely ruined, abandoned remains of old fortress on the top a steep hill
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
   - in the final game moved to the _orc territorry_
