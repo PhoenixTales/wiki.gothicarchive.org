@@ -61,7 +61,7 @@ title: Items
 
 ## Holy Water
 - +10 to hp, mana, madness
-- looks like mana potion
+- looks like a mana potion
 - mission titled _The Holy Water_ is actually about `PSI Potion` (corresponding to _Sruup_) and doesn't actually involve the _Holy Water_ item
 
 ## Leather Armor
@@ -97,9 +97,6 @@ title: Items
   - subject of a quest from _Hellfire_
 - there is a _talent_ called `mushrooms`
   - possibly allowed the player to tell kinds of mushrooms apart
-
-## Oil Lamp
-- gives 20 minutes of light
 
 ## Ore Armor
 - according to the final game, _Ore Armor_ once belonged to _Ancient General_
