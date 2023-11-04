@@ -88,3 +88,10 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - `they are five meters long and look like giant cockroaches` (_Sleeper's Ban_)
 - `they dig attack tunnels through the stone and camouflage the opening to look like solid rock (...) BOOM! - a large, hooked arm rattles towards you, grabs your back and pulls you one of these tubes, faster than you can say "stonestrangler"` (_Sleeper's Ban_)
 - `we thought a stonestrangler had already feasted on you and laid its eggs in your flesh.` (_Sleeper's Ban_)
+
+## Undead Dragon
+- `Undead Dragon in chokepoint on the way towards the Sleeper`
+  - from early design docs
+- it's mentioned next to a `weapon with which you can destroy undeads` 
+  - from early design docs
+- later was replaced by the _Fifth Orc Shaman_, which similarly is an undead boss blocking the only way to _The Sleeper_, and has to be defeated with a special weapon
