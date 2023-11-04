@@ -282,7 +282,7 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
   - sleep in `OC_BED_01`
 
 ## Sira
-- leader of the diggers in alpha 0.56
+- leader of the diggers in alpha 0.56 with ID `VLK_Sira`
 - `Former ore smuggling gang leader`
 - `very muscular`
 - `Possession: LOTS of Ore - Manages the wealth of the mining community`
@@ -290,6 +290,9 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
   - _Mercenary_ refers here to _Old Camp Mercenaries_ (`SLD`)
 - the _Shadows_ are tried to recruit him, but `so far he has only accepted smaller orders` from them
 - `Behaves like a group leader. Represents his mining community. Protects team when they are threatened by Shadows or Mercenaries. Speaks out when arguments arise between the Diggers.`
+- seems to overlap with unnamed `VLK_50` from another alpha build where `Sira` is missing, who gives speeches to diggers
+  - `VLK_50_VlkSpeech`: `Listen to me and you will see better times. If there are no better times the world will stumble and fall, or the stars will come down.`
+  - `VLK_50_NSCASpeech`: `The forgotten people will rise.`
 
 ## Stomp
 - in the final release known as `The Nameless One`
@@ -322,11 +325,6 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `bright yellow eyes and a relaxed grin on his lean, weathered face`
 - `the old man's cloak began to sway, although he felt no wind (...) the noise rang out: It seemed to come deeply from the earth, the stones under his feet vibrated at its sound. It was a growl, underlaid by hissing noises, deep, booming, and slowly rising. (...) the old man had risen. He stood upright on the boulder, the cloak waved behind him with a loud, almost horizontal flutter... The sound swelled, louder, and louder... Then Stomp found himself crouching on the floor, the pebbles pressing painfully through his Thin trousers, and when he straightened up in a daze he saw the old man sitting with his legs dangling on the boulder, humming a tune and holding a long-handled pipe from which thick clouds of smoke rose.`
 - `he turned to the old man "I have to you thank you, I don't know what..." He fell silent because the boulder was empty. Looking around wildly, Stomp searched the beach and saw no sign of the old man anywhere. Only a cloud of the sweet smelling smoke that had emerged from the strange person's pipe still hovered over the stone.`
-
-## VLK_50
-- gives some kind of speeches
-- `VLK_50_NSCASpeech`: `The forgotten people will rise.`
-- `VLK_50_VlkSpeech`: `Listen to me and you will see better times. If there are no better times the world will stumble and fall, or the stars will come down.`
 
 ## Warhound
 - known as `Kriegshund` in German version of _Sleeper's Ban_
