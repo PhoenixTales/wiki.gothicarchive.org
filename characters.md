@@ -198,9 +198,9 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `We take good care of our people, here in the old camp there is only oppression`
 
 ## Ramirez
-- character only known from a single mention in 0.56 alpha
-- he apparently teached something to the player character in the past
-- we only know that some other NPC had to be seriously threatened before mentioning him
+- only mentioned once in 0.56 alpha, might have been an early idea that evolved into _Raoul_ / _Diego_
+- apparently he's the mentor of player character
+- NPC mentions him when begging to be left alone if player very brutally threatens/tortures him
   - `PLAYER: Spit it out, you idiot! Speak up, or... Do you want to die?`
   - `NPC: Please don't hurt me. I don't want to die yet. Spare me. I am a worm.`
   - `NPC: Holy ground, Highlander! Remember what Ramirez taught you.`
@@ -208,6 +208,9 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
   - `PC: Spuck's aus, Du Wicht ! Rede schon, oder ... Willst du sterben ?`
   - `NPC: Bitte, tue mir nichts. Ich will noch nicht sterben. Verschone mich. Ich bin ein Wurm.`
   - `NPC: Heiliger Boden, Highlander ! Erinnert Euch, was Ramirez Euch gelehrt hat.`
+- clear reference to character `Juan Sánchez-Villalobos Ramírez`, mentor and friend of main protagonist of `Highlander` series
+  - he lived in XVI century Spain and in the movie is dressed correspondingly, played by Sean Connery
+  - https://en.wikipedia.org/wiki/File:JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg
 
 ## Rhobar II
 - `everything that his troops could not hold was razed to the ground`
