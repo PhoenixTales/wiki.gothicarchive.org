@@ -85,7 +85,7 @@ title: Factions
   - `ZS_OrcGUARD_ObserveIntruder_Loop: Waechter!`
   - `ZS_OrcGuard_ObserveIntruder_Loop: Ork-Waechter zieht Waffe`
 - but there's also a file `INF_WCH.BAK` which inside contains code for `Inf_Sld` and `GIL_SLD`, suggesting it could be a renamed version of _Mercenaries Of Old Camp_
-- probably by accident, set as owner of moveable world objects of type `TableHeavy`
+- set as owner of moveable world objects of type `TableHeavy` (maybe to attack you if you chop up the table in front of _Big Boss_)
 - in 0.56 alpha there are two NPCs with this guild set, who wear clothing of other guilds:
   - _Mastermind_, wears _Guru_ robes
   - _Hawkeye_, wears _Thiefs_ clothes (`thief.asc`)
@@ -154,6 +154,12 @@ title: Factions
 - one of them always joins the _Convoy To Exchange Place_
   - `The convoys that come from the Exchange Place are swarming with mercenaries. Even an Ore Baron is always there` (`Inf_Grd_HP`)
 - there are three _Mercenaries Of Old Camp_ (`SLD`) bodyguarding them (`SLD_BARONSGUARDN1-3`)
+- alpha versions contain 5 of them:
+  - _Big Boss_ (`EBR_100`)
+  - _Right Hand_ (`EBR_101`/`Rechte Hand`)
+  - _Left Hand_ (`EBR_102`/`Linke Hand`)
+  - _Grey Baron_ (`EBR_103`/`Grauer Baron`)
+  - _Foreign Minister_ (`EBR_104`/`Aussenminister`)
 
 ## Psionics
 - `orange-clad` (_Sleeper's Ban_)
