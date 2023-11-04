@@ -26,10 +26,8 @@ title: Locations
 
 ## Free Mine
 - German: `Freie Mine` (`FM`)
-- associated with _Free Camp_
-- there is an association of free miners mining for themselves
-- they trade the ore with other camps
-- they are under risk of invasion by `Old Camp`
+- created and owned by _Miner's Association_ of _Free Camp_, and located directly under it
+- under constant risk of invasion by `Old Camp`
   - in alpha 0.56c, _Ore Barons_ admit that early and openly: `In reality, we are entitled to the Free Mine. This situation will be remedied in the foreseeable future` (`Inf_Ebr_FM`)
 - it is under protection of both _Mercenaries Of New Camp_ and of _Templars Of The Sect_
   - `Our Templars are in the Free Mine every day, guarding it from attacks from the Old Camp.` (`Inf_Gur_FM`)
