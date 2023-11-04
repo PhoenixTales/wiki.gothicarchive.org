@@ -19,6 +19,9 @@ title: Curiosities
 ## Drunkenness
 - `KDF_40_DrunkenBastard`: `You drunk pig! Fuck off.`
 - `NOV_130_DrunkenBastard`: `You don't know what you're doing. Go and have a break.`
+- in alpha 0.64b, drinking even single unit of an alcohol drink was causing brief drunkenness:
+  - `FUNC VOID UseBeer() { Npc_SetToDrunk (self,20); // 20 Sekunden betrunken`
+  - `func void UseWine() { Npc_SetToDrunk(self, 30);`
 
 ## "I thought you were dead..."
 - player in some situations hears from various NPC's lines along:
