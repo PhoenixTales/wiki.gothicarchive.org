@@ -240,7 +240,7 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
   - `NPC: Heiliger Boden, Highlander ! Erinnert Euch, was Ramirez Euch gelehrt hat.`
 - clear reference to character `Juan Sánchez-Villalobos Ramírez`, mentor and friend of main protagonist of `Highlander` series
   - he lived in XVI century Spain and in the movie is dressed correspondingly, played by Sean Connery
-  - https://en.wikipedia.org/wiki/File:JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg
+  - ![https://en.wikipedia.org/wiki/File:JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg](https://upload.wikimedia.org/wikipedia/en/7/7b/JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg)
 
 ## Raven
 - a _Shadow_ in the _Old Camp_ with ID `STT_300_RAVEN`
