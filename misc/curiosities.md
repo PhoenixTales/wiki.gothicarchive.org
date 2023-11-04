@@ -112,4 +112,3 @@ These objects can stand in the world and be interacted with, but are too big to 
 - rice basket (can be worn like a huge backpack)
 - `GROUND_SLOT` (?)
 - drum
-  
