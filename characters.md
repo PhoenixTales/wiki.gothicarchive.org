@@ -197,6 +197,18 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `Here, take this healing potion. If you join the cult you'll get even more of it.`
 - `We take good care of our people, here in the old camp there is only oppression`
 
+## Ramirez
+- character only known from a single mention in 0.56 alpha
+- he apparently teached something to the player character in the past
+- we only know that NPC had to be seriously threatened before saying these sentences
+  - `PLAYER: Spit it out, you idiot! Speak up, or... Do you want to die?`
+  - `NPC: Please don't hurt me. I don't want to die yet. Spare me. I am a worm.`
+  - `NPC: Holy ground, Highlander! Remember what Ramirez taught you.`
+- original German text:
+  - `PC: Spuck's aus, Du Wicht ! Rede schon, oder ... Willst du sterben ?`
+  - `NPC: Bitte, tue mir nichts. Ich will noch nicht sterben. Verschone mich. Ich bin ein Wurm.`
+  - `NPC: Heiliger Boden, Highlander ! Erinnert Euch, was Ramirez Euch gelehrt hat.`
+
 ## Rhobar II
 - `everything that his troops could not hold was razed to the ground`
 - `During the long years of his reign he was able to defeat all foes of his realm. All except (...) the orcs`
