@@ -8,7 +8,8 @@ title: Locations
 ## Exchange Place
 - German: `Handelsplatz` (`HP`)
 - controlled by _Old Camp_, used to exchange _Magic Ore_ for goods from the king 
-- `If you wait at the Exchange Place at the noon, you can get hold of new goods from the mercenary convoy.` (`Inf_Vlk_HP`)
+- `If you wait at the Exchange Place at the noon, you can get hold of new goods from the Mercenary convoy.` (`Inf_Vlk_HP`)
+  - _Mercenary_ refers here to _Mercenaries Of Old Camp_ (`SLD`)
 
 ## Fields Of Farmers
 - `Farmers` (`BAU`) live there
