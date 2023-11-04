@@ -176,6 +176,11 @@ title: Factions
 - in alpha they call each other cute names (?!)
  - `NOV_130_FriendStoleFromEBr`: `Stupid pumpkin, you stole from the baron`
 - subgroups: novices
+- `Join our sect. You won't have to work as hard as you do here.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
+- `When was the last time you got PSI? Join us. We have PSI.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
+- `When was the last time you got a woman? If you join us, you'll get women as well.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
+- `Have you had a decent meal recently? See, nobody is hungry in our sect.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
+- `We take good care of our people, in the Old Camp there is only oppression` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 
 ## Royal Guard
 - escort the main character during his sentencing
