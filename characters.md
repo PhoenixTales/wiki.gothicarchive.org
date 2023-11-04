@@ -108,7 +108,7 @@ title: Characters
 
 ## Gorn
 - `muscular giant`
-- `Where I come from, opponents are invited for a feast before they are killed…`
+- `Where I come from, opponents are invited for a feast before they are killed...`
 
 ## Greg
 - _Old Camp Mercenary_ with ID `SLD_MAINGATEGUARDT1`, removed in late alpha
