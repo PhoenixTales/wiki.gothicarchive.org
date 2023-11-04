@@ -80,6 +80,7 @@ title: Characters
 ## Diego
 - called `Raoul` on old website
 - `cynical thief`
+- may be inspired by _Ramirez_
 
 ## Drago
 - _Mercenary Of Old Camp_, `SLD_203_DRAGO` in 0.64b alpha
