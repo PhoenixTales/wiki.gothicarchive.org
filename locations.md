@@ -35,6 +35,9 @@ title: Locations
   - `Our Templars are in the Free Mine every day, guarding it from attacks from the Old Camp.` (`Inf_Gur_FM`)
   - `Whatever may come, the Free Mine will receive protection from us` (`Inf_Kdw_FM`)
 - it is `a relatively new tunnel system` (`Inf_Kdf_FM`)
+- `Deep beneath the Free Mine live large, dangerous creatures called orcs.`
+  - German: `Tief unter der Freien Mine leben große, gefährliche Kreaturen, genannt Orks.`
+  - `Inf_Mst_FM` from 0.56c alpha
 
 ## New Camp
 - referred by two codenames: `NC` and `NL` (German: `Neues Lager`)
