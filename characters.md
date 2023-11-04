@@ -88,6 +88,10 @@ title: Characters
   - `KDF_40_NSCAPlayMusic`: `Just to recreate my mana`
 - plays dice
   - `KDF_40_RTPlayDice`: `Roll, roll, roll my dice.`
+ 
+## Foreign Minister
+- one of _Ore Barons_ who likely evolved into _Bartholo_
+- in alpha build known referred as `EBR_104 Aussenminister`
 
 ## Fox
 - according to alpha walktrough can be found talking with _Ryan_
@@ -233,6 +237,12 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - clear reference to character `Juan Sánchez-Villalobos Ramírez`, mentor and friend of main protagonist of `Highlander` series
   - he lived in XVI century Spain and in the movie is dressed correspondingly, played by Sean Connery
   - https://en.wikipedia.org/wiki/File:JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg
+
+## Raven
+- a _Shadow_ in the _Old Camp_ with ID `STT_300_RAVEN`
+- later changed into an _Ore Baron_ `EBR_105_Raven` 
+- he became _The Right Hand_ of _Gomez_, replacing removed `EBR_101 Rechte Hand`
+- leader of spies and assassins serving _Ore Barons_
 
 ## Rhobar II
 - `everything that his troops could not hold was razed to the ground`
