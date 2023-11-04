@@ -16,7 +16,15 @@ title: Characters
   - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a devil mushroom in the ravine.`
 
 ## Arto
-- originally _Free Miner_ `SFB_1007_ARTO`, later _Old Camp Mercenary_ bodyguarding _Ore Barons_, finally _Ore Baron_ himself
+- in early builds a _Free Miner_ `SFB_1007_ARTO`
+- later _Old Camp Mercenary_ bodyguarding the _Big Boss_ (as one of `SLD_BARONSGUARDN*`)
+- finally promoted to one of _Ore Barons_, but doing exactly the same job of bodyguarding _Gomez_
+
+## The Big Boss
+- the leader of the _Ore Barons_, in the final game called `Gomez`
+- in alpha builds referred to as `Supreme Ore Baron` (`obersten Erzbaron`), `king-like ruler`, `our master`, `our big boss`, `our leader`, `The Baron`
+- `VLK_50_FoeAttackedEBr`: `the baron is mighty as god`
+- `VLK_50_FoeStoleFromEBr`: `Isn't the leader great and wise ?`
 
 ## Burgrave Bergmar
 - comes from _Western Field_
