@@ -102,6 +102,9 @@ title: Locations
   - his neighbours, _The Farmers_, don't know about him (`Inf_Bau_VK`: `Soviel ich weiß lebt dort niemand`)
 - probably the same place as _Old Fort_, that over time changed the codename
 - south from the _Fields Of Farmers_ (`Just to the south of our fields lies the ruins of a former fort` - alpha 0.56c)
+- and also south from the _Old Camp_ (`Inf_Gur_VK`: `Südlich des Alten Lagers befindet sich eine Kastell-Ruine`)
+- according to _Guards Of The New Camp_, `The only place where things are still fair`
+  - `Inf_Grd_VK`, German: `Der einzige Ort, an dem es noch fair zugeht`
 
 ## Old Fort
 - codename: `OF`
