@@ -109,6 +109,7 @@ title: Items
 
 ## Potion "Sprinting Horse"
 - sprint potion
+- in alpha 0.64b the effect appears to be permanent, but it's probably unintentional
 - drinking it triggers `SpellFX_Sprint` (also in the final release), which may suggest that originally it was going to be a magic spell
 
 ## PSI Potion
@@ -139,10 +140,7 @@ title: Items
 - possibly an early prototype of `Minecrawler Plate Armor`
 
 ## Silver Amulet
-
-## Sprinting Horse
-- potion that enables temporary very fast sprint
-- in alpha 0.64b the effect appears to be permanent, but it's probably unintentional
+- unused "conversation topic" in 0.56 alpha, probably involved in an uknown quest
 
 ## Sruup
 - appears in _Sleeper's Ban_, is referred in alpha game builds as `PSI` or `drug`
