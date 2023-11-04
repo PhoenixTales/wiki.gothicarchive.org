@@ -48,6 +48,8 @@ title: Religion
 - `The Sleeper(...)has been sleeping for a thousand years, but now the moment of his awakening is near.`
 - `He has chosen us to be witnesses to his awakening and to spread his word. So listen, all those who join the Sleeper will have immortal souls, but those who are against him will be punished.`
 - there are 7 arch demons in total, that fight between each other for dominance
+- `The creation of the Magic Barrier awakened something.` (`Inf_Mst_MB`)
+  - German: `Die Erschaffung der Magische Barriere hat irgendetwas erwachen lassen`
 
 ## Shugul Sath
 - also known as the Smoke Hunter
