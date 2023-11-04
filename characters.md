@@ -97,6 +97,11 @@ title: Characters
 - `Old Camp Mercenary_ with ID `SLD_MAINGATEGUARDT1`, removed in late alpha
 - `During the day I'm the boss of the south gate!`
 
+## Grey Baron
+- `EBR_103` / `Grauer Baron` from alpha builds
+- this fictional character is likely depicted on a painting by _Uwe Meyer_, which in-game hangs above the throne of _Big Boss_
+  - the throne room on that painting is definitely not part of any castle under the Barrier
+
 ## Grimface
 - _Old Camp Mercenary_ with ID `SLD_GRIMFACE`, removed in late alpha
 - `Oh man, that Quicktongue is a crazy weirdo! Trying to steal our workhorses! Tststs! I'll give you some good advice. Stay away from his cult. I heard the gurus are gradually burning your mind out of your skull. It won't be long before Quicktongue wakes up with a knife in his back. (Harharhar!!!)`
@@ -241,79 +246,6 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 ## Royal Judge
 - called `Court Archon` in _Sleeper's Ban_
 - appears in game scripts as `CS_Richter`
-
-## Removed characters from alpha builds
-```code
-ID                  | Name            | notes
---------------------|-----------------|--------------------------
-BALDHEAD            | Baldhead        | (sect novice)
-EBR_100             | Big Boss        |
-EBR_101             | Rechte Hand     |
-EBR_102             | Linke Hand      |
-EBR_103             | Grauer Baron    |
-EBR_104             | Aussenminister  |
-GRD_STRIDER         | Strider         | (Gardist, looks like guru?!)
-GRD_239_MORT        | Mort            | later lost his name and became `GRD_239_GARDIST`
-???                 | Grub            | (enslaved orc shaman)
-HAWKEYE             | Hawkeye         | (GIL_WCH, "runner", wears thief clothes)
-KDF_40              | ???             | (alpha Earon?)
-KDF_400_EARON       | Earon Flamehand |
-KDF_APPRENTICE      | Looser          |
-KDF_HELLFIRE        | Hellfire        |
-MASTERMIND          | Mastermind      | (GIL_WCH, "instructor" "armed with short sword and bow", wears guru robes)
-NOV_130             | ???             | (alpha Fortuno?)
-NOV_QUICKTONGUE     | Quicktongue     |
-ORG_856_MARVIN      | Marvin          |
-SLEEPER             | Sleeper         | (normal buddler, not sleeping)
-SHARPBLADE          | Sharpblade      | (guard)
-SFB_1002_AIKO       | Aiko            |
-SFB_1004_GARBAR     | Garbar          |
-SFB_1005_MIHAI      | Mihai           |
-SFB_1006_GORNIOS    | Gornios         |
-SFB_1008_THREP      | Threp           |
-SFB_1009_CAER       | Caer            |
-SFB_1010_KILAN      | Kilan           |
-SFB_1012_WEEZE      | Weeze           |
-SFB_1013_DAGGER     | Dagger          |
-SFB_1015_OLDMAN     | Old Man         |
-SLD_20              | ???             | (alpha Borik?)
-SLD_21              | ???             | (alpha Scatty?)
-SLD_200_BORIK       | Borik           | `bad-tampered` friend of Bloodwyn
-SLD_201_BLOODWYN    | Bloodwyn        | became GRD_233_Bloodwyn
-SLD_202_ANGAR       | Angar           | became GUR_1202_CorAngar
-SLD_203_DRAGO       | Drago           | became KDF_403_Drago
-SLD_204_FRIGHTENING | Frightening     |
-SLD_205_TALON       | Talon           |
-SLD_206_FLETCHER    | Fletcher        | became GRD_255_Fletcher
-SLD_207_SNAKE       | Snake           | walktrough suggests to use Control spell on him and kill him with suicidal jump
-SLD_GRIMFACE        | Grimface        |
-SLD_GRUNT           | Grunt           |
-SLD_MAINGATEGUARDN1 | Mack            |
-SLD_MAINGATEGUARDN2 | Tack            |
-SLD_MAINGATEGUARDT1 | Greg            |
-SLD_MAINGATEGUARDT2 | Jack            |
-STT_300_RAVEN       | Raven           | became EBR_105_Raven
-STT_301_FINGERS     | Fingers         | changed ID to STT_331_Fingers
-STT_302_LEFTY       | Lefty           | became ORG_844_Lefty
-STT_DARKMAN         | Darkman         |
-VLK_50              | ???             | (VLK_50_NSCASpeech: `The forgotten people will rise`, alpha Cutter?)
-VLK_500_CUTTER      | Cutter          |
-VLK_501_BROWNIE     | Brownie         |
-VLK_502_WOODY       | Woody / Marus   | first renamed to Marus, finally lost his name and became `VLK_502_BUDDLER`
-VLK_503_SCARRY      | Scarry          | lost his name and became `VLK_503_BUDDLER`
-VLK_504_CREEP       | Creep / Ryan    | first renamed to `Ryan`, later lost his name and became `VLK_504_BUDDLER`
-VLK_505_GRUMPY      | Grumpy          | lost his name and became `VLK_505_BUDDLER`
-VLK_506_SMOKIE      | Smokie          | not smoking, lost his name and became `VLK_506_BUDDLER`
-VLK_507_DEREK       | Derek           | lost his name and became `VLK_507_BUDDLER`
-VLK_517_CANTHAR     | Canthar         | later lost his name and became `VLK_517_BUDDLER`
-VLK_508_JUG         | Jug             | lost his name and became `VLK_508_BUDDLER`
-VLK_509_OLON        | Olon            | lost his name and became `VLK_509_BUDDLER`
-VLK_CRUMB           | Crumb           | (mole, dressed like thief)
-VLK_DUMB            | Dumb            | (mole, dressed like thief)
-VLK_NIMBLEFINGER    | Nimblefinger    | ("Hehler" - trader of stolen goods, dressed like thief)
-VLK_NUMB            | Numb            | (Mole, dressed like thief)
-VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
-```
 
 ## Riddler
 - side-quest character added in the final release of the game as `BAU_940_Riddler`
