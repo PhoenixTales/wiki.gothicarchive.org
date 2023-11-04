@@ -102,7 +102,8 @@ title: Characters
 - `Where I come from, opponents are invited for a feast before they are killed…`
 
 ## Greg
-- `Old Camp Mercenary_ with ID `SLD_MAINGATEGUARDT1`, removed in late alpha
+- _Old Camp Mercenary_ with ID `SLD_MAINGATEGUARDT1`, removed in late alpha
+- guards the gate together with _Jack_
 - `During the day I'm the boss of the south gate!`
 
 ## Grey Baron
@@ -177,10 +178,6 @@ title: Characters
 
 ## Lord of Tymoris
 - high feudal lord of the realm containing _Royal Ore Mines_
-
-## Mack
-- _Old Camp Mercenary_ removed in late alpha
-- `At night I'm the boss of the south gate!`
 
 ## Mastermind
 - in 0.56 alpha build, set as an owner of a wooden stool
