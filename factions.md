@@ -173,9 +173,8 @@ title: Factions
 - some blame them for demonic visions and earthquakes troubling the prisoners
 - script programmers refer to them as `sect suckers` even when it's about one psionic talking about another
   - `NOV_130_FriendKilledSectSucker`: `Hey you killed a friend of all of us. Go away and beg the sleeper for pardon.`
-- in alpha they call each other cute names (?!)
+- in original English alpha translation they call each other rather cute names (?!)
  - `NOV_130_FriendStoleFromEBr`: `Stupid pumpkin, you stole from the baron`
-- subgroups: novices
 - `Join our sect. You won't have to work as hard as you do here.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 - `When was the last time you got PSI? Join us. We have PSI.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 - `When was the last time you got a woman? If you join us, you'll get women as well.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
