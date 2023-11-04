@@ -98,14 +98,6 @@ title: Characters
 - one of _Ore Barons_ who likely evolved into _Bartholo_
 - in alpha build known referred as `EBR_104 Aussenminister`
 
-## Fox
-- according to alpha walktrough can be found talking with _Ryan_
-- according to comment in final version, can be found talking with `STT_330_Schatten`
-- originally found in alpha 1.01d as _Organiser_ `ORG_827_FOX`
-- later changed into _New Camp Mercenary_ `GRD_265_FOX`
-- finally he lost his name and became `GRD_265_GARDIST`
-  - `Wld_InsertNpc (Grd_265_Gardist, "OC1"); // OC Südtor (Ex-Fox)`
-
 ## Gorn
 - `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed…`
