@@ -34,6 +34,7 @@ title: Locations
 - it is under protection of both _Mercenaries Of New Camp_ and of _Templars Of The Sect_
   - `Our Templars are in the Free Mine every day, guarding it from attacks from the Old Camp.` (`Inf_Gur_FM`)
   - `Whatever may come, the Free Mine will receive protection from us` (`Inf_Kdw_FM`)
+  - `We deliver ore to the New Camp and in return we receive protection against the Ore Barons and their Mercenary henchmen.` (`Inf_Sfb_NL`)
 - it is `a relatively new tunnel system` (`Inf_Kdf_FM`)
 - `Deep beneath the Free Mine live large, dangerous creatures called orcs.`
   - German: `Tief unter der Freien Mine leben große, gefährliche Kreaturen, genannt Orks.`
