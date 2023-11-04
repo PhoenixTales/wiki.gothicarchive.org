@@ -17,7 +17,7 @@ title: Characters
 
 ## Arto
 - in early builds a _Free Miner_ `SFB_1007_ARTO`
-- later _Old Camp Mercenary_ bodyguarding the _Big Boss_ (as one of `SLD_BARONSGUARDN*`)
+- later changed into _Old Camp Mercenary_ bodyguarding the _Big Boss_ (as one of `SLD_BARONSGUARDN*`)
 - finally promoted to one of _Ore Barons_, but doing exactly the same job of bodyguarding _Gomez_
 
 ## The Big Boss
