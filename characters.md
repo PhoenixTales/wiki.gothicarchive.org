@@ -16,7 +16,7 @@ title: Characters
   - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a devil mushroom in the ravine.`
 
 ## Arto
-- in early builds a _Free Miner_ `SFB_1007_ARTO`
+- in alpha initially a member of _Free Camp_, `SFB_1007_ARTO`
 - later changed into _Old Camp Mercenary_ bodyguarding the _Big Boss_ (as one of `SLD_BARONSGUARDN*`)
 - finally promoted to one of _Ore Barons_, but doing exactly the same job of bodyguarding _Gomez_
 
