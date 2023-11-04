@@ -148,19 +148,6 @@ title: Locations
 - teleports use visual `STARGATE.3DS`, `sfxTeleport=string:various_cast2.wav` and animated texture `TELEPORT_A*.TGA`
 - may be connected to particle effects `PORTAL`, `EinleitungTeleport` and `Teleporter/teleport`
 - implemented using object `zCTriggerTeleport` which moves the character to the `destination vob` (`triggerTarget`)
-- likely coordinates, found in a compiled file, unconfirmed, not even clear in which ZENs/levels:
-  - `-51319.4805 1713.69409 -1326.97949`
-  - `845.911255 366.672821 -2426.46509`
-  - `1137.30322 350.482788 -2425.89575`
-  - `5049.49854 8228.94727 -15677.3232`
-  - `-1729.63269 74.0524139 -619.367737`
-  - `158.321213 89.7027893 488.486237`
-  - `175.372742 93.8808823 481.832001`
-  - `1911.15845 93.9981079 -6002.50732`
-  - `-51319.4805 1713.69409 -1326.97949`
-  - `5049.49854 8228.94727 -15677.3232`
-  - `845.911255 366.672821 -2426.46509`
-  - `1137.30322 350.482788 -2425.89575`
 
 ## Temple Of Sleeper
 - `in an uknown ancient temple, unchanged for 1000 years`
@@ -170,6 +157,7 @@ title: Locations
 - German: `Turm des Dämonenbeschwörers` (`TDB`)
 - there is only one _Demon Summoner_ living there at the time of the game
 - _Fire Mages_ know very well where it is and apparently from time to time attempt a visit
+- `I heard of a hidden entrance to the Demon Summoner's Tower` (`Inf_Stt_TDB`)
 
 ## Troll Canyon
 - North from the _Old Camp_
