@@ -22,7 +22,8 @@ title: Locations
 ## Free Camp
 - German: `Freies Lager` (`FL`)
 - owns the _Free Mine_, is controlled by the _Miner's Association_
-- `the Free Camp is built into a large crater and is barely visible from far away`
+- `the Free Camp is built into a large crater and is barely visible from far away` (`Inf_Bau_FL`)
+- `Have you ever been to Free Camp? This is the enclosed crater in the northwest` (`Inf_Org_FL`)
 
 ## Free Mine
 - German: `Freie Mine` (`FM`)
