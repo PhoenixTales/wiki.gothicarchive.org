@@ -91,9 +91,14 @@ title: Locations
 - ancient _Ore Armor_ of _Ancient General_ was made using similar technology
 - earliest real-world blast furnaces are from XII century
 
+## Old Citadel
+- codename: `VK` (German: `Verlassenes Kastell`, also called `Altes Kastell`)
+- _The Negotiator_ lives in there
+- probably the same place as _Old Fort_, that over time changed the codename
+
 ## Old Fort
 - codename: `OF`
-- unclear if the same as or different from _Old Citadel_ (`Altes Kastell`/`Verlassenes Kastell`/`VK`) 
+- probably the same place as _Old Citadel_, that over time changed the codename
 - mentioned in the scripts as the `Meeting Place`
 - it corresponds to waypoint `OF_CENTER` connected to waypoints `OF_ENTRANCE`, `OF_TOWER_ENTRANCE` and `OW_FORTTRAIL`
 - _Quicktongue_ spends time there every day between 7pm and midnight
