@@ -35,6 +35,10 @@ title: Characters
 - owner of _Mountain Fortress_
 - past owner of some of _Royal Ore Mines_
 
+## Canthar
+- one of the miners, can be found in alpha _Old Camp_ under ID `VLK_517_CANTHAR`
+- later lost his name and became `VLK_517_BUDDLER`
+
 ## Dailah The Iceskin
 - uses title `Creesh a Suul` (`Daughter of a Bear`), is also called "The Amazon"
 - `the first warrior of her people`
@@ -276,6 +280,16 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
   - "scratch ass"
   - "scratch egg"
   - sleep in `OC_BED_01`
+
+## Sira
+- leader of the diggers in alpha 0.56
+- `Former ore smuggling gang leader`
+- `very muscular`
+- `Possession: LOTS of Ore - Manages the wealth of the mining community`
+- `would now be a Mercenary, but they didn't take him when they found out that he spoke orcish`
+  - _Mercenary_ refers here to _Old Camp Mercenaries_ (`SLD`)
+- the _Shadows_ are tried to recruit him, but `so far he has only accepted smaller orders` from them
+- `Behaves like a group leader. Represents his mining community. Protects team when they are threatened by Shadows or Mercenaries. Speaks out when arguments arise between the Diggers.`
 
 ## Stomp
 - in the final release known as `The Nameless One`
