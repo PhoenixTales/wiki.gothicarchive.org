@@ -43,6 +43,10 @@ title: Curiosities
 - `KDF_40_GladYouWereDead`: `Risen from the dead, eh?  Watch out the next time!`
 - `<...> was brought back to the Kingdom Of The Living by a powerful alchemist.`
   - German: `... wurde von einem mächtigen Alchemisten wieder in das Reich der Lebenden zurückgeholt.`
+- `Once you are dead, get to the Stone Circle of the Damned as quickly as possible. When you touch the altar, new life will flow into you.`
+  - German: `Bist Du erst tot, rette Dich so schnell wie nur möglich zum Steinkreis der Verdammten. Wenn Du den Altar berührst, wird neues Leben in Dich fließen.`
+  - `Inf_Kdw_SKV` from 0.56c alpha
+  - this suggests that afer dying, multiplayer participant can still move as a sort of a "ghost"
 
 ## Fall Gitter Secret
 - only found in one of zens in 0.64b (unclear in which one)
