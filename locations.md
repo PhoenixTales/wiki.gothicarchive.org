@@ -2,24 +2,15 @@
 title: Locations
 ---
 
-## Abandoned Mine Of Khorinis Mine Valley
+## Abandoned Mine
 - German: `Verlassene Mine` (`VM`)
-
-## Archolos
-- hilly area
-- famous for vineyards
-
-## Demon World
-- accessible from portal in _Temple Of Sleeper_ and under the _Stone Circle Of The Damned_
-- _arch demons_ live there and fight each other
-- according to early designs, player was supposed to be able to enter it, or even accidentally help a demon enter the world of living
 
 ## Exchange Place
 - German: `Handelsplatz` (`HP`)
 - controlled by _Old Camp_, used to exchange _Magic Ore_ for goods from the king 
 - `If you wait at the Exchange Place at the noon, you can get hold of new goods from the mercenary convoy.` (`Inf_Vlk_HP`)
 
-## Fields Of Farmers Of Khorinis Mine Valley
+## Fields Of Farmers
 - `Farmers` (`BAU`) live there
 - just North from the _Old Citadel_
   - `Just to the south of our fields lies the ruins of a former fort` (alpha 0.56c)
@@ -28,12 +19,12 @@ title: Locations
 - codename `FT`
 - NPC `New Novice` hangs around there
 
-## Free Camp of Khorinis Mine Valley
+## Free Camp
 - German: `Freies Lager` (`FL`)
 - owns the _Free Mine_, is controlled by the _Miner's Association_
 - `the Free Camp is built into a large crater and is barely visible from far away`
 
-## Free Mine of Khorinis Mine Valley
+## Free Mine
 - German: `Freie Mine` (`FM`)
 - associated with _Free Camp_
 - there is an association of free miners mining for themselves
@@ -45,61 +36,12 @@ title: Locations
   - `Whatever may come, the Free Mine will receive protection from us` (`Inf_Kdw_FM`)
 - it is `a relatively new tunnel system` (`Inf_Kdf_FM`)
 
-## Great Northern Plains
-- `Following the heavy battles in the north, every countryman now knows how to use a bow and arrows`
-- `Hoards of orcs invading the land from the North` (old official website)
-
-### Myrtanian Outpost
-- `I was a soldier in the fortress in the large plain from the north.`
-- `Soon they would have reached the end of the northern plains and overrun our little outpost with ease`
-- from outside looks like archetypal fort from American Old Wild West, [as codified by Fort Texas Hollywood theme park in Spain](https://en.wikipedia.org/wiki/Texas_Hollywood#/media/File:Fort_Bravo_Texas_Hollywood_September_2013.JPG), which appeared as background of many XX century western movies (source: interpretation of [Gothic Comic visuals](https://media.gothicarchive.org/promotion/comic/GothicComic.pdf))
-
-## Khorinis
-- a remote city, one closest to the _Royal Ore Mines_
-- deserter was able to reach it from the _Northern Plains_ without help and detection
-  - even though `deserting is one of the worst crimes in the kingdom`
-  - old official website indirectly mentions _Khorinis_ being `the next town` from a fort by _Northern Plains_
-  - `Als sein Spähtrupp von der herannahenden Orkarmee überrollt zu werden droht, sucht Milten rechtzeitig sein Heil in der Flucht. Völlig entkräftet schleppt er sich in die nächste Stadt, wo er unglücklicherweise von den Stadtwachen als Deserteur festgenommen wird.`
-- `I preferred to hide for a while and there was no better place for this than Khorinis`
-- ruled by the _Lords of Khorinis_ (_Gorn_ in Gothic I comic) or the _High Council_ (_Lester_ in Gothic I comic)
-- `Khorinis... This city was far away from the central cities of the realm, and the people here did not care about how the war was going.`
-- initial idea was to put the prison colony of an island
-  - it was inspired by the movie "Escape from New York", with prison covering entire former city-island of Manhattan
-  - _Gothic Der Comic_ shows city of Khorinis surrounded by mountains and without any view on the sea
-  - finally it was on purpose left undefined, to let studio decide later
-- `Here they used to mine the ore, (...) before the accursed king made a prison out of it and created this barrier`
-
-## Laran
-- home of famous scholar of magic _Barthos_
-
-## Morgrad
-- name of the "world"
-- `In the center lies the Morgrad, containing the four elements earth, water, fire and air.`
-- similar to "Midgard" from Germanic mythology
-
-## Mountain Fort of Khorinis Mine Valley
-- farmers are farming grain aroind and making beer
-
-## Myrtana
-- `The kingdom of Myrtana united by King Rhobar II`
-  - `the one who united of the four Mirtanian kingdoms of the sea`
-  - term _Kingdom Of Myrtana_ includes annexed realms like _Varant_
-- called both `kingdom` and `empire of four united kingdoms`
-- also called _Martiana_ (alpha docs) _Myrthana_ (handbook) and _Mirtana_ (comic)
-- the original kingdom was on the continental lands known as _Midlands_
-
-## New Camp of Khorinis Mine Valley
+## New Camp
 - referred by two codenames: `NC` and `NL` (German: `Neues Lager`)
 - according to `Sleeper's Ban`, North from `Old Camp`
 - populated by `Alchemists Of Water`, few of the `Farmers`, and their protectors _The Guards Of New Camp_
 
-## Nordmar
-- place with blast furnaces
-- only local masters know secret technique for smelting _Magic Ore_ without sacrificing it's magic power
-- ancient _Ore Armor_ of _Ancient General_ was made using similar technology
-- earliest real-world blast furnaces are from XII century
-
-## Old Camp of Khorinis Mine Valley
+## Old Camp
 - referred by two codenames: `OC` and `AL` (German: `Altes Lager`)
   - divided into `Old Camp Ring` (`OCR`) (home of _diggers_) and `Old Camp Castle` (`OCC`) (home of _Ore Barons_, _Mercenaries Of Old Camp_)
   - there is a _Chapel_ within the castle walls, where _Alchemists Of Fire_ are staying
@@ -112,16 +54,16 @@ title: Locations
   - terms `left` and `right` may refer to what player can see after entering trough the castle gate (looking South) rather than to directions on map drawing (oriented North)
 - place used as smithy is called in the level file a `stable`, and indeed looks like a building suitable for horses
 
-## Old Citadel of Khorinis Mine Valley
-- completely ruined, abandoned remains of old fortress on the top a steep hill
+## Old Citadel
 - German: `Altes Kastell` or `Verlassenes Kastell` (`VK`)
+- probably the same place as _Old Fort_, that over time changed the codename
+- completely ruined, abandoned remains of old fortress on the top a steep hill
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
   - south from the _Fields Of Farmers_ (`Just to the south of our fields lies the ruins of a former fort` - alpha 0.56c)
   - and also south from the _Old Camp_ (`Inf_Gur_VK`: `Südlich des Alten Lagers befindet sich eine Kastell-Ruine`)
   - in the final game moved to the _orc territorry_
 - _The Negotiator_ lives in there
   - his neighbours, _The Farmers_, don't know about him (`Inf_Bau_VK`: `Soviel ich weiß lebt dort niemand`)
-- probably the same place as _Old Fort_, that over time changed the codename
 - according to _Guards Of The New Camp_, `The only place where things are still fair`
   - `Inf_Grd_VK`, German: `Der einzige Ort, an dem es noch fair zugeht`
 - in 0.56 alpha, a neutral place for negotiations with the _Old Camp_
@@ -131,7 +73,7 @@ title: Locations
   - `Sometimes our bosses, the Ore Barons, go to the Abandoned Castle to settle the conflicts with the other camp bosses` (`Inf_Sld_VK`)
   - `The abandoned fort is now only used as neutral ground` (`Inf_Vlk_VK`)
 
-## Old Fort of Khorinis Mine Valley
+## Old Fort
 - codename: `OF`
 - probably the same place as _Old Citadel_, that over time changed the codename
 - mentioned in the scripts as the `Meeting Place`
@@ -139,25 +81,9 @@ title: Locations
 - _Quicktongue_ spends time there every day between 7pm and midnight
   - German: `geht nach Hause ins Sektenlager zum Versammlungsplatz` (in `Rtn_Quicktongue`)
 
-## Old Mine of Khorinis Mine Valley
+## Old Mine
 - referred by two codenames: `OM` and `AM` (German: `Alte Mine`)
 - controlled by _Old Camp_
-
-## Polar north
-- home of _Cresh a Suul_ and _Shirtakkihn_ tribe, as well as of _Polar Bears_, _Polar Badgers_ and _Polar Sharks_
-- `the north, where all the water freezes immediately`
-- surrounded by `endless blue surface of water`
-- `shining white shapes with bizarre jagged outlines, towering several hundred meters high. Icebergs.`
-  - `gigantic iceberg loomed several hundred meters above him`
-
-### The Ice City
-- the city is only described in a vision sent to _Stomp_ by _Creesh a Suul_, it's not made clear if it accurately describes actual location in _Morgrad_, or if it's fantastic dream only containing some seed of truth
-```
-A city, or rather a pueblo-like complex, all born from the ice of the mountain, which covered almost the entire flank of this colossus; Hundreds of houses were there, with ledges, stairs, and walkways connecting them. Myriads of graceful turrets and minarets, which, in defiance of all laws of gravity, rose above them in the most impossible nooks and crannies. Everything seemed to be made of green, glittering ice.
-```
-```
-Point at the base of the mountain (...) Stomp took a closer look and saw a free-standing portal there, made up of two irregularly shaped ice columns, behind which a flight of stairs led up into the city and after about forty meters lost itself in the tangle of houses, turrets and stairs. Finally he reached the portal, (...) massive stalagmites of greenish-white shimmering ice, towering a good ten meters high. Beyond it was the wide, gently curved staircase.
-```
 
 ## Royal Ore Mines
 - a prison colony in the mountains, containing deposits of iron and _Magic Ore_
@@ -178,32 +104,16 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
   - `a massive fortress, which was built into the mountain`
   - `the lord of this area lived in this mountain fort. He controlled the land and the mines.`
 
-## Ruined Monastery of Khorinis Mine Valley
+## Ruined Monastery
 - between the _Royal Ore Mines_ and the _Sea of Myrtana_
 - `old ruined monastery beyond the canyon`
 - `monks used to live here`
 - `they worshipped a god who gave them the power to turn into animals`
 
-## Sect Camp of Khorinis Mine Valley
+## Sect Camp
 - German: `Sektenlager` (`SL`)
 - nearby _Swamp Of The Lost Souls_
 - `Our camp is a haven of peace and spiritual fulfillment. Whoever lives here attains enlightenment` (`Inf_Gur_SL`)
-
-## Sea
-- in the east from valley of the _Royal Ore Mines_
-- probably the _Sea of Myrtana_ / _Mirtanian Sea_
-- `Go beyond the forest until you can see the sea`
-- `the old ruined monastery by the sea`
-- mentioned as `Dummymeer` (German) in the internal game files
-
-## Sendar
-- homeland of _Milten Plescott_
-
-## Stomp's Hometown
-- only mentioned in _Sleeper's Ban_
-- there are multiple `trading houses` ran by rich families
-- there is at least one `large mansion` with multiple servants
-- there is a `peace council` (`der Friedensräte der Stadt`) with a treasury storing valuable artefacts
 
 ## Stone Circle Of The Damend
 - German: `Steinkreis der Verdammten` (`SKV`)
@@ -256,23 +166,8 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - there is only one _Demon Summoner_ living there at the time of the game
 - _Fire Mages_ know very well where it is and apparently from time to time attempt a visit
 
-## Troll Canyon Of Khorinis Mine Valley
+## Troll Canyon
 - North from the _Old Camp_
 - in early alpha builds divided by a rather shallow ravine
 - German: `Troll-Schlucht`
 - `If you follow the path over the bridge you will come to Troll Canyon. There's supposed to be a huge troll hanging around  with a few gobbos. Be careful when you go there.`
-
-## Tymoris
-- region ruled by the _Lord of Tymoris_
-- contains or governs area called _Western Field_ ruled by _Burgrave Bergmar_ and containing _Royal Ore Mines_
-
-## Varant
-- land neighbouring the _Midlands_, conquered by _Rhobar II_
-- `king Rhobar II, bearer of the Scepter of Varant`
-- `Varant had lost its seaports`
-- `the range of hills surrounding the swamp`
-- attacked _Myrtana_ to claim it's riches from mining of copper, bronze and ore
-- `Armies of horsemen came over the hills of the empire, ships of dark wood drew up on the horizon`
-- had both land and sea border with _Myrtana_
-- `interplay of army and magic, helped him to stand at the gates of the capital of Varant`
-- Gothic I handbook claims that conquest was done by _Rhobar I_, father of _Rhobar II_
