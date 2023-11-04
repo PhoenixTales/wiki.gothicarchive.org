@@ -56,8 +56,7 @@ title: Locations
 
 ## New Camp
 - referred to by two codenames: `NC` and `NL` (German: `Neues Lager`)
-- according to `Sleeper's Ban`, North from `Old Camp`
-- populated by `Alchemists Of Water`, few of the `Farmers`, and their protectors _The Guards Of New Camp_
+- populated by _Alchemists Of Water_, at least some of the _Farmers_, and their protectors _The Guards Of New Camp_
 
 ## Old Camp
 - referred to by two codenames: `OC` and `AL` (German: `Altes Lager`)
@@ -98,10 +97,9 @@ title: Locations
 - `There are many (old ruins) around here. Most of them are old fortifications dating back to the time of the first Orc war. Some are abandoned Orc dwellings.`
 - there is prison-fortress _The Castle_ in the middle of the valley
 - mines are around _The Castle_ and _The Mountain Pass_
-- there's ancient _Ring of Stone_ (or _Stone Circle of the Damned_) with underground vault / crypt / tomb
-- road to nearest city (_Khorinis_) goes trough the mountain pass in the north
+- there's an ancient _Ring of Stone_ (or _Stone Circle of the Damned_) with underground vault / crypt / tomb
+- road to the nearest city (_Khorinis_) goes trough the mountain pass in the north
   - `troll[s] (...) live in the northern mountains of the colony`
-- past ruler of the area comes from place called _Western Field_
 - there are ruins of _The Old Citadel_ on the hill south from _The Castle_
   - `They call it the old citadel`, `It's been a ruin for many decades.`
 - there is a _Mountain Fort_ that belonged to _Burgrave Bergmar_ of _Western Field_
