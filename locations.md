@@ -110,6 +110,7 @@ title: Locations
   - `The Abandoned Castle is a good place for negotiations with the Old Camp` (`Inf_Kdw_VK`)
   - `Recently a few gurus went to the old castle to meet with the archbarons` (`Inf_Nov_VK`)
   - `Sometimes our bosses, the Ore Barons, go to the Abandoned Castle to settle the conflicts with the other camp bosses` (`Inf_Sld_VK`)
+  - `The abandoned fort is now only used as neutral ground` (`Inf_Vlk_VK`)
 
 ## Old Fort
 - codename: `OF`
