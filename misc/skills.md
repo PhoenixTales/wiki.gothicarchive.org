@@ -17,7 +17,7 @@ title: Skills
 ### Movement
 - Acrobatics (`ACROBAT`)
 - Climbing (`CLIMB`)
-- Sneak (`SNEAK`)
+- Sneaking (`SNEAK`)
 - Swimming (`SWIM`)
 
 ### Other
