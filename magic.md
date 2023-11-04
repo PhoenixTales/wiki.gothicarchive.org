@@ -123,5 +123,5 @@ Spells can categorized in a few ways: based on in-game books, based on comments 
 - ... Ore Baron House
 
 ### Unknown / other
-- Speed (later changed into a potion)
+- Speed (later changed into a potion `Sprinting Horse`)
 - Shrink (color-coded as Psionic spell but doesn't seem to belong there)
