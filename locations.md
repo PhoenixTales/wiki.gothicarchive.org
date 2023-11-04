@@ -39,6 +39,7 @@ title: Locations
   - German: `Tief unter der Freien Mine leben große, gefährliche Kreaturen, genannt Orks.`
   - `Inf_Mst_FM` from 0.56c alpha
 - `The Free Mine is said to contain a passage into deeper, unexplored caves.` (`Inf_Nov_FM`)
+- `beware of the lower level, there are all sorts of creatures hanging around there` (`Inf_Org_FM`)
 
 ## New Camp
 - referred by two codenames: `NC` and `NL` (German: `Neues Lager`)
