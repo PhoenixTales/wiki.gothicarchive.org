@@ -118,6 +118,10 @@ title: Items
 - has owner set to _Mastermind_, but there are multiple NPCs with "copies" of it: _Earon_, _Hellfire_ and _Hawkeye_
 - has extra magic damage and unique visual `special_sword.3ds`
 - offered as reward by _Hawkeye_ for delivering him _Sruup_
+- it can be deduced from early alphas that one was stored in the _Chapel Of Old Camp Castle_
+  - quest `Steal The Old Sword Of Fire Mages` was originally about stealing "old sword" from that chapel
+  - later version of that quest was changed to be about stealing that sword from directly from _Hellfire_, and in this version of the scripts we can see that the sword in his inventory is indeed the _Rune Sword_ 
+  - worth to _Nimblefinger_ more than a _Fire Stone_
 
 ## Sacrificial Dagger
 - appears in alpha 0.64, was dealing magic damage
@@ -152,11 +156,6 @@ title: Items
 - `opens your spirit` and gives chance to experience visions (`Some people even see images`)
 - there are multiple distinct blends of _Swampweed_ that differ in strength and price
 
-## Teleport Stone
-- single item `TeleportStone` connected with single spell `Spell_Teleportation`
-- as opposed to teleportation spells in the final release, this one doesn't seem to be tied to single target location
-- in the script has comment `magischer Teleport-Stein`, using it calls engine function `Npc_SetTeleportPos(self)` of unclear purpose
-
 ### Other games
 - Gothic 2:
   - described as `resinous stalk`, and package of it as `sticky` and `stinking`
@@ -174,10 +173,14 @@ title: Items
   - _Fortuno_ suggests that even the _Green Novice_, weakest of the weed blends prepared by _The Sect_, is stronger than pure _Swampweed_ joint prepared in a simple way
   - `Green Novice` joint can be made by mixing `essence of two swampweed plants and a meadow knotweed`
 
-## Old Sword From The Chapel
-- stored in the _Chapel Of Old Camp Castle_
-- _Nimblefinger_ wants it
-- apparently worth more than a _Fire Stone_
+## Teleport Stone
+- single item `TeleportStone` connected with single spell `Spell_Teleportation`
+- as opposed to teleportation spells in the final release, this one doesn't seem to be tied to single target location
+- in the script has comment `magischer Teleport-Stein`, using it calls engine function `Npc_SetTeleportPos(self)` of unclear purpose
+
+## Throwable weapons
+- in early alpha some ranged weapons were supposed to be "amunition for themselves" and get thrown
+- 0.56 alpha `constants.d`: `CONST INT MUN_THROW = 1; // Keine, die Fernkampfwaffe selbst wird geworfen`
 
 ## Uriziel
 - `Ancient runes have been engraved into the blade`, `It says here, Uriziel the Great`
