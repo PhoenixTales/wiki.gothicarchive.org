@@ -18,7 +18,7 @@ title: Characters
 ## Arto
 - in alpha initially a member of _Free Camp_, `SFB_1007_ARTO`
 - later changed into _Old Camp Mercenary_ bodyguarding the _Big Boss_ (as one of `SLD_BARONSGUARDN*`)
-- finally promoted to one of _Ore Barons_, but doing exactly the same job of bodyguarding _Gomez_
+- finally promoted to one of _Ore Barons_, but keeping exactly the same job of bodyguarding _Gomez_ in front of his throne
 
 ## The Big Boss
 - the leader of the _Ore Barons_, in the final game called `Gomez`
