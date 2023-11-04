@@ -110,6 +110,8 @@ title: Items
 - offered as reward by _Hawkeye_ for delivering him _Sruup_
 
 ## Sacrificial Dagger
+- appears in alpha 0.64, was dealing magic damage
+- damage: `1weapon + 3magic` (found in `scripts.vdf`)
 
 ## Scale Armor
 - armor mentioned in 0.56
