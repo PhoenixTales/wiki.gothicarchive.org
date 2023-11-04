@@ -111,7 +111,8 @@ title: Factions
 - `the group that puts the Barons' ideas into practice.`
 - supposed to protect the _Diggers_
   - `You've knocked down a Digger. That wasn't clever. The Ore-Barons pay us for protecting them, so don't do that shit again`
-- subgroups: `gate guards`, 
+- they don't trust people who can speak with Orcs, this is the reason why they did not hire _Sira_ as one of them
+  - source: comment in 0.56 alpha script `_Autoren/Vahdat/Npc_Sira.BAK`
 
 ## Miner's Association
 - German: `Der Schürferbund` (`SFB`)
