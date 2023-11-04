@@ -2,7 +2,7 @@
 title: Skills
 ---
 
-### Attributes
+### Attribute-related
 - Iron Will (`IRONWILL`)
 - Mana Regeneration (`MANA`)
 - Rapid Wound Healing (`HEAL`)
@@ -37,3 +37,17 @@ title: Skills
 - Hide in Shadows (`SNEAK`)
 - Pick Lock (`PICKLOCK`)
 - Pick Pocket (`STEAL`)
+
+### Attributes
+Basedon 0.56 alpha `constants.d`
+- Hitpoints (current/max)
+- Mana (current/max)
+- Madness (current/max)
+- Strength
+- Constitution
+- Dexterity
+- Thievery
+- Swordsmanship
+- Arcane
+- Will
+- Protection (weapo/fire/poison/magic)
