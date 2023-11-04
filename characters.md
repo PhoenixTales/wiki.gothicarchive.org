@@ -198,7 +198,7 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `We take good care of our people, here in the old camp there is only oppression`
 
 ## Ramirez
-- only mentioned once in 0.56 alpha, might have been an early idea that evolved into _Raoul_ / _Diego_
+- only mentioned once in 0.56 alpha, might have been an early idea that later evolved into _Raoul_ / _Diego_
 - apparently he's the mentor of player character
 - NPC mentions him when begging to be left alone if player very brutally threatens/tortures him
   - `PLAYER: Spit it out, you idiot! Speak up, or... Do you want to die?`
