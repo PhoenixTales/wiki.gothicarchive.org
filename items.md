@@ -84,9 +84,10 @@ title: Items
 
 ## Mana Potion
 - made of powdered _Magic Ore_
-- `I don't care WHERE the ore powder for the mana potions comes from. The old mine is just as good as any other`
+  - `I don't care WHERE the ore powder for the mana potions comes from. The old mine is just as good as any other`
   - German: `Mir ist egal WO das Erzpulver für die Manatranke herkommt. Die Alte Mine ist da genauso gut wie jede andere`
   - said by a fire mage in alpha 0.56c (`Inf_Kdf_AM`)
+  - _Sleeper's Ban_ mentions that _Sruup_ (_PSI Potion_) has the same main ingredient
 
 ## Mushrooms
 - `honey mushroom`
