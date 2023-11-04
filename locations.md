@@ -61,8 +61,8 @@ title: Locations
 - place used as smithy is called in the level file a `stable`, and indeed looks like a building suitable for horses
 
 ## Old Citadel
-- German: `Altes Kastell` or `Verlassenes Kastell` (`VK`)
-- probably the same place as _Old Fort_, that over time changed the codename
+- in alpha builds called `Old Fort` (`OF`) 
+  - later called in German `Verlassenes Kastell` (`VK`), `Altes Kastell` or `Versammlungsplatz` (meeting place)
 - completely ruined, abandoned remains of old fortress on the top a steep hill
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
   - south from the _Fields Of Farmers_ (`Just to the south of our fields lies the ruins of a former fort` - alpha 0.56c)
@@ -78,11 +78,6 @@ title: Locations
   - `Recently a few gurus went to the old castle to meet with the archbarons` (`Inf_Nov_VK`)
   - `Sometimes our bosses, the Ore Barons, go to the Abandoned Castle to settle the conflicts with the other camp bosses` (`Inf_Sld_VK`)
   - `The abandoned fort is now only used as neutral ground` (`Inf_Vlk_VK`)
-
-## Old Fort
-- codename: `OF`
-- probably the same place as _Old Citadel_, that over time changed the codename
-- mentioned in the scripts as the `Meeting Place`
 - it corresponds to waypoint `OF_CENTER` connected to waypoints `OF_ENTRANCE`, `OF_TOWER_ENTRANCE` and `OW_FORTTRAIL`
 - _Quicktongue_ spends time there every day between 7pm and midnight
   - German: `geht nach Hause ins Sektenlager zum Versammlungsplatz` (in `Rtn_Quicktongue`)
