@@ -105,6 +105,11 @@ title: Locations
 - and also south from the _Old Camp_ (`Inf_Gur_VK`: `Südlich des Alten Lagers befindet sich eine Kastell-Ruine`)
 - according to _Guards Of The New Camp_, `The only place where things are still fair`
   - `Inf_Grd_VK`, German: `Der einzige Ort, an dem es noch fair zugeht`
+- in 0.56 alpha, a neutral place for negotiations with the _Old Camp_
+  - `There is an unwritten law that no one is allowed killed in the Abandoned Castle` (`Inf_Stt_VK`)
+  - `The Abandoned Castle is a good place for negotiations with the Old Camp` (`Inf_Kdw_VK`)
+  - `Recently a few gurus went to the old castle to meet with the archbarons` (`Inf_Nov_VK`)
+  - `Sometimes our bosses, the Ore Barons, go to the Abandoned Castle to settle the conflicts with the other camp bosses` (`Inf_Sld_VK`)
 
 ## Old Fort
 - codename: `OF`
