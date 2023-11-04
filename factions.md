@@ -158,6 +158,7 @@ title: Factions
 
 ## Psionics
 - `orange-clad` (_Sleeper's Ban_)
+  - this is clear reference to Buddhist Monks, who wear orange robes and are famous for meditating (some Tantric Buddhists even smoke flowers of certain psychoactive plant)
 - `spend their whole day singing songs, stuffing themselves with all sorts of drugs as if it was a cotton candy` (_Sleeper's Ban_)
 - `those 'I see the light' guys who believe that the visions and nightmares have something to do with someone deep down, an uncanny power that saves us all` (_Sleeper's Ban_)
 - `bang like rabbits` according to an Old Camp member
