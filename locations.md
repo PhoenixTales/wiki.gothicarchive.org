@@ -70,7 +70,6 @@ title: Locations
   - `Recently a few gurus went to the old castle to meet with the archbarons` (`Inf_Nov_VK`)
   - `Sometimes our bosses, the Ore Barons, go to the Abandoned Castle to settle the conflicts with the other camp bosses` (`Inf_Sld_VK`)
   - `The abandoned fort is now only used as neutral ground` (`Inf_Vlk_VK`)
-- it corresponds to waypoint `OF_CENTER` connected to waypoints `OF_ENTRANCE`, `OF_TOWER_ENTRANCE` and `OW_FORTTRAIL`
 - _Quicktongue_ spends time there every day between 7pm and midnight
   - German: `geht nach Hause ins Sektenlager zum Versammlungsplatz` (in `Rtn_Quicktongue`)
 
