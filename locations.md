@@ -43,6 +43,17 @@ title: Locations
 - `The Free Mine is said to contain a passage into deeper, unexplored caves.` (`Inf_Nov_FM`)
 - `beware of the lower level, there are all sorts of creatures hanging around there` (`Inf_Org_FM`)
 
+## Mountain Fortress
+- added late in development
+- a location of one of the _Focus Stones_
+
+## Monastery On The Cliff
+- ruin atop a step cliff by _The Sea_
+- monks who used to live there had power to change into animals
+- indeed, scrolls with animal transformation spells can be found there
+- there's a hidden chest above which was supposed to be accessible by knocking down a stone pillar to serve as makeshift bridge above the chasm
+  - due to engine limitation this doesn't work, but the chest can still be accessed with acrobatic jump
+
 ## New Camp
 - referred to by two codenames: `NC` and `NL` (German: `Neues Lager`)
 - according to `Sleeper's Ban`, North from `Old Camp`
