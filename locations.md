@@ -42,6 +42,7 @@ title: Locations
   - in alpha 0.56c, _Ore Barons_ admit that early and openly: `In reality, we are entitled to the Free Mine. This situation will be remedied in the foreseeable future` (`Inf_Ebr_FM`)
 - it is under protection of both _Mercenaries Of New Camp_ and of _Templars Of The Sect_
   - `Our Templars are in the Free Mine every day, guarding it from attacks from the Old Camp.` (`Inf_Gur_FM`)
+- it is `a relatively new tunnel system` (`Inf_Kdf_FM`)
 
 ## Great Northern Plains
 - `Following the heavy battles in the north, every countryman now knows how to use a bow and arrows`
