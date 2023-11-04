@@ -19,6 +19,11 @@ title: Locations
 - controlled by _Old Camp_, used to exchange _Magic Ore_ for goods from the king 
 - `If you wait at the Exchange Place at the noon, you can get hold of new goods from the mercenary convoy.` (`Inf_Vlk_HP`)
 
+## Fields Of Farmers Of Khorinis Mine Valley
+- `Farmers` (`BAU`) live there
+- just North from the _Old Citadel_
+  - `Just to the south of our fields lies the ruins of a former fort` (alpha 0.56c)
+
 ## Fog Tower
 - codename `FT`
 - NPC `New Novice` hangs around there
@@ -94,7 +99,9 @@ title: Locations
 ## Old Citadel
 - codename: `VK` (German: `Verlassenes Kastell`, also called `Altes Kastell`)
 - _The Negotiator_ lives in there
+  - his neighbours, _The Farmers_, don't know about him (`Inf_Bau_VK`: `Soviel ich weiß lebt dort niemand`)
 - probably the same place as _Old Fort_, that over time changed the codename
+- south from the _Fields Of Farmers_ (`Just to the south of our fields lies the ruins of a former fort` - alpha 0.56c)
 
 ## Old Fort
 - codename: `OF`
