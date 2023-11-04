@@ -70,6 +70,14 @@ title: Items
 - the only armor separate from body mesh entire game
 - only present in alpha 0.56
 
+## Light sources
+- in alpha 0.64b there are multiple portable light sources:
+  - torch
+  - small oil lamp (`IT_I_OILLAMP_SMALL`)
+  - oil lamp (`IT_I_OILLAMP2`)
+- they last for configurable amount of time, during which the intensity of light gradually decreases
+- all 3 of them have it copy-pasted to be 20 in-game minutes (`brightness = 20 * 60; // 20 Minuten Brenndauer`)
+
 ## Magic Ore Armor
 - `ore armor (...) belonged to the general who wielded URIZIEL in the battle against the Orcs.`
 - `This ancient armor was made of magic ore`
