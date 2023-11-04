@@ -82,6 +82,12 @@ title: Items
 - `ore armor (...) belonged to the general who wielded URIZIEL in the battle against the Orcs.`
 - `This ancient armor was made of magic ore`
 
+## Mana Potion
+- made of powdered _Magic Ore_
+- `I don't care WHERE the ore powder for the mana potions comes from. The old mine is just as good as any other`
+  - German: `Mir ist egal WO das Erzpulver für die Manatranke herkommt. Die Alte Mine ist da genauso gut wie jede andere`
+  - said by a fire mage in alpha 0.56c (`Inf_Kdf_AM`)
+
 ## Mushrooms
 - `honey mushroom`
 - `stinking mushroom`
