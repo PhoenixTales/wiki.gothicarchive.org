@@ -62,9 +62,7 @@ title: Items
 ## Holy Water
 - +10 to hp, mana, madness
 - looks like mana potion
-- in alpha builds technically separate from the `Drug` and `PSI potion` but mixed up with them in a mission
-  - that mission is titled `The Holy Water` and described as `The player must obtain a vial of Holy Water and bring it`
-  - NPC ordering it says `I urgently need a PSI vial` (German: `PSI-Phiole`)
+- mission titled _The Holy Water_ is actually about `PSI Potion` (corresponding to _Sruup_) and doesn't actually involve the _Holy Water_ item
 
 ## Leather Armor
 - the only armor separate from body mesh entire game
