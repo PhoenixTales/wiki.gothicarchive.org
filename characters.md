@@ -98,6 +98,14 @@ title: Characters
 - one of _Ore Barons_ who likely evolved into _Bartholo_
 - in alpha build known referred as `EBR_104 Aussenminister`
 
+## Fox
+- _Rogue_ `ORG_827_FOX` in alpha 1.01d
+- can be found talking with _Ryan_, who was a _Digger_ living in _Old Camp Ring_
+- according to a comment in final version, can be found talking with a _Shadow_ in the _Old Camp Ring_
+  - `STT_330_Schatten.d`: `TA_Smalltalk (08,00,20,00,"OCR_OUTSIDE_HUT_44"); //mit Org_827_Fox`
+- finally replaced by `GRD_265_GARDIST`
+  - `Wld_InsertNpc (Grd_265_Gardist, "OC1"); // OC Südtor (Ex-Fox)`
+
 ## Gorn
 - `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed…`
