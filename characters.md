@@ -173,6 +173,8 @@ title: Characters
 - in 0.56 alpha build, set as an owner of a wooden stool
 - described as `instructor`
 - `armed with short sword and bow`, wears guru robes
+- `The other day I had to stand guard in front of the castle ruins while Mastermind met with one of the arch barons inside`
+  - this is said by one of the _Sect Templars_ (`Inf_Tpl_VK`), suggesting that the _Mastermind_ is leader of the _Sect Gurus_ (later named `Y'Berion`)  
 
 ## Milten Plescott
 - young drifter who keeps himself afloat with little trickery
