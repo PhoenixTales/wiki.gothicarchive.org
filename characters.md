@@ -308,6 +308,16 @@ VLK_SIRA            | Sira            | (Buddlerchef, dressed like thief)
 - internal comment in the script of `Arena Betting` quest calls him a `sneaky cheater`
   - it seems that he suggests player to place a bet on a weak participant (the `Blade Fodder`), making player loose the bet
 
+## Sharpblade
+- _Old Camp_ guard in alpha 0.56
+- his routine found in `NPC_Sharpblade.BAK` is:
+  - stand with arms crossed
+  - lie by a "pool side"
+  - play dice
+  - "scratch ass"
+  - "scratch egg"
+  - sleep in `OC_BED_01`
+
 ## Stomp
 - in the final release known as `The Nameless One`
 - main character of _Sleeper's Ban_ and _Gothic I_
