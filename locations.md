@@ -56,7 +56,7 @@ title: Locations
 
 ## Old Citadel
 - in alpha builds called `Old Fort` (`OF`) 
-  - later called in German `Verlassenes Kastell` (`VK`), `Altes Kastell` or `Versammlungsplatz` (meeting place)
+  - later called in German `Verlassenes Kastell` (`VK`, Abandoned Castle), `Altes Kastell` or `Versammlungsplatz` (Meeting Place)
 - completely ruined, abandoned remains of old fortress on the top a steep hill
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
   - in the final game moved to the _orc territorry_
