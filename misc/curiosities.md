@@ -41,6 +41,8 @@ title: Curiosities
 - probabaly multiplayer-only mechanic
 - dead players return at _Stone Circle Of The Damend_
 - `KDF_40_GladYouWereDead`: `Risen from the dead, eh?  Watch out the next time!`
+- `<...> was brought back to the Kingdom Of The Living by a powerful alchemist.`
+  - German: `... wurde von einem mächtigen Alchemisten wieder in das Reich der Lebenden zurückgeholt.`
 
 ## Fall Gitter Secret
 - only found in one of zens in 0.64b (unclear in which one)
@@ -80,7 +82,7 @@ These objects can stand in the world and be interacted with, but are too big to 
 - repair spot (for placing on "broken" walls)
 - secret door (invisible) (a fake moving wall?) (`LEAN_WALL`)
 
-### Orcs
+### Orcish
 - orc mummy
 - orc drum
 
