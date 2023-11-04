@@ -8,6 +8,10 @@ title: Characters
 - `general who wielded URIZIEL in the battle against the Orc` (G1-final / DIA_KDF_404_Xardas.d)
 - `the Orcs took it from a powerful warlord`
 
+## Angar
+- _Mercenary Of Old Camp_, `SLD_202_ANGAR` in 0.64b alpha
+- later was moved to _The Sect_ camp and became `GUR_1202_CorAngar`, leader of the _Templars_
+
 ## Apprentice of Hellfire
 - novice _Fire Mage_, removed in late alpha
 - lies dead with a label `Looser` in _Troll Canyon Ravine_, where he was trying to collect a _Devil Mushroom_
@@ -72,6 +76,10 @@ title: Characters
 ## Diego
 - called `Raoul` on old website
 - `cynical thief`
+
+## Drago
+- _Mercenary Of Old Camp_, `SLD_203_DRAGO` in 0.64b alpha
+- later was made a _Fire Mage_, `KDF_403_Drago`
 
 ## Earon Flamehand
 - very chill alpha Fire Mage with ID `KDF_400_EARON`
