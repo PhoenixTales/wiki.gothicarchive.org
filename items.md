@@ -129,6 +129,10 @@ title: Items
 
 ## Silver Amulet
 
+## Sprinting Horse
+- potion that enables temporary very fast sprint
+- in alpha 0.64b the effect appears to be permanent, but it's probably unintentional
+
 ## Sruup
 - appears in _Sleeper's Ban_, is referred in alpha game builds as `PSI` or `drug`
 - addictive potion neccessary for survival under barrier (`I need a psi vial urgently`, `sruup addicts`)
