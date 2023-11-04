@@ -77,7 +77,9 @@ title: Items
 ## Mushrooms
 - `honey mushroom`
 - `stinking mushroom`
+  - slightly poisonous (`nutrition = -5`)
 - `devil mushroom`
+  - poisonous (`nutrition = -15`)
   - subject of a quest from _Hellfire_
 - there is a _talent_ called `mushrooms`
   - possibly allowed the player to tell kinds of mushrooms apart
