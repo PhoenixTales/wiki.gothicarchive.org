@@ -200,7 +200,7 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 ## Ramirez
 - character only known from a single mention in 0.56 alpha
 - he apparently teached something to the player character in the past
-- we only know that NPC had to be seriously threatened before saying these sentences
+- we only know that some other NPC had to be seriously threatened before mentioning him
   - `PLAYER: Spit it out, you idiot! Speak up, or... Do you want to die?`
   - `NPC: Please don't hurt me. I don't want to die yet. Spare me. I am a worm.`
   - `NPC: Holy ground, Highlander! Remember what Ramirez taught you.`
