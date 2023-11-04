@@ -86,7 +86,8 @@ title: Locations
 - also called _Martiana_ (alpha docs) _Myrthana_ (handbook) and _Mirtana_ (comic)
 - the original kingdom was on the continental lands known as _Midlands_
 
-## New Camp
+## New Camp of Khorinis Mine Valley
+- referred by two codenames: `NC` and `NL` (German: `Neues Lager`)
 - according to `Sleeper's Ban`, North from `Old Camp`
 - populated by `Alchemists Of Water`, few of the `Farmers`, and their protectors _The Guards Of New Camp_
 
@@ -96,32 +97,9 @@ title: Locations
 - ancient _Ore Armor_ of _Ancient General_ was made using similar technology
 - earliest real-world blast furnaces are from XII century
 
-## Old Citadel
-- codename: `VK` (German: `Verlassenes Kastell`, also called `Altes Kastell`)
-- _The Negotiator_ lives in there
-  - his neighbours, _The Farmers_, don't know about him (`Inf_Bau_VK`: `Soviel ich weiß lebt dort niemand`)
-- probably the same place as _Old Fort_, that over time changed the codename
-- south from the _Fields Of Farmers_ (`Just to the south of our fields lies the ruins of a former fort` - alpha 0.56c)
-- and also south from the _Old Camp_ (`Inf_Gur_VK`: `Südlich des Alten Lagers befindet sich eine Kastell-Ruine`)
-- according to _Guards Of The New Camp_, `The only place where things are still fair`
-  - `Inf_Grd_VK`, German: `Der einzige Ort, an dem es noch fair zugeht`
-- in 0.56 alpha, a neutral place for negotiations with the _Old Camp_
-  - `There is an unwritten law that no one is allowed killed in the Abandoned Castle` (`Inf_Stt_VK`)
-  - `The Abandoned Castle is a good place for negotiations with the Old Camp` (`Inf_Kdw_VK`)
-  - `Recently a few gurus went to the old castle to meet with the archbarons` (`Inf_Nov_VK`)
-  - `Sometimes our bosses, the Ore Barons, go to the Abandoned Castle to settle the conflicts with the other camp bosses` (`Inf_Sld_VK`)
-  - `The abandoned fort is now only used as neutral ground` (`Inf_Vlk_VK`)
-
-## Old Fort
-- codename: `OF`
-- probably the same place as _Old Citadel_, that over time changed the codename
-- mentioned in the scripts as the `Meeting Place`
-- it corresponds to waypoint `OF_CENTER` connected to waypoints `OF_ENTRANCE`, `OF_TOWER_ENTRANCE` and `OW_FORTTRAIL`
-- _Quicktongue_ spends time there every day between 7pm and midnight
-  - German: `geht nach Hause ins Sektenlager zum Versammlungsplatz` (in `Rtn_Quicktongue`)
-
 ## Old Camp of Khorinis Mine Valley
-- divided into `Old Camp Ring` (`OCR`) (home of _diggers_) and `Old Camp Castle` (`OCC`) (home of _Ore Barons_, _Mercenaries Of Old Camp_)
+- referred by two codenames: `OC` and `AL` (German: `Altes Lager`)
+  - divided into `Old Camp Ring` (`OCR`) (home of _diggers_) and `Old Camp Castle` (`OCC`) (home of _Ore Barons_, _Mercenaries Of Old Camp_)
   - there is a _Chapel_ within the castle walls, where _Alchemists Of Fire_ are staying
 - alpha scripts mention that there is a `main gate` and `North gate`
   - this contradicts the final map layout where the main gate points to the North, and back gate to the South
@@ -133,14 +111,36 @@ title: Locations
 - place used as smithy is called in the level file a `stable`, and indeed looks like a building suitable for horses
 
 ## Old Citadel of Khorinis Mine Valley
-- completely ruined remains of a fortress on the top a steep hill
+- completely ruined, abandoned remains of old fortress on the top a steep hill
 - German: `Altes Kastell` or `Verlassenes Kastell` (`VK`)
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
-- in the final game moved to the _orc territorry_
-- in the early designs, farmers lived just North of it
-  - `Just to the south of our fields lies the ruins of a former fort`
-- `The only place where things are still fair is the abandoned castle`
- 
+  - south from the _Fields Of Farmers_ (`Just to the south of our fields lies the ruins of a former fort` - alpha 0.56c)
+  - and also south from the _Old Camp_ (`Inf_Gur_VK`: `Südlich des Alten Lagers befindet sich eine Kastell-Ruine`)
+  - in the final game moved to the _orc territorry_
+- _The Negotiator_ lives in there
+  - his neighbours, _The Farmers_, don't know about him (`Inf_Bau_VK`: `Soviel ich weiß lebt dort niemand`)
+- probably the same place as _Old Fort_, that over time changed the codename
+- according to _Guards Of The New Camp_, `The only place where things are still fair`
+  - `Inf_Grd_VK`, German: `Der einzige Ort, an dem es noch fair zugeht`
+- in 0.56 alpha, a neutral place for negotiations with the _Old Camp_
+  - `There is an unwritten law that no one is allowed killed in the Abandoned Castle` (`Inf_Stt_VK`)
+  - `The Abandoned Castle is a good place for negotiations with the Old Camp` (`Inf_Kdw_VK`)
+  - `Recently a few gurus went to the old castle to meet with the archbarons` (`Inf_Nov_VK`)
+  - `Sometimes our bosses, the Ore Barons, go to the Abandoned Castle to settle the conflicts with the other camp bosses` (`Inf_Sld_VK`)
+  - `The abandoned fort is now only used as neutral ground` (`Inf_Vlk_VK`)
+
+## Old Fort of Khorinis Mine Valley
+- codename: `OF`
+- probably the same place as _Old Citadel_, that over time changed the codename
+- mentioned in the scripts as the `Meeting Place`
+- it corresponds to waypoint `OF_CENTER` connected to waypoints `OF_ENTRANCE`, `OF_TOWER_ENTRANCE` and `OW_FORTTRAIL`
+- _Quicktongue_ spends time there every day between 7pm and midnight
+  - German: `geht nach Hause ins Sektenlager zum Versammlungsplatz` (in `Rtn_Quicktongue`)
+
+## Old Mine of Khorinis Mine Valley
+- referred by two codenames: `OM` and `AM` (German: `Alte Mine`)
+- controlled by _Old Camp_
+
 ## Polar north
 - home of _Cresh a Suul_ and _Shirtakkihn_ tribe, as well as of _Polar Bears_, _Polar Badgers_ and _Polar Sharks_
 - `the north, where all the water freezes immediately`
@@ -176,13 +176,13 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
   - `a massive fortress, which was built into the mountain`
   - `the lord of this area lived in this mountain fort. He controlled the land and the mines.`
 
-## Ruined Monastery
+## Ruined Monastery of Khorinis Mine Valley
 - between the _Royal Ore Mines_ and the _Sea of Myrtana_
 - `old ruined monastery beyond the canyon`
 - `monks used to live here`
 - `they worshipped a god who gave them the power to turn into animals`
 
-## Sect Camp
+## Sect Camp of Khorinis Mine Valley
 - German: `Sektenlager` (`SL`)
 - nearby _Swamp Of The Lost Souls_
 - `Our camp is a haven of peace and spiritual fulfillment. Whoever lives here attains enlightenment` (`Inf_Gur_SL`)
