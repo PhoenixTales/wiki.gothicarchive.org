@@ -47,6 +47,8 @@ title: Missions
   - unclear why faction identifier is `NC` (_New Camp_) rather than `PSI` (_Sect Camp_)
 - `Get me the medicinal herbs from the swamp. Five of the strongest variety should be enough! Hurry up!`
 - offered by _Cor Angar_
+- according to _Mike Hoge_, both _Cor Kalom_ and _Cor Angar_ actuallt wanted _Y'Berion_ to die so that one of them can take over the leadership
+  - _Cor Kalom_ did not send the _Nameless One_ for herbs in hope of saving _Y'Berion_, he just wanted to keep _Nameless One_ busy somewhere away so he doesn't interfere with making sure that _Y'Berion_ dies
 
 ## Drug Monopoly
 - first appears in 1.01d alpha as `Mis_1_Psi_DrugMonopol`
