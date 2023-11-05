@@ -150,9 +150,8 @@ title: Locations
 - `in an uknown ancient temple, unchanged for 1000 years`
 - there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
 
-## Tower Of Demon Summoners
+## Tower Of Demon Summoner
 - German: `Turm des Dämonenbeschwörers` (`TDB`)
-- there is only one _Demon Summoner_ living there at the time of the game
 - _Fire Mages_ know very well where it is and apparently from time to time attempt a visit
 - `I heard of a hidden entrance to the Demon Summoner's Tower` (`Inf_Stt_TDB`)
 
