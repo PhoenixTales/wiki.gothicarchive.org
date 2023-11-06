@@ -309,6 +309,8 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - actually innocent of crimes
 - a `good swimmer` according to _Sleeper's Ban_
 - `a city dweller who had little knowledge of the wilderness`
+- `they kept me locked away in a dark hole for almost two months before throwing me in here.`
+  - from `Info_Kirgo_Charge_Beer_15_02` in the final game release
 
 ## Strider
 - wears guru robes, but technically is a _New Camp Guard_ (`GRD`)
