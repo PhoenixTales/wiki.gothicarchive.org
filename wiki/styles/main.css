@@ -336,7 +336,8 @@ article {
   margin-left: 205px;
   max-width: 80ch;
   min-width: 320px;
-  overflow: hidden;
+  /* bullet point are on purpose overflowing to the left */
+  /* overflow: hidden; */
   word-wrap: break-word;
   text-overflow: ellipsis;
 }
