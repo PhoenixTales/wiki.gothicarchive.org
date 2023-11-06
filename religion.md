@@ -97,7 +97,7 @@ There was a strange aroma in the air, smoky, sweet. He'd smelled that smell befo
 - appears to be the deity of the realm of the dead, similarly to _Beliar_ from the final game release
   - `until they go to Kasakk's realm at some point, simply because they forget to eat or breathe or drink or whatever`
 - despite being a dark god, he appears to be the only one worshipped by people in the story, drawing parallel with _Crom_ from universe of _Conan The Barbarian_
-- `in Kasakk's name, let me kindly all alone!`
+- `in Kasakk's name, leave me alone please!`
 - `thank Kasakk they are not organized`
 - `He really deserved it, in Kasakk's name`
 - `Kasakk put copper on the eyes of three of our men` (they died) 
