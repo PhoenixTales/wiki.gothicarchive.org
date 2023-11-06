@@ -198,7 +198,7 @@ title: Characters
 - the army recruits him for the war and tattoos a soldier mark on his arm
 - he deserts from his post by _Northern Plains_ before a battle he believes to be hopeless
 - he decides that _Khorinis_ (`the next town`), is the best place for a deserter to hide away from royal attention
-  - his tattoo is recognised by city guards, who immediately recognized him as a deserter
+  - his tattoo is noticed by the _City Guards_, who immediately recognized him as a deserter
   - he learns the hard way that king is punishing all the deserters and criminals by sentencing them to lifetime of forced labor
   - all of them are transported to a remote penal colony where they provide the kingdom's most strategic resource, _Magic Ore_, and to Milten's surprise that place is _Khorinis_
 
