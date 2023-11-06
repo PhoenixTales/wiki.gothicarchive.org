@@ -98,7 +98,7 @@ title: Items
 - there is a _talent_ called `mushrooms`
   - possibly allowed the player to tell kinds of mushrooms apart
 - it's well known that some mushrooms are deadly poisonous
-  - `He knows about mushrooms, he says. I say thank you and fuck off. And what happened? He's lying there for four days, more dead than alive.`
+  - `He knows about mushrooms, he says. I say thank you and fuck off. And what happened? He's lying there for four days, more dead than alive.` (`ZS_SmallTalk_Text19` / 1.01d alpha)
 
 ## Ore Armor
 - according to the final game, _Ore Armor_ once belonged to _Ancient General_
