@@ -148,6 +148,13 @@ title: Factions
   - _Bouncers_ (German: `Tuersteher`)
   - _Blackmailers_ (German: `Erpresser`)
 
+## Orc-hunters
+- mentioned as `Ork-Jäger` by _Milten_ in 1.01d alpha dialogue `Info_Milten_SHTESTSEAL_02_06`
+- members of _Old Camp_ who hunt orcs
+- `A few years ago, an orc hunter from the Old Camp and a few companions were careless enough to enter the tomb`
+  - German: `Vor einigen Jahren war ein Ork-Jäger aus dem Alten Lager zusammen mit ein paar Kumpanen unvorsichtig, genug die Gruft zu betreten.`
+- the final english translation changed it to `Ore Baron out pleasure hunting for Orcs`
+
 ## Ore Barons
 - rule the _Old Camp_ since the rebellion of the prisoners, their leader is the _Big Boss_
 - pose as noblemen and in 0.56 alpha call themselves `The Honorable Society Of Ore Barons`
