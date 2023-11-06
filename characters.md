@@ -69,7 +69,7 @@ title: Characters
 - `the air seemed to wobble and the outlines behind it blurred, distorted by something that seemed to crystallize out of the air itself. A circular funnel of shimmering air appeared and out of this stepped a slim red-clad figure` (_Sleeper's Ban_)
 - `The person opposite him appeared smaller than him, almost delicate. He was dressed in blood-red robes that flowed around his shoulders. A bush of blue-black hair crowned a soft, youthful, almost childlike face. The eyes were terrible, they were completely white, a brilliant white glow stared between the lids` (_Sleeper's Ban_)
 - `The sweet smell of putrefaction became deafening and the voice could be heard again, while the red-robed man's face did not move a muscle` (_Sleeper's Ban_)
-- `They call me the demon summoner. I have been privileged to make my servants some of the fascinating creatures of the lower hells` (_Sleeper's Ban_)
+- `They call me the demon summoner. I have been privileged to make some of the fascinating creatures of the lower hells my servants` (_Sleeper's Ban_)
 - called _Demon Lord_ in original English translation of early alpha
   - `You look worse than the guy who tried to finish with the Demon Lord.`
 - called `Demon Invoker` in 1.01d alpha
