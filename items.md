@@ -97,6 +97,8 @@ title: Items
   - subject of a quest from _Hellfire_
 - there is a _talent_ called `mushrooms`
   - possibly allowed the player to tell kinds of mushrooms apart
+- it's well known that some mushrooms are deadly poisonous
+  - `He knows about mushrooms, he says. I say thank you and fuck off. And what happened? He's lying there for four days, more dead than alive.`
 
 ## Ore Armor
 - according to the final game, _Ore Armor_ once belonged to _Ancient General_
