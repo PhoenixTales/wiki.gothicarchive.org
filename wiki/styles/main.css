@@ -37,15 +37,10 @@ h1, h2, h3, h4 {
 }
 
 code::before, code::after {
-  content: '"';
-  font-size: 1.5em;
-  position: relative;
-  top: 0.2em;
-  line-height: 0;
-  /* color: #ffdb99; */
-  /* opacity: 0.7; */
-  /* font-style: italic; */
-  /* left: -0.1em; */
+    content: '"';
+    position: relative;
+    line-height: 0;
+    opacity: 0.5;
 }
 
 *::selection {
