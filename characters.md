@@ -60,8 +60,7 @@ title: Characters
 
 ## Demon Summoner
 - German: `Dämonenbeschwörer` (`DMB`)
-- living in _Tower Of Demon Summoners_, the only known member of his faction
-- ex `Alchemist Of Fire`
+- living in the _Tower Of Demon Summoner_, the only known member of his faction
 - `has a lot to offer` (_Sleeper's Ban_)
 - `during his experiments here in the Old Camp, some people rose to, well, new forms of existence, so that he had to leave the camp`
   - this may imply that he killed someone and turned them into undead (source: _Sleeper's Ban_)
