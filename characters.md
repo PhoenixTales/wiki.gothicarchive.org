@@ -194,9 +194,13 @@ title: Characters
   - this is said by one of the _Sect Templars_ (`Inf_Tpl_VK`), suggesting that the _Mastermind_ is leader of the _Sect Gurus_ (later named `Y'Berion`)  
 
 ## Milten Plescott
-- young drifter who keeps himself afloat with little trickery
-- the army recruits him for the war
-- he runs away before hopeless battle and later gets captured by Khorinis city guards as a deserter
+- `young drifter who keeps himself afloat with little trickery`
+- the army recruits him for the war and tattoos a soldier mark on his arm
+- he deserts from his post by _Northern Plains_ before a battle he believes to be hopeless
+- he decides that _Khorinis_ (`the next town`), is the best place for a deserter to hide away from royal attention
+  - his tattoo is recognised by city guards, who immediately recognized him as a deserter
+  - he learns the hard way that king is punishing all the deserters and criminals by sentencing them to lifetime of forced labor
+  - all of them are transported to a remote penal colony where they provide the kingdom's most strategic resource, _Magic Ore_, and to Milten's surprise that place is _Khorinis_
 
 ## The Negotiator
 - German: `Der Unterhändler`
