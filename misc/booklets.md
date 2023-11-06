@@ -4,6 +4,7 @@ title: Booklets
 
 ## Auto-translated official German booklet
 - [original PDF in German](https://media.gothicarchive.org/documents/manuals/Handbuch.pdf)
+- note: this is an automated translation, but it was manually checked for errors; the spelling mistakes (`Rhotbar` vs `Rhobar`) and contradictions with other versions of the story are there in German original as well and were accurately preserved here
 
 ```
 Many years ago, in a distant land, people lived in a kingdom they called Myrtana. It was a thriving kingdom, the granaries were full year after year, and the mines yielded good copper, bronze, and ore so that no one had to suffer. Above all stood the priests of the gods, whose power and influence were great. The gods were well-disposed towards the people, at the top stood Innos, the god of the sun and of the law, who was worshiped as the first and highest god and whose priests were the magicians of fire. The priests of the god Adanos, who forms the balance between good and evil, were the magicians of the water circle, only the god of darkness and death, Beliar, were not ordained priests, for his powers were of a dark nature.
