@@ -30,6 +30,11 @@ title: Orcs
 - orcs can learn human language, and humans can learn orcish language
   - this skill is no longer available to player in the final release of the game
 
+## Orc language
+- Krotahk : Flame Tongue (source: `DIA_FREEMINEORC`)
+- Khaz-Tak: Lurker Claw (source: `DIA_FREEMINEORC`)
+- Orth-Antak: Swampshark Tooth (source: `DIA_FREEMINEORC`)
+
 ## Types of orcs found in game
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
 - scout
