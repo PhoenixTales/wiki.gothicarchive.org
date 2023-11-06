@@ -87,7 +87,9 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - probably later renamed `minecrawler`
 - `they are five meters long and look like giant cockroaches` (_Sleeper's Ban_)
 - `they dig attack tunnels through the stone and camouflage the opening to look like solid rock (...) BOOM! - a large, hooked arm rattles towards you, grabs your back and pulls you one of these tubes, faster than you can say "stonestrangler"` (_Sleeper's Ban_)
-- `we thought a stonestrangler had already feasted on you and laid its eggs in your flesh.` (_Sleeper's Ban_)
+- `we thought stonestranglers had already feasted on you and laid eggs in your flesh.` (_Sleeper's Ban_)
+- have poisonous venom
+  - `The crawlers poisoned me. I need antidote.` (`DIA_FREEMINEORC_WASTUN_INFO_06.WAV` / 1.01d alpha)
 
 ## Undead Dragon
 - `Undead Dragon in chokepoint on the way towards the Sleeper`
