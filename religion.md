@@ -93,10 +93,10 @@ There was a strange aroma in the air, smoky, sweet. He'd smelled that smell befo
 ```
 
 ## Kasakk
-- only mentioned in _Sleeper's Ban_
+- only mentioned in _Sleeper's Ban_, and the only deity appearing there
 - appears to be the deity of the realm of the dead, similarly to _Beliar_ from the final game release
   - `until they go to Kasakk's realm at some point, simply because they forget to eat or breathe or drink or whatever`
-- mentioned by the convicts, including main character, way more often than any other deity
+- despite being a dark god, he appears to be the only one worshipped by people in the story, drawing parallel with _Crom_ from universe of _Conan The Barbarian_
 - `in Kasakk's name, let me kindly all alone!`
 - `thank Kasakk they are not organized`
 - `He really deserved it, in Kasakk's name`
