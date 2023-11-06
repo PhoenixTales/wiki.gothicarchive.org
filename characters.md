@@ -201,6 +201,9 @@ title: Characters
   - his tattoo is noticed by the _City Guards_, who immediately recognized him as a deserter
   - he learns the hard way that king is punishing all the deserters and criminals by sentencing them to lifetime of forced labor
   - all of them are transported to a remote penal colony where they provide the kingdom's most strategic resource, _Magic Ore_, and to Milten's surprise that place is _Khorinis_
+- he was convicted together with _Diego_, _Gorn_ and _Lester_
+  - `The four of us... uh... 'entered' the colony on the same day, together.`
+  - (`INFO_MILTEN_SHYOU_02_08` from 1.01d alpha)
 
 ## The Negotiator
 - German: `Der Unterhändler`
