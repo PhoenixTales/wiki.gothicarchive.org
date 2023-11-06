@@ -476,10 +476,12 @@ article strong:hover, article em:hover {
 }
 
 article code, article strong, article em, article p a, article li a {
-  font-family: "TeXGyreChorus";
-  letter-spacing: 0.1em;
-  font-size: 0.7em;
-  font-weight: 800;
+  /* font-family: "TeXGyreChorus"; */
+  /* letter-spacing: 0.1em; */
+  /* font-size: 0.7em; */
+  /* font-weight: 800; */
+  
+  font-family: "Gothic im Spiel";
   color: var(--text-accent-color);
   font-style: normal;
 }
