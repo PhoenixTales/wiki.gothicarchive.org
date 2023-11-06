@@ -53,5 +53,6 @@ title: Orcs
 - _Varrag-Unhilqt_
 - _Varrag-Ruuushk_
 - _Grash-Varrag-Arushat_
-  - `Grash-Varrag-Arushat apparently doesn't belong to the undead Orc shamans. He is more powerful by far and my weapons don't harm him at all` (G1-final, DIA_Orc_HighPriest5.d)
+  - `I am the most powerful of the five priests.` (`INFO_HIGHPRIEST5_INFO_13_01` in 1.01d alpha)
   - `there is a defensive spell on me that protects me against your pathetic weapons and spells.` (`INFO_HIGHPRIEST5_INFO_13_02` in 1.01d alpha)
+  - `Grash-Varrag-Arushat apparently doesn't belong to the undead Orc shamans. He is more powerful by far and my weapons don't harm him at all` (G1-final, `DIA_Orc_HighPriest5`)
