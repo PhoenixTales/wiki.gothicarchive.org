@@ -2,6 +2,12 @@
 title: Characters
 ---
 
+## The Architect
+- German: `der Baumeister`
+- `secures new and old tunnels with supporting structures` (design doc `NPCs per Guild`)
+- `repairs tools & weapons in Free Camp` (design doc `NPCs per Guild`)
+- `friend and colaborator of the Cave Terror` (design doc `NPCs per Guild`)
+
 ## Advanced Apprentice Of Fire Mages
 - German: `der Geselle`
   - in a traditional craftsman or trade context, `Geselle` means someone who has completed their apprenticeship and is considered a skilled worker but has not yet achieved the status of a master craftsman
@@ -491,6 +497,13 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - seems to overlap with unnamed `VLK_50` from another alpha build where `Sira` is missing, who gives speeches to diggers
   - `VLK_50_VlkSpeech`: `Listen to me and you will see better times. If there are no better times the world will stumble and fall, or the stars will come down.`
   - `VLK_50_NSCASpeech`: `The forgotten people will rise.`
+
+## The Sniffer
+- German: `die Spürnase`
+- `the second man in the prospecting association` (design doc `NPCs per Guild`)
+- `seems to practically smell ore veins` (design doc `NPCs per Guild`)
+- `Every now and then he disappears into the mines for a few days and then sets a new direction for drilling` (design doc `NPCs per Guild`)
+- `knows ALL secret passages and hiding places in the mines and orc caves` (design doc `NPCs per Guild`)
 
 ## Rogue-Specialist
 - German: `der Spezialist der Organisatoren`
