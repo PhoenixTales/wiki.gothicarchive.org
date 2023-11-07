@@ -107,18 +107,6 @@ title: Factions
 - `advanced Workers, capable of manual labor` (design doc `NPCs per Guild`)
 - 4 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
-## Farmers of Khorinis Mine Valley
-- German: `Die Bauern` (`BAU`)
-- in the final game release translated as `peasants` (`NAME_Bauer = "Peasant"`)
-- live around the _Old Citadel_ (German: `Altes Kastell`)
-  - originally, the New Camp was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the New Camp running through the fields
-  - `Just to the south of our fields lies the ruins of a former fort` (alpha 0.56c)
-- peaceful, grow their own food and trade it with camps
-- some of them lived around the valley already before it became prison colony
-- `know how to grow grain and a few of them can even brew really good beer` (_Sleeper's Ban_)
-- `We feed the new camp and in return we are protected from the archbarons` (alpha 0.56)
-- in the final release they are farming rice just in front of the _New Camp_
-
 ## Guards of New Camp
 - in the final game release known as `Mercenaries of New Camp`
 - known as `die Recken` in German version of _Sleeper's Ban_, and as `Die Garde` (`GRD`) in alpha builds
@@ -218,6 +206,17 @@ title: Factions
   - _Left Hand_ (`EBR_102`/`Linke Hand`)
   - _Grey Baron_ (`EBR_103`/`Grauer Baron`)
   - _Foreign Minister_ (`EBR_104`/`Aussenminister`)
+
+## Peasants
+- German: `Die Bauern` (`BAU`) (can be also translated as `farmers`)
+- live around the _Old Citadel_ (German: `Altes Kastell`)
+  - originally, the New Camp was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the New Camp running through the fields
+  - `Just to the south of our fields lies the ruins of a former fort` (alpha 0.56c)
+- peaceful, grow their own food and trade it with camps
+- some of them lived around the valley already before it became prison colony
+- `know how to grow grain and a few of them can even brew really good beer` (_Sleeper's Ban_)
+- `We feed the new camp and in return we are protected from the archbarons` (alpha 0.56)
+- in the final release they are farming rice just in front of the _New Camp_
 
 ## Psionics
 - `orange-clad` (_Sleeper's Ban_)
