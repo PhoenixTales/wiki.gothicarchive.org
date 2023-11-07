@@ -355,6 +355,13 @@ title: Characters
   - (`INFO_MILTEN_SHYOU_02_08` from 1.01d alpha)
 - both apprentice of _Fire Mage_ and member of _The Masters
 
+## The Mine Inspector
+- the leader of the _Miner's Association_
+- `former guard who always stood up for the prisoners` (design doc `NPCs per Guild`)
+- `he stayed here voluntarily and earned great respect` (design doc `NPCs per Guild`)
+- `primary target of shadows & arch barons` (design doc `NPCs per Guild`)
+- close friend of _The Chief Of The Trappers_
+
 ## The Negotiator
 - German: `Der Unterhändler`
 - `A tough fighter lives in the castle and offers his services as a negotiator.`
