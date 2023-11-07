@@ -34,6 +34,7 @@ title: Characters
 - in alpha builds referred to as `Supreme Ore Baron` (`obersten Erzbaron`), `king-like ruler`, `our master`, `our big boss`, `our leader`, `The Baron`
 - `VLK_50_FoeAttackedEBr`: `the baron is mighty as god`
 - `VLK_50_FoeStoleFromEBr`: `Isn't the leader great and wise ?`
+- his two cloest confidants and bodyguards are _Ore Barons_ _The Left Hand_ and _The Right Hand_
 
 ## Burgrave Bergmar
 - comes from _Western Field_
@@ -48,6 +49,10 @@ title: Characters
 - German: `Söldnerhauptmann`
 - leads _Mercenaries Of Old Camp_ (`SLD`)
 - `really wants to become an Ore Baron` (design doc `NPCs per Guild`)
+
+## The Caravan Leader
+- German: `Karawanenführer`
+- _Ore Baron_ responsible for `foreign trade` (design doc `NPCs per Guild`)
 
 ## The Contractor
 - German: `der Kontakter`
@@ -114,7 +119,10 @@ title: Characters
   - `KDF_40_RTPlayDice`: `Roll, roll, roll my dice.`
  
 ## Foreign Minister
-- one of _Ore Barons_ who likely evolved into _Bartholo_
+- one of _Ore Barons_
+- `leads espionage/intrigues against other camps` (design doc `NPCs per Guild`)
+- former _Spy Of Shadows Of Old Camp_
+- his role appears to overlap with that of _The Invisible Man_ and _Shadow Baron_
 - in alpha build known referred as `EBR_104 Aussenminister`
 
 ## Fox
@@ -209,8 +217,12 @@ title: Characters
 - `[King's] sycophants betrayed me, because I knew something I shouldn't have known. They tossed me into the mining colony, and the King allowed it.` (_Gothic 2_)
 - `I know General Lee. I also know the circumstances under which he was condemned to forced labor in the colony. I consider him to be an honorable man.` (_Lord Hagen_ in _Gothic 2_)
 
+## The Left Hand
+- _Ore Baron_, one of two closest confidants and bodyguards of the _Big Boss_ (design doc `NPCs per Guild`)
+
 ## Lester
 - `freak`, `cracked`, drug user, amateur alchemist and psionic
+- after imprisonment in _Khorinis Penal Colony_ joined the _Sect Camp_
 
 ## The Lieutenant
 - German: `der Leutnant`
@@ -311,6 +323,9 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - called _Rhotbar II_ in the Gothic I handbook
 - `King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration`
 
+## The Right Hand
+- _Ore Baron_, one of two closest confidants and bodyguards of the _Big Boss_ (design doc `NPCs per Guild`)
+
 ## Royal Judge
 - called `Court Archon` in _Sleeper's Ban_
 - appears in game scripts as `CS_Richter`
@@ -327,6 +342,12 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - offers quest `Arena Betting` and `Arena Championship`
 - internal comment in the script of `Arena Betting` quest calls him a `sneaky cheater`
   - he suggests player to place a bet on a weak participant (the `Blade Fodder`), purposefully making him loose
+
+## Shadow Baron
+- German: `Schattenbaron`
+- _Ore Baron_ responsible for _The Shadows Of Old Camp_
+- briefly mentioned in design doc `NPCs per Guild`
+- his role seems to overlap with that of _The Invisible Man_ and _Foreign Minister_
 
 ## Sharpblade
 - _Old Camp_ guard in alpha 0.56
@@ -385,6 +406,15 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `the old man's cloak began to sway, although he felt no wind (...) the noise rang out: It seemed to come deeply from the earth, the stones under his feet vibrated at its sound. It was a growl, underlaid by hissing noises, deep, booming, and slowly rising. (...) the old man had risen. He stood upright on the boulder, the cloak waved behind him with a loud, almost horizontal flutter... The sound swelled, louder, and louder... Then Stomp found himself crouching on the floor, the pebbles pressing painfully through his Thin trousers, and when he straightened up in a daze he saw the old man sitting with his legs dangling on the boulder, humming a tune and holding a long-handled pipe from which thick clouds of smoke rose.`
 - `he turned to the old man "I have to you thank you, I don't know what..." He fell silent because the boulder was empty. Looking around wildly, Stomp searched the beach and saw no sign of the old man anywhere. Only a cloud of the sweet smelling smoke that had emerged from the strange person's pipe still hovered over the stone.`
 
-## Warhound
-- known as `Kriegshund` in German version of _Sleeper's Ban_
-- person, son of an _Ore Baron_
+## Teacher Of Ore Barons
+- one of _Ore Barons_
+- briefly mentioned in design doc `NPCs per Guild`
+
+## Treasurer Of Ore Barons
+- German: `Schatzmeister`
+- one of _Ore Barons_
+- `carries out distribution of goods` (design doc `NPCs per Guild`)
+
+## Warhound, The Young Baron
+- known as `Kriegshund` in German version of _Sleeper's Ban_ and as `Jungbaron` in design doc `NPCs per Guild`
+- one of _Ore Barons_, the son of _Big Boss_
