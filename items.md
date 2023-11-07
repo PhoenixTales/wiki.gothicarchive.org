@@ -81,6 +81,12 @@ title: Items
 - they last for configurable amount of time, during which the intensity of light gradually decreases
 - all 3 of them have it copy-pasted to be 20 in-game minutes (`brightness = 20 * 60; // 20 Minuten Brenndauer`)
 
+## Magic Ore
+- `ore nuggets -> powder = reagents`
+  - German: `Erznuggets -> Pulver = Reagenzien` (design doc `NPCs per Guild`)
+- _Magic Ore_ powder is the main ingredient of both _Sruup_ and _Mana Potion_
+- violently explodes when hit with a _Fireball_, a bag is able to destroy a large tower 
+
 ## Magic Ore Armor
 - `ore armor (...) belonged to the general who wielded URIZIEL in the battle against the Orcs.`
 - `This ancient armor was made of magic ore`
