@@ -64,7 +64,7 @@ This enchanted magical barrier is not good for the crops. Not enough sunlight ge
 ```
 
 ## Labor camp
-- made of few `magic ore` mines, small underground ironworks and a fortified prison
+- made of few _Magic Ore_ mines, small underground ironworks and a fortified prison
 - originally meant for `the scum of society: assassins, highwaymen, murderers, rapists and insurgents` (_Sleeper's Ban_)
   - `this is where the scum of our great kingdom lives (...), the whole camp is full of murderers, thieves, insurgents`
 - since the _War With Orcs_ escalated, king sentences for lifetime in there even for being unable to pay taxes, and brings there convicts from the entire kingdom
