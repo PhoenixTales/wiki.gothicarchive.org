@@ -100,15 +100,15 @@ title: Items
   - subject of a quest from _Hellfire_
 - `Hell Mushroom`
   - slightly nutritious (`+6`), but less than apple
-  - grows both inside and outside of caves
-  - only present in English release, in German it's called `Cave Mushroom`
+  - in alpha was known as `Cave Mushroom`
+  - German: `Höllenpilz`
 - `Slave's Bread`
   - nutritious (`+15`), as much as a piece of cheese
   - German: `Sklavenbrot`
 - `Cave Mushroom`
   - slightly nutritious (`+6`), but less than apple
   - only supposed to grow in caves
-  - only present under this name in German release, in English was renamed `Hell Mushroom`
+  - in the final release renamed to `Hell Mushroom`, after it was commonly misplaced out of caves
   - German: `Höhlenpilz`
 - there is a _talent_ called `mushrooms`
   - possibly allowed the player to tell kinds of mushrooms apart
