@@ -108,7 +108,7 @@ title: Factions
 - `advanced Workers, capable of manual labor` (design doc `NPCs per Guild`)
 - 4 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
-## Guards of New Camp
+## Guardians of New Camp
 - in the final game release known as `Mercenaries of New Camp`
 - known as `die Recken` in German version of _Sleeper's Ban_, and as `Die Garde` (`GRD`) in alpha builds
 - protect _Alchemists of Water_, farmers living in _New Camp_ and _Miner's Association_ of _Free Camp_
