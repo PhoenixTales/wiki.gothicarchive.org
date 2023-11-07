@@ -2,10 +2,16 @@
 title: Characters
 ---
 
-## Advanced Apprentice
+## Advanced Apprentice Of Fire Mages
 - German: `der Geselle`
   - in a traditional craftsman or trade context, `Geselle` means someone who has completed their apprenticeship and is considered a skilled worker but has not yet achieved the status of a master craftsman
 - more experienced of two apprentices of _Fire Mages_
+- only briefly mentioned in design doc `NPCs per Guild`
+
+## Advanced Apprentice Of Water Mages
+- German: `der Geselle`
+  - in a traditional craftsman or trade context, `Geselle` means someone who has completed their apprenticeship and is considered a skilled worker but has not yet achieved the status of a master craftsman
+- more experienced of two apprentices of _Water Mages_
 - only briefly mentioned in design doc `NPCs per Guild`
 
 ## Ancient General
@@ -18,17 +24,28 @@ title: Characters
 - _Mercenary Of Old Camp_, `SLD_202_ANGAR` in 0.64b alpha
 - later was moved to _The Sect_ camp and became `GUR_1202_CorAngar`, leader of the _Templars_
 
-## Apprentice of Hellfire
-- novice _Fire Mage_, removed in late alpha
+## Apprentice of Fire Mages
+- German: `der Lehrling`
+- less experienced of two novice _Fire Mages_, removed in late alpha
 - lies dead with a label `Looser` in _Troll Canyon Ravine_, where he was trying to collect a _Devil Mushroom_
 - it is hinted that he was either murdered, or that his body was robbed after his death before player found him
   - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
   - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a Devil Mushroom in the ravine.`
 
+## Apprentice Of Water Mages
+- German: `der Lehrling`
+- less experienced of two novice _Water Mages_
+- only briefly mentioned in design doc `NPCs per Guild`
+
 ## The Assassin
 - German: `der Assassine`
 - the best _Assassin_ of the _Shadows Of Old Camp_
 - `Specialist for difficult cases and other Shadows` (design doc `NPCs per Guild`)
+
+## The Armorer Of Guardians
+- German: `der Waffenmeister`
+- member of _Guardians Of New Camp_
+- `teacher of the Guardians` (design doc `NPCs per Guild`)
 
 ## Arto
 - in alpha initially a member of _Free Camp_, `SFB_1007_ARTO`
@@ -64,6 +81,11 @@ title: Characters
 - German: `der Kontakter`
 - `recruits and teaches new Shadows` (design doc `NPCs per Guild`)
 - one of _Shadows Of Old Camp_
+
+## Corristo, Master Of Fire
+- German: `Meister des Feuers`
+- leader of _Alchemists Of Fire_ (design doc `NPCs per Guild`)
+- disciple of the _Demon Summoner_ (design doc `NPCs per Guild`)
 
 ## Dailah The Iceskin
 - uses title `Creesh a Suul` (`Daughter of a Bear`), is also called "The Amazon"
@@ -110,6 +132,13 @@ title: Characters
 - may be inspired by _Ramirez_
 - member of both _Shadows Of The Old Camp_ and _The Masters_
 
+## The Diplomat Of The Guardians
+- German: `der Diplomat`
+- pretends to be a member of _Guardians Of New Camp_, in reality a _Spy_ of _Shadows Of The Old Camp_
+- `very charismatic, respected Guardian`(design doc `NPCs per Guild`)
+- `maintains contact with other guilds; is traveling as an agent for the Guardians` (design doc `NPCs per Guild`)
+- `in reality, a double agent for the Ore Barons` (design doc `NPCs per Guild`)
+
 ## Drago
 - _Mercenary Of Old Camp_, `SLD_203_DRAGO` in 0.64b alpha
 - later was made a _Fire Mage_, `KDF_403_Drago`
@@ -133,6 +162,21 @@ title: Characters
 - former _Spy Of Shadows Of Old Camp_
 - his role appears to overlap with that of _The Invisible Man_ and _Shadow Baron_
 - in alpha build known referred as `EBR_104 Aussenminister`
+
+## The Healer Of Water Mages (1)
+- German: `der Geneser`
+- `alchemist, powerful healer; teacher & contractor` (design doc `NPCs per Guild`)
+- `recruits the player character` (design doc `NPCs per Guild`)
+- `a little too good-natured` (design doc `NPCs per Guild`)
+
+## The Healer Of Water Mages (2)
+- German: `der Heiler`
+- `routine healing worker` (design doc `NPCs per Guild`)
+- `harsh like an overworked, annoyed ward doctor in the hospital` (design doc `NPCs per Guild`)
+
+## The Healer Of Water Mages (3)
+- German: `der Wunddoktor`
+- `Visit other camps to earn ore nuggets` (design doc `NPCs per Guild`)
 
 ## Fox
 - _Rogue_ `ORG_827_FOX` in alpha 1.01d
@@ -231,15 +275,17 @@ title: Characters
 - `master rogue, surpasses all others, very respected by his customers` (design doc `NPCs per Guild`)
 - `member of The Masters` (design doc `NPCs per Guild`)
 
-## Lee
+## Lee, The Lord Protector
 - initially he was serving as a guard in the king's court
-  - source: alpha docs
-- `Lord` (member of nobility)
   - source: alpha docs
 - ex-general, `war hero`
 - convicted for lifetime of forced labor for murder of the `king's wife`
   - he insists that he's innocent, and that he was framed by conspiring nobles
   - according to earlier version of his story, his arest was related to some piece of correspondence written by another nobleman, again without him actually committing any crime
+- referred to as `The Lord` or `The Lord Protector` (German: `der Lord-Protektor`) (design doc `NPCs per Guild`)
+  - this may suggest that as a _Royal General_ he used to be a member of _Myrtanian Nobility_
+- leader of _Guardians Of New Camp_
+- `jealous of the dominance of the Healing Mages` (design doc `NPCs per Guild`)
 
 > I was one of the best generals of this country.
 > I've spent my whole life fighting for my country.
@@ -266,11 +312,6 @@ title: Characters
 ## Lord of Tymoris
 - high feudal lord of the realm containing _Royal Ore Mines_
 
-## Master Of Fire
-- German: `Meister des Feuers`
-- leader of _Alchemists Of Fire_ (design doc `NPCs per Guild`)
-- disciple of the _Demon Summoner_ (design doc `NPCs per Guild`)
-
 ## Mastermind
 - in 0.56 alpha build, set as an owner of a wooden stool
 - described as `instructor`
@@ -278,7 +319,12 @@ title: Characters
 - `The other day I had to stand guard in front of the castle ruins while Mastermind met with one of the arch barons inside`
   - this is said by one of the _Sect Templars_ (`Inf_Tpl_VK`), suggesting that the _Mastermind_ is leader of the _Sect Gurus_ (later named `Y'Berion`)  
 
-## The Messenger
+## The Merciless
+- German: `der Gnadenlose`
+- `leads field operations`
+- `known for occasionally brutal acts; "the Lord" [Lee] repeatedly criticizes him for this`
+
+## The Messenger Of The Shadows
 - German: `Bote`
 - `guild errand boy` of the _Shadows Of Old Camp_ (design doc `NPCs per Guild`)
 
@@ -380,6 +426,13 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - side-quest character added in the final release of the game as `BAU_940_Riddler`
 - technically a farmer (`BAU`)
 - judging by look and _New Camp_ allegiance, may correspond to removed alpha NPC `SFB_1015_OLDMAN`
+
+## Saturas, Master Of Water
+- German: `Meister des Wassers`
+- leader of _Alchemists Of Water_ (design doc `NPCs per Guild`)
+- disciple of the _Demon Summoner_ (design doc `NPCs per Guild`)
+- `Supreme Healing Mage; only reviver close to the people` (design doc `NPCs per Guild`)
+- `somewhat bossy/arrogant` (design doc `NPCs per Guild`)
 
 ## Scatty The Arena Master
 - German: `Arenameister`
