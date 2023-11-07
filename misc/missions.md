@@ -146,6 +146,12 @@ title: Missions
 ## Whistler's Sword
 - mentioned in 1.01d as `Whistler_MySword`
 
+## Ore For Mages
+- deliver ore to _The Ore Supplier Of Fire Mages_
+- mission briefly mentioned in design doc `NPCs per Guild`
 
+## Escort The Wanderer
+- escort _The Wanderer_ exploring some dungeons
+- mission briefly mentioned in design doc `NPCs per Guild`
 
 
