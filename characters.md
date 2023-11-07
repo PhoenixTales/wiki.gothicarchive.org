@@ -224,6 +224,7 @@ title: Characters
 - `would like to join The Guardians` (design doc `NPCs per Guild`)
   - _The Guardians_ refers to _Guardians Of New Camp_ (`GRD`)
 - `Before prison he was a plantation foreman` (design doc `NPCs per Guild`)
+- _The Giant_ is his bodyguard, and _The Bakers_ are his advisers
 
 ## Lares, The Head Of Rogues
 - German: `das Oberhaupt der Organisatoren`
