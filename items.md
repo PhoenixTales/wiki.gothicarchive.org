@@ -64,6 +64,11 @@ title: Items
 - looks like a mana potion
 - mission titled _The Holy Water_ is actually about `PSI Potion` (corresponding to _Sruup_) and doesn't actually involve the _Holy Water_ item
 
+## Kodang Wood
+- boomerang-like throwable weapon
+- used by _Rogues_ (`ORG`)
+- only appears in _Sleeper's Ban_
+
 ## Leather Armor
 - the only armor separate from body mesh (rendered on top of it) in the entire game
 - only present in alpha 0.56
@@ -195,6 +200,7 @@ title: Items
 ## Throwable weapons
 - in early alpha some ranged weapons were supposed to be "amunition for themselves" and get thrown
 - 0.56 alpha `constants.d`: `CONST INT MUN_THROW = 1; // Keine, die Fernkampfwaffe selbst wird geworfen`
+- _Kodang Wood_ from _Sleeper's Ban_ is a weapon of this kind
 
 ## Uriziel
 - `Ancient runes have been engraved into the blade`, `It says here, Uriziel the Great`
