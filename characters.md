@@ -108,6 +108,7 @@ title: Characters
 - called `Raoul` on old website
 - `cynical thief`
 - may be inspired by _Ramirez_
+- member of both _Shadows Of The Old Camp_ and _The Masters_
 
 ## Drago
 - _Mercenary Of Old Camp_, `SLD_203_DRAGO` in 0.64b alpha
@@ -146,6 +147,7 @@ title: Characters
 - `Where I come from, opponents are invited for a feast before they are killed...`
   - he is dark-skinned, and from _Sleeper's Ban_ we know about a dark skinned tribe which does just that
   - plot twist is that after being killed, these enemies participate in the feast in role of the meal
+- member of both _Guards Of The New Camp_ and _The Masters_
 
 ## Greg
 - _Old Camp Mercenary_ with ID `SLD_MAINGATEGUARDT1`, removed in late alpha
@@ -189,16 +191,16 @@ title: Characters
 - German: `Behüter des Kreises`
 - alchemist and teacher of _Fire Mages_ (design doc `NPCs per Guild`)
 
-## Hellfire
-- _Fire Mage_ removed in late alpha
-- had an apprentice, who was killed in _Troll Canyon Ravine_
-- sends player to finish the quest of the dead apprentice and bring him a _Devil Mushroom_
-
 ## Hawkeye
 - his script mentions `slot = Runner` (whatever it means)
 - he's member of the _(Some) Guards_ guild (`WCH`)
 - wears clothes of a thief
 - offers mission _Bring Psi Potion_
+
+## Hellfire
+- _Fire Mage_ removed in late alpha
+- had an apprentice, who was killed in _Troll Canyon Ravine_
+- sends player to finish the quest of the dead apprentice and bring him a _Devil Mushroom_
 
 ## Hunter
 - appears in 1.01d alpha as `GRD_207_Hunter`
@@ -208,6 +210,11 @@ title: Characters
 ## The Invisible Man
 - German: `Der Unsichtbare`
 - `leader of the Shadows known to almost no one` (design doc `NPCs per Guild`)
+
+## Lares, The Head Of Rogues
+- German: `das Oberhaupt der Organisatoren`
+- `master rogue, surpasses all others, very respected by his customers` (design doc `NPCs per Guild`)
+- `member of The Masters` (design doc `NPCs per Guild`)
 
 ## Lee
 - initially he was serving as a guard in the king's court
@@ -234,7 +241,7 @@ title: Characters
 
 ## Lester
 - `freak`, `cracked`, drug user, amateur alchemist and psionic
-- after imprisonment in _Khorinis Penal Colony_ joined the _Sect Camp_
+- member of both _Novices Of The Sect_ and _The Masters
 
 ## The Lieutenant
 - German: `der Leutnant`
@@ -271,6 +278,7 @@ title: Characters
 - he was convicted together with _Diego_, _Gorn_ and _Lester_
   - `The four of us... uh... 'entered' the colony on the same day, together.`
   - (`INFO_MILTEN_SHYOU_02_08` from 1.01d alpha)
+- both apprentice of _Fire Mage_ and member of _The Masters
 
 ## The Negotiator
 - German: `Der Unterhändler`
@@ -394,6 +402,12 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
   - `VLK_50_VlkSpeech`: `Listen to me and you will see better times. If there are no better times the world will stumble and fall, or the stars will come down.`
   - `VLK_50_NSCASpeech`: `The forgotten people will rise.`
 
+## Rogue-Specialist
+- German: `der Spezialist der Organisatoren`
+- `organizes the really tricky things` (design doc `NPCs per Guild`)
+- `Master thief, very cunning and clever` (design doc `NPCs per Guild`)
+- `dishonest & deceitful; regularly betrays his guild, but is never caught` (design doc `NPCs per Guild`)
+
 ## Stomp
 - in the final release known as `The Nameless One`
 - main character of _Sleeper's Ban_ and _Gothic I_
@@ -436,6 +450,11 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - German: `Schatzmeister`
 - one of _Ore Barons_
 - `carries out distribution of goods` (design doc `NPCs per Guild`)
+
+## The Uncaught
+- one of _The Rogues Of New Camp_
+- German: `der Unerwischte`
+- `Guild Teacher & Contractor; often requires students to bring him things to pay for his teaching` (design doc `NPCs per Guild`)
 
 ## The Wanderer
 - German: `der Wanderer`
