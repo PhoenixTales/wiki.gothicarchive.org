@@ -194,8 +194,15 @@ title: Items
 
 ## Teleport Stone
 - single item `TeleportStone` connected with single spell `Spell_Teleportation`
-- as opposed to teleportation spells in the final release, this one doesn't seem to be tied to single target location
+- as opposed to teleportation spells in the final release, this one does not lead to any particular location
+- it moves the character to a random position within certain radius, for example to quickly evade enemies in fight
 - in the script has comment `magischer Teleport-Stein`, using it calls engine function `Npc_SetTeleportPos(self)` of unclear purpose
+- in alpha release where it is still present in scripts, it uses placeholder model `mallet.3ds` (a hammer)
+  - later builds, including final release have mesh of matching name `ItMi_Teleportstone_01.3ds`
+  - it looks like a piece of natural quartz-like crystal made of 5 parts
+  - in builds with the model present, the script is already removed
+
+![https://media.gothicarchive.org/img/items/ItMi_TeleportStone_01.jpg](https://media.gothicarchive.org/img/items/ItMi_TeleportStone_01.jpg)
 
 ## Throwable weapons
 - in early alpha some ranged weapons were supposed to be "amunition for themselves" and get thrown
