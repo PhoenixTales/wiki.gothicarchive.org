@@ -313,6 +313,7 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
   - this powder is the main ingredient for making the _Mana Potion_
 
 ## The Prophet
+- German: `Der Prophet`
 - `crazy street yeller, who tirelessly preaches nonsensical teachings` (design doc `NPCs per Guild`)
 - `in reality spy for the Rogues` (design doc `NPCs per Guild`)
 - lives in the _Old Camp_, without proper guild, counted as one of _The People Of Old Camp_ (`VLK`)
