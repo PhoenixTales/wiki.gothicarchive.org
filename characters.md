@@ -19,6 +19,11 @@ title: Characters
   - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
   - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a Devil Mushroom in the ravine.`
 
+## The Assassin
+- German: `der Assassine`
+- the best _Assassin_ of the _Shadows Of Old Camp_
+- `Specialist for difficult cases and other Shadows` (design doc `NPCs per Guild`)
+
 ## Arto
 - in alpha initially a member of _Free Camp_, `SFB_1007_ARTO`
 - later changed into _Old Camp Mercenary_ bodyguarding the _Big Boss_ (as one of `SLD_BARONSGUARDN*`)
@@ -159,6 +164,9 @@ title: Characters
 - appears in 1.01d alpha as `GRD_207_Hunter`
 - completely removed from the final release
 - can teach player advanced crossbow shooting
+
+## The Invisible Man
+- `leader of the _Shadows_ known to almost no one` (design doc `NPCs per Guild`)
 
 ## Lee
 - initially he was serving as a guard in the king's court
