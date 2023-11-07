@@ -2,6 +2,12 @@
 title: Characters
 ---
 
+## Advanced Apprentice
+- German: `der Geselle`
+  - in a traditional craftsman or trade context, `Geselle` means someone who has completed their apprenticeship and is considered a skilled worker but has not yet achieved the status of a master craftsman
+- more experienced of two apprentices of _Fire Mages_
+- only briefly mentioned in design doc `NPCs per Guild`
+
 ## Ancient General
 - called `General`, `powerful warlord` and `Paladin` in different documents
 - `Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him` (from early alpha docs)
@@ -80,6 +86,7 @@ title: Characters
 
 ## Demon Summoner
 - German: `Dämonenbeschwörer` (`DMB`)
+- in the final release named `Xardas`
 - living in the _Tower Of Demon Summoner_, the only known member of his faction
 - `has a lot to offer` (_Sleeper's Ban_)
 - `during his experiments here in the Old Camp, some people rose to, well, new forms of existence, so that he had to leave the camp`
@@ -95,6 +102,7 @@ title: Characters
 - called `Demon Invoker` in 1.01d alpha
 - according to alpha builds, _Fire Mages_ still try to stay in contact and learn from him
   - `Our magicians just can't resist going to the Demon Summoner's Tower to learn` (`Inf_Ebr_TDB`)
+- teaches _Master Of Fire_
 
 ## Diego
 - called `Raoul` on old website
@@ -177,6 +185,10 @@ title: Characters
 - `GRUB see you are wizard, too.`
 - source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
 
+## Guardian Of The Circle
+- German: `Behüter des Kreises`
+- alchemist and teacher of _Fire Mages_ (design doc `NPCs per Guild`)
+
 ## Hellfire
 - _Fire Mage_ removed in late alpha
 - had an apprentice, who was killed in _Troll Canyon Ravine_
@@ -232,6 +244,11 @@ title: Characters
 ## Lord of Tymoris
 - high feudal lord of the realm containing _Royal Ore Mines_
 
+## Master Of Fire
+- German: `Meister des Feuers`
+- leader of _Alchemists Of Fire_ (design doc `NPCs per Guild`)
+- disciple of the _Demon Summoner_ (design doc `NPCs per Guild`)
+
 ## Mastermind
 - in 0.56 alpha build, set as an owner of a wooden stool
 - described as `instructor`
@@ -281,6 +298,11 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - German: `der Einäugige`
 - member of _Mercenaries Of Old Camp_ (`SLD`)
 - `very experienced fighter who leads most of the "field missions" harshly but fairly` (design doc `NPCs per Guild`)
+
+## The Ore Supplier Of Fire Mages
+- one of _Fire Mages_
+- `is responsible for the ore powder supply` (design doc `NPCs per Guild`)
+  - this powder is the main ingredient for making the _Mana Potion_
 
 ## The Prophet
 - `crazy street yeller, who tirelessly preaches nonsensical teachings` (design doc `NPCs per Guild`)
@@ -414,6 +436,14 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - German: `Schatzmeister`
 - one of _Ore Barons_
 - `carries out distribution of goods` (design doc `NPCs per Guild`)
+
+## The Wanderer
+- German: `der Wanderer`
+- `field representative` of _Fire Mage_ who `explores the Dungeons` (design doc `NPCs per Guild`)
+- `keeps no Ore Nuggets because Ore Nuggets + Ore Powder = reaction` (design doc `NPCs per Guild`)
+  - German: `hat kein Geld, da Geld = Erznuggets und Erznuggets -> Pulver = Reagenzien`
+  - unclear if it means that he has to carry _Ore Powder_ with himself, or that the nuggets may accidentally crush into powder, but he seems to be worried about causing the sort of magic explosion which destroyed one of _Old Camp_ towers
+- `receives worldly goods from Ore Barons` (design doc `NPCs per Guild`)
 
 ## Warhound, The Young Baron
 - known as `Kriegshund` in German version of _Sleeper's Ban_ and as `Jungbaron` in design doc `NPCs per Guild`
