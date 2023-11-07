@@ -211,6 +211,13 @@ title: Characters
 - German: `Der Unsichtbare`
 - `leader of the Shadows known to almost no one` (design doc `NPCs per Guild`)
 
+## The Landlord
+- leader of _The Peasants_
+- `very sturdy leader, like a warrior`, `excellent fighter` (design doc `NPCs per Guild`)
+- `would like to join The Guardians` (design doc `NPCs per Guild`)
+  - _The Guardians_ refers to _Guardians Of New Camp_ (`GRD`)
+- `Before prison he was a plantation foreman` (design doc `NPCs per Guild`)
+
 ## Lares, The Head Of Rogues
 - German: `das Oberhaupt der Organisatoren`
 - `master rogue, surpasses all others, very respected by his customers` (design doc `NPCs per Guild`)
