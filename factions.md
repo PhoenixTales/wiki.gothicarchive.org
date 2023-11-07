@@ -138,7 +138,7 @@ title: Factions
 - German: `Die Meister` (`MST`)
 - secret secondary guild accepting members of all the camps
 - it's much harder to discover and join than the three camps
-- 4 Friends (Diego, Milten, Lester and Gorn) are members of it
+- known members: Diego, Milten, Lester, Gorn, Lares
 - player was supposed to have a chance of discovering and joining it
 - `SLD_21_NSCASpeech`: `Just listen people. This is the masters message.` (unclear if he actually means this guild)
 
@@ -190,6 +190,8 @@ title: Factions
   - _Robbers_ (German: `Raeuber`)
   - _Bouncers_ (German: `Tuersteher`)
   - _Blackmailers_ (German: `Erpresser`)
+  - _Vagabonds_ (German: `Die Herumtreiber`) (`are assigned to simple tasks; still in training`) (design doc `NPCs per Guild`)
+- 10 people: _The Head_, _The Specialist_, _The Uncaught_, _Rogues_, _Vagabonds_, _The Prophet_
 
 ## Orc-hunters
 - mentioned as `Ork-Jäger` by _Milten_ in 1.01d alpha dialogue `Info_Milten_SHTESTSEAL_02_06`
