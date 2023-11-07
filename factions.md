@@ -210,6 +210,13 @@ title: Factions
   - _Left Hand_ (`EBR_102`/`Linke Hand`)
   - _Grey Baron_ (`EBR_103`/`Grauer Baron`)
   - _Foreign Minister_ (`EBR_104`/`Aussenminister`)
+- design doc `NPCs per Guild` lists 6 more and omits the _Gray Baron_
+  - _Treasurer_
+  - _Teacher_
+  - _Baron Of Mercenaries_
+  - _Young Baron_
+  - _Caravan Leader_
+  - _Shadow Baron_
 
 ## Peasants
 - German: `Die Bauern` (`BAU`) (can be also translated as `farmers`)
