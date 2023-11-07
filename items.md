@@ -79,6 +79,9 @@ title: Items
 ## Magic Ore Armor
 - `ore armor (...) belonged to the general who wielded URIZIEL in the battle against the Orcs.`
 - `This ancient armor was made of magic ore`
+- according to the final game, _Ore Armor_ once belonged to _Ancient General_
+  - _House of Innos_ or _Arch Mage of Fire_ own it in contemporary times
+- in alpha, it is made inside of barrier by prisoner-smith _Stone_ and was never owned by _Ancient General_ nor _Arch Mage of Fire_
 
 ## Mana Potion
 - made of powdered _Magic Ore_
@@ -89,21 +92,28 @@ title: Items
   - `You can get anything for ore, and the Sruup is also made with the help of this material`
 
 ## Mushrooms
-- `honey mushroom`
-- `stinking mushroom`
+- `Honey Mushroom`
+- `Stinking Mushroom`
   - slightly poisonous (`nutrition = -5`)
-- `devil mushroom`
+- `Devil Mushroom`
   - poisonous (`nutrition = -15`)
   - subject of a quest from _Hellfire_
+- `Hell Mushroom`
+  - slightly nutritious (`+6`), but less than apple
+  - grows both inside and outside of caves
+  - only present in English release, in German it's called `Cave Mushroom`
+- `Slave's Bread`
+  - nutritious (`+15`), as much as a piece of cheese
+  - German: `Sklavenbrot`
+- `Cave Mushroom`
+  - slightly nutritious (`+6`), but less than apple
+  - only supposed to grow in caves
+  - only present under this name in German release, in English was renamed `Hell Mushroom`
+  - German: `Höhlenpilz`
 - there is a _talent_ called `mushrooms`
   - possibly allowed the player to tell kinds of mushrooms apart
 - it's well known that some mushrooms are deadly poisonous
   - `He knows about mushrooms, he says. I say thank you and fuck off. And what happened? He's lying there for four days, more dead than alive.` (`ZS_SmallTalk_Text19` / 1.01d alpha)
-
-## Ore Armor
-- according to the final game, _Ore Armor_ once belonged to _Ancient General_
-  - _House of Innos_ or _Arch Mage of Fire_ own it in contemporary times
-- in alpha, it is made inside of barrier by prisoner-smith _Stone_ and was never owned by _Ancient General_ nor _Arch Mage of Fire_
 
 ## Potion "Mad Bull"
 - causes temporary madness (`Npc_SetToMad (self,30)`)
@@ -117,7 +127,7 @@ title: Items
 ## PSI Potion
 - appears in alpha builds, is almost for sure the same as _Sruup_
 - vial with yellow liquid, uses mesh `drug.3ds` and material `IT_DRUG_YELLOW`
-- _Quicksilver_ and others call it simply `PSI` or `drug` without explicitly mentioning `vial` or `potion`
+- _Quicktongue_ and others call it simply `PSI` or `drug` without explicitly mentioning `vial` or `potion`
 - increases attributte `madness` by 5 (counter-intuitively, this probably means getting _less_ close to becoming insane)
   - the only other item affecting this attribute is `Holy Water`, increasing it by 10
 - there is a related mission, _Bring Psi Potion_ (`I urgently need a PSI vial`)
