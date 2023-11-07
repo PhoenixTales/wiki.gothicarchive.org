@@ -14,12 +14,12 @@ title: Items
 ## Almost Priceless Amulet
 - only mentioned in _Sleeper's Ban_
 - stored at treasury of the _Peace Council_ of _Stomp's Hometown_
-- `magically proven` (?) (`magisch belegtes` in German)
+- `magically enchanted` (German: `magisch belegtes`)
 - _Stomp_ was falsely accused of stealing it, and sentenced to lifetime in _Khorinis Prison Colony_
 
 ## Ancient Shaman Swords
 - _Clefter of Worlds_ (`Welten Spalter`)
-- _Blade of Light_ (`Licht Bringer`)
+- _Blade of Light_ (`Licht Bringer`) (German name literally means _Light Bringer_)
 - _Blade of Time_ (`Zeiten Klinge`)
 - _Demon Strike_ (`Daemonen Streich`)
 - _Blade of Banishment_ (`Bann Klinge`)
