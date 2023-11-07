@@ -570,3 +570,10 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 ## Warhound, The Young Baron
 - known as `Kriegshund` in German version of _Sleeper's Ban_ and as `Jungbaron` in design doc `NPCs per Guild`
 - one of _Ore Barons_, the son of _Big Boss_
+
+## Y'Berion, The Enlightened One
+- `the most powerful guru` (design doc `NPCs per Guild`)
+- `No one in the sect dares to doubt his words and actions, no matter how crazy they are` (design doc `NPCs per Guild`)
+- `at night he often slips into the body of a Temple Servant or Templar and explores the dungeons` (design doc `NPCs per Guild`)
+- `Contractor for Sect Camp Gurus` (design doc `NPCs per Guild`)
+
