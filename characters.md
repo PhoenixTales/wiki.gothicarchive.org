@@ -142,6 +142,12 @@ title: Characters
 - finally replaced by `GRD_265_GARDIST`
   - `Wld_InsertNpc (Grd_265_Gardist, "OC1"); // OC Südtor (Ex-Fox)`
 
+## The Giant
+- German: `der Hüne`
+- `unusually large and strong Peasant` (design doc `NPCs per Guild`)
+- `serves as a bodyguard for The Landlord`, `he is a very good fighter` (design doc `NPCs per Guild`)
+- `he is quite naive and can easily be being tricked` (design doc `NPCs per Guild`)
+
 ## Gorn
 - `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed...`
@@ -212,6 +218,7 @@ title: Characters
 - `leader of the Shadows known to almost no one` (design doc `NPCs per Guild`)
 
 ## The Landlord
+- German: `der Gutsherr`
 - leader of _The Peasants_
 - `very sturdy leader, like a warrior`, `excellent fighter` (design doc `NPCs per Guild`)
 - `would like to join The Guardians` (design doc `NPCs per Guild`)
