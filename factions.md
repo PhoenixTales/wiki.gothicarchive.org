@@ -8,6 +8,7 @@ title: Factions
   - `KDF_40_FoeStoleFromMyGuild`: `You've stolen from the circle of fire`
 - 6 of them accidentally imprisoned in Khorinis Mine Valley
   - `perform some services to the ore barons, in return for which they're allowed to play their own games.` (_Sleeper's Ban_)
+  - _Master Of Fire_, _Guardian Of The Circle_, _Ore Supplier_, _The Apprentice_, _Advanced Apprentice_, _The Wanderer_ 
 
 ## Alchemists Of Water
 - in the final game release known as `Water Mages`
