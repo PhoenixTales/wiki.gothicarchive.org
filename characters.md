@@ -166,7 +166,7 @@ title: Characters
 - can teach player advanced crossbow shooting
 
 ## The Invisible Man
-- `leader of the _Shadows_ known to almost no one` (design doc `NPCs per Guild`)
+- `leader of the Shadows known to almost no one` (design doc `NPCs per Guild`)
 
 ## Lee
 - initially he was serving as a guard in the king's court
@@ -266,7 +266,6 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - a _Shadow_ in the _Old Camp_ with ID `STT_300_RAVEN`
 - later changed into an _Ore Baron_ `EBR_105_Raven` 
 - he became _The Right Hand_ of _Gomez_, replacing removed `EBR_101 Rechte Hand`
-- leader of spies and assassins serving _Ore Barons_
 
 ## Rhobar II
 - `everything that his troops could not hold was razed to the ground`
