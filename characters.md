@@ -44,6 +44,11 @@ title: Characters
 - one of the miners, can be found in alpha _Old Camp_ under ID `VLK_517_CANTHAR`
 - later lost his name and became `VLK_517_BUDDLER`
 
+## The Contractor
+- German: `der Kontakter`
+- `recruits and teaches new Shadows` (design doc `NPCs per Guild`)
+- one of _Shadows Of Old Camp_
+
 ## Dailah The Iceskin
 - uses title `Creesh a Suul` (`Daughter of a Bear`), is also called "The Amazon"
 - `the first warrior of her people`
@@ -89,6 +94,11 @@ title: Characters
 ## Drago
 - _Mercenary Of Old Camp_, `SLD_203_DRAGO` in 0.64b alpha
 - later was made a _Fire Mage_, `KDF_403_Drago`
+
+## The Ear
+- German: `das Ohr`
+- `master spy, specializing in information gathering; Principal` (design doc `NPCs per Guild`)
+- the best _Spy_ of the _Shadows Of Old Camp_
 
 ## Earon Flamehand
 - very chill alpha Fire Mage with ID `KDF_400_EARON`
@@ -200,6 +210,10 @@ title: Characters
 - `armed with short sword and bow`, wears guru robes
 - `The other day I had to stand guard in front of the castle ruins while Mastermind met with one of the arch barons inside`
   - this is said by one of the _Sect Templars_ (`Inf_Tpl_VK`), suggesting that the _Mastermind_ is leader of the _Sect Gurus_ (later named `Y'Berion`)  
+
+## The Messenger
+- German: `Bote`
+- `guild errand boy` of the _Shadows Of Old Camp_ (design doc `NPCs per Guild`)
 
 ## Milten Plescott
 - `young drifter who keeps himself afloat with little trickery`
