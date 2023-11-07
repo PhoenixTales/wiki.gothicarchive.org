@@ -44,6 +44,11 @@ title: Characters
 - one of the miners, can be found in alpha _Old Camp_ under ID `VLK_517_CANTHAR`
 - later lost his name and became `VLK_517_BUDDLER`
 
+## The Captain Of Mercenaries Of Old Camp
+- German: `Söldnerhauptmann`
+- leads _Mercenaries Of Old Camp_ (`SLD`)
+- `really wants to become an Ore Baron` (design doc `NPCs per Guild`)
+
 ## The Contractor
 - German: `der Kontakter`
 - `recruits and teaches new Shadows` (design doc `NPCs per Guild`)
@@ -141,6 +146,11 @@ title: Characters
 - `Oh man, that Quicktongue is a crazy weirdo! Trying to steal our workhorses! Tststs! I'll give you some good advice. Stay away from his cult. I heard the gurus are gradually burning your mind out of your skull. It won't be long before Quicktongue wakes up with a knife in his back. (Harharhar!!!)`
 - `PLAYER: Hey, what's your job? GRIMFACE: I ensure that weirdos don't ask stupid questions around here. BUZZ OFF!!!!`
 
+## The Grinder
+- German: `Schleifer`
+- member of _Mercenaries Of Old Camp_ (`SLD`)
+- `merciless, sadistic trainer of the mercenaries` (design doc `NPCs per Guild`)
+
 ## Grunt
 - _Old Camp Mercenary_ removed in late alpha
 - `Ahhh, come over here and see if I can use some of your stuff!`
@@ -176,6 +186,7 @@ title: Characters
 - can teach player advanced crossbow shooting
 
 ## The Invisible Man
+- German: `Der Unsichtbare`
 - `leader of the Shadows known to almost no one` (design doc `NPCs per Guild`)
 
 ## Lee
@@ -200,6 +211,11 @@ title: Characters
 
 ## Lester
 - `freak`, `cracked`, drug user, amateur alchemist and psionic
+
+## The Lieutenant
+- German: `der Leutnant`
+- member of _Mercenaries Of Old Camp_ (`SLD`)
+- `arrogant unexperienced man in charge of all the guards` (design doc `NPCs per Guild`)
 
 ## Lord of Tymoris
 - high feudal lord of the realm containing _Royal Ore Mines_
@@ -248,6 +264,11 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 {
     name[0] = "Noname, the";
 ```
+
+## The One-Eyed
+- German: `der Einäugige`
+- member of _Mercenaries Of Old Camp_ (`SLD`)
+- `very experienced fighter who leads most of the "field missions" harshly but fairly` (design doc `NPCs per Guild`)
 
 ## The Prophet
 - `crazy street yeller, who tirelessly preaches nonsensical teachings` (design doc `NPCs per Guild`)
@@ -300,9 +321,12 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - judging by look and _New Camp_ allegiance, may correspond to removed alpha NPC `SFB_1015_OLDMAN`
 
 ## Scatty The Arena Master
-- offers quest `Arena Betting` and facilitates player's participation in arena fights
+- German: `Arenameister`
+- `manages the arena fights and beting` (design doc `NPCs per Guild`)
+- `corrupt and devious` (design doc `NPCs per Guild`)
+- offers quest `Arena Betting` and `Arena Championship`
 - internal comment in the script of `Arena Betting` quest calls him a `sneaky cheater`
-  - it seems that he suggests player to place a bet on a weak participant (the `Blade Fodder`), making player loose the bet
+  - he suggests player to place a bet on a weak participant (the `Blade Fodder`), purposefully making him loose
 
 ## Sharpblade
 - _Old Camp_ guard in alpha 0.56
