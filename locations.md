@@ -42,6 +42,8 @@ title: Locations
   - `Inf_Mst_FM` from 0.56c alpha
 - `The Free Mine is said to contain a passage into deeper, unexplored caves.` (`Inf_Nov_FM`)
 - `beware of the lower level, there are all sorts of creatures hanging around there` (`Inf_Org_FM`)
+  - the _Minecrawler Queen_ nest was supposed to be there
+- in the final release, meshes of the _Old Mine_ and the _Free Mine_ were swapped
 
 ## Mountain Fortress
 - added late in development
@@ -87,6 +89,8 @@ title: Locations
 ## Old Mine
 - referred by two codenames: `OM` and `AM` (German: `Alte Mine`)
 - controlled by _Old Camp_
+- in the final release, meshes of the _Old Mine_ and the _Free Mine_ were swapped
+  - that's why nest of _Minecrawler Queen_ ended here, even though "the monsters on the lower levels" were planned for _Free Mine_
 
 ## Royal Ore Mines
 - a prison colony in the mountains, containing deposits of iron and _Magic Ore_
