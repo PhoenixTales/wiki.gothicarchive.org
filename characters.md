@@ -227,6 +227,11 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
     name[0] = "Noname, the";
 ```
 
+## The Prophet
+- `crazy street yeller, who tirelessly preaches nonsensical teachings` (design doc `NPCs per Guild`)
+- `in reality spy for the Rogues` (design doc `NPCs per Guild`)
+- lives in the _Old Camp_, without proper guild, counted as one of _The People Of Old Camp_ (`VLK`)
+
 ## Quicktongue
 - sect novice, `stands in the Old Camp's marketplace during the day and tries to recruit people for the sect`
 - removed in late alpha
