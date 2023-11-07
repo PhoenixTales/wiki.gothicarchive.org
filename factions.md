@@ -115,6 +115,7 @@ title: Factions
 - known as `die Recken` in German version of _Sleeper's Ban_, and as `Die Garde` (`GRD`) in alpha builds
 - protect _Alchemists of Water_, farmers living in _New Camp_ and _Miner's Association_ of _Free Camp_
   - `The miners from the Free Camp need our protection and we need their ore.` (`Inf_Grd_FL`)
+- 4 of them are bodyguards of _Lee_, `with healing ability; absolutely loyal` (design doc `NPCs per Guild`)
 
 ## Removed Pre-Alpha Guards
 - German: `Der Waechter` / `WCH`
@@ -289,5 +290,9 @@ title: Factions
   - `his stepbrother, the man who came into the family through his father's second marriage and envied him from the start the position of heir.`
 
 ## Trappers
-- hunt by setting up traps (and very likely with bows as well)
+- hunt in forests and caves by bow and setting up traps
+- have the `best archer in the whole prison` and many with `with modest bow/trap skills`
 - known in alpha builds as `Die Fallensteller` (`FLL`)
+- there are around 20 of them: _The Chief_, _Hawkeye_, _Cave Horror_, _The Trapper_, _Hunters_, _Miners_, _Runners_
+- their _Hunters_ losely correspond to _Hunters Of New Camp_ from the release version (_Aidan_, _Ratford_ and _Drax_)
+
