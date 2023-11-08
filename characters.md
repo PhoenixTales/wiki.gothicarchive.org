@@ -61,6 +61,10 @@ title: Characters
 - `VLK_50_FoeStoleFromEBr`: `Isn't the leader great and wise ?`
 - his two cloest confidants and bodyguards are _Ore Barons_ _The Left Hand_ and _The Right Hand_
 
+## The Bigmouth
+- German: `das Plappermaul`
+- `Unusually eloquent novice; Star Recruiter; therefore very respected by most gurus` (design doc `NPCs per Guild`)
+
 ## Burgrave Bergmar
 - comes from _Western Field_
 - owner of _Mountain Fortress_
@@ -281,6 +285,11 @@ title: Characters
 - _Fire Mage_ removed in late alpha
 - had an apprentice, who was killed in _Troll Canyon Ravine_
 - sends player to finish the quest of the dead apprentice and bring him a _Devil Mushroom_
+
+## The House Steward Of Sect Camp
+- one of the _Novices_
+- `the internal 'party service' of the temple` (design doc `NPCs per Guild`)
+- `prepares orgies and other celebrations together with some temple servants` (design doc `NPCs per Guild`)
 
 ## Hunter
 - appears in 1.01d alpha as `GRD_207_Hunter`
