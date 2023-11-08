@@ -240,7 +240,7 @@ title: Factions
 
 ### The Novices
 - originally called `Temple Servants` (German: `Tempeldiener`)
-- 15 people: _The Initiate_, _The Explorer_, 
+- 15 people: _The Initiate_, _The Explorer_, _The  Bigmouth_, _Recruiters_, _The House Steward_
 
 ## Royal Army
 - army is led by generals that are also king's trusted advisors
