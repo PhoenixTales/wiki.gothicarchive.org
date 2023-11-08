@@ -39,6 +39,7 @@ This group exists only based on texture information. It contradicts both early a
   - later moved to _Fire_ type
 - Turn Into Animal
   - color code yellow
+  - in game it is associated with forgotten deity worshipped by former _Monks Of Monastery On The Cliff_
   - later moved to _Fire_ type
 - Stop Time
   - according to 0.56c, doesn't belong to Fire nor Water nor Darkness nor Psionic
