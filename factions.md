@@ -269,6 +269,7 @@ title: Factions
 
 ### Assassins
 - German: `Meuchler`
+- also called `Scorpions`, the stings of the baron (_Sleeper's Ban_)
 - `capable Shadows for routine work` (design doc `NPCs per Guild`)
 - 4 of them live in _Old Camp_
 
