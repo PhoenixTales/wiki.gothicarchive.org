@@ -93,6 +93,7 @@ This group exists only based on texture information. It contradicts both early a
 - Storm Fist
   - advanced version of _Wind Fist_
 - Forget / Befuddle
+  - probably the same as Confusion (German: `Verwirrung`) mentioned in doc `NPCs per guild`
 - Fear
 - Charm / Friendship
   - German: `Freundlich Stimmen`
@@ -102,6 +103,8 @@ This group exists only based on texture information. It contradicts both early a
 - Dance (?)
 - Rage
   - German: `Berzerk` or `Raserei`
+- Chaos
+  - only mentioned in design doc `NPCs per guild`
 
 ### Transform Into
 - ... Bloodfly
