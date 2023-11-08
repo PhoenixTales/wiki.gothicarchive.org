@@ -186,7 +186,12 @@ title: Characters
   - `KDF_40_NSCAPlayMusic`: `Just to recreate my mana`
 - plays dice
   - `KDF_40_RTPlayDice`: `Roll, roll, roll my dice.`
- 
+
+## The Explorer
+- German: `der Forscher`
+- `Well-traveled, strong novice who mostly searches undergrounds for ways to the Ancient Temple of The Being` (design doc `NPCs per Guild`)
+- `friend of the Templar "Lucky Hand"` (design doc `NPCs per Guild`)
+
 ## Foreign Minister
 - one of _Ore Barons_
 - `leads espionage/intrigues against other camps` (design doc `NPCs per Guild`)
@@ -286,8 +291,14 @@ title: Characters
 - had an apprentice, who was killed in _Troll Canyon Ravine_
 - sends player to finish the quest of the dead apprentice and bring him a _Devil Mushroom_
 
+## The Honorable Templar
+- `der Ehrenwerte`
+- `the most experienced Templar; extremely dangerous fighter` (design doc `NPCs per Guild`)
+- `is already getting old` (design doc `NPCs per Guild`)
+
 ## The House Steward Of Sect Camp
-- one of the _Novices_
+- German: `Haushofmeister`
+- one of the _Novices_ of _The Sect_
 - `the internal 'party service' of the temple` (design doc `NPCs per Guild`)
 - `prepares orgies and other celebrations together with some temple servants` (design doc `NPCs per Guild`)
 
@@ -295,6 +306,12 @@ title: Characters
 - appears in 1.01d alpha as `GRD_207_Hunter`
 - completely removed from the final release
 - can teach player advanced crossbow shooting
+
+## The Initiate
+- German: `der Eingeweihte`
+- member of _The Sect_
+- `highest novice & candidate for the guruship` (design doc `NPCs per Guild`)
+- `lives a little apart on the edge of the temple and prepares for the ascent` (design doc `NPCs per Guild`)
 
 ## The Invisible Man
 - German: `Der Unsichtbare`
@@ -358,6 +375,12 @@ title: Characters
 
 ## Lord of Tymoris
 - high feudal lord of the realm containing _Royal Ore Mines_
+
+## The Lucky Hand
+- German: `die Glückshand`
+- _Templar_ of _The Sect_
+- `dungeon explorer` (design doc `NPCs per Guild`)
+- `Friend and comrade of the novice "The Explorer` (design doc `NPCs per Guild`)
 
 ## The Merciless
 - German: `der Gnadenlose`
