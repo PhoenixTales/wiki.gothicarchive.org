@@ -166,6 +166,7 @@ title: Factions
   - _Organisers_ (`"Workhorses"; do the routine errands`) (design doc `NPCs per Guild`)
   - _Vagabonds_ (German: `Die Herumtreiber`) (`are assigned to simple tasks; still in training`) (design doc `NPCs per Guild`)
   - _Bouncers_ (German: `Tuersteher`) (decide who enters the lake tavern)
+  - _Thugs_ (German: `Schlaeger`) (in the final release work for the _Rice Lord_)
 - 10 people: _The Head_, _The Specialist_, _The Uncaught_, _Organisers_, _Vagabonds_, _The Prophet_
 
 ## Orc-hunters
@@ -243,9 +244,9 @@ title: Factions
 - also known as _Quentin's Gang_
 - according to early version of the story, they used be part of _The Organisation_, but were expelled or left
 - subgroups:
-  - _Thugs_ (German: `Schlaeger`)
   - _Robbers_ (German: `Raeuber`)
   - _Blackmailers_ (German: `Erpresser`)
+  - _Stooges_ ("illegally" prepare _Sect's Drugs_ in a cave, threatened retreat to _Quentin's Camp)
 
 ## Royal Army
 - army is led by generals that are also king's trusted advisors
