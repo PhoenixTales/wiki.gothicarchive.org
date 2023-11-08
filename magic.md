@@ -26,12 +26,14 @@ title: Magic
 - `Many have learnt the language of the runes, but only very few understand their magic.`
 
 ## Spells
-Spells can categorized in a few ways: based on in-game books, based on comments in the game scripts or based on texture of the scroll or runestone. If in doubt, compare textures `OtWaMask{Fire|Water|Moon|Sun}.tga` with `ItAr_Scrolls.tga` and `ItArRunes.tga`. Red means `fire`, blue means `water`, purple means `darkness`, yellow means `sun`, green means psionic. Categorization below is a hybrid of these approaches attempting to reconstruct a consistent early design from time before _Ra_ and his element, _Sun_, were removed from the lore.
+Spells can categorized in a few ways: based on in-game books, based on design docs, based on comments in the game scripts or based on texture of the scroll or runestone. These sources do not fully agree with each other.
 
 ### Sun
+This group exists only based on texture information. It contradicts both early and late design docs, but is included here as it corresponds to major deity, _Ra_, who is still mentioned in the _Comic_, but is never mentioned in game.
+
 - Heal
   - color code yellow
-  - later moved to _Water_ type
+  - already in the early docs associated with _Water_ type, with most of _Water Mages_ called _healers_
 - Light
   - color code yellow
   - later moved to _Fire_ type
