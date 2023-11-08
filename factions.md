@@ -81,6 +81,7 @@ title: Factions
 - `completely insane or permanently on the edge of insanity` (design doc `NPCs per Guild`)
 - `rejects of The Sect who were "disposed" in the Old Camp` (design doc `NPCs per Guild`)
   - they were made insane by psionic spells in punishment by _The Lobotomist_, with help of his magic artefact
+  - this effect appears similar to, but less strong than, the effect of staying too long at the edge of _Magic Barrier_
 - 3 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
 ### Tinkerers
