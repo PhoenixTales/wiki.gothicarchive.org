@@ -22,17 +22,6 @@ title: Factions
   - `they brew their potions with the ore and spoil it so that it can no longer be used; and this brew has so far not harmed the barrier`  (_Sleeper's Ban_)
 - dominate the _New Camp_, _Lee_ is jealous about that (design doc `NPCs per Guild`)
 
-## Army
-- army is led by generals that are also king's trusted advisors
-  - `King (...) left his generals to deal with the few remaining enemy troops`
-- special assignments like escorting _Royal Judges_ are done by _Royal Guard_ in gold-themed armors
-- there's a fleet of _Royal Warships_
-  - `I was involved in a mutiny as mate of a royal warship.`
-  - `The King's Armada sank ship after ship`
-- army service is mandatory 
- - `all the others that were forced by the king to fight in the war against the orcs` (_Milten_ in Gothic I comic)
-- _Myrtana_ wins battles thanks to `the interplay of army and magic`
-
 ## City Watch
 - guard city of _Khorinis_
 - distinct from _Royal Guard_
@@ -247,11 +236,22 @@ title: Factions
 - `We take good care of our people, in the Old Camp there is only oppression` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 - when _Gurus_ want to get rid of someone, _The Lobotomist_ drives them permanently insane with his psionic spells, and they end up as _The Burnouts_ in the _Old Camp_
 
+## Royal Army
+- army is led by generals that are also king's trusted advisors
+  - `King (...) left his generals to deal with the few remaining enemy troops`
+- there's a fleet of _Royal Warships_
+  - `I was involved in a mutiny as mate of a royal warship.`
+  - `The King's Armada sank ship after ship`
+- army service is mandatory 
+ - `all the others that were forced by the king to fight in the war against the orcs` (_Milten_ in Gothic I comic)
+- _Myrtana_ wins battles thanks to `the interplay of army and magic`
+
 ## Royal Guard
 - escort the main character during his sentencing
 - appear in game scripts as `CS_ESKORTE1-6`
-- wear gold-themed armors using the same 3d model as prison guard armors (which became armors of _Old Camp Mercenaries_)
-- in commented-out scripts use two-handed swords and crossbows
+- wear gold-themed armors
+- use two-handed swords and crossbows (source: their commented-out scripts)
+- appear to be get important assignments like overseeing the _Khorinis Ore Mines_ and/or escorting _Royal Judges_ there
 
 ## Shadows Of The Old Camp
 - secretive spies and assassins working for _Ore Barons_
