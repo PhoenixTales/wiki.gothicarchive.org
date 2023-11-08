@@ -119,7 +119,7 @@ This group exists only based on texture information. It contradicts both early a
 - ... Razor
 - ... Scavenger
 - ... Scavenger2 (?)
-- ... Shadowbeast
+- ... Shadowbeast (in early builds called `Transform into Shadow Walker`)
 - ... Snapper
 - ... Waran
 - ... Wolf
