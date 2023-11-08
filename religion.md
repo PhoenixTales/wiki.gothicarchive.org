@@ -45,6 +45,7 @@ title: Religion
 - as suggested by `OtWaMaskMoon.tga`, symbolized by crescent moon on dark purple
 
 ## Arch demon Sleeper
+- in early design docs mentioned as `The Being` (German: `der Wesenheit`) (see `NPCs per guild`)
 - `The Sleeper(...)has been sleeping for a thousand years, but now the moment of his awakening is near.`
 - `He has chosen us to be witnesses to his awakening and to spread his word. So listen, all those who join the Sleeper will have immortal souls, but those who are against him will be punished.`
 - there are 7 arch demons in total, that fight between each other for dominance
