@@ -29,6 +29,16 @@ title: Orcs
   - `the orcs don't react to my magic spells like the gullible people in the Old Camp do` (Baal Lukor, G1-final)
 - orcs can learn human language, and humans can learn orcish language
   - this skill is no longer available to player in the final release of the game
+- originally they were supposed to be named differently than `orcs`, but a suitable name was never invented (citation needed)
+
+## Morlocks
+- removed pre-alpha guild, already in 0.56 alpha mentioned as `GIL_MRL = 17; // (gibt es nicht mehr)` (`no longer used`)
+- was on the list of human guilds, separate from `GIL_ORC = 21` which is on the list of monster guilds
+  - later numbers were rearranged, so that we got `GIL_ORC = 17` on that position
+- according to design docs, they were half orcs (citation needed)
+- in the earliest map sketch, were supposed to live in a deep forest behind the _Sect Camp_
+  - later this forest camp was removed, and instead they were living among humans in other camps
+- name `morlock` comes from fictional underground orc-like species in public domain 1895 novel `The Time Machine`
 
 ## Orc language
 - Krotahk : Flame Tongue (source: `DIA_FREEMINEORC`)
