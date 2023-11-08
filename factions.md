@@ -168,14 +168,6 @@ title: Factions
   - _Bouncers_ (German: `Tuersteher`) (decide who enters the lake tavern)
 - 10 people: _The Head_, _The Specialist_, _The Uncaught_, _Organisers_, _Vagabonds_, _The Prophet_
 
-## The Rogues
-- also known as _Quentin's Gang_
-- according to early version of the story, they used be part of _The Organisation_, but were expelled or left
-- subgroups:
-  - _Thugs_ (German: `Schlaeger`)
-  - _Robbers_ (German: `Raeuber`)
-  - _Blackmailers_ (German: `Erpresser`)
-
 ## Orc-hunters
 - mentioned as `Ork-Jäger` by _Milten_ in 1.01d alpha dialogue `Info_Milten_SHTESTSEAL_02_06`
 - members of _Old Camp_ who were hunting orcs, until they became victims of a curse that turned them into undead and imprisoned under _Stone Circle Of The Damned_
@@ -246,6 +238,14 @@ title: Factions
 ### The Novices
 - originally called `Temple Servants` (German: `Tempeldiener`)
 - 15 people: _The Initiate_, _The Explorer_, _The  Bigmouth_, _Recruiters_, _The House Steward_
+
+## The Rogues
+- also known as _Quentin's Gang_
+- according to early version of the story, they used be part of _The Organisation_, but were expelled or left
+- subgroups:
+  - _Thugs_ (German: `Schlaeger`)
+  - _Robbers_ (German: `Raeuber`)
+  - _Blackmailers_ (German: `Erpresser`)
 
 ## Royal Army
 - army is led by generals that are also king's trusted advisors
