@@ -454,6 +454,12 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - technically a farmer (`BAU`)
 - judging by look and _New Camp_ allegiance, may correspond to removed alpha NPC `SFB_1015_OLDMAN`
 
+## Rogue-Specialist
+- German: `der Spezialist der Organisatoren`
+- `organizes the really tricky things` (design doc `NPCs per Guild`)
+- `Master thief, very cunning and clever` (design doc `NPCs per Guild`)
+- `dishonest & deceitful; regularly betrays his guild, but is never caught` (design doc `NPCs per Guild`)
+
 ## Saturas, Master Of Water
 - German: `Meister des Wassers`
 - leader of _Alchemists Of Water_ (design doc `NPCs per Guild`)
@@ -504,12 +510,6 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `seems to practically smell ore veins` (design doc `NPCs per Guild`)
 - `Every now and then he disappears into the mines for a few days and then sets a new direction for drilling` (design doc `NPCs per Guild`)
 - `knows ALL secret passages and hiding places in the mines and orc caves` (design doc `NPCs per Guild`)
-
-## Rogue-Specialist
-- German: `der Spezialist der Organisatoren`
-- `organizes the really tricky things` (design doc `NPCs per Guild`)
-- `Master thief, very cunning and clever` (design doc `NPCs per Guild`)
-- `dishonest & deceitful; regularly betrays his guild, but is never caught` (design doc `NPCs per Guild`)
 
 ## Stomp
 - in the final release known as `The Nameless One`
