@@ -158,16 +158,23 @@ title: Factions
 - known ranks of nobility: `king`, `lord`, `burgrave`, possibly `baron`
   - `ore barons` likely based their title on a title used outside of the barrier rather than inventing it from scratch
 
-## Rogues
-- German: `Organisator` (`ORG`)
-- free criminals living in _New Camp_, mostly robbing _Old Camp_ and it's members
+## The Organisation Of New Camp
+- German: `Organisatoren` (`ORG`)
+- criminals sharing the _New Camp_ with _Guardians Of New Camp_ and _Alchemists Of Water_
+- mostly rob _Old Camp_ members and convoys
+- subgroups:
+  - _Organisers_ (`"Workhorses"; do the routine errands`) (design doc `NPCs per Guild`)
+  - _Vagabonds_ (German: `Die Herumtreiber`) (`are assigned to simple tasks; still in training`) (design doc `NPCs per Guild`)
+  - _Bouncers_ (German: `Tuersteher`) (decide who enters the lake tavern)
+- 10 people: _The Head_, _The Specialist_, _The Uncaught_, _Organisers_, _Vagabonds_, _The Prophet_
+
+## The Rogues
+- also known as _Quentin's Gang_
+- according to early version of the story, they used be part of _The Organisation_, but were expelled or left
 - subgroups:
   - _Thugs_ (German: `Schlaeger`)
   - _Robbers_ (German: `Raeuber`)
-  - _Bouncers_ (German: `Tuersteher`)
   - _Blackmailers_ (German: `Erpresser`)
-  - _Vagabonds_ (German: `Die Herumtreiber`) (`are assigned to simple tasks; still in training`) (design doc `NPCs per Guild`)
-- 10 people: _The Head_, _The Specialist_, _The Uncaught_, _Rogues_, _Vagabonds_, _The Prophet_
 
 ## Orc-hunters
 - mentioned as `Ork-Jäger` by _Milten_ in 1.01d alpha dialogue `Info_Milten_SHTESTSEAL_02_06`
