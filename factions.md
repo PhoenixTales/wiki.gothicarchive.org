@@ -43,28 +43,16 @@ title: Factions
 - probably some subset of Sect Templars
 - there's mention of _Crusade_ (`Kreuzzug`)
 
-## Diggers
-- miners of the _Old Camp_
-- disdainfully called `work horses` or `working animals` by other camp members
-  - `KDF_40_FoeKilledDigger`: `Hey, nobody gets away with killing our working animals`
-  - `OU_NPCS_DEMO3_SLD_GRIMFACE_225`: `Trying to outright talk us into giving up our workhorses` (German: `Versucht doch glatt uns unsere Arbeitstiere abzuschwatzen`)
+## The People Of Old Camp
 - German: `Das Volk` (`VLK`)
-- in original English translation of the early alpha translated in one place as `normal people`
-  - `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
-  - `Das Volk` indead means literally `The Poeple` in German rather than `Diggers`, but parts of that original alpha translation are done rather poorly and this wording may be unintentional
-  - all other places of the same build translate it as `diggers`
-  - `SLD_20_FriendDefeatedByVlk`: `A digger has beaten you up`
-  - `KDF_40_FriendDefeatedByVlk`: `You defeated by one of those stupid diggers?`
-  - there's also a script comment making clear that `Volk` and `Diggers` (German: `Buddler`) are the same: `GIL_VLK = 5; // Volk/Buddler`
-- some diggers are also called `moles` (e.g. `VLK_MOLE_01-VLK_MOLE_10`)
-- named alpha diggers: `Crumb`, `Dumb`, `Numb`, `Sira`, `Nimblefinger`
-  - `Nimblefinger` is officially a digger, but actually earns by trading stolen goods
-  - `Crumb`, `Dumb` and `Numb` spend their time listening to preaching of `Quicktongue`
- 
-### The People Of Old Camp
-- TODO: this is a temporary section until it's clear if it should be merged or separated from diggers
 - `Not an actual guild, rather a collection of all NPCs in the Old Camp that don't belong to any "proper" guild` (design doc `NPCs per Guild`)
 - around 50 people: includes _Beggars_, _Dayworkers_, _Crooks_, _Traders_, _Thugs_, _Burnouts_, _Tinkerers_
+- in original English translation of the early alpha translated in one place as `normal people`
+  - `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
+- early in the development they were merged with _Slave Diggers_ (`GIL_VLK = 5; // Volk/Buddler`)
+- named alpha members: `Crumb`, `Dumb`, `Numb`, `Sira`, `Nimblefinger`
+  - `Nimblefinger` is officially a _Slave Digger_, but actually earns by trading stolen goods
+  - `Crumb`, `Dumb` and `Numb` spend their time listening to preaching of `Quicktongue`
 
 ### Beggards
 - German: `Bettler`
@@ -162,6 +150,7 @@ title: Factions
 
 ## Miner's Association
 - German: `Der Schürferbund` (`SFB`)
+- they are working in their mine voluntarily and keep most of what they dig, as opposed to _Slave Diggers_ of _Old Camp_
 - in the final game release, translated as `scrapers` (`NAME_Schuerfer = "Scraper"`)
 - work at _Free Mine_ and live at _Free Camp_
 - `A whole pack of unruly miners has settled in the Free Camp.`
@@ -256,6 +245,7 @@ title: Factions
 - `When was the last time you got a woman? If you join us, you'll get women as well.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 - `Have you had a decent meal recently? See, nobody is hungry in our sect.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 - `We take good care of our people, in the Old Camp there is only oppression` (`Quicktongue_ProcessNpc` / 0.56c alpha)
+- when _Gurus_ want to get rid of someone, _The Lobotomist_ drives them permanently insane with his psionic spells, and they end up as _The Burnouts_ in the _Old Camp_
 
 ## Royal Guard
 - escort the main character during his sentencing
@@ -280,6 +270,13 @@ title: Factions
 - German: `Spione` and `Spitzel`
 - they work undercover and pretend to be normal members of all the camps, including _Old Camp_
 - 4 of them live in _Old Camp_, 1 in _New Camp_, 1 in _Free Camp_ and 1 in _Sect Camp_ (design doc `NPCs per Guild`)
+
+## Slave Diggers
+- miners of the _Old Camp_
+- they are forced to work in their mine and can only keep a fraction of what they dig, as opposed to members of _Miner's Association_ of _Free Camp_
+- disdainfully called `work horses` or `working animals` by other _Old Camp_ members
+  - `KDF_40_FoeKilledDigger`: `Hey, nobody gets away with killing our working animals`
+  - `OU_NPCS_DEMO3_SLD_GRIMFACE_225`: `Trying to outright talk us into giving up our workhorses` (German: `Versucht doch glatt uns unsere Arbeitstiere abzuschwatzen`)
 
 ## Stomp's Family
 - only mentioned in _Sleeper's Ban_
