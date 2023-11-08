@@ -249,7 +249,7 @@ title: Factions
   - _Stooges_ ("illegally" prepare _Sect's Drugs_ in a cave, threatened retreat to _Quentin's Camp_)
 
 ## Royal Army
-- army is led by generals that are also king's trusted advisors
+- army is led by generals who are also king's trusted advisors
   - `King (...) left his generals to deal with the few remaining enemy troops`
 - there's a fleet of _Royal Warships_
   - `I was involved in a mutiny as mate of a royal warship.`
