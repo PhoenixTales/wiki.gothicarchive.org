@@ -87,10 +87,7 @@ title: Items
 - all 3 of them have it copy-pasted to be 20 in-game minutes (`brightness = 20 * 60; // 20 Minuten Brenndauer`)
 
 ## Magic Ore
-- `ore nuggets -> powder = reagents`
-  - German: `Erznuggets -> Pulver = Reagenzien` (design doc `NPCs per Guild`)
-- _Magic Ore_ powder is the main ingredient of both _Sruup_ and _Mana Potion_
-- violently explodes when hit with a _Fireball_, a bag is able to destroy a large tower 
+- see _Magic_
 
 ## Magic Ore Armor
 - `ore armor (...) belonged to the general who wielded URIZIEL in the battle against the Orcs.`
@@ -148,6 +145,9 @@ title: Items
   - the only other item affecting this attribute is `Holy Water`, increasing it by 10
 - there is a related mission, _Bring Psi Potion_ (`I urgently need a PSI vial`)
 - `There isn't much to pick up in the cult camp other than mountains of drug vials` (`Inf_Org_SL`)
+
+## Rune Stones
+- see _Magic_
 
 ## Rune Sword
 - appears in alpha builds
