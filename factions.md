@@ -246,7 +246,7 @@ title: Factions
 - subgroups:
   - _Robbers_ (German: `Raeuber`)
   - _Blackmailers_ (German: `Erpresser`)
-  - _Stooges_ ("illegally" prepare _Sect's Drugs_ in a cave, threatened retreat to _Quentin's Camp)
+  - _Stooges_ ("illegally" prepare _Sect's Drugs_ in a cave, threatened retreat to _Quentin's Camp_)
 
 ## Royal Army
 - army is led by generals that are also king's trusted advisors
