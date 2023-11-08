@@ -597,6 +597,12 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - one of _Ore Barons_
 - briefly mentioned in design doc `NPCs per Guild`
 
+## The Terminator
+- one of _Templars Of The Sect_
+- `"executioner" and representative for other unpleasant jobs` (design doc `NPCs per Guild`)
+- `best psionic mage among the Templars` (design doc `NPCs per Guild`)
+- `also does 'external jobs'`
+
 ## Treasurer Of Ore Barons
 - German: `Schatzmeister`
 - one of _Ore Barons_
