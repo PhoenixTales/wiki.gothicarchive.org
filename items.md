@@ -28,6 +28,11 @@ title: Items
 - `Magical Amulet against WS in order to get closer than 10m to the Barrier, without becoming insanse`
   - from early design docs
 
+## Artefact Of Insanity
+- German: `ein magische Artefakt`
+- owned and used by _The Lobotomizer_, guru of _The Sect_
+- `his spells "Confusion" and "Chaos" are so strong thanks to a Magical Artifact that he can permanently drive people insane` (design doc `NPCs per guild`)
+
 ## Extra Large Organiser Armor
 - item with ID `ORG_ARMOR_XL` in 1.01d alpha
 
