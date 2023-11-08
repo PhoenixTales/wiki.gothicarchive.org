@@ -154,4 +154,11 @@ title: Missions
 - escort _The Wanderer_ exploring some dungeons
 - mission briefly mentioned in design doc `NPCs per Guild`
 
+## Get Drugs For The Initiate
+- mission briefly mentioned in design doc `NPCs per Guild`
+- _The Initiate_ is a _Novice_ almost ready to become a _Guru_
+- he needs `drugs and other things` for his `ascension`
 
+## Something For The Orgy
+- mission briefly mentioned in design doc `NPCs per Guild`
+- _The House Steward_ organises orgies in the _Sect Camp_ and needs you to arrange something for him
