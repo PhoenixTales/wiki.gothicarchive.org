@@ -26,10 +26,6 @@ title: Characters
 - `general who wielded URIZIEL in the battle against the Orc` (G1-final / DIA_KDF_404_Xardas.d)
 - `the Orcs took it from a powerful warlord`
 
-## Angar
-- _Mercenary Of Old Camp_, `SLD_202_ANGAR` in 0.64b alpha
-- later was moved to _The Sect_ camp and became `GUR_1202_CorAngar`, leader of the _Templars_
-
 ## Apprentice of Fire Mages
 - German: `der Lehrling`
 - less experienced of two novice _Fire Mages_, removed in late alpha
@@ -98,6 +94,12 @@ title: Characters
 - German: `der Kontakter`
 - `recruits and teaches new Shadows` (design doc `NPCs per Guild`)
 - one of _Shadows Of Old Camp_
+
+## Cor Angar, the Avenger
+- in 0.64b alpha name `Angar` is used for a _Mercenary Of Old Camp_, `SLD_202_ANGAR`
+- `a former Templar who became a guru; takes care of the Templars` (design doc `NPCs per Guild`)
+- `teaches player character Templar psionic magic and weapons` (design doc `NPCs per Guild`)
+- in the final game he's a Templar rather than a Guru, but still counted among the leadership of the camp 
 
 ## Cor Kalom, The Mastermind
 - described as `instructor` (alpha build) and `the teacher of all gurus` (design doc `NPCs per Guild`)
@@ -342,6 +344,7 @@ title: Characters
 - `thanks to a magical artifact his spells "Confusion" and "Chaos" are so strong that he can drive people permanently insane`
   - these people end up as `the Burnouts in the Old Camp`
   - source: design doc `NPCs per Guild`
+  - this effect appears similar to, but less strong than, the effect of staying too long at the edge of _Magic Barrier_
 - `he is absolutely loyal to the Enlightened One` (design doc `NPCs per Guild`)
 
 ## Lord of Tymoris
@@ -397,6 +400,11 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 {
     name[0] = "Noname, the";
 ```
+
+## The Master Of Novices
+- guru of _Sect Camp_
+- `looks after and teaches the Novices` (design doc `NPCs per Guild`)
+- `contractor and teacher for the Sect Camp Novices` (design doc `NPCs per Guild`)
 
 ## The One-Eyed
 - German: `der Einäugige`
