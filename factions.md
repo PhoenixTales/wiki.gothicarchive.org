@@ -238,6 +238,10 @@ title: Factions
 - `We take good care of our people, in the Old Camp there is only oppression` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 - when _Gurus_ want to get rid of someone, _The Lobotomist_ drives them permanently insane with his psionic spells, and they end up as _The Burnouts_ in the _Old Camp_
 
+### The Novices
+- originally called `Temple Servants` (German: `Tempeldiener`)
+- 15 people: _The Initiate_, _The Explorer_, 
+
 ## Royal Army
 - army is led by generals that are also king's trusted advisors
   - `King (...) left his generals to deal with the few remaining enemy troops`
