@@ -190,19 +190,24 @@ title: Factions
 - one of them always joins the _Convoy To Exchange Place_
   - `The convoys that come from the Exchange Place are swarming with mercenaries. Even an Ore Baron is always there` (`Inf_Grd_HP`)
 - there are three _Mercenaries Of Old Camp_ (`SLD`) bodyguarding them (`SLD_BARONSGUARDN1-3`)
-- alpha versions contain 5 of them:
-  - _Big Boss_ (`EBR_100`)
-  - _Right Hand_ (`EBR_101`/`Rechte Hand`)
-  - _Left Hand_ (`EBR_102`/`Linke Hand`)
-  - _Grey Baron_ (`EBR_103`/`Grauer Baron`)
-  - _Foreign Minister_ (`EBR_104`/`Aussenminister`)
-- design doc `NPCs per Guild` lists 6 more and omits the _Gray Baron_
+
+- design doc `NPCs per Guild` lists 10 of them 6 more and omits the _Gray Baron_
+  - _Big Boss_
+  - _Right Hand_
+  - _Left Hand_
+  - _Foreign Minister_
   - _Treasurer_
   - _Teacher_
   - _Baron Of Mercenaries_
   - _Young Baron_
   - _Caravan Leader_
   - _Shadow Baron_
+- alpha version of the game contains only 4 of them, but adds _Grey Baron_ (which may be a changed name of one of the others):
+  - `EBR_100`/`Big Boss`
+  - `EBR_101`/`Rechte Hand`
+  - `EBR_102`/`Linke Hand`
+  - `EBR_103`/`Grauer Baron`
+  - `EBR_104`/`Aussenminister`
 
 ## Peasants
 - German: `Die Bauern` (`BAU`) (can be also translated as `farmers`)
