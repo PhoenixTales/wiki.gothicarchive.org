@@ -99,6 +99,14 @@ title: Characters
 - `recruits and teaches new Shadows` (design doc `NPCs per Guild`)
 - one of _Shadows Of Old Camp_
 
+## Cor Kalom, The Mastermind
+- described as `instructor` (alpha build) and `the teacher of all gurus` (design doc `NPCs per Guild`)
+- in early alpha build `armed with short sword and bow`, wears guru robes
+- `masters all psionic spells` (design doc `NPCs per Guild`)
+- in `slight rivalry with The Enlightened One` (_Y'Berion_, leader of their camp) (design doc `NPCs per Guild`)
+- `The other day I had to stand guard in front of the castle ruins while Mastermind met with one of the arch barons inside`
+  - this is said by one of the _Sect Templars_ (`Inf_Tpl_VK`)
+
 ## Corristo, Master Of Fire
 - German: `Meister des Feuers`
 - leader of _Alchemists Of Fire_ (design doc `NPCs per Guild`)
@@ -329,15 +337,15 @@ title: Characters
 - member of _Mercenaries Of Old Camp_ (`SLD`)
 - `arrogant unexperienced man in charge of all the guards` (design doc `NPCs per Guild`)
 
+## The Lobotomist
+- `powerful guru who specializes in punishing people's minds` (design doc `NPCs per Guild`)
+- `thanks to a magical artifact his spells "Confusion" and "Chaos" are so strong that he can drive people permanently insane`
+  - these people end up as `the Burnouts in the Old Camp`
+  - source: design doc `NPCs per Guild`
+- `he is absolutely loyal to the Enlightened One` (design doc `NPCs per Guild`)
+
 ## Lord of Tymoris
 - high feudal lord of the realm containing _Royal Ore Mines_
-
-## Mastermind
-- in 0.56 alpha build, set as an owner of a wooden stool
-- described as `instructor`
-- `armed with short sword and bow`, wears guru robes
-- `The other day I had to stand guard in front of the castle ruins while Mastermind met with one of the arch barons inside`
-  - this is said by one of the _Sect Templars_ (`Inf_Tpl_VK`), suggesting that the _Mastermind_ is leader of the _Sect Gurus_ (later named `Y'Berion`)  
 
 ## The Merciless
 - German: `der Gnadenlose`
