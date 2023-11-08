@@ -152,13 +152,6 @@ title: Factions
   - they use the same _Exchange Place_ as _Old Camp Mercenaries_, who are aggressive about this
   - `Escorting the hunters' association to the trading center is usually associated with trouble. Those damned mercenaries` (`Inf_Tpl_HP`)
 
-## Morlocks
-- removed pre-alpha guild, already in 0.56 alpha mentioned as `GIL_MRL = 17; // (gibt es nicht mehr)` (`no longer used`)
-- was on the list of human guilds, separate from `GIL_ORC = 21` which is on the list of monster guilds
-  - later numbers were rearranged, so that we got `GIL_ORC = 17` on that position
-- they were probably either allies of _Orcs_, or _Half-Orcs_
-- name `morlock` comes from fictional underground orc-like species in public domain 1895 novel `The Time Machine`
-
 ## Nobility
 - _The Nobles_ have "dirty business" and are jelaous of generals' influence
   - design docs imply that general(s) are also "Lords" (nobles)
