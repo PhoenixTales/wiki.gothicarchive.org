@@ -223,6 +223,7 @@ title: Missions
 ## Get a weapon from a mercenary
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
+- `As a Templar you need a weapon. We don't have a blacksmith, so you'll have to get your own weapon. A tip: late in the evening you have a good chance of running into a drunk Mercenary in the Old Camp. Take what you need from him.`
 
 ## Use Psionic Magic
 - mission briefly mentioned in design doc `Story 3.3 draft`
