@@ -201,7 +201,7 @@ title: Characters
 
 ## The Healer Of Water Mages (1)
 - German: `der Geneser`
-- `alchemist, powerful healer; teacher & contractor` (design doc `NPCs per Guild`)
+- `alchemist, powerful healer; teacher & mission giver` (design doc `NPCs per Guild`)
 - `recruits the player character` (design doc `NPCs per Guild`)
 - `a little too good-natured` (design doc `NPCs per Guild`)
 
@@ -436,7 +436,7 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 ## The Master Of Novices
 - guru of _Sect Camp_
 - `looks after and teaches the Novices` (design doc `NPCs per Guild`)
-- `contractor and teacher for the Sect Camp Novices` (design doc `NPCs per Guild`)
+- `mission giver and teacher for the Sect Camp Novices` (design doc `NPCs per Guild`)
 
 ## The One-Eyed
 - German: `der Einäugige`
@@ -611,7 +611,7 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 ## The Uncaught
 - one of _The Rogues Of New Camp_
 - German: `der Unerwischte`
-- `Guild Teacher & Contractor; often requires students to bring him things to pay for his teaching` (design doc `NPCs per Guild`)
+- `Guild teacher & mission giver; often requires students to bring him things to pay for his teaching` (design doc `NPCs per Guild`)
 
 ## The Wanderer
 - German: `der Wanderer`
@@ -629,5 +629,5 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `the most powerful guru` (design doc `NPCs per Guild`)
 - `No one in the sect dares to doubt his words and actions, no matter how crazy they are` (design doc `NPCs per Guild`)
 - `at night he often slips into the body of a Temple Servant or Templar and explores the dungeons` (design doc `NPCs per Guild`)
-- `Contractor for Sect Camp Gurus` (design doc `NPCs per Guild`)
+- `Mission giver for Sect Camp Gurus` (design doc `NPCs per Guild`)
 
