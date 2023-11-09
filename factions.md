@@ -10,6 +10,7 @@ title: Factions
 - 6 of them accidentally imprisoned in Khorinis Mine Valley
   - `perform some services to the ore barons, in return for which they're allowed to play their own games.` (_Sleeper's Ban_)
   - _Master Of Fire_, _Guardian Of The Circle_, _Ore Supplier_, _The Apprentice_, _Advanced Apprentice_, _The Wanderer_ 
+- they consider escaping the _Magic Barrier_ by creating a _Magic Portal_ leading outside, but work on it only sporadically (see `Orpheus Guilds V1`)
 
 ## Alchemists Of Water
 - in early design docs referred to as `Healing Mages` (German: `Heilmagier`)
@@ -17,7 +18,7 @@ title: Factions
   - also mentioned as `Circle Of Water`, already in alpha
 - in poor relationship with _Alchemists Of Fire_ under the barrier
   - `KDF_40_FriendKilledMage`: `we don't like the circle of water`
-  - "we don't like" doesn't imply hostility; the guild attitudes between them are still friendly (`guilds.d`/`GIL_ATTITUDES`)
+  - `we don't like` doesn't mean hostility; the guild attitudes between them are neutral (`guilds.d`/`GIL_ATTITUDES`, `Orpheus Guilds V1`)
 - 6 of them accidentally imprisoned in Khorinis Mine Valley
   - `have been rambling for years that they want to carry out an escape plan` (_Sleeper's Ban_)
   - `they brew their potions with the ore and spoil it so that it can no longer be used; and this brew has so far not harmed the barrier`  (_Sleeper's Ban_)
