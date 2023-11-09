@@ -241,6 +241,7 @@ title: Factions
 - `Have you had a decent meal recently? See, nobody is hungry in our sect.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 - `We take good care of our people, in the Old Camp there is only oppression` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 - `With every Mass Meditation and every new Novice under the influence of Drugs, they sacrifice to The Sleeper the energy he needs to awaken` (design doc `Story 3.3 draft`)
+- `We don't have a blacksmith` (design doc `Story 3.3 draft`)
 
 ### The Gurus
 - `They are at the pinnacle of power. They rule in isolation from the Novices. The Novices and Templars are seen exclusively as recipients of orders.` (design doc `Story 3.3 draft`)
