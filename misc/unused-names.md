@@ -46,3 +46,10 @@ Gor Grome       | Templar, `corrupt, takes Minecrawler Secretion into his own po
 Gor-Bugol       | Templar, `proud, seeking fame and honor` `hunts Minecrawlers in Abandoned Mine`
 Gor-Jonah       | Templar, `lets everyone feel their middle status`, `tower guard`
 Gor-Jug         | Templar, `proud, stupid, obedient. Don't ask questions`, `tower guard`
+Harun           | Templar, `clever, joking, disciplined, reliable`, `tower guard`
+Balor           | Templar, `hollow like a nut`, `Blessed Sacrament Vigil during the day`
+Jagblade        | Templar, `stupid, can hardly get a sentence together`, `Blessed Sacrament vigil at night`
+Pat             | Templar, `quiet guy, hit like a steam hammer`, `day guard at the main entrance`
+Ako             | Templar, `never complains, accepts everything with stoic composure`, `Patrol during the day inside temple`
+Luke            | Templar, `always wants to prove to his boss how great he is`, `Patrol during the day inside temple`
+Bladwin         | Templar, `Psychopathic, often causes trouble on patrol where there is none`
