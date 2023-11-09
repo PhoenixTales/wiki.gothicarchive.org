@@ -309,12 +309,6 @@ title: Characters
 - `the most experienced Templar; extremely dangerous fighter` (design doc `NPCs per Guild`)
 - `is already getting old` (design doc `NPCs per Guild`)
 
-## The House Steward Of Sect Camp
-- German: `Haushofmeister`
-- one of the _Novices_ of _The Sect_
-- `the internal 'party service' of the temple` (design doc `NPCs per Guild`)
-- `prepares orgies and other celebrations together with some temple servants` (design doc `NPCs per Guild`)
-
 ## Hunter
 - appears in 1.01d alpha as `GRD_207_Hunter`
 - completely removed from the final release
@@ -341,6 +335,17 @@ title: Characters
 - `High novice` only mentioned in design doc `Story 3.3 draft`
 - `Kalom's drug assistant`, `wants Kalom's job`
 - enemy of _Ka Zatiz_
+
+## Ka Shin, The House Steward Of Sect Camp
+- German: `Haushofmeister`
+- one of the _High Novices_ of _The Sect_
+- `the internal 'party service' of the temple` (design doc `NPCs per Guild`)
+- `prepares orgies and other celebrations together with some temple servants` (design doc `NPCs per Guild`)
+  - `Orderly, organizes orgies.` (design doc `Story 3.3 draft`)
+- `Bootlicker and flagellant, pious`, `He is generally considered an ass-kisser` (design doc `Story 3.3 draft`)
+- `Reports directly to the three chief gurus.` (design doc `Story 3.3 draft`)
+- `20h-24h self-mortification in the crypt (you can hear his screams, the crypt is locked)` (design doc `Story 3.3 draft`)
+- `Most people make fun of him`, has no friends but many enemies (design doc `Story 3.3 draft`)
 
 ## Ka Zatiz
 - `High novice` only mentioned in design doc `Story 3.3 draft`
