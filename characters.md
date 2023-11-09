@@ -182,6 +182,9 @@ title: Characters
   - this is said by one of the _Sect Templars_ (`Inf_Tpl_VK`)
 - `the enlightened one is irrevocably dependent on him` (design doc `Story 3.3 draft`)
 
+## Cord
+- `I've been with Lee since I got here. We already knew each other outside. I heard the story of why he ended up here back then. I was part of the king's staff. I heard them talking about getting Lee out of the way. Lee had no chance. I wanted to speak up in his defense, but it was of no use. When the traitors found out that I wanted to speak for Lee, they framed me for a minor offense. A little later they took me to the cliff too.` (`Sit_1_NC_Cord_TrainFighters` / alpha 0.94)
+
 ## Corristo, Master Of Fire
 - German: `Meister des Feuers`
 - leader of _Alchemists Of Fire_ (design doc `NPCs per Guild`)
