@@ -10,7 +10,6 @@ Name            | notes
 Baldhead        | (sect novice)
 Sleeper         | (normal buddler, not sleeping)
 Mort            | GRD_239_MORT, later lost his name and became `GRD_239_GARDIST`
-Marvin          | ORG_856_MARVIN, `SLD_708_Soeldner` took over his place later
 Aiko            | SFB_1002_AIKO
 Garbar          | SFB_1004_GARBAR
 Mihai           | SFB_1005_MIHAI
