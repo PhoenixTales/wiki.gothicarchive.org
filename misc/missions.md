@@ -162,3 +162,8 @@ title: Missions
 ## Something For The Orgy
 - mission briefly mentioned in design doc `NPCs per Guild`
 - _The House Steward_ organises orgies in the _Sect Camp_ and needs you to arrange something for him
+
+## Rescue The Sniffer
+- mission briefly mentioned in design doc `NPCs per Guild`
+- _The Mine Inspector_ asks you to rescue and bodyguard _The Sniffer_
+- _The Sniffer_ `Every now and then disappears into the mines for a few days` and `knows ALL secret passages and hiding places in the mines and orc caves` but apparently this time got into trouble
