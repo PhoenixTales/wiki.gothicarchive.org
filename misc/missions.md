@@ -205,3 +205,24 @@ title: Missions
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - _Baal Moc_ plays lute for _Y'Berion_
 - he needs new strings for it
+
+## Bring a message to dropouts
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- given by _Gor-Na-Tot_ to a _Templar_ candidate
+
+## Dope on Delon's murder
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- given by _Gor-Na-Tot_ to a _Templar_ candidate
+
+## Get a weapon from a mercenary
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- given by _Gor-Na-Tot_ to a _Templar_ candidate
+
+## Use PSI Magic
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- given by _Gor-Na-Tot_ to a _Templar_ candidate
+- requires use of spells `forget` and `control` to solve some unknown problem
+
+## Catch the intruder
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- given by _Gor-Na-Tot_ to a _Templar_ candidate
