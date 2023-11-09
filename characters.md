@@ -454,6 +454,12 @@ title: Characters
 - `dungeon explorer` (design doc `NPCs per Guild`)
 - `Friend and comrade of the novice "The Explorer` (design doc `NPCs per Guild`)
 
+## Mace
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `Convenient, distrustful`
+- `Reports to Baal Filo` (who is the cook)
+- `Kitchen helper / plant collector / food distributor`
+
 ## The Merciless
 - German: `der Gnadenlose`
 - `leads field operations`
