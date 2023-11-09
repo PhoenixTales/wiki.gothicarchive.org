@@ -105,6 +105,12 @@ title: Characters
 - `teaches player character Templar psionic magic and weapons` (design doc `NPCs per Guild`)
 - in the final game he's a Templar rather than a Guru, but still counted among the leadership of the camp 
 
+## Cor Garrion
+- _Guru_ only mentioned in design doc `Story 3.3 draft`
+- `Is stoned for the first half of the day`
+- `Is under KALOM and ANGAR`
+- `Subordinate to him is KA-GARON`
+
 ## Cor Kalom, The Mastermind
 - described as `instructor` (alpha build) and `the teacher of all gurus` (design doc `NPCs per Guild`)
 - in early alpha build `armed with short sword and bow`, wears guru robes
