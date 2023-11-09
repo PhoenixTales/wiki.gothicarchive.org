@@ -7,6 +7,12 @@ title: Nations
 - in previous generations had repeatedly haunted the coast of the kingdom and sent many merchant ships to the bootom of the sea
 - `With his reddish beard and blue eyes, the person who had carried him so roughly into the clearing identified himself as Hueroth, a member of that barbaric northern tribe that in previous generations repeatedly haunted the coast of his homeland and ran aground many merchant ships of the sea.` (_Sleeper's Ban_)
 
+## Nordmen
+- are good at metallurgy
+  - `Unfortunately the magic powers of the ore vanish during the smelting process. They know the right smelting technique in the blast furnaces of Nordmar`
+- are good at building dams
+  - `A nice piece of work on the dam. We worked on it for months. We used longitudinal pillars, reinforced the side struts and filled the spaces with stones. A good system, like the one the Nordmen use.` (`Mis_1_NC_Homer_DamLurkerInfo` in alpha 0.94)
+
 ## Nurrba
 - race with dark skin with and long green hair
 - particularly brutal and in some areas even man-eating
