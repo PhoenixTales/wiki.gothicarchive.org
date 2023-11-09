@@ -275,20 +275,12 @@ title: Characters
   - if player gets into fight with _Quinn_, he becomes hostile as well
 - `the follower type`, `doesn't take the initiative himself`
 
-## The Healer Of Water Mages (1)
-- German: `der Geneser`
-- `alchemist, powerful healer; teacher & mission giver` (design doc `NPCs per Guild`)
-- `recruits the player character` (design doc `NPCs per Guild`)
-- `a little too good-natured` (design doc `NPCs per Guild`)
-
-## The Healer Of Water Mages (2)
-- German: `der Heiler`
-- `routine healing worker` (design doc `NPCs per Guild`)
-- `harsh like an overworked, annoyed ward doctor in the hospital` (design doc `NPCs per Guild`)
-
-## The Healer Of Water Mages (3)
-- German: `der Wunddoktor`
-- `Visit other camps to earn ore nuggets` (design doc `NPCs per Guild`)
+## The Three Healers Of Water Mages
+- all are mentioned in design doc `NPCs per Guild`, have no names nor significant differences
+- German: `der Geneser`, `der Heiler`, `der Wunddoktor`
+- 1: `alchemist, powerful healer; teacher & mission giver`, `recruits the player character`, `a little too good-natured`
+- 2: `routine healing worker`, `harsh like an overworked, annoyed ward doctor in the hospital`
+- 3: `Visit other camps to earn ore nuggets`
 
 ## Fox
 - _Rogue_ `ORG_827_FOX` in alpha 1.01d
@@ -304,15 +296,17 @@ title: Characters
 - `serves as a bodyguard for The Landlord`, `he is a very good fighter` (design doc `NPCs per Guild`)
 - `he is quite naive and can easily be being tricked` (design doc `NPCs per Guild`)
 
-## Gor-Na-Go
-- _High Templar_ mentioned in design doc `Story 3.3 draft`
-- `proud, incorruptible, takes tough action`
-- `commands the day guards`
+## Gor-Na-Tot
+- High Templar mentioned in design doc `Story 3.3 draft`
+- `a merciless teacher, uncompromising, discipline is everything. He is the grinder.`
+- gives player multiple missions required to become a _Templar_
 
-## Gor-Na-Vid
-- _High Templar_ mentioned in design doc `Story 3.3 draft`
-- `proud, brutal, does not tolerate indiscipline`
-- `commands the night guards`
+## Gor-Na-Ba
+- High Templar mentioned in design doc `Story 3.3 draft`
+- appears in compiled alpha 1.01d as `Gor-Na-Bar`
+- `opaque, insidious`
+- `Minecrawler Hunting Commander in Free Mine`
+- `As the hunting boss, he plays his games with the milking novices. The PC notices this when he is sent to the Free Mine as a novice (or templar) to carry his Milking Vessel after Baal Kagan`
 
 ## Gorn
 - `muscular giant`
@@ -585,6 +579,11 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `crazy street yeller, who tirelessly preaches nonsensical teachings` (design doc `NPCs per Guild`)
 - `in reality spy for the Rogues` (design doc `NPCs per Guild`)
 - lives in the _Old Camp_, without proper guild, counted as one of _The People Of Old Camp_ (`VLK`)
+
+## Quentin
+- _Templar of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `Bear of a man, brain of a mouse`
+- `Tower Watch A at night`
 
 ## Quicktongue
 - sect novice, `stands in the Old Camp's marketplace during the day and tries to recruit people for the sect`
