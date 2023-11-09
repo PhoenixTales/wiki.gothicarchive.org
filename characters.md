@@ -112,6 +112,7 @@ title: Characters
 - in `slight rivalry with The Enlightened One` (_Y'Berion_, leader of their camp) (design doc `NPCs per Guild`)
 - `The other day I had to stand guard in front of the castle ruins while Mastermind met with one of the arch barons inside`
   - this is said by one of the _Sect Templars_ (`Inf_Tpl_VK`)
+- called `Drug freak`, suggesting that he's one of the users of the drugs he prepares (design doc `Story 3.3 draft`)
 
 ## Corristo, Master Of Fire
 - German: `Meister des Feuers`
