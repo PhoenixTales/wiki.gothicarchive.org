@@ -186,10 +186,26 @@ title: Missions
 - `In the new camp there is one they call the Duke. He should find this in his bed. If you do it without getting caught, I'll put in a good word for you with Grmbl, our leader.`
 - the letter is sealed and says: `Duke! The one who brought this letter could have brought a knife... Maybe protecting the Free Mine with your boys isn't such a good idea after all. THE SHADOW`
 
-## Deliver Milking Vessel
-- mission briefly mentioned in design doc `Story 3.3 draft`
-- bring _Milking Vessel_ for _Minecrawler Secretion_ to _Abandoned Mine_
-- first part of exam for joining _The Sect's Novices_, ordered by _Baal Namib_
+## Bring Milking Vessel to Abandoned Mine
+- mission described in design doc `Story 3.3 draft`
+- given by _Baal-Orun_
+- `BAAL-NAMIB: Baal-Kagan is now working as a milker with the hunters in the abandoned mine. He forgot his Milking Tool. Bring the Milking Tool to Baal-Kagan. You will find the hunters on the second level of the Abandoned Mine.`
+- `When the player gets close to the hunters, a strange scene takes place: player turns a corner and looks down a long hallway that ends in a large round chamber. After about ten meters a corridor branches off to the left. BAAL-KAGAN suddenly flees from two Minecrawlers with his hands tied behind his back into the very hallway where the player is standing. BAAL-KAGAN rushes down the corridor in a panic, away from the player character, towards the round chamber. The Minecrawlers chase after him.`
+- `BAAL-KAGAN runs for his life, all the while shouting: 'Why are you doing this to me? Why are you doing this to me? This is a SHITTY idea!'`
+- `It echoes back from the chamber: 'Haha, why are you forgetting your tools again.'`
+- `BAAL-KAGAN responded in a panic: 'Heeeeeelp!!!'`
+- `He screamed and disappeared into the chamber, where a fierce battle then broke out, in which two Minecrawlers lost their lives and a novice almost lost his mind. If the player now enters the chamber, he will meet the hunting party he is looking for there. BAAL-KAGAN lies exhausted on the floor, panting for air the whole time.`
+- `PLAYER: 'I... I... bring the tools for Baal-Kagan.'`
+- `BAAL-KAGAN: 'Couldn't you (gasp) come (gasp) sooner?!'`
+- `GOR-NA-BA: 'Shut up, Kagan. It was time to discipline you anyway. You’ll never forget your tools again now, will you?'`
+- `BAAL-KAGAN: 'Certainly (gasp) not. Promised.'`
+- `GOR-NA-BA: 'Besides, you can be proud of yourself.'`
+- `BAAL-KAGAN: 'Why? Because I’m (gasp) not dead?'`
+- `GOR-NA-BA: 'No, because your punishment also gave me a new hunting technique. It makes everything a lot easier when a Novice drives the Minecrawlers towards us.'`
+- `BAAL-KAGAN: 'Does that mean…'`
+- `GOR-NA-BA: 'Exactly.'`
+- `PLAYER: 'Now what about BAAL-KAGAN’s tools?'`
+- `GOR-NA-BA: 'Hand it over and get out!'`
 
 ## Minecrawler Bait
 - mission briefly mentioned in design doc `Story 3.3 draft`
@@ -239,3 +255,9 @@ title: Missions
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
 - `The player is assigned to guard tower at night. As soon as he takes his post, a figure tries to enter the camp unseen, right in front of the player. The player has to catch the intruder. The problem is that he is alone. All the other guards seem to have disappeared from view. In retrospect, the whole thing turns out to be a test.`
+
+## Mushrooms for Baal-Orun
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- given by _Baal-Orun_
+- `In the Abandoned Mine, mushrooms grow in some places that cannot be found anywhere else. Bring me at least a dozen. They will recognize you.`
+- `The mushrooms begin to glow slightly as the player approaches them`
