@@ -206,11 +206,15 @@ title: Missions
 - _Baal Moc_ plays lute for _Y'Berion_
 - he needs new strings for it
 
-## Bring a message to dropouts
+## Message to a Sect dropout
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
+- _Novice_ _Delon_ deserted from the _Sect Camp_ and joined _Old Camp_
+- player needs to find his hut in the _Old Camp_ and leave a letter on the bed
+- the letter says `Delon. You betrayed us. Soon the Sleeper will judge you.`
+- Delon talks to player character in his hut, but the letter still gets delivered and mission is completed
 
-## Stand guard during Delon's murder
+## Stand guard during Sect dropout's execution
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
 
@@ -218,7 +222,7 @@ title: Missions
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
 
-## Use PSI Magic
+## Use Psionic Magic
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
 - requires use of spells `forget` and `control` to solve some unknown problem
