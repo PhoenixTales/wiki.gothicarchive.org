@@ -4,6 +4,7 @@ title: Locations
 
 ## Abandoned Mine
 - German: `Verlassene Mine` (`VM`)
+- `The boys from the Old Camp mined ore in the Abandoned Mine. Then the mine stopped producing enough, and they built a new one south of the Old Camp.` (the `Old Mine`) (design doc `Story 3.3 draft`)
 
 ## Exchange Place
 - German: `Handelsplatz` (`HP`)
@@ -91,6 +92,7 @@ title: Locations
 - controlled by _Old Camp_
 - in the final release, meshes of the _Old Mine_ and the _Free Mine_ were swapped
   - that's why nest of _Minecrawler Queen_ ended here, even though "the monsters on the lower levels" were planned for _Free Mine_
+- `The boys from the Old Camp mined ore in the Abandoned Mine. Then the mine stopped producing enough, and they built a new one south of the Old Camp.` (the `Old Mine`) (design doc `Story 3.3 draft`)
 
 ## Royal Ore Mines
 - a prison colony in the mountains, containing deposits of iron and _Magic Ore_
