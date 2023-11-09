@@ -250,6 +250,7 @@ title: Factions
 - originally called `Temple Servants` (German: `Tempeldiener`)
 - 15 people: _The Initiate_, _The Explorer_, _The Bigmouth_, _Recruiters_, _The House Steward_, _Disciples_
 - have to do all the chores for others who are higher in hierarchy (German: `Mädchen für alles` in `NPCs per Guild`)
+- `Ka novices are a buffer between the Gurus and the middle and low novices and Templars` (design doc `Story 3.3 draft`)
 
 ## The Rogues
 - also known as _Quentin's Gang_
