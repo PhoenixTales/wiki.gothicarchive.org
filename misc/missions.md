@@ -225,10 +225,15 @@ title: Missions
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
 - `As a Templar you need a weapon. We don't have a blacksmith, so you'll have to get your own weapon. A tip: late in the evening you have a good chance of running into a drunk Mercenary in the Old Camp. Take what you need from him.`
 
-## Use Psionic Magic
+## Taste of Psionic Magic (Forget)
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
-- requires use of spells `forget` and `control` to solve some unknown problem
+- `I'll give you some magic for your next task. When you swallow this powder, you have ten minutes to make someone forget everything they have experienced in the last few hours. A shadow from the old camp crept in unnoticed among us today and learned things that he is not allowed to tell the archbarons. Look for him in the Old Camp. He disguised himself as a novice. Of ours, only Baal-Tarin is in the Old Camp. So if you see another novice, that will be the shadow. Let him forget everything he learned about us today`
+
+## Taste of Psionic Magic (Control)
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- given by _Gor-Na-Tot_ to a _Templar_ candidate
+- requires using _Control_ spell to solve some practical problem that is not explained in the document
 
 ## Catch the intruder
 - mission briefly mentioned in design doc `Story 3.3 draft`
