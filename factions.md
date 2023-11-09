@@ -3,6 +3,7 @@ title: Factions
 ---
 
 ## Alchemists Of Fire
+- in early design docs referred to as `Battle Mages` (German: `Kampfmagier`) (see `Orpheus Guilds V1`)
 - in the final game release known as `Fire Mages`
   - also mentioned as `Circle Of Fire`, already in alpha
   - `KDF_40_FoeStoleFromMyGuild`: `You've stolen from the circle of fire`
@@ -11,9 +12,9 @@ title: Factions
   - _Master Of Fire_, _Guardian Of The Circle_, _Ore Supplier_, _The Apprentice_, _Advanced Apprentice_, _The Wanderer_ 
 
 ## Alchemists Of Water
+- in early design docs referred to as `Healing Mages` (German: `Heilmagier`)
 - in the final game release known as `Water Mages`
   - also mentioned as `Circle Of Water`, already in alpha
-- in some design docs referred to as `Healing Mages` (German: `Heilmagier`)
 - in poor relationship with _Alchemists Of Fire_ under the barrier
   - `KDF_40_FriendKilledMage`: `we don't like the circle of water`
   - "we don't like" doesn't imply hostility; the guild attitudes between them are still friendly (`guilds.d`/`GIL_ATTITUDES`)
