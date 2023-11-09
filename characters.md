@@ -60,6 +60,7 @@ title: Characters
 - `Reports to Ka-Garon`
 - `the 'organizer' among the novices, has contacts with various guilds`
 - `Cook`
+- member of _Ka Limae's_ gang
 
 ## Baal Kadash
 - _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
