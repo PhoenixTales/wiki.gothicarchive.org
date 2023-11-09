@@ -151,6 +151,7 @@ title: Locations
 - implemented using object `zCTriggerTeleport` which moves the character to the `destination vob` (`triggerTarget`)
 
 ## Temple Of Sleeper
+- in early docs called `The Ancient Temple Of The Being` (German: `Uralten Tempel der Wesenheit`) (design doc `NPCs per guild`)
 - `in an uknown ancient temple, unchanged for 1000 years`
 - there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
 
