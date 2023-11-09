@@ -463,8 +463,8 @@ title: Characters
 - `member of The Masters` (design doc `NPCs per Guild`)
 
 ## Lee, The Lord Protector
-- initially he was serving as a guard in the king's court
-  - source: alpha docs
+- initially he was serving as a royal bodyguard
+  - source: alpha docs and `Sit_1_NC_Lee_Dam` from alpha 0.94
 - ex-general, `war hero`
 - also called `Duke` in design doc `Story 3.3 draft`
 - convicted for lifetime of forced labor for murder of the `king's wife`
@@ -481,6 +481,18 @@ title: Characters
 > But the nobles didn't like me, because the King listened to my advice. 
 > And they knew I posed a threat to their dirty business.
 > They used the King's wife to get me. I was blamed for her pointless murder.
+
+> I served at the king's court as leader of the king's bodyguard... for many years.
+> One stormy night the guards at the gate reported a mounted messenger sent by the Count of Meidheim.
+> I led the messenger into the throne room and handed him over to the hall guards present.
+> As I crossed the courtyard just a few moments later, I found a scroll, laying unsealed in the mud of the stable.
+> I bent down and took a look at it. It was a message from the Count of Meidheim to the king.
+> I was horrified. Not only the Count's head would be at stake due to the content!
+> When I still held the message in my hand, mouth open and disbelieving, I heard the messenger's calls.
+> 'Guards! Seize him!'
+> My guards approached hesitantly. I followed them and they led me to the king.
+> I was accused of treason and brought here, behind the barrier. So they thought they had silenced me.
+> Only my years of loyalty to the king saved my life, but I had to give up my freedom for his intrigue.
 
 ### Other games
 - `[King's] sycophants betrayed me, because I knew something I shouldn't have known. They tossed me into the mining colony, and the King allowed it.` (_Gothic 2_)
