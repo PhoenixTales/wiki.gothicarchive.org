@@ -316,6 +316,7 @@ title: Characters
 ## The Invisible Man
 - German: `Der Unsichtbare`
 - `leader of the Shadows known to almost no one` (design doc `NPCs per Guild`)
+- design doc `Story 3.3 draft` mentions leader of Shadows named `Grmbl` (apparently he's also _The Unpronounceable Man_)
 
 ## The Landlord
 - German: `der Gutsherr`
