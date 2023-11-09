@@ -92,6 +92,17 @@ title: Characters
 - German: `das Plappermaul`
 - `Unusually eloquent novice; Star Recruiter; therefore very respected by most gurus` (design doc `NPCs per Guild`)
 
+## Born
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `dull guy, always on drugs`
+- `daily thief in the New Camp`
+- `hostile to the player`, `if they meet player, they will take something from his inventory`
+- `forms a circle of friends with _Drago_ and _Kile_`, they have many enemies
+- `They use a simple psionic spell that changes the attitude of the target`
+  - friendly target `gives them everything he has`
+  - neutral target becomes friendly and `gives them 2 items`
+  - hosile target becomes friendly (may be a mistake, as neutral would fit here) and `gives them 1 item`
+
 ## Burgrave Bergmar
 - comes from _Western Field_
 - owner of _Mountain Fortress_
@@ -210,9 +221,14 @@ title: Characters
 - `maintains contact with other guilds; is traveling as an agent for the Guardians` (design doc `NPCs per Guild`)
 - `in reality, a double agent for the Ore Barons` (design doc `NPCs per Guild`)
 
-## Drago
+## Drago, The Mercenary Of Old Camp
 - _Mercenary Of Old Camp_, `SLD_203_DRAGO` in 0.64b alpha
 - later was made a _Fire Mage_, `KDF_403_Drago`
+
+## Drago, The Novice Of Sect Camp
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- member of _Viran's_ gang, similar to him in every aspect
+- in the release version this name is used by a _Fire Mage_, `KDF_403_Drago`
 
 ## The Ear
 - German: `das Ohr`
@@ -395,6 +411,10 @@ title: Characters
 - `He is a believer and follows his master Kalom blindly`
 - `Kalom's drug assistant` (second one)
 - enemy of _Ka Lib_
+
+## Kile
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- member of _Viran's_ gang, similar to him in every aspect
 
 ## The Landlord
 - German: `der Gutsherr`
