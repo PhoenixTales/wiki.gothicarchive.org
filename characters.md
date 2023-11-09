@@ -331,6 +331,12 @@ title: Characters
 - `leader of the Shadows known to almost no one` (design doc `NPCs per Guild`)
 - design doc `Story 3.3 draft` mentions leader of Shadows named `Grmbl` (apparently he's also _The Unpronounceable Man_)
 
+## Ka Garon
+- `High novice` only mentioned in design doc `Story 3.3 draft`
+- `Likes to get drunk, believes strongly, is eager and loves to serve`
+- `Reports to COR-LORAN and COR-GARRION`
+- `leads meditations for middle novices`
+
 ## The Landlord
 - German: `der Gutsherr`
 - leader of _The Peasants_
