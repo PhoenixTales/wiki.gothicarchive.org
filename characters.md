@@ -183,6 +183,7 @@ title: Characters
 - `the enlightened one is irrevocably dependent on him` (design doc `Story 3.3 draft`)
 
 ## Cord
+- former member of _Royal Army_ / `king's staff` and old friend of _Lee_
 - `I've been with Lee since I got here. We already knew each other outside. I heard the story of why he ended up here back then. I was part of the king's staff. I heard them talking about getting Lee out of the way. Lee had no chance. I wanted to speak up in his defense, but it was of no use. When the traitors found out that I wanted to speak for Lee, they framed me for a minor offense. A little later they took me to the cliff too.` (`Sit_1_NC_Cord_TrainFighters` / alpha 0.94)
 
 ## Corristo, Master Of Fire
@@ -490,6 +491,7 @@ title: Characters
   - this may suggest that as a _Royal General_ he used to be a member of _Myrtanian Nobility_
 - leader of _Guardians Of New Camp_
 - `jealous of the dominance of the Healing Mages` (design doc `NPCs per Guild`)
+- old friend of _Cord_ from the times when they both served the king before getting falsely convinced
 
 > I was one of the best generals of this country.
 > I've spent my whole life fighting for my country.
