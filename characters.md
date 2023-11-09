@@ -473,9 +473,11 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
   - `PC: Spuck's aus, Du Wicht ! Rede schon, oder ... Willst du sterben ?`
   - `NPC: Bitte, tue mir nichts. Ich will noch nicht sterben. Verschone mich. Ich bin ein Wurm.`
   - `NPC: Heiliger Boden, Highlander ! Erinnert Euch, was Ramirez Euch gelehrt hat.`
-- clear reference to character `Juan Sánchez-Villalobos Ramírez`, mentor and friend of main protagonist of `Highlander` series
+- the last sentence is exact quote from the first `Highlander` movie, spoken by _Kurgan_, protagonist's arch-enemy, who is about to be attacked by him in the church, even though _Ramirez_ teached him that they are not allowed to fight _on the Holy Ground_
+- `Juan Sánchez-Villalobos Ramírez`, mentor and friend of main protagonist of `Highlander` series
   - he lived in XVI century Spain and in the movie is dressed correspondingly, played by Sean Connery
   - he was a _Royal Chief Metallurgist_
+- _Kurgan_ kills _Ramirez_ by beheading in the first part of the story
 
 ![https://en.wikipedia.org/wiki/File:JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg](https://upload.wikimedia.org/wikipedia/en/7/7b/JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg)
 
