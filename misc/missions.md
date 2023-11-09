@@ -167,3 +167,7 @@ title: Missions
 - mission briefly mentioned in design doc `NPCs per Guild`
 - _The Mine Inspector_ asks you to rescue and bodyguard _The Sniffer_
 - _The Sniffer_ `Every now and then disappears into the mines for a few days` and `knows ALL secret passages and hiding places in the mines and orc caves` but apparently this time got into trouble
+
+## Maps For The Explorer
+- mission briefly mentioned in design doc `NPCs per Guild`
+- novice _The Explorer_ needs a _Dungeon Map_, as he is exploring undergrounds to find a way to _The Ancient Temple Of The Being_ (_Sleeper's Temple_)
