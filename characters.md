@@ -68,6 +68,13 @@ title: Characters
 - `Dealer/recruiter in the New Camp`
 - member of _Ka Limae's_ gang
 
+## Baal Moc
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `believer, talkative`
+- `Reports to Ka Shin`
+- `plays at the Orgies, the Guru Meditations and at Black Masses in the Crypt`
+- `plays lute for Y'Berion from 10 a.m. to 6 p.m`, `annoyed by Y'Berion`
+
 ## Baal Tarin
 - _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
 - `not trustworthy, rhetorically skilled, not believing`
