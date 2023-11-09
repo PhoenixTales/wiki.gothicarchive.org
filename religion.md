@@ -52,6 +52,7 @@ title: Religion
 - `The creation of the Magic Barrier awakened something.` (`Inf_Mst_MB`)
   - German: `Die Erschaffung der Magische Barriere hat irgendetwas erwachen lassen`
 - his `goal is to awaken in order to enslave people` (design doc `Story 3.3 draft`)
+- also called `Krushak`, already in early design docs (`Story 3.3 draft`)
 
 ## Shugul Sath
 - also known as the Smoke Hunter
