@@ -54,6 +54,7 @@ title: Religion
 - his `goal is to awaken in order to enslave people` (design doc `Story 3.3 draft`)
 - also called `Krushak`, already in early design docs (`Story 3.3 draft`)
 - `when Krushak awakens and distributes his power among the mortals who have served him loyally from the beginning` (`Story 3.3 draft`)
+- according to _Y'Berion_, awakening The Sleeper `will cause the magical barrier to burst` (`Story 3.3 draft`)
 
 ## Shugul Sath
 - also known as the Smoke Hunter
