@@ -59,6 +59,13 @@ title: Characters
 - `selfish, looking for convenience`
 - `Reports to Ka-Garon`
 - `Dealer/recruiter in the New Camp`
+- member of _Ka Limae's_ gang
+
+## Baal Tarin
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `not trustworthy, rhetorically skilled, not believing`
+- `Reports to Ka-Garon`
+- member of _Ka Limae's_ gang
 
 ## The Big Boss
 - the leader of the _Ore Barons_, in the final game called `Gomez`
