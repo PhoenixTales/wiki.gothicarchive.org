@@ -619,6 +619,10 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `Supreme Healing Mage; only reviver close to the people` (design doc `NPCs per Guild`)
 - `somewhat bossy/arrogant` (design doc `NPCs per Guild`)
 
+## Sean
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- member of _Viran's_ gang, similar to him in every aspect
+
 ## Scatty The Arena Master
 - German: `Arenameister`
 - `manages the arena fights and beting` (design doc `NPCs per Guild`)
@@ -709,6 +713,14 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `best psionic mage among the Templars` (design doc `NPCs per Guild`)
 - `also does 'external jobs'`
 
+## Tondral
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- member of _Viran's_ gang, similar to him in every aspect
+
+## Torlof
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- member of _Viran's_ gang, similar to him in every aspect
+
 ## Treasurer Of Ore Barons
 - German: `Schatzmeister`
 - one of _Ore Barons_
@@ -718,6 +730,16 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - one of _The Rogues Of New Camp_
 - German: `der Unerwischte`
 - `Guild teacher & mission giver; often requires students to bring him things to pay for his teaching` (design doc `NPCs per Guild`)
+
+## Viran
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `Daily thief, unfriendly fellow, hanging around in the Sect Temple, trying to rip off people at every turn. Bag cutter.`
+- `Is only in the cult because he hope to gain advantage this way`
+- `Often gets into trouble with Baal Namib`, who is his enemy
+- `Hostile to the player character, thinks that player character is easy prey`
+- `belongs to a circle of friends that works according to the motto 'we are only strong together'`
+  - those are other _Novices_-thieves: _Sean_, _Tondral_ and _Torlof_
+  - `all thieves are 'disciplined' at the end of the first chapter. Y'Berion himself rounds them up in the temple courtyard with a control spell and punishes them with PSI magic. They are forced to attack each other`
 
 ## The Wanderer
 - German: `der Wanderer`
@@ -736,4 +758,3 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `No one in the sect dares to doubt his words and actions, no matter how crazy they are` (design doc `NPCs per Guild`)
 - `at night he often slips into the body of a Temple Servant or Templar and explores the dungeons` (design doc `NPCs per Guild`)
 - `Mission giver for Sect Camp Gurus` (design doc `NPCs per Guild`)
-
