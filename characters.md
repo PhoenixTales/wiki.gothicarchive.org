@@ -8,18 +8,6 @@ title: Characters
 - `repairs tools & weapons in Free Camp` (design doc `NPCs per Guild`)
 - `friend and colaborator of the Cave Terror` (design doc `NPCs per Guild`)
 
-## Advanced Apprentice Of Fire Mages
-- German: `der Geselle`
-  - in a traditional craftsman or trade context, `Geselle` means someone who has completed their apprenticeship and is considered a skilled worker but has not yet achieved the status of a master craftsman
-- more experienced of two apprentices of _Fire Mages_
-- only briefly mentioned in design doc `NPCs per Guild`
-
-## Advanced Apprentice Of Water Mages
-- German: `der Geselle`
-  - in a traditional craftsman or trade context, `Geselle` means someone who has completed their apprenticeship and is considered a skilled worker but has not yet achieved the status of a master craftsman
-- more experienced of two apprentices of _Water Mages_
-- only briefly mentioned in design doc `NPCs per Guild`
-
 ## Ancient General
 - called `General`, `powerful warlord` and `Paladin` in different documents
 - `Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him` (from early alpha docs)
@@ -33,11 +21,6 @@ title: Characters
 - it is hinted that he was either murdered, or that his body was robbed after his death before player found him
   - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
   - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a Devil Mushroom in the ravine.`
-
-## Apprentice Of Water Mages
-- German: `der Lehrling`
-- less experienced of two novice _Water Mages_
-- only briefly mentioned in design doc `NPCs per Guild`
 
 ## The Assassin
 - German: `der Assassine`
