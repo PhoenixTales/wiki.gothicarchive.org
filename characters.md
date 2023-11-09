@@ -54,6 +54,13 @@ title: Characters
 - later changed into _Old Camp Mercenary_ bodyguarding the _Big Boss_ (as one of `SLD_BARONSGUARDN*`)
 - finally promoted to one of _Ore Barons_, but keeping exactly the same job of bodyguarding _Gomez_ in front of his throne
 
+## Baal Filo
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `Talkative, contact point for special requests`
+- `Reports to Ka-Garon`
+- `the 'organizer' among the novices, has contacts with various guilds`
+- `Cook`
+
 ## Baal Kadash
 - _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
 - `selfish, looking for convenience`
