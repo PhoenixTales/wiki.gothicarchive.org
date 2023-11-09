@@ -239,6 +239,14 @@ title: Characters
 - his role appears to overlap with that of _The Invisible Man_ and _Shadow Baron_
 - in alpha build known referred as `EBR_104 Aussenminister`
 
+## Havil
+- _Novice_ only mentioned in design doc `Story 3.3 draft`
+- `unreliable, likes to provoke`
+- friend of Quinn
+  - `Together with Quinn he makes a good team: both are assholes`, `thinks that Quinn is strong`
+  - if player gets into fight with _Quinn_, he becomes hostile as well
+- `the follower type`, `doesn't take the initiative himself`
+
 ## The Healer Of Water Mages (1)
 - German: `der Geneser`
 - `alchemist, powerful healer; teacher & mission giver` (design doc `NPCs per Guild`)
@@ -537,6 +545,13 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - removed in late alpha
 - `You just need to join us, then you'll have a good time.`
 - `Here, take this healing potion. If you join the cult you'll get even more of it.`
+
+## Quinn
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `big and strong`
+- `Cheeky, knows everything better, unsympathetic`
+- `He wants to quickly rise in the sect's hierarchy. That's why he tries to intimidate his 'competition' (including player character)`, `provokes the player character wherever he can. It starts with verbal attacks and ends with physical attacks`
+- friend of _Havil_, enemy of _Bartholo_ and other _Novices_ 
 
 ## Ramirez
 - only mentioned once in 0.56 alpha, might have been an early idea that later evolved into _Raoul_ / _Diego_
