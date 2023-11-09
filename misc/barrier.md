@@ -15,6 +15,7 @@ title: Barrier
   - `all the attempts to break trough it so far were for nothing` (_Sleeper's Ban_)
   - there are no signs that anyone is still trying to escape trough it
 - `formed by the most powerful principals of the Mages Guild` (_Sleeper's Ban_)
+- `When the magicians created the barrier, it caused disorder in the dimensional fabric as they created the sphere directly above the Temple of the Sleeper.` (design doc `Story 3.3 draft`)
 
 ```
 In order to save his most precious mine in Khorinis,
