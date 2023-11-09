@@ -94,7 +94,8 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - contains or governs area called _Western Field_ ruled by _Burgrave Bergmar_ and containing _Royal Ore Mines_
 
 ## Varant
-- land neighbouring the _Midlands_, conquered by _Rhobar II_
+- land neighbouring the _Midlands_
+- according to Gothic I handbook conquered by _Rhobar I_, father of _Rhobar II
 - `king Rhobar II, bearer of the Scepter of Varant`
 - `Varant had lost its seaports`
 - `the range of hills surrounding the swamp`
@@ -102,4 +103,3 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - `Armies of horsemen came over the hills of the empire, ships of dark wood drew up on the horizon`
 - had both land and sea border with _Myrtana_
 - `interplay of army and magic, helped him to stand at the gates of the capital of Varant`
-- Gothic I handbook claims that conquest was done by _Rhobar I_, father of _Rhobar II_
