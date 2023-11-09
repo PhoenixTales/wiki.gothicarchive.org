@@ -500,6 +500,11 @@ title: Characters
 ## Lord of Tymoris
 - high feudal lord of the realm containing _Royal Ore Mines_
 
+## Lou
+- _Templar of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `undisciplined, doesn't have an easy life as a Templar`
+- `patrols inside the Temple at night`
+
 ## The Lucky Hand
 - German: `die Glückshand`
 - _Templar_ of _The Sect_
