@@ -238,3 +238,4 @@ title: Missions
 ## Catch the intruder
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
+- `The player is assigned to guard tower at night. As soon as he takes his post, a figure tries to enter the camp unseen, right in front of the player. The player has to catch the intruder. The problem is that he is alone. All the other guards seem to have disappeared from view. In retrospect, the whole thing turns out to be a test.`
