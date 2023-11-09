@@ -5,6 +5,7 @@ title: Locations
 ## Abandoned Mine
 - German: `Verlassene Mine` (`VM`)
 - `The boys from the Old Camp mined ore in the Abandoned Mine. Then the mine stopped producing enough, and they built a new one south of the Old Camp.` (the `Old Mine`) (design doc `Story 3.3 draft`)
+- there's a group of _Templars_ hunting for _Minecrawlers_ there: _Gor-Na-Kash_, _Gor-Hanis_, _Gor-Bugol_ (design doc `Story 3.3 draft`)
 
 ## The Crypt at Sect Camp
 - mentioned in design doc `Story 3.3 draft`
