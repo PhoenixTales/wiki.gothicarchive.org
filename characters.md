@@ -304,6 +304,16 @@ title: Characters
 - `serves as a bodyguard for The Landlord`, `he is a very good fighter` (design doc `NPCs per Guild`)
 - `he is quite naive and can easily be being tricked` (design doc `NPCs per Guild`)
 
+## Gor-Na-Go
+- _High Templar_ mentioned in design doc `Story 3.3 draft`
+- `proud, incorruptible, takes tough action`
+- `commands the day guards`
+
+## Gor-Na-Vid
+- _High Templar_ mentioned in design doc `Story 3.3 draft`
+- `proud, brutal, does not tolerate indiscipline`
+- `commands the night guards`
+
 ## Gorn
 - `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed...`
