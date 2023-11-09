@@ -210,7 +210,7 @@ title: Characters
 - subject of two missions in designs doc `Story 3.3 draft`
 - The Sect dropout who joined the _Old Camp_
 - he tells the player `I have more powerful friends now. You're all weirdos. Don't you realize what game Y'Berion is playing? Has the drug already made you so blind?`
-- he first gets a letter delivered from the _Templars_, and is murdered by them soon after
+- he first gets a letter delivered from _Gor-Na-Tot_, and is murdered by _Gor-Hanis_ soon after
 
 ## Demon Summoner
 - German: `Dämonenbeschwörer` (`DMB`)
