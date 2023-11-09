@@ -556,6 +556,15 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 
 ![https://en.wikipedia.org/wiki/File:JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg](https://upload.wikimedia.org/wikipedia/en/7/7b/JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg)
 
+## Raska
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `was already crazy before The Sect, talks crazy stuff`
+- `Beggar / collector`
+- `8h-12h collects in the Swamp and Forest`
+- 12h-22h begging in the New Camp`
+- `10 p.m.-8 a.m. in cell`
+- becomes hostile to the player if talked to
+
 ## Raven
 - a _Shadow_ in the _Old Camp_ with ID `STT_300_RAVEN`
 - later changed into an _Ore Baron_ `EBR_105_Raven` 
