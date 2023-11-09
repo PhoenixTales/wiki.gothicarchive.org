@@ -12,6 +12,7 @@ title: Nations
   - `Unfortunately the magic powers of the ore vanish during the smelting process. They know the right smelting technique in the blast furnaces of Nordmar`
 - are good at building dams
   - `A nice piece of work on the dam. We worked on it for months. We used longitudinal pillars, reinforced the side struts and filled the spaces with stones. A good system, like the one the Nordmen use.` (`Mis_1_NC_Homer_DamLurkerInfo` in alpha 0.94)
+- their portrayal in _Gothic 3_ reassembles _Hueroths_, suggesting it may be the same nation
 
 ## Nurrba
 - race with dark skin with and long green hair
