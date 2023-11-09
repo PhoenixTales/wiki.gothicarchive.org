@@ -114,6 +114,12 @@ title: Characters
   - this is said by one of the _Sect Templars_ (`Inf_Tpl_VK`)
 - called `Drug freak`, suggesting that he's one of the users of the drugs he prepares (design doc `Story 3.3 draft`)
 
+## Cor Loran
+- _Guru_ only mentioned in design doc `Story 3.3 draft`
+- `Is stoned for the first half of the day`
+- `Is under KALOM and ANGAR`
+- `Subordinate to him is KA-GARON`
+
 ## Corristo, Master Of Fire
 - German: `Meister des Feuers`
 - leader of _Alchemists Of Fire_ (design doc `NPCs per Guild`)
