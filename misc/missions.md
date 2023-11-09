@@ -171,3 +171,19 @@ title: Missions
 ## Maps For The Explorer
 - mission briefly mentioned in design doc `NPCs per Guild`
 - novice _The Explorer_ needs a _Dungeon Map_, as he is exploring undergrounds to find a way to _The Ancient Temple Of The Being_ (_Sleeper's Temple_)
+
+## Letter From A Fire Mage
+- this is example quest for first level player character in design doc `Story 3.3 draft`
+- given by `Zampalo, 6th level Fire Mage from Old Camp`
+- `FIRE MAGE: Hey you! Deliver a message for me! The demon summoner has his tower on the large cliff in the southeast. You will bring him this letter from me.`
+- the player has to accept, or otherwie this powerful Fire Mage will attack him for disobedience
+- `The letter says: Great Master. I know I am unworthy, but I have reached the final circle of fire and now I want to be instructed by you. Your devoted servant Zampalo`
+
+## Letter From The Shadows To Lee
+- mission offered by _Shadows Of The Old Camp_, described in design doc `Story 3.3 draft`
+- for a low level player character who did not join any faction yet
+- `We need someone inconspicuous. You're still new here. Do you want to make some friends?`
+- `In the new camp there is one they call the Duke. He should find this in his bed. If you do it without getting caught, I'll put in a good word for you with Grmbl, our leader.`
+- the letter is sealed and says: `Duke! The one who brought this letter could have brought a knife... Maybe protecting the Free Mine with your boys isn't such a good idea after all. THE SHADOW`
+
+  
