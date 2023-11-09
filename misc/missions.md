@@ -56,12 +56,6 @@ title: Missions
 - `I found the laboratory. It is near the New Camp by the Lake with the hut. There is a cave behind some bushes, that's where it is.`
 - offered by _Baal Namib_
 
-## Help Brothers
-- first appears in 1.01d alpha as `Mis_1_Psi_HelpBrothers`
-- `Some brothers need help in the swampweed fields. Go to them and simply ask them how you can help them.`
-- `Ah, you have the swamp herb with you, good. You were definitely a great help to your future brothers.`
-- offered by _Baal Namib_
-
 ## Bring Focus Stones
 - first appears in 1.01d alpha as `Mis_3_NC_Saturas_BringFoki` and is also mentioned as `SaturasBringFoci`
 - `You actually did it. Thank you. Now we can start the ceremony. I will gather my brothers to begin concentrating the energy on the axles. Then we will use the focused force to transfer the energy along a concentrated path...`
@@ -109,42 +103,6 @@ title: Missions
   - `LetMe`: `Hey! It's my turn.`
   - `LetMeOrSuffer`: `I've told you to get out of the way.`
   - `ShotBetween`: `Wait till it's your turn.`
-  
-## Lester Guide
-- mentioned in 1.01d as `LesterGuide`
-
-## Aaron's Lock
-- mentioned in 1.01d as `Aaron_Lock`
-
-## Snipe's Deal
-- mentioned in 1.01d as `Snipes_Deal`
-
-## Gearwheel For Ian
-- mentioned in 1.01d as `Ian_Gearwheel`
-
-## Bring Book To Cor Kalom
-- mentioned in 1.01d as `CorKalom_BringBook`
-
-## Bring Focus To Y'Berion
-- mentioned in 1.01d as `YBerion_BringFocus`
-
-## CorAngar - Sent to NC
-- mentioned in 1.01d as `CorAngar_SendToNc`
-
-## YBerion Dead
-- mentioned in 1.01d as `YBerion_Dead`
-
-## Bring Parchment To Baal Lukor
-- mentioned in 1.01d as `BaalLukor_BringParchment`
-
-## Open Gate To Monastery Ruin
-- mentioned in 1.01d as `MonasteryRuin_GateOpen`
-
-## Bring List To Diego
-- mentioned in 1.01d as `Diego_BringList`
-
-## Whistler's Sword
-- mentioned in 1.01d as `Whistler_MySword`
 
 ## Ore For Mages
 - deliver ore to _The Ore Supplier Of Fire Mages_
