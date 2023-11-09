@@ -267,6 +267,10 @@ title: Characters
 - his role appears to overlap with that of _The Invisible Man_ and _Shadow Baron_
 - in alpha build known referred as `EBR_104 Aussenminister`
 
+## Fortuno
+- Templar in design doc `Story 3.3 draft`, in the final release took over drug-distributor role of _Ka Limae_
+- `aggressive, looking for a fight`, `day guard at the main entrance`
+
 ## Havil
 - _Novice_ only mentioned in design doc `Story 3.3 draft`
 - `unreliable, likes to provoke`
