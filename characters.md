@@ -562,7 +562,8 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 ## Stomp
 - in the final release known as `The Nameless One`
 - main character of _Sleeper's Ban_ and _Gothic I_
-- `He is the chosen one, who initially knows nothing about it but later discovers.` (design doc `Story 3.3 draft`)
+- `He is the chosen one, who initially knows nothing about it but later discovers` (design doc `Story 3.3 draft`)
+- `the only one who can ultimately fight the Archdemon, and therefore endowed with a hidden trait that makes him unique` (design doc `Story 3.3 draft`)
 - `Stomp` is a nickname he took after being imprisoned, his real name is unknown
 - heir of a `respected merchant family`
 - going on drinking sprees in his hometown
