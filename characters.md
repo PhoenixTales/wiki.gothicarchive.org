@@ -54,6 +54,12 @@ title: Characters
 - later changed into _Old Camp Mercenary_ bodyguarding the _Big Boss_ (as one of `SLD_BARONSGUARDN*`)
 - finally promoted to one of _Ore Barons_, but keeping exactly the same job of bodyguarding _Gomez_ in front of his throne
 
+## Baal Kadash
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `selfish, looking for convenience`
+- `Reports to Ka-Garon`
+- `Dealer/recruiter in the New Camp`
+
 ## The Big Boss
 - the leader of the _Ore Barons_, in the final game called `Gomez`
 - in alpha builds referred to as `Supreme Ore Baron` (`obersten Erzbaron`), `king-like ruler`, `our master`, `our big boss`, `our leader`, `The Baron`
