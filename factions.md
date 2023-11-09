@@ -240,8 +240,11 @@ title: Factions
 - `When was the last time you got a woman? If you join us, you'll get women as well.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 - `Have you had a decent meal recently? See, nobody is hungry in our sect.` (`Quicktongue_ProcessNpc` / 0.56c alpha)
 - `We take good care of our people, in the Old Camp there is only oppression` (`Quicktongue_ProcessNpc` / 0.56c alpha)
-- when _Gurus_ want to get rid of someone, _The Lobotomist_ drives them permanently insane with his psionic spells, and they end up as _The Burnouts_ in the _Old Camp_
 - `With every Mass Meditation and every new Novice under the influence of Drugs, they sacrifice to The Sleeper the energy he needs to awaken` (design doc `Story 3.3 draft`)
+
+### The Gurus
+- `it's said they can read minds` (design doc `Story 3.3 draft`)
+- when _Gurus_ want to get rid of someone, _The Lobotomist_ drives them permanently insane with his psionic spells, and they end up as _The Burnouts_ in the _Old Camp_
 
 ### The Novices
 - originally called `Temple Servants` (German: `Tempeldiener`)
