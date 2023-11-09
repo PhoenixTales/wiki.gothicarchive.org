@@ -337,6 +337,17 @@ title: Characters
 - `Reports to COR-LORAN and COR-GARRION`
 - `leads meditations for middle novices`
 
+## Ka Lib
+- `High novice` only mentioned in design doc `Story 3.3 draft`
+- `Kalom's drug assistant`, `wants Kalom's job`
+- enemy of _Ka Zatiz_
+
+## Ka Zatiz
+- `High novice` only mentioned in design doc `Story 3.3 draft`
+- `He is a believer and follows his master Kalom blindly`
+- `Kalom's drug assistant` (second one)
+- enemy of _Ka Lib_
+
 ## The Landlord
 - German: `der Gutsherr`
 - leader of _The Peasants_
