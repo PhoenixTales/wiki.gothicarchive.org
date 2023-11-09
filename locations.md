@@ -6,6 +6,10 @@ title: Locations
 - German: `Verlassene Mine` (`VM`)
 - `The boys from the Old Camp mined ore in the Abandoned Mine. Then the mine stopped producing enough, and they built a new one south of the Old Camp.` (the `Old Mine`) (design doc `Story 3.3 draft`)
 
+## The Crypt at Sect Camp
+- mentioned in design doc `Story 3.3 draft`
+- used for _Black Masses_ and self-mortification
+
 ## Exchange Place
 - German: `Handelsplatz` (`HP`)
 - controlled by _Old Camp_, used to exchange _Magic Ore_ for goods from the king 
