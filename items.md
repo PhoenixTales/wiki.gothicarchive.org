@@ -189,6 +189,8 @@ title: Items
 - `have a tranquilizing and relaxing effect. They help you concentrate on the essentials and increase your awareness.`
 - `opens your spirit` and gives chance to experience visions (`Some people even see images`)
 - there are multiple distinct blends of _Swampweed_ that differ in strength and price
+- there's a blend called `Sleeper's Dream` (German: `Schläfertraum`) mentioned in design doc `Story 3.3 draft`
+  - it's the only blend mentioned in the document, the one which _Novices_ receive daily and which is traded with other camps
 
 ### Other games
 - Gothic 2:
