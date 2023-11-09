@@ -150,6 +150,11 @@ title: Items
 - there is a related mission, _Bring Psi Potion_ (`I urgently need a PSI vial`)
 - `There isn't much to pick up in the cult camp other than mountains of drug vials` (`Inf_Org_SL`)
 
+## Psionic Powder
+- appears in mission `Taste of PSI Magic` in design doc `Story 3.3 draft`
+- swallow (do not snort) to get temporary psionic powers 
+- `When you swallow this powder, you have ten minutes to make someone forget everything they have experienced in the last few hours`
+
 ## Rune Stones
 - see _Magic_
 
