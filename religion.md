@@ -44,13 +44,14 @@ title: Religion
 - `the mightiest spell of the Fifth Circle is the Ripple of Death. (...) Be careful to use this kind of magic as little as possible. It's a gift from the god of darkness.`
 - as suggested by `OtWaMaskMoon.tga`, symbolized by crescent moon on dark purple
 
-## Arch demon Sleeper
+## Archdemon Sleeper
 - in early design docs mentioned as `The Being` (German: `der Wesenheit`) (see `NPCs per guild`)
 - `The Sleeper(...)has been sleeping for a thousand years, but now the moment of his awakening is near.`
 - `He has chosen us to be witnesses to his awakening and to spread his word. So listen, all those who join the Sleeper will have immortal souls, but those who are against him will be punished.`
 - there are 7 arch demons in total, that fight between each other for dominance
 - `The creation of the Magic Barrier awakened something.` (`Inf_Mst_MB`)
   - German: `Die Erschaffung der Magische Barriere hat irgendetwas erwachen lassen`
+- his `goal is to awaken in order to enslave people` (design doc `Story 3.3 draft`)
 
 ## Shugul Sath
 - also known as the Smoke Hunter
@@ -73,7 +74,7 @@ It reminded of a dog or something, just a lot bigger than anything Stomp had see
 It was a dark shape, with no visible details, dominated by a pair of bright yellow eyes
 ```
 ```
-She was taller, taller than any carnivore he had ever seen in the circus, taller than any panther he had ever seen, although that species was the most similar in stature. 
+It was taller, taller than any carnivore he had ever seen in the circus, taller than any panther he had ever seen, although that species was the most similar in stature. 
 ```
 ```
 where the finger-long claws touched the rock, the stone itself seemed to boil, flow like water in waves around the plate-sized paws.
