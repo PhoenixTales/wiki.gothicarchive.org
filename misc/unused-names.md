@@ -40,7 +40,6 @@ Olon            | VLK_509_OLON, lost his name and became `VLK_509_BUDDLER`
 Crumb           | VLK_CRUMB
 Dumb            | VLK_DUMB
 Numb            | VLK_NUMB
-Gor-Na-Go       | High Templar, `proud, incorruptible, takes tough action`, `commands the day guards`
 Gor-Morbio      | Templar, `mean, insulting, picks on weaker people`, `hunts Minecrawlers in Free Mine`
 Gor Grome       | Templar, `corrupt, takes Minecrawler Secretion into his own pocket`, `hunts Minecrawlers in Free Mine`
 Gor-Bugol       | Templar, `proud, seeking fame and honor` `hunts Minecrawlers in Abandoned Mine`
