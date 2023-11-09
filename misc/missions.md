@@ -207,16 +207,18 @@ title: Missions
 - he needs new strings for it
 
 ## Message to a Sect dropout
-- mission briefly mentioned in design doc `Story 3.3 draft`
+- mission described in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
-- _Novice_ _Delon_ deserted from the _Sect Camp_ and joined _Old Camp_
-- player needs to find his hut in the _Old Camp_ and leave a letter on the bed
+- _Delon_ deserted from the _Sect Camp_ and joined _Old Camp_
+- player needs to find his hut in the _Old Camp_ and deliver a letter to him
 - the letter says `Delon. You betrayed us. Soon the Sleeper will judge you.`
-- Delon talks to player character in his hut, but the letter still gets delivered and mission is completed
 
-## Stand guard during Sect dropout's execution
-- mission briefly mentioned in design doc `Story 3.3 draft`
+## Stand guard during Sect dropout's murder
+- mission described in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
+- _Gor-Hanis_ is going to murder _Delon_ in his hut
+- _Ore Barons_ aren't supposed to find out who did it
+- player has to distract a _Beggar_ and _Mercenary_ who are passing by
 
 ## Get a weapon from a mercenary
 - mission briefly mentioned in design doc `Story 3.3 draft`
