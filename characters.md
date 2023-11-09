@@ -153,28 +153,27 @@ title: Characters
 - in 0.64b alpha name `Angar` is used for a _Mercenary Of Old Camp_, `SLD_202_ANGAR`
 - `a former Templar who became a guru; takes care of the Templars` (design doc `NPCs per Guild`)
 - `teaches player character Templar psionic magic and weapons` (design doc `NPCs per Guild`)
-- in the final game he's a Templar rather than a Guru, but still counted among the leadership of the camp 
+- in the final game he's the highest Templar rather than a Guru, but still counted among the leadership of the camp
+- `hard, proud, merciless`, `the perfect man for rough stuff` (design doc `Story 3.3 draft`)
+- `partially mind-controlled` (unclear if by _Cor Kalom_ or _Y'Berion_) (design doc `Story 3.3 draft`)
+- `The Inquisition` (design doc `Story 3.3 draft`)
 
-## Cor Garrion
-- _Guru_ only mentioned in design doc `Story 3.3 draft`
-- `Is stoned for the first half of the day`
-- `Is under KALOM and ANGAR`
-- `Subordinate to him is KA-GARON`
+## Cor Garrion and Cor Loran
+- _Gurus_ only mentioned in design doc `Story 3.3 draft`
+- one is always stoned for the first half of the day, and the other one for the second
+- the one who is not stoned at the time, teaches novices
+- `Are commanded by Kalom and Angar`, `command Ka Garon`
 
 ## Cor Kalom, The Mastermind
+- the `drug Guru` and `drug freak` (design doc `Story 3.3 draft`)
+- `Unscrupulously seeking to gain power` (design doc `Story 3.3 draft`)
 - described as `instructor` (alpha build) and `the teacher of all gurus` (design doc `NPCs per Guild`)
 - in early alpha build `armed with short sword and bow`, wears guru robes
 - `masters all psionic spells` (design doc `NPCs per Guild`)
 - in `slight rivalry with The Enlightened One` (_Y'Berion_, leader of their camp) (design doc `NPCs per Guild`)
 - `The other day I had to stand guard in front of the castle ruins while Mastermind met with one of the arch barons inside`
   - this is said by one of the _Sect Templars_ (`Inf_Tpl_VK`)
-- called `Drug freak`, suggesting that he's one of the users of the drugs he prepares (design doc `Story 3.3 draft`)
-
-## Cor Loran
-- _Guru_ only mentioned in design doc `Story 3.3 draft`
-- `Is stoned for the first half of the day`
-- `Is under KALOM and ANGAR`
-- `Subordinate to him is KA-GARON`
+- `the enlightened one is irrevocably dependent on him` (design doc `Story 3.3 draft`)
 
 ## Corristo, Master Of Fire
 - German: `Meister des Feuers`
@@ -817,7 +816,7 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - one of _Ore Barons_, the son of _Big Boss_
 
 ## Y'Berion, The Enlightened One
-- `the most powerful guru` (design doc `NPCs per Guild`)
+- `the most powerful Guru` (design doc `NPCs per Guild`), `Head Guru of the temple` (design doc `Story 3.3 draft`)
 - `No one in the sect dares to doubt his words and actions, no matter how crazy they are` (design doc `NPCs per Guild`)
 - `at night he often slips into the body of a Temple Servant or Templar and explores the dungeons` (design doc `NPCs per Guild`)
 - `Mission giver for Sect Camp Gurus` (design doc `NPCs per Guild`)
