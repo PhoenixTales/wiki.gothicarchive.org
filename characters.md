@@ -335,6 +335,7 @@ title: Characters
 - initially he was serving as a guard in the king's court
   - source: alpha docs
 - ex-general, `war hero`
+- also called `Duke` in design doc `Story 3.3 draft`
 - convicted for lifetime of forced labor for murder of the `king's wife`
   - he insists that he's innocent, and that he was framed by conspiring nobles
   - according to earlier version of his story, his arest was related to some piece of correspondence written by another nobleman, again without him actually committing any crime
