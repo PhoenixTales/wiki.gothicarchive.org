@@ -336,6 +336,10 @@ title: Characters
   - plot twist is that after being killed, these enemies participate in the feast in role of the meal
 - member of both _Guards Of The New Camp_ and _The Masters_
 
+## Gortak
+- _Old Camp_ member burned alive by angry _Fire Mage_ mentioned in alpha 0.94
+- `Before he could reach the river, he got burned. Shinig like a human torch, that poor boy. And he was screaming like a piglet getting slaughtered. Well, never annoy a mage.`
+
 ## Greg
 - _Old Camp Mercenary_ with ID `SLD_MAINGATEGUARDT1`, removed in late alpha
 - guards the gate together with _Jack_
