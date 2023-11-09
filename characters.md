@@ -59,7 +59,13 @@ title: Characters
 - `Talkative, contact point for special requests`
 - `Reports to Ka-Garon`
 - `the 'organizer' among the novices, has contacts with various guilds`
+  - `known for being able to get things that you would otherwise never see in the cult camp`
+  - `has good contacts with an Organizer and some Farmers in the New Camp (old acquaintances from the prison days)`
+  - `from time to time, the supplies the Organizer with drugs and information about worthwhile goals in the Old Camp`
+  - `sometimes obtains home-made alcohol, which is very popular alongside the Sleeper's Dream but much more difficult to obtain`
 - `Cook`
+  - `Most of the special requests that come from the Novices concern food`
+  - from the Organizer friend he `receives fresh food that he hoards in a secret depot`
 - member of _Ka Limae's_ gang
 
 ## Baal Kadash
