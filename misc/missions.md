@@ -210,7 +210,7 @@ title: Missions
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
 
-## Dope on Delon's murder
+## Stand guard during Delon's murder
 - mission briefly mentioned in design doc `Story 3.3 draft`
 - given by _Gor-Na-Tot_ to a _Templar_ candidate
 
