@@ -201,3 +201,7 @@ title: Missions
 - the final part of exam for joining _The Sect's Novices_, ordered by _Baal Namib_
 - unclear what was it supposed to be about
 
+## Strings for Baal Moc's lute
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- _Baal Moc_ plays lute for _Y'Berion_
+- he needs new strings for it
