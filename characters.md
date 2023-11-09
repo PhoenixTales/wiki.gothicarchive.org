@@ -81,6 +81,11 @@ title: Characters
 - `Reports to Ka-Garon`
 - member of _Ka Limae's_ gang
 
+## Bartolo, the Newcomer
+- candidate to join _Novices Of The Sect_ mentioned in design doc `Story 3.3 draft`
+- `Not very big, not very strong. Shy. Fearful. Just looks for protection within the Sect. You can really feel sorry for him`
+- `he has what it takes to be a great PSI magician`
+
 ## The Big Boss
 - the leader of the _Ore Barons_, in the final game called `Gomez`
 - in alpha builds referred to as `Supreme Ore Baron` (`obersten Erzbaron`), `king-like ruler`, `our master`, `our big boss`, `our leader`, `The Baron`
