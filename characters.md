@@ -336,6 +336,14 @@ title: Characters
 - `Kalom's drug assistant`, `wants Kalom's job`
 - enemy of _Ka Zatiz_
 
+## Ka Limae
+- `High novice` only mentioned in design doc `Story 3.3 draft`
+- `Opportunist. Not a believer. Take advantage of the perks The Sect offers him.`
+- `Drug distributor in Sect Temple`, `The player character gets his drug rations from him`
+  - this corresponds to _Fortuno_ from the final release
+- `belongs to a circle of friends who run small drug deals with the Old Camp and New Camp behind the gurus' backs`
+  - with `Baal Kadash, Baal Tarin and Baal Filo`
+
 ## Ka Shin, The House Steward Of Sect Camp
 - German: `Haushofmeister`
 - one of the _High Novices_ of _The Sect_
