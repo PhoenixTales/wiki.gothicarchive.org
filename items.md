@@ -104,6 +104,10 @@ title: Items
   - _Sleeper's Ban_ mentions that _Sruup_ (_PSI Potion_) has the same main ingredient, making these two potions at least related
   - `You can get anything for ore, and the Sruup is also made with the help of this material`
 
+## Milking Vessel
+- _Templars_ use it to collect _Minecrawler Secretion_
+- briefly mentioned in design doc `Story 3.3 draft`
+
 ## Mushrooms
 - `Honey Mushroom`
 - `Stinking Mushroom`
