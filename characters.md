@@ -103,6 +103,13 @@ title: Characters
   - neutral target becomes friendly and `gives them 2 items`
   - hosile target becomes friendly (may be a mistake, as neutral would fit here) and `gives them 1 item`
 
+## Brandick
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- identical to _Born_ with few exceptions:
+  - has his own gang, with _Santino_ and _Harlok_
+  - they spend time in _Old Camp_
+  - won't automatically steal from player, are less hostile
+
 ## Burgrave Bergmar
 - comes from _Western Field_
 - owner of _Mountain Fortress_
@@ -340,6 +347,10 @@ title: Characters
 ## Guardian Of The Circle
 - German: `Behüter des Kreises`
 - alchemist and teacher of _Fire Mages_ (design doc `NPCs per Guild`)
+
+## Harlok
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- member of _Brandick's_ gang, similar to him in every aspect'
 
 ## Hawkeye
 - one of _The Trappers_ (design doc `NPCs per Guild`)
@@ -631,6 +642,10 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `organizes the really tricky things` (design doc `NPCs per Guild`)
 - `Master thief, very cunning and clever` (design doc `NPCs per Guild`)
 - `dishonest & deceitful; regularly betrays his guild, but is never caught` (design doc `NPCs per Guild`)
+
+## Santino
+- _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
+- member of _Brandick's_ gang, similar to him in every aspect
 
 ## Saturas, Master Of Water
 - German: `Meister des Wassers`
