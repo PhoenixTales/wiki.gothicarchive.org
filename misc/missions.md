@@ -186,4 +186,18 @@ title: Missions
 - `In the new camp there is one they call the Duke. He should find this in his bed. If you do it without getting caught, I'll put in a good word for you with Grmbl, our leader.`
 - the letter is sealed and says: `Duke! The one who brought this letter could have brought a knife... Maybe protecting the Free Mine with your boys isn't such a good idea after all. THE SHADOW`
 
-  
+## Deliver Milking Vessel
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- bring _Milking Vessel_ for _Minecrawler Secretion_ to _Abandoned Mine_
+- first part of exam for joining _The Sect's Novices_, ordered by _Baal Namib_
+
+## Minecrawler Bait
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- let the Minecrawlers chase you in the mine (probably _Abandoned Mine_) and bait them to the _Templars_ who kill them
+- second part of exam for joining _The Sect's Novices_, ordered by _Baal Namib_
+
+## Sect's Loyalty Test
+- mission briefly mentioned in design doc `Story 3.3 draft`
+- the final part of exam for joining _The Sect's Novices_, ordered by _Baal Namib_
+- unclear what was it supposed to be about
+
