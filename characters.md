@@ -538,6 +538,13 @@ title: Characters
 - `Reports to Baal Filo` (who is the cook)
 - `Kitchen helper / plant collector / food distributor`
 
+## Marvin
+- appears in 1.01d alpha as `ORG_856_MARVIN`
+- according to 0.94 alpha, the only healer in _New Camp_
+  - this was written after _Water Mages_ were no longer designated as healers
+- the script internally calls him `drunken healer`
+- `You speak to Marvin The Healer. THE healer. The only one here. So if you get me some schnapps, I'll help you if you ever get hurt. Otherwise you can of course also get healing potions from me. For only ...hmmm... 10 ore.`
+
 ## The Merciless
 - German: `der Gnadenlose`
 - `leads field operations`
