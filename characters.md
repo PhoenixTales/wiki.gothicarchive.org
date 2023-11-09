@@ -300,6 +300,11 @@ title: Characters
 - `serves as a bodyguard for The Landlord`, `he is a very good fighter` (design doc `NPCs per Guild`)
 - `he is quite naive and can easily be being tricked` (design doc `NPCs per Guild`)
 
+## Gor-Na-Go
+- High Templar mentioned in design doc `Story 3.3 draft`
+- `I know your thoughts. Lying is pointless`
+- `proud, incorruptible, takes tough action`, `commands the day guards`
+
 ## Gor-Na-Tot
 - High Templar mentioned in design doc `Story 3.3 draft`
 - `a merciless teacher, uncompromising, discipline is everything. He is the grinder.`
