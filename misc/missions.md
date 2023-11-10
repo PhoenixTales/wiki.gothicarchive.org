@@ -9,6 +9,11 @@ title: Missions
 - `Bad luck, 'Blade Fodder' unfortunately lost`
 - internal comment: `The player buys a betting slip from the arena master, which he has to bring back the next day. Since the Arena Master is a sneaky cheater, the player automatically loses.`
 - offered by _Scatty The Arena Master_
+- there's also a later version of related dialogue (`SIT_1_OC_SCATTY_EXPLAINARENA` in 0.94 alpha)
+  - `PLAYER: You're the one who arranges the fights?`
+  - `SCATTY: A newcomer! Interested in betting?`
+  - `PLAYER: What can I win?`
+  - `SCATTY: Depends who you put your money on. Kharim is the champion. Odds are 2 to 1. He has a different challenger each evening.`
  
 ## Arena Championship
 - mentioned in 1.01d alpha as `Scatty_WannaFight`
