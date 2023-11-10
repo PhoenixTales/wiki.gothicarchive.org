@@ -22,6 +22,10 @@ title: Monsters
 - mentioned in 1.01d alpha
 - in the final game translated as `Waran`
   - compare lists `GIL_WARAN GIL_SLF GIL_GOBBO` and `Iguana Sleeper Gobbo`
+ 
+## Lurker
+- water monster that is hard to catch on the shore without bait
+  - `You catch a lurker with bait. Take raw meat and put it on the shore near him. Wait until he grabs it, then you have a chance` (`SIT_1_NC_WOLF_TRAINSARCHERY` / 0.94 alpha)
 
 ## Mid'ssa
 - underwater monster living at the `Exchange Place`
