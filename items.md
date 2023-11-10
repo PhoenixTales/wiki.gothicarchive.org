@@ -189,6 +189,10 @@ title: Items
 - has `pungent odor` (German: `ein stechender Geruch`) (_Sleeper's Ban_)
 - almost for sure the same as `PSI Potion` in alpha game builds
 
+## Stone plate
+- readable 'document' without any content programmed
+- can be sold for 5 ore
+
 ## Swampweed
 - `grown in the swamp (...) has to be processed before it can be smoked`
 - `have a tranquilizing and relaxing effect. They help you concentrate on the essentials and increase your awareness.`
