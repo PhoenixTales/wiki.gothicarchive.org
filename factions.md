@@ -87,6 +87,7 @@ title: Factions
 - 3 of the _Mercenaries_ specialize in arena fighters and use title `Gladiators` (German: `Gladiatoren`) (design doc `NPCs per Guild`)
 - `Hierarchy has a strict military feel, discipline is enforced through brute force` (design doc `NPCs per Guild`)
 - `Despite strong denials, the Mercenaries differ little in their structure from the Orcs!` (design doc `NPCs per Guild`)
+- `Since the rebellion, Gomez' guards have been walking about in the jail warders' armours` (`SIT_1_OC_RYAN_FEARFOX` / 0.94 alpha)
 
 ## Miner's Association
 - German: `Der Schürferbund` (`SFB`)
