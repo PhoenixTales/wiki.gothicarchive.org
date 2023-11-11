@@ -33,6 +33,13 @@ title: History
 - there are prophecies that apocalyptic crisis from almost 1000 years ago is going to return
   - `constellations of stars start moving to the same positions`
 
+## Origin Of Myrtana
+
+### Other games
+Origin of Myrtana is only described in Gothic 3:
+
+> The barbarians lived in Nordmar. And Rhobar was one of them. (...) And Innos said to Rhobar: Descend from the mountains, and defeat my enemies. And Rhobar waged war against the orcs. And the wrath of Innos descended upon them. And Rhobar was victorious. Once his enemies were defeated, Innos said to him: This is where you shall establish your kingdom. And Rhobar did as he was bidden.
+
 ## Golden Age Of Myrtana
 - Myrtana prospers during rule of _Rhobar I_
 - `Gods looked upon Myrtana with a kind heart and blessed all the land with peace, lavish crops and an abundance of Copper, bronze and Ore. Myrtana thrived in this blissful age`
@@ -62,11 +69,9 @@ title: History
   - according to Mike, that's because in those times Orc lived all over (under) Myrthana, not only in the North
  
 ### Other games
-Gothic 3 suggests that _First Orc War_ was won by Orcs and happened _before_ _Rhobar I_ established _Myrtana_:
+Gothic 3 suggests that _First Orc War_ was won by Orcs:
 
 > After the first great war, the orcs ruled the kingdom of Myrtana. And the humans were their slaves.
-
-> The barbarians lived in Nordmar. And Rhobar was one of them. (...) And Innos said to Rhobar: Descend from the mountains, and defeat my enemies. And Rhobar waged war against the orcs. And the wrath of Innos descended upon them. And Rhobar was victorious. Once his enemies were defeated, Innos said to him: This is where you shall establish your kingdom. And Rhobar did as he was bidden.
 
 ## Second Orc War
 - the front line was along the _Northern Plains_
