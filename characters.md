@@ -667,6 +667,13 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - later changed into an _Ore Baron_ `EBR_105_Raven` 
 - he became _The Right Hand_ of _Gomez_, replacing removed `EBR_101 Rechte Hand`
 
+## Rhobar I
+- ancestor of Rhobar I
+- according to Gothic I handbook father of _Rhobar II_, according to Mike Hoge there were kings in between
+
+### Other games
+- Gothic 3 `Book Of Rhobar` says: `The barbarians lived in Nordmar. And Rhobar was one of them. (...) And Innos said to Rhobar: Descend from the mountains, and defeat my enemies. And Rhobar waged war against the orcs. And the wrath of Innos descended upon them. And Rhobar was victorious. Once his enemies were defeated, Innos said to him: This is where you shall establish your kingdom. And Rhobar did as he was bidden.`
+
 ## Rhobar II
 - `everything that his troops could not hold was razed to the ground`
 - `During the long years of his reign he was able to defeat all foes of his realm. All except (...) the orcs`
