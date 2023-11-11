@@ -60,6 +60,13 @@ title: History
   - `The kingdom was gradually recovering from the wounds of the past. Wheat flourished in the fields and new trade agreements were signed.`
 - on _Khorinis_ there are `old fortifications dating back to the time of the first Orc war`
   - according to Mike, that's because in those times Orc lived all over (under) Myrthana, not only in the North
+ 
+### Other games
+Gothic 3 suggests that _First Orc War_ was won by Orcs and happened _before_ _Rhobar I_ established _Myrtana_:
+
+> After the first great war, the orcs ruled the kingdom of Myrtana. And the humans were their slaves.
+
+> The barbarians lived in Nordmar. And Rhobar was one of them. (...) And Innos said to Rhobar: Descend from the mountains, and defeat my enemies. And Rhobar waged war against the orcs. And the wrath of Innos descended upon them. And Rhobar was victorious. Once his enemies were defeated, Innos said to him: This is where you shall establish your kingdom. And Rhobar did as he was bidden.
 
 ## Second Orc War
 - the front line was along the _Northern Plains_
