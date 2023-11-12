@@ -54,6 +54,7 @@ title: Orcs
   - `Krush Morok` = `OrcSword_02`
   - `Krush Agash` = `OrcWaraxe`
   - `Krash Morra` = `Crossbow_KrashMorra`
+  - `Krush Irmak` = `Irmak_2H_Halberd`
 
 ## Types of orcs found in game
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
