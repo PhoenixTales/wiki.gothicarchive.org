@@ -219,6 +219,9 @@ title: Characters
   - `Our magicians just can't resist going to the Demon Summoner's Tower to learn` (`Inf_Ebr_TDB`)
 - teaches _Master Of Fire_
 
+## Other games
+- Gothic 3 once refers to him as `Black Mage`
+
 ## Diego
 - called `Raoul` on old website
 - `cynical thief`
