@@ -48,10 +48,11 @@ title: Orcs
 ### Other games
 - Gothic 3 suggests that `Krush` means `weapon`:
   - `Krush Milok` = `Milok's old sword`
-  - `Krush Pach` = `2H_OrcAxe`
+  - `Krush Pach` = `OrcAxe`
   - `Krush Tarach` = `OrcHalberd`
-  - `Krush Varok` = `2H_OrcSword`
-  - `Krush Agash` = `2H_OrcWaraxe`
+  - `Krush Varok` = `OrcSword_01`
+  - `Krush Morok` = `OrcSword_02`
+  - `Krush Agash` = `OrcWaraxe`
 
 ## Types of orcs found in game
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
