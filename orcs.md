@@ -45,6 +45,9 @@ title: Orcs
 - Khaz-Tak: Lurker Claw (source: `DIA_FREEMINEORC`)
 - Orth-Antak: Swampshark Tooth (source: `DIA_FREEMINEORC`)
 
+### Other games
+- Gothic 3 suggests that `Krush` means `sword`: `Krush Milok` = `Milok's old sword`
+
 ## Types of orcs found in game
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
 - scout
