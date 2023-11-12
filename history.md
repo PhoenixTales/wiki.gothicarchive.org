@@ -43,6 +43,8 @@ title: History
   - some of them worshipped _Innos_, later bringing that faith to _Nordmar_: `Akascha, a warrior of the Ancient Ones`, `A very long time ago, a man came to Nordmar. A man inspired by the fire of Innos. He came from far away, from the south. He became one of us, a Nordmarian. This man was Akascha. Some Nordmarians were convinced that Akascha got his strength from Innos. They followed him and started to pray to Innos.`
   - they coexisted with _The Nomads Of The Desert_ who worshipped _Adanos_, and _Ancient Ones_ were greately angered by one of them joining _The Nomads_ to worship _Adanos_
     - `Haran Ho was a great warrior of the Ancient Ones. His travels led him deep into the desert. There he learned the nomads' way of life and came to cherish it. Haran Ho recognized the wisdom of the Water Mages and understood the power of Adanos. Finally, he gave up his old life and joined the nomads. His decision angered the rulers of the Ancient Ones. On their orders, the hunt for Haran Ho began.`
+  - some ancient people of _Varant_, likely members of _The Ancient Ones_, were building a `portal` for _Innos_ to physically enter the world of mortals and unleash his full power there, similar to one that _Orc Shamans_ used to summon _The Sleeper_
+    - `And Innos spoke to his servants: Erect a portal for me, so that I might reign over this world in all eternity! And his servants did as they were bidden.`
 
 ## Origin Of Myrtana
 
