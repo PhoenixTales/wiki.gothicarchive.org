@@ -650,8 +650,15 @@ INSTANCE Vlk_Mole_01 (Npc_Default)
 - `Juan Sánchez-Villalobos Ramírez`, mentor and friend of main protagonist of `Highlander` series
   - he lived in XVI century Spain and in the movie is dressed correspondingly, played by Sean Connery
   - he was a _Royal Chief Metallurgist_
+  - SPOILER: he gets murdered during the story, and protagonist eventually avenges him
 
 ![https://en.wikipedia.org/wiki/File:JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg](https://upload.wikimedia.org/wikipedia/en/7/7b/JuanS%C3%A1nchezVilla-LobosRam%C3%ADrez.jpg)
+
+### Other games
+- in Gothic 3 there is a murder victim by that name, the Nameless Hero finds his murderer and avenges him:
+- `Find his killer and avenge Ramirez.`
+- `I found Ramirez in the field of ruins. He is dead.`
+- `Then the death of Ramirez is avenged... good!`
 
 ## Raska
 - _Novice of The Sect_ mentioned in design doc `Story 3.3 draft`
