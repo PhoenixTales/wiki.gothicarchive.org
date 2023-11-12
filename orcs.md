@@ -41,12 +41,17 @@ title: Orcs
 - name `morlock` comes from fictional underground orc-like species in public domain 1895 novel `The Time Machine`
 
 ## Orc language
-- Krotahk : Flame Tongue (source: `DIA_FREEMINEORC`)
-- Khaz-Tak: Lurker Claw (source: `DIA_FREEMINEORC`)
-- Orth-Antak: Swampshark Tooth (source: `DIA_FREEMINEORC`)
+- `Krotahk` : Flame Tongue (source: `DIA_FREEMINEORC`)
+- `Khaz-Tak`: Lurker Claw (source: `DIA_FREEMINEORC`)
+- `Orth-Antak`: Swampshark Tooth (source: `DIA_FREEMINEORC`)
 
 ### Other games
-- Gothic 3 suggests that `Krush` means `sword`: `Krush Milok` = `Milok's old sword`
+- Gothic 3 suggests that `Krush` means `weapon`:
+  - `Krush Milok` = `Milok's old sword`
+  - `Krush Pach` = `2H_OrcAxe`
+  - `Krush Tarach` = `OrcHalberd`
+  - `Krush Varok` = `2H_OrcSword`
+  - `Krush Agash` = `2H_OrcWaraxe`
 
 ## Types of orcs found in game
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
