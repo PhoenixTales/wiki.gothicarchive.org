@@ -217,6 +217,8 @@ title: Items
 - Gothic 2 NotR:
   - _Fortuno_ suggests that even the _Green Novice_, weakest of the weed blends prepared by _The Sect_, is stronger than pure _Swampweed_ joint prepared in a simple way
   - `Green Novice` joint can be made by mixing `essence of two swampweed plants and a meadow knotweed`
+- Gothic 3:
+  - `Swampweed, stranger. Pure, fine swampweed. (...) The conditions are ideal - lots of sun, fresh breezes... That makes the pollen unbelievably fine.`
 
 ## Teleport Stone
 - single item `TeleportStone` connected with single spell `Spell_Teleportation`
