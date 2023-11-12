@@ -220,7 +220,7 @@ title: Characters
 - teaches _Master Of Fire_
 
 ## Other games
-- Gothic 3 once refers to him as `Black Mage`
+- Gothic 3 once refers to him as `Black Mage`, and calls skill that adds bonus to _Summoning Magic_ a `Dark mage`
 
 ## Diego
 - called `Raoul` on old website
