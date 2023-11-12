@@ -356,9 +356,9 @@ title: Characters
 - originally `SLD_GRUNT`, later `SLD_702_GRUNT`
 - attacks the player if he refuses to give away his sword
 - killing him is rewarded with a free sword fighting lesson from _Strider_
-- in the final release became Lee's bodyguard
+- later he became Lee's bodyguard but in final release lost his name (?) 
   - `SLD_702_Soeldner`: `24h Wache vor Lee (Ex-Grunt)`
-  - in the meantime `SLD` changed meaning from _Old Camp Mercenary_ to _New Camp Mercenary_ 
+  - in that period `SLD` changed meaning from _Old Camp Mercenary_ to _New Camp Mercenary_ 
 
 ## Grub
 - enslaved orc shaman at _Royal Ore Mine_
