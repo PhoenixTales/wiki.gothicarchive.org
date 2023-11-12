@@ -33,6 +33,17 @@ title: History
 - there are prophecies that apocalyptic crisis from almost 1000 years ago is going to return
   - `constellations of stars start moving to the same positions`
 
+### Other games
+- Gothic 3
+  - mentions civilization known as `the Ancient Ones`
+  - `the dark magical arts of the Ancient Ones` that summons `the undead` and `spawn of hell`
+  - `the Ancient Ones possessed their own kind of magic`
+  - their commanders stayed undead until modern times: `Let's battle some undead. The commanders of the Ancient Ones do not belong in this time.`
+  - their empire included Varant: `We are here in Al Shedim, a temple city of the Ancient Ones`
+  - some of them worshipped _Innos_, later bringing that faith to _Nordmar_: `Akascha, a warrior of the Ancient Ones`, `A very long time ago, a man came to Nordmar. A man inspired by the fire of Innos. He came from far away, from the south. He became one of us, a Nordmarian. This man was Akascha. Some Nordmarians were convinced that Akascha got his strength from Innos. They followed him and started to pray to Innos.`
+  - they coexisted with _The Nomads Of The Desert_ who worshipped _Adanos_, and _Ancient Ones_ were greately angered by one of them joining _The Nomads_ to worship _Adanos_
+    - `Haran Ho was a great warrior of the Ancient Ones. His travels led him deep into the desert. There he learned the nomads' way of life and came to cherish it. Haran Ho recognized the wisdom of the Water Mages and understood the power of Adanos. Finally, he gave up his old life and joined the nomads. His decision angered the rulers of the Ancient Ones. On their orders, the hunt for Haran Ho began.`
+
 ## Origin Of Myrtana
 
 ### Other games
