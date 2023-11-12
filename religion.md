@@ -26,6 +26,11 @@ title: Religion
 - as suggested by `OtWaMaskFire.tga`, symbolized by red flame
 - `KDF_40_VlkSpeech`: `Follow the way of mana, and all will be saved. Otherwise the earth will burn.`
 
+### Other games
+- Gothic 3 suggests that faith in Innos originally was brought to _Nordmar_ in ancient times from South by _Akasha_, and in recent past from _Nordmar_ to _Midlands_ by _Rhobar I_:
+- `A very long time ago, a man came to Nordmar. A man inspired by the fire of Innos. He came from far away, from the south. He became one of us, a Nordmarian. This man was Akascha. Some Nordmarians were convinced that Akascha got his strength from Innos. They followed him and started to pray to Innos. These people left their clans in order to found a new clan with Akascha. A clan that follows Innos. This is how the Fire Clan came to be.`
+- `The barbarians lived in Nordmar. And Rhobar was one of them. (...) And Innos said to Rhobar: Descend from the mountains, and defeat my enemies. And Rhobar waged war against the orcs. And the wrath of Innos descended upon them. And Rhobar was victorious. Once his enemies were defeated, Innos said to him: This is where you shall establish your kingdom. And Rhobar did as he was bidden.` 
+
 ## Adanos, God Of Water
 - before called _Cyvanis_
 - patron of healing, work, knowledge, curiosity, courage
