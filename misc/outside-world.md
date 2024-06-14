@@ -55,7 +55,7 @@ title: Outside World
 ## Nordmar
 - place with blast furnaces
 - only local masters know secret technique for smelting _Magic Ore_ without sacrificing it's magic power
-- ancient _Ore Armor_ of _Ancient General_ was made using similar technology
+- ancient _Ore Armor_ of _Ancient General_ was made using similar technology (in the release version of Gothic, not so in the Alpha, were it was to be made for the player by Stone on Xardas command)
 - earliest real-world blast furnaces are from XII century
 
 ## Polar north
