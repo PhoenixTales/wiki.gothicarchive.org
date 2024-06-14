@@ -3,7 +3,7 @@ title: Outside World
 ---
 
 ## Archolos
-- hilly area
+- mountain
 - famous for vineyards
 
 ## Demon World
