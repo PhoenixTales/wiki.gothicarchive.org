@@ -46,10 +46,10 @@ title: Outside World
 
 ## Myrtana
 - `The kingdom of Myrtana united by King Rhobar II`
-  - `the one who united of the four Mirtanian kingdoms of the sea`
+  - `the one who united the four realms at the myrtanian sea`
   - term _Kingdom Of Myrtana_ includes annexed realms like _Varant_
 - called both `kingdom` and `empire of four united kingdoms`
-- also called _Martiana_ (alpha docs) _Myrthana_ (handbook) and _Mirtana_ (comic)
+- also called _Martiana_ (alpha docs) and _Myrthana_ (handbook)
 - the original kingdom was on the continental lands known as _Midlands_
 
 ## Nordmar
