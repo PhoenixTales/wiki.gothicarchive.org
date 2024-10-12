@@ -18,7 +18,6 @@ title: Religion
 - king of Myrtana is `governor of the highest god, Ra`
 - as suggested by `OtWaMaskSun.tga`, symbolized by bright yellow 8-armed star
 - does not appear in the final release of the game, mostly replaced with _Innos_
-  - final in-game texts mention spells mentioned above as belonging to either element of `fire` or `water` instead of the `sun`
 
 ## Innos, God Of Fire
 - `The god of light, truth and justice`
