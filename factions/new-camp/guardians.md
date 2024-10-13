@@ -71,3 +71,13 @@ title: The Guardians of The New Camp
 ## Orik
 - `chief of the mercenaries` according to 0.94 alpha
   - unclear how does it play with the role of _Lee_
+
+## Strider
+- only appears in early alpha
+- wears what looks like _Guru_ robes, but the comment in the script says that' he's actually wearing a leather armor (`Lederrustung`)
+- `stands in front of the gate to the Castle of the Old Camp and helps the player when he enters` (script comment)
+- sees _Grunt_ (a _Mercenary Of Old Camp_) blackmailing and attacking the player character, and then helps to kill _Grunt_
+- can teach player advanced sword fight after _Grunt_ is dead
+  - `You see, here you have to be able to handle a sword. I can teach you a little sword fighting. Interested? Great, then attack me.`
+- has custom AI which allows player to attack him without getting into trouble, after player accepted sword fighting lesson and before that lesson ends
+- could have been an early demonstration of hostility between members of the _New Camp_ and the _Old Camp_
