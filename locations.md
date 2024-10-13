@@ -28,6 +28,7 @@ title: Locations
 
 ## Free Camp
 - German: `Freies Lager` (`FL`)
+- described as the `village in Hollow`
 - owns the _Free Mine_, is controlled by the _Miner's Association_
 - `the Free Camp is built into a large crater and is barely visible from far away` (`Inf_Bau_FL`)
 - `Have you ever been to Free Camp? This is the enclosed crater in the northwest` (`Inf_Org_FL`)
@@ -77,6 +78,7 @@ title: Locations
   - later called in German `Verlassenes Kastell` (`VK`, Abandoned Castle), `Altes Kastell` or `Versammlungsplatz` (Meeting Place)
   - in the final English translation called `Old Citadel`
 - completely ruined, abandoned remains of old fortress on the top a steep hill
+- `They call it the old citadel but there's hardly anything left of it other than the foundation walls. It's been a ruin for many decades.`
 - originally, the _New Camp_ was more in the south and the _Old Citadel_ was on a mountain just west from it, with all the fields in front of it and the river from the _New Camp_ running through the fields
   - in the final game moved to the _orc territorry_
 - _The Negotiator_ lives in there
