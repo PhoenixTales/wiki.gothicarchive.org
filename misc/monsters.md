@@ -75,6 +75,9 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - `Sharks (...) whose skin was so brilliantly blue that it even faded the color of the sea in that bright sunshine.`
 - `bright blue fins`
 
+## Scavenger
+- according to early alpha transformation spells, there could have been two types of scavengers (there was a spell to transform into `Scavenger2`)
+
 ## Shadowbeast
 - mentioned as `Schattenläufer` (German for `Shadow Walker`) in 1.01d alpha
   - this is a nickname for _Shugul Sath_, a legendary monster of similar posture from _Sleeper's Ban_

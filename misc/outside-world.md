@@ -35,6 +35,8 @@ title: Outside World
   - finally it was on purpose left undefined, to let studio decide later
 - `Here they used to mine the ore, (...) before the accursed king made a prison out of it and created this barrier`
 - _Ka Garon_ calls area where it is `a desolate island` (German: `trostlosen Insel`) (design doc `Story 3.3 draft`)
+- there are merchants
+  - `I'll use this magic scroll the merchant in Khorinis sold me`
 
 ## Laran
 - home of famous scholar of magic _Barthos_

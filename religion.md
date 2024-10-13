@@ -38,6 +38,7 @@ title: Religion
 - `The words Cyvanis: Work and live, for the day is made for man to work. Look for learning and knowledge so that you can pass it on`
 - `Adanos brought man versatility, knowledge, curiosity and courage`
 - `god Adanos, who is the balance between good and evil`
+- `Adanos (...) spoke: (...) I shall give mankind the power of healing.`
 - as suggested by `OtWaMaskWater.tga`, symbolized by light blue droplet
 
 ## Beliar, God of Darkness
@@ -63,7 +64,8 @@ title: Religion
 - according to _Y'Berion_, awakening The Sleeper `will cause the magical barrier to burst` (`Story 3.3 draft`)
 
 ## Shugul Sath
-- also known as the Smoke Hunter
+- also known as the _Smoke Hunter_
+- also known as the _Shadow Walker_, which in the alpha scripts is used as codename for the _Shadowbeast_, suggesting that _Shadowbeast_ might have originated as the animal form of _Shugul Sath_
 - can take human form of _The Old Man_
 - `Some think that it is an ancient being that has roamed the cosmos for millennia, and that just happened to be trapped in this barrier on its way around the world`
 - appears as giant black panther with yellow glowing eyes

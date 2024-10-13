@@ -146,6 +146,7 @@ title: Items
 
 ## Potion "Sprinting Horse"
 - sprint potion
+- originally it was a spell called _Speed_
 - in alpha 0.64b the effect appears to be permanent, but it's probably unintentional
 - drinking it triggers `SpellFX_Sprint` (also in the final release), which may suggest that originally it was going to be a magic spell
 

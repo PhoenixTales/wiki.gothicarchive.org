@@ -42,10 +42,10 @@ title: Ore Barons
 - likely when hunting the orcs, he acquired a powerful _Orcish talisman_, that he then used to protect himself against the fireballs of angry _Orc Shamans_ 
   - `I'm looking for an Orcish talisman (...) its former owner used it to defend himself against angry Orcs.`
 - turned into a particularly powerful _Zombie_ by a curse guarding the _Focus Stone_ under the _Stone Circle Of The Damned_ on the _orc territorry_
-  - now he is `the GUARDIAN under the ring of stone`
+  - now he is `the GUARDIAN under the ring of stone` / `the undead guardian in the crypt`
   - `He seems to be extremely resistant against the effects of normal weapons.`
   - he's 13% more resistant against blades than normal zombies, but completely immune to fire
-  - can be defeated using `a spell scroll with a very powerful spell` that `will destroy all the undead who fall under it`
+  - can be easily defeated using spell _Death To The Undead_
   - other grave robbers (either his companions, or ones who went there later) were also turned into undead (_Skeletons_) (after getting killed by him?), who are much easier to kill than him
 
 ## Raven
