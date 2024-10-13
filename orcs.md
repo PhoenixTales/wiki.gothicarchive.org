@@ -31,6 +31,27 @@ title: Orcs
   - this skill is no longer available to player in the final release of the game
 - originally they were supposed to be named differently than `orcs`, but a suitable name was never invented
 
+## Known living orcs
+
+## Grub
+- enslaved orc shaman at _Royal Ore Mine_, speaking human language
+- `meet GRUB in room, with pointy black rock`
+- `free me from chains, hehe, only GRUB knows way to friend`
+- `eeeh, loud noise waked GRUB. GRUB fee now.`
+- `GRUB see you are wizard, too.`
+- source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
+
+## Tarrok
+- slave at the _Free Mine_, speaking human language
+- friend of _Ur-Shak_
+- knows how to make _Ulu-Mulu_, while _Ur-Shak_ apparently doesn't
+
+## Ur-Shak
+- shaman speaking human language
+- `He's not on good terms with his brothers in the Orc town`
+- `a banished Orc shaman in the ruins of a castle`
+- many years ago used to be a slave in the _Free Mine_ with _Tarrok_, but managed to escape
+
 ## Morlocks
 - removed pre-alpha guild, already in 0.56 alpha mentioned as `GIL_MRL = 17; // (gibt es nicht mehr)` (`no longer used`)
 - was on the list of human guilds, separate from `GIL_ORC = 21` which is on the list of monster guilds
@@ -43,7 +64,10 @@ title: Orcs
 ## Orc language
 - `Krotahk` : Flame Tongue (source: `DIA_FREEMINEORC`)
 - `Khaz-Tak`: Lurker Claw (source: `DIA_FREEMINEORC`)
-- `Orth-Antak`: Swampshark Tooth (source: `DIA_FREEMINEORC`)
+- `Orth-Antak`: Troll tooth (source: `DIA_FREEMINEORC`)
+- `Dwachkarr`: Swampshark Tooth (source: `DIA_Orc_FreeMine`)
+- `Gach Lug`: Mine Crawler (source: `DIA_Orc_FreeMine`)
+- `Krushak`: Sleeper  (source: `DIA_Orc_Shaman`)
 
 ### Other games
 - Gothic 3 suggests that `Krush` means `weapon`:
@@ -55,6 +79,11 @@ title: Orcs
   - `Krush Agash` = `OrcWaraxe`
   - `Krash Morra` = `Crossbow_KrashMorra`
   - `Krush Irmak` = `Irmak_2H_Halberd`
+
+## Shamans
+- `sons of spirit`
+- use fire magic
+  - `he may listen to you before turning you into a living torch!`
 
 ## Types of orcs found in game
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
