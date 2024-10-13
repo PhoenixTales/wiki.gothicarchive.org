@@ -91,6 +91,7 @@ title: Locations
   - `The abandoned fort is now only used as neutral ground` (`Inf_Vlk_VK`)
 - _Quicktongue_ spends time there every day between 7pm and midnight
   - German: `geht nach Hause ins Sektenlager zum Versammlungsplatz` (in `Rtn_Quicktongue`)
+- _Peasants_ live around it
 
 ## Old Mine
 - referred by two codenames: `OM` and `AM` (German: `Alte Mine`)
@@ -129,10 +130,15 @@ title: Locations
 - `Our camp is a haven of peace and spiritual fulfillment. Whoever lives here attains enlightenment` (`Inf_Gur_SL`)
 
 ## Stone Circle Of The Damend
-- German: `Steinkreis der Verdammten` (`SKV`)
+- German: `Steinkreis der Verdammten` / `SKV`
+- later codenamed `Stonehenge` / `SH`
 - stone circle in _Mine Valley of Khorinis_
 - has power to create undead and resurrect (player respawn point in multiplayer mode)
 - `a place which can give life back to the dead. An altar in the middle of a stone circle.` (`Inf_Ebr_SKV`)
+- `an ancient ring of stone`
+- `In its center lies the entrance to an underground vault`, `tomb`, ` crypt`, `Gruft unter dem Steinkreis`
+- `After the creation of the Magic Barrier which imprisons us all, one of the magicians sealed a magic artefact down there (...) one of the five focus stones (...) A powerful spell protects it. The first grave robber trying to swipe the focus will be cursed, and doomed to an existence as a restless undead, who will have to protect the tomb from other grave robbers.`
+  - considering that this spell turns one into a powerful undead, that magician was likely the future necromancer _Xardas_
 
 ## Swamp of Lost Souls
 - German: `Sumpf der Verlorenen Seelen` (`SVS`)

@@ -132,6 +132,14 @@ title: Items
 - it's well known that some mushrooms are deadly poisonous
   - `He knows about mushrooms, he says. I say thank you and fuck off. And what happened? He's lying there for four days, more dead than alive.` (`ZS_SmallTalk_Text19` / 1.01d alpha)
 
+## Orcish Talisman
+- seems to be made by orc shamans
+- defends from fire damage
+  - grants 20 points of protection against it, but the _Orc Hunter_ wearing it is completely immune to fire
+- was acquired by _The Orc Hunter_ who was later turned into zombie by curse guarding the _Focus Stone_ under the _Stone Circle Of The Damned_
+- `I'm looking for an Orcish talisman (...) its former owner used it to defend himself against angry Orcs.`
+- it's 3d model name is `ItMi_Amulet_UluMulu_01`, suggesting it was originally used as variant of Ulu-Mulu
+
 ## Potion "Mad Bull"
 - causes temporary madness (`Npc_SetToMad (self,30)`)
 - looks like a vial of yellow liquid
