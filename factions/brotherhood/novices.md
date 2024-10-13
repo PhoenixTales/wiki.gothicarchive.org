@@ -5,6 +5,8 @@ title: The Novices
 - originally called `Temple Servants` (German: `Tempeldiener`)
 - 15 people: _The Initiate_, _The Explorer_, _The Bigmouth_, _Recruiters_, _The House Steward_, _Disciples_
 - have to do all the chores for others who are higher in hierarchy (German: `Mädchen für alles` in `NPCs per Guild`)
+- Novices `pray to the Sleeper and do all the work in the Camp. Some of the novices are allowed to join the _Gurus_, but to get that far you need to study for many years`
+- in early designs some lower novices used title `Baal`, which in the final release is used by lower _Gurus_
 
 ## Baal Filo
 - mentioned in design doc `Story 3.3 draft`
@@ -78,6 +80,10 @@ title: The Novices
 - German: `der Forscher`
 - `Well-traveled, strong novice who mostly searches undergrounds for ways to the Ancient Temple of The Being` (design doc `NPCs per Guild`)
 - `friend of the Templar "Lucky Hand"` (design doc `NPCs per Guild`)
+
+## Fortuno
+- Templar in design doc `Story 3.3 draft`, in the final release took over drug-distributor role of _Ka Limae_
+- `aggressive, looking for a fight`, `day guard at the main entrance`
 
 ## Havil
 - only mentioned in design doc `Story 3.3 draft`

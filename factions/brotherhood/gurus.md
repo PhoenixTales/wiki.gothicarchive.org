@@ -6,7 +6,18 @@ title: The Gurus
 - `it's said they can read minds` (design doc `Story 3.3 draft`)
 - when _Gurus_ want to get rid of someone, _The Lobotomist_ drives them permanently insane with his psionic spells, and they end up as _The Burnouts_ in the _Old Camp_
 - there are 5 gurus in total, all except their leader using title `Cor` (design doc `Story 3.3 draft`)
+  - in the final version this title was replaced by `Baal`, previously used by some lower _novices_
 - are told to be able to `float in the air`
+- `Sleeper (...) causes visions - at least to the Gurus.`
+
+## Cor Angar, the Avenger
+- in 0.64b alpha name `Angar` is used for a _Mercenary Of Old Camp_, `SLD_202_ANGAR`
+- `a former Templar who became a guru; takes care of the Templars` (design doc `NPCs per Guild`)
+- `teaches player character Templar psionic magic and weapons` (design doc `NPCs per Guild`)
+- in the final game he's the highest Templar rather than a Guru, but still counted among the leadership of the camp
+- `hard, proud, merciless`, `the perfect man for rough stuff` (design doc `Story 3.3 draft`)
+- `partially mind-controlled` (unclear if by _Cor Kalom_ or _Y'Berion_) (design doc `Story 3.3 draft`)
+- `The Inquisition` (design doc `Story 3.3 draft`)
 
 ## Cor Garrion
 - only mentioned in design doc `Story 3.3 draft`

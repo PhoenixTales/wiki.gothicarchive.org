@@ -3,19 +3,11 @@ title: The Templars
 ---
 
 - `a templar is not only a good warrior and a guardian of the Camp. We are the chosen guards of the Sleeper. The guardians of the spirit. We make use of both our physical and our spiritual strength. Only those whose body and spirit are in unison can become true templars.`
-
-## Cor Angar, the Avenger
-- in 0.64b alpha name `Angar` is used for a _Mercenary Of Old Camp_, `SLD_202_ANGAR`
-- `a former Templar who became a guru; takes care of the Templars` (design doc `NPCs per Guild`)
-- `teaches player character Templar psionic magic and weapons` (design doc `NPCs per Guild`)
-- in the final game he's the highest Templar rather than a Guru, but still counted among the leadership of the camp
-- `hard, proud, merciless`, `the perfect man for rough stuff` (design doc `Story 3.3 draft`)
-- `partially mind-controlled` (unclear if by _Cor Kalom_ or _Y'Berion_) (design doc `Story 3.3 draft`)
-- `The Inquisition` (design doc `Story 3.3 draft`)
-
-## Fortuno
-- Templar in design doc `Story 3.3 draft`, in the final release took over drug-distributor role of _Ka Limae_
-- `aggressive, looking for a fight`, `day guard at the main entrance`
+- `The templars use their spiritual power in battle. They have an indomitable willpower.`
+- `they're the best fighters you can ever have at your side when it comes down to the crawlers.`
+- once called `the warrior clan`
+- all templars use title `Gor Na`
+  - `I'm a GOR NA - a templar of the Sleeper`
 
 ## Gor-Na-Go
 - High Templar mentioned in design doc `Story 3.3 draft`
@@ -26,13 +18,23 @@ title: The Templars
 - High Templar mentioned in design doc `Story 3.3 draft`
 - `a merciless teacher, uncompromising, discipline is everything. He is the grinder.`
 - gives player multiple missions required to become a _Templar_
+- later renamed _Gor Na Toth_
+- can teach both strength, dexterity and mana
 
 ## Gor-Na-Ba
 - High Templar mentioned in design doc `Story 3.3 draft`
-- appears in compiled alpha 1.01d as `Gor-Na-Bar`
+- later renamed `Gor-Na-Bar`
 - `opaque, insidious`
 - `Minecrawler Hunting Commander in Free Mine`
 - `As the hunting boss, he plays his games with the milking novices. The PC notices this when he is sent to the Free Mine as a novice (or templar) to carry his Milking Vessel after Baal Kagan`
+
+## Gor-Na-Drak
+
+## Gor-Na-Kosh
+
+## Gor-Na-Ran
+
+## Gor-Na-Vid
 
 ## The Honorable Templar
 - `der Ehrenwerte`
