@@ -1,6 +1,8 @@
 ---
-title: Templars
+title: The Templars
 ---
+
+- `a templar is not only a good warrior and a guardian of the Camp. We are the chosen guards of the Sleeper. The guardians of the spirit. We make use of both our physical and our spiritual strength. Only those whose body and spirit are in unison can become true templars.`
 
 ## Cor Angar, the Avenger
 - in 0.64b alpha name `Angar` is used for a _Mercenary Of Old Camp_, `SLD_202_ANGAR`
@@ -57,4 +59,3 @@ title: Templars
 - `"executioner" and representative for other unpleasant jobs` (design doc `NPCs per Guild`)
 - `best psionic mage among the Templars` (design doc `NPCs per Guild`)
 - `also does 'external jobs'`
-
