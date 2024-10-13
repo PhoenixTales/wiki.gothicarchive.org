@@ -39,6 +39,10 @@ title: Outside World
 ## Laran
 - home of famous scholar of magic _Barthos_
 
+## Meidheim
+- area ruled by the _Count Of Meidheim_
+- briefly mentioned in alpha version of story of _Lee_
+
 ## Morgrad
 - name of the "world"
 - `In the center lies the Morgrad, containing the four elements earth, water, fire and air.`
