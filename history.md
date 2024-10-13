@@ -8,8 +8,9 @@ title: History
 - months are called _moons_ and by corresponding constellation
   - `In a few weeks, when the moon of the Unicorn will be complete.`
   - `Many moons had passed`
-- years are divided into (2) _solstices_
+- years are divided into (2) _solstices_ or `winters`
   - `This war lasted more than four solstices`
+  - `many winters ago`
  
 ## Timeline
 - _Ancient Times_
