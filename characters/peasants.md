@@ -3,7 +3,7 @@ title: Peasants
 ---
 
 ## The Giant
-- German: `der Hüne`
+- German: `der Hune`
 - `unusually large and strong Peasant` (design doc `NPCs per Guild`)
 - `serves as a bodyguard for The Landlord`, `he is a very good fighter` (design doc `NPCs per Guild`)
 - `he is quite naive and can easily be being tricked` (design doc `NPCs per Guild`)
