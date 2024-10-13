@@ -48,6 +48,10 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - monster present in alpha 1.01d (`ID_ORCBITER`)
 - clearly separate from _Orcdog_ (there's both `MST_DEFAULT_ORCBITER` and `MST_DEFAULT_ORCDOG`)
 
+## Minecrawler
+- giant insect-like creatures that eat _orcs_ and humans
+- they have venomous mandibles, poisoned _orcs_ need the _Orc Medicine_ to survive
+
 ## Minesprayer
 - known as `Felssprüher` in German version of `Sleeper's Ban`
 - great underground monster
