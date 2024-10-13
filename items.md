@@ -207,11 +207,15 @@ title: Items
 - readable 'document' without any content programmed
 - can be sold for 5 ore
 
-## Swampweed
+## Swamp Weed
 - `grown in the swamp (...) has to be processed before it can be smoked`
 - `have a tranquilizing and relaxing effect. They help you concentrate on the essentials and increase your awareness.`
 - `opens your spirit` and gives chance to experience visions (`Some people even see images`)
-- there are multiple distinct blends of _Swampweed_ that differ in strength and price
+- there are multiple distinct blends of _Swampweed_ that differ in strength, price and gameplay effect
+  - Green Novice (8 ore, 1x +5xp)
+  - Northern Dark (15 ore, 1x +10xp)
+  - Dream Call (20 ore, 1x +2 max mana)
+  - special Dream Call (from _Baal Kagan_, 200 ore, causes sleep, for _Baal Tyon_ causes a vision)
 - there's a blend called `Sleeper's Dream` (German: `Schläfertraum`) mentioned in design doc `Story 3.3 draft`
   - it's the only blend mentioned in the document, the one which _Novices_ receive daily and which is traded with other camps
 
