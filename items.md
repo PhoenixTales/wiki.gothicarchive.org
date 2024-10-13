@@ -159,6 +159,11 @@ title: Items
 - there is a related mission, _Bring Psi Potion_ (`I urgently need a PSI vial`)
 - `There isn't much to pick up in the cult camp other than mountains of drug vials` (`Inf_Org_SL`)
 
+## Psionic Articat
+- makes psionic spells particularly strong
+- owned by _The Lobotomist_
+  - `thanks to a magical artifact his spells "Confusion" and "Chaos" are so strong that he can drive people permanently insane`
+
 ## Psionic Powder
 - appears in mission `Taste of PSI Magic` in design doc `Story 3.3 draft`
 - swallow (do not snort) to get temporary psionic powers 
