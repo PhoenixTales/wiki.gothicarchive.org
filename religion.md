@@ -64,6 +64,7 @@ title: Religion
 
 ## Shugul Sath
 - also known as the Smoke Hunter
+- can take human form of _The Old Man_
 - `Some think that it is an ancient being that has roamed the cosmos for millennia, and that just happened to be trapped in this barrier on its way around the world`
 - appears as giant black panther with yellow glowing eyes
 - can gradually change into smoke and back, and walk trough the stone

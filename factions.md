@@ -91,6 +91,8 @@ title: Factions
 
 ## Miner's Association
 - German: `Der Schürferbund` (`SFB`)
+- also known as prospectors (?)
+- led by The _Mine Inspector_, and his right hand _The Sniffer_
 - they are working in their mine voluntarily and keep most of what they dig, as opposed to _Slave Diggers_ of _Old Camp_
 - in the final game release, translated as `scrapers` (`NAME_Schuerfer = "Scraper"`)
 - work at _Free Mine_ and live at _Free Camp_
