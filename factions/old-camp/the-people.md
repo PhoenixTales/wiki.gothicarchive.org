@@ -37,13 +37,14 @@ title: The People Of Old Camp
 - `know how to protect themselves (and their goods), hire Crooks and Thugs` (design doc `NPCs per Guild`)
 - 8 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
-## Thugs
-- German: `Schläger`
+## Thugs Of Old Camp
+- German: `Schlaeger`
 - `when there are not enough of Mercenaries available, Ore Barons resort to them` (design doc `NPCs per Guild`)
   - `Mercenaries` refers to _Mercenaries Of Old Camp_ (`SLD`)
 - `shopkeepers need thugs as well` (for protection) (design doc `NPCs per Guild`)
 - `often drunk` (design doc `NPCs per Guild`)
 - 8 of them live in _Old Camp_ (design doc `NPCs per Guild`)
+- there's a sub-group of the same name in the _New Camp_
 
 ## Burnouts
 - German: `Ausgebrannte`

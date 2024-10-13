@@ -3,7 +3,7 @@ title: Miner's Association
 ---
 
 - German: `Der Schurferbund` (`SFB`)
-- also known as prospectors (?)
+- also known as scrapers (German: `Schuerfer`) or prospectors
 - led by The _Mine Inspector_, and his right hand _The Sniffer_
 - they are working in their mine voluntarily and keep most of what they dig, as opposed to _Slave Diggers_ of _Old Camp_
 - in the final game release, translated as `scrapers` (`NAME_Schuerfer = "Scraper"`)

@@ -30,14 +30,6 @@ title: Other
 - together with the _Organisation of the New Camp_, also known as the _Rogues_
 - according to early version of the story, they used be part of _The Organisation of New Camp_, but were expelled or left
 - subgroups:
-  - _Robbers_ (German: `Raeuber`)
+  - _Robbers_ / _Thugs_ (German: `Raeuber`)
   - _Blackmailers_ (German: `Erpresser`)
   - _Stooges_ ("illegally" prepare _Sect's Drugs_ in a cave, threatened retreat to _Quentin's Camp_)
-
-## Stomp's Family
-- only mentioned in _Sleeper's Ban_
-- `respected merchant family`
-- `one of the largest trading houses in his hometown, used to living in a large mansion, looked after by servants`
-- wife of the family's head died, and he married again
-  - he has two sons, one from the first marriage who is his heir, and one from second marriage who is jealous of being the heir
-  - `his stepbrother, the man who came into the family through his father's second marriage and envied him from the start the position of heir.`
