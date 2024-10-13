@@ -6,9 +6,18 @@ title: The Gurus
 - `it's said they can read minds` (design doc `Story 3.3 draft`)
 - when _Gurus_ want to get rid of someone, _The Lobotomist_ drives them permanently insane with his psionic spells, and they end up as _The Burnouts_ in the _Old Camp_
 - there are 5 gurus in total, all except their leader using title `Cor` (design doc `Story 3.3 draft`)
-  - in the final version this title was replaced by `Baal`, previously used by some lower _novices_
+  - in the final version this title was partially replaced by `Baal`, previously only used by some lower _novices_, now shared with them
 - are told to be able to `float in the air`
 - `Sleeper (...) causes visions - at least to the Gurus.`
+
+## Lower Gurus: Baals
+- in the final release replaced most of the original `Cor` _gurus_
+- _Baal Cadar_ - teaches magic, sells runes and scrolls
+- _Baal Lukor_ - searches for the ancient underground temple of Sleeper, knows some orc runes
+- _Baal Namib_
+- _Baal Orun_ - manages processing of the _Swamp Weed_
+- _Baal Tyon_ - spiritual teacher, `Y'Berion has made him one of his advisors`, according to _Baal Kadash_ he's only a `lower Guru`
+- _Baal Tondral_ - spiritual teacher, manages recruitment
 
 ## Cor Angar, the Avenger
 - in 0.64b alpha name `Angar` is used for a _Mercenary Of Old Camp_, `SLD_202_ANGAR`

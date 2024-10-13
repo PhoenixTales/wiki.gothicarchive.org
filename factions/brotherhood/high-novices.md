@@ -9,6 +9,8 @@ title: The High Novices
 - German: `der Eingeweihte`
 - `highest novice & candidate for the guruship` (design doc `NPCs per Guild`)
 - `lives a little apart on the edge of the temple and prepares for the ascent` (design doc `NPCs per Guild`)
+- may correspond to _Joru_ from the final release
+  - `I'm teaching the words of the Sleeper to the novices. I'm still a novice myself, but soon I'll be a Baal - one of the Gurus. I've even spoken to Y'Berion. He's the chosen one. He told me that if I work hard, I can soon be a master myself.`
 
 ## Ka Garon
 - only mentioned in design doc `Story 3.3 draft`

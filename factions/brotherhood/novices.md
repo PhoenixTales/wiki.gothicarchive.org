@@ -28,6 +28,15 @@ title: The Novices
 - `Reports to Ka-Garon`
 - `Dealer/recruiter in the New Camp`
 - member of _Ka Limae's_ gang
+- in the final release renamed to _Baal Kagan_
+- one of the _novices_ who in the final release still use the title _Baal_
+- even though he wears robes of a _novice_, he calls himself a _lower Guru_
+  - `Baal Tyon is one of the lower Gurus - just like myself.`
+
+## Baal Isidro
+- sells _Swamp Weed_ in the _New Camp_
+- one of the _novices_ who in the final release still use the title _Baal_
+- an alcoholic, very bad dealer
 
 ## Baal Moc
 - mentioned in design doc `Story 3.3 draft`
@@ -36,11 +45,21 @@ title: The Novices
 - `plays at the Orgies, the Guru Meditations and at Black Masses in the Crypt`
 - `plays lute for Y'Berion from 10 a.m. to 6 p.m`, `annoyed by Y'Berion`
 
+## Baal Netbek
+- a hallucinating novice
+- one of the _novices_ who in the final release still use the title _Baal_
+
+## Baal Parvez
+- missionary in the _Old Camp_
+- one of the _novices_ who in the final release still use the title _Baal_
+
 ## Baal Tarin
 - mentioned in design doc `Story 3.3 draft`
 - `not trustworthy, rhetorically skilled, not believing`
 - `Reports to Ka-Garon`
 - member of _Ka Limae's_ gang
+- in the final release renamed _Baal Taran_
+- one of the _novices_ who in the final release still use the title _Baal_
 
 ## Bartolo, the Newcomer
 - candidate to join _Novices Of The Sect_ mentioned in design doc `Story 3.3 draft`
@@ -80,6 +99,7 @@ title: The Novices
 - German: `der Forscher`
 - `Well-traveled, strong novice who mostly searches undergrounds for ways to the Ancient Temple of The Being` (design doc `NPCs per Guild`)
 - `friend of the Templar "Lucky Hand"` (design doc `NPCs per Guild`)
+- possibly the same as _Baal Lukor_ from the final release
 
 ## Fortuno
 - Templar in design doc `Story 3.3 draft`, in the final release took over drug-distributor role of _Ka Limae_
