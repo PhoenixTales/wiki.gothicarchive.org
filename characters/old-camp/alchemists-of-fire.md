@@ -4,8 +4,8 @@ title: Alchemists Of Fire
 
 ## The Apprentice
 - German: `der Lehrling`
-- less experienced of two novice _Fire Mages_, removed in late alpha
-- lies dead with a label `Looser` in _Troll Canyon Ravine_, where he was trying to collect a _Devil Mushroom_
+- less experienced of two novice _Alchemists Of Fire_, removed in late alpha
+- lies dead with a label `Loser` in _Troll Canyon Ravine_, where he was trying to collect a _Devil Mushroom_
 - it is hinted that he was either murdered, or that his body was robbed after his death before player found him
   - _Nimblefinger_ tries to sell this apprentice's _Fire Stone_ to the player
   - `HELLFIRE: So that wretched imp [Nimblefinger] tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days. He was on his way to pick a Devil Mushroom in the ravine.`
@@ -14,6 +14,7 @@ title: Alchemists Of Fire
 - German: `Meister des Feuers`
 - leader of _Alchemists Of Fire_ (design doc `NPCs per Guild`)
 - disciple of the _Demon Summoner_ (design doc `NPCs per Guild`)
+- in the final version described as `High Magician of the Circle of Fire`
 
 ## Earon Flamehand
 - `KDF_400_EARON` in alpha version
@@ -24,10 +25,10 @@ title: Alchemists Of Fire
 
 ## Guardian Of The Circle
 - German: `Behüter des Kreises`
-- alchemist and teacher of _Fire Mages_ (design doc `NPCs per Guild`)
+- alchemist and teacher of _Alchemists Of Fire_ (design doc `NPCs per Guild`)
 
 ## Hellfire
-- _Fire Mage_ removed in late alpha
+- removed in late alpha
 - had an apprentice, who was killed in _Troll Canyon Ravine_
 - sends player to finish the quest of the dead apprentice and bring him a _Devil Mushroom_
 
@@ -42,10 +43,10 @@ title: Alchemists Of Fire
 - he was convicted together with _Diego_, _Gorn_ and _Lester_
   - `The four of us... uh... 'entered' the colony on the same day, together.`
   - (`INFO_MILTEN_SHYOU_02_08` from 1.01d alpha)
-- both apprentice of _Fire Mage_ and member of _The Masters
+- both apprentice of _Alchemists Of Fire_ and member of _The Masters_
+- likely the same as _Advanced Apprentice_ mentioned in alpha docs
 
-## The Ore Supplier Of Fire Mages
-- one of _Fire Mages_
+## The Ore Supplier
 - `is responsible for the ore powder supply` (design doc `NPCs per Guild`)
   - this powder is the main ingredient for making the _Mana Potion_
 

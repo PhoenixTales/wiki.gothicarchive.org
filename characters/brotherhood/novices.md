@@ -1,5 +1,5 @@
 ---
-title: Novices
+title: The Novices
 ---
 
 ## Baal Filo

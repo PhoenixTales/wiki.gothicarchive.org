@@ -10,13 +10,6 @@ title: Guardians Of New Camp
 - former member of _Royal Army_ / `king's staff` and old friend of _Lee_
 - `I've been with Lee since I got here. We already knew each other outside. I heard the story of why he ended up here back then. I was part of the king's staff. I heard them talking about getting Lee out of the way. Lee had no chance. I wanted to speak up in his defense, but it was of no use. When the traitors found out that I wanted to speak for Lee, they framed me for a minor offense. A little later they took me to the cliff too.` (`Sit_1_NC_Cord_TrainFighters` / alpha 0.94)
 
-## The Diplomat Of The Guardians
-- German: `der Diplomat`
-- pretends to be a member of _Guardians Of New Camp_, in reality a _Spy_ of _Shadows Of The Old Camp_
-- `very charismatic, respected Guardian`(design doc `NPCs per Guild`)
-- `maintains contact with other guilds; is traveling as an agent for the Guardians` (design doc `NPCs per Guild`)
-- `in reality, a double agent for the Ore Barons` (design doc `NPCs per Guild`)
-
 ## Gorn
 - `muscular giant`
 - `Where I come from, opponents are invited for a feast before they are killed...`
@@ -65,4 +58,6 @@ title: Guardians Of New Camp
 - `leads field operations`
 - `known for occasionally brutal acts; "the Lord" [Lee] repeatedly criticizes him for this`
 
-
+## Orik
+- `chief of the mercenaries` according to 0.94 alpha
+  - unclear how does it play with the role of _Lee_

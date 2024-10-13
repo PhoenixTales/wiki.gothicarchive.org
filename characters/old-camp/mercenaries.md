@@ -2,6 +2,15 @@
 title: Mercenaries Of Old Camp
 ---
 
+## The Arena Master
+- German: `Arenameister`
+- later known as `Scatty`
+- `manages the arena fights and beting` (design doc `NPCs per Guild`)
+- `corrupt and devious` (design doc `NPCs per Guild`)
+- offers quest `Arena Betting` and `Arena Championship`
+- internal comment in the script of `Arena Betting` quest calls him a `sneaky cheater`
+  - he suggests player to place a bet on a weak participant (the `Blade Fodder`), purposefully making him loose
+
 ## The Captain Of Mercenaries
 - German: `Söldnerhauptmann`
 - leads _Mercenaries Of Old Camp_ (`SLD`)

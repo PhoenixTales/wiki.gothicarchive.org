@@ -1,8 +1,6 @@
 ---
-title: High Novices
+title: The High Novices
 ---
-
-("high" novice probably means here "very important", close to Gurus)
 
 ## The Initiate
 - German: `der Eingeweihte`
@@ -17,7 +15,8 @@ title: High Novices
 
 ## Ka Lib
 - only mentioned in design doc `Story 3.3 draft`
-- `Kalom's drug assistant`, `wants Kalom's job`
+- `Kalom's drug assistant` (one of two, with _Ka Zatiz_)
+- `wants Kalom's job`
 - enemy of _Ka Zatiz_
 
 ## Ka Limae
@@ -41,6 +40,6 @@ title: High Novices
 ## Ka Zatiz
 - only mentioned in design doc `Story 3.3 draft`
 - `He is a believer and follows his master Kalom blindly`
-- `Kalom's drug assistant` (second one)
+- `Kalom's drug assistant` (one of two, with _Ka Lib_)
 - enemy of _Ka Lib_
 

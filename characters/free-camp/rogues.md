@@ -10,7 +10,8 @@ title: Rogues
 - finally replaced by `GRD_265_GARDIST`
   - `Wld_InsertNpc (Grd_265_Gardist, "OC1"); // OC Südtor (Ex-Fox)`
 
-## Lares, The Head Of Rogues
+## The Head
+- later known as _Lares_
 - German: `das Oberhaupt der Organisatoren`
 - `master rogue, surpasses all others, very respected by his customers` (design doc `NPCs per Guild`)
 - `member of The Masters` (design doc `NPCs per Guild`)
@@ -28,7 +29,7 @@ title: Rogues
 - `in reality spy for the Rogues` (design doc `NPCs per Guild`)
 - lives in the _Old Camp_, without proper guild, counted as one of _The People Of Old Camp_ (`VLK`)
 
-## Rogue-Specialist
+## The Specialist
 - German: `der Spezialist der Organisatoren`
 - `organizes the really tricky things` (design doc `NPCs per Guild`)
 - `Master thief, very cunning and clever` (design doc `NPCs per Guild`)
