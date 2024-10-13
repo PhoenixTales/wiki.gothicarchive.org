@@ -96,7 +96,12 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 
 ## Tymoris
 - region ruled by the _Lord of Tymoris_
-- contains or governs area called _Western Field_ ruled by _Burgrave Bergmar_ and containing _Royal Ore Mines_
+- contains _Khorinis_ and the _Royal Ore Mines_
+- likely contains _Western Field_ (_Bergmar_ of Western Field is subordinate to _Lord Of Tymoris_)
+
+## Western Field
+- city or area either ruled by _Burgrave Bergmar_, or where he was born
+- likely part of _Tymoris_ (_Bergmar_ is subordinate to _Lord Of Tymoris_)
 
 ## Varant
 - land neighbouring the _Midlands_
