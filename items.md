@@ -139,6 +139,10 @@ title: Items
 - was acquired by _The Orc Hunter_ who was later turned into zombie by curse guarding the _Focus Stone_ under the _Stone Circle Of The Damned_
 - `I'm looking for an Orcish talisman (...) its former owner used it to defend himself against angry Orcs.`
 - it's 3d model name is `ItMi_Amulet_UluMulu_01`, suggesting it was originally used as variant of Ulu-Mulu
+- in the final release, _orc shaman_ _Ur-Shak_ says `Take Ur-Shak talisman! Talisman protect from breath of fire lizard!` but doesn't actually give anything
+
+## Orc Medicine
+- according to _Tarrok_, required to save an _orc_ poisoned by _minecrawler_ bites
 
 ## Potion "Mad Bull"
 - causes temporary madness (`Npc_SetToMad (self,30)`)
@@ -254,6 +258,12 @@ title: Items
 - in early alpha some ranged weapons were supposed to be "amunition for themselves" and get thrown
 - 0.56 alpha `constants.d`: `CONST INT MUN_THROW = 1; // Keine, die Fernkampfwaffe selbst wird geworfen`
 - _Kodang Wood_ from _Sleeper's Ban_ is a weapon of this kind
+
+## Ulu-mulu
+- `sign of friendship` respected by orcs (unless wielder attacks or uses magic)
+- has a form of large totem that can be used as a weapon
+- probably an amulet variant was originally planned, the _Orcish Talisman_ uses 3d model with a matchig name
+- shows that the wielder is a strong warrior who collected trophies of powerful beasts: _fire waran_, _shadowbeast_, _troll_ and a _swampshark_
 
 ## Uriziel
 - `Ancient runes have been engraved into the blade`, `It says here, Uriziel the Great`
