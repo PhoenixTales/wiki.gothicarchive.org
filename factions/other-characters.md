@@ -40,14 +40,6 @@ These characters are encountered inside of the _Prison Colony of Khorinis_. They
 ### Other games
 - Gothic 3 once refers to him as `Black Mage`, and calls skill that adds bonus to _Summoning Magic_ a `Dark mage`
 
-## Grub
-- enslaved orc shaman at _Royal Ore Mine_
-- `meet GRUB in room, with pointy black rock`
-- `free me from chains, hehe, only GRUB knows way to friend`
-- `eeeh, loud noise waked GRUB. GRUB fee now.`
-- `GRUB see you are wizard, too.`
-- source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
-
 ## The Negotiator
 - German: `Der Unterhändler`
 - `A tough fighter lives in the castle and offers his services as a negotiator.`
@@ -95,14 +87,3 @@ These characters are encountered inside of the _Prison Colony of Khorinis_. They
 - `a city dweller who had little knowledge of the wilderness`
 - `they kept me locked away in a dark hole for almost two months before throwing me in here.`
   - from `Info_Kirgo_Charge_Beer_15_02` in the final game release
-
-## Strider
-- wears guru robes, but technically is a _New Camp Guard_ (`GRD`)
-  - and the comment in the script says that' he's wearing a leather armor instead (`Lederrustung`)
-- removed in late alpha
-- `stands in front of the gate to the Castle of the Old Camp and helps the player when he enters` (script comment)
-- sees _Grunt_ blackmailing and attacking the player character, and then helps to kill _Grunt_
-- can teach player advanced sword fight after _Grunt_ is dead
-  - `You see, here you have to be able to handle a sword. I can teach you a little sword fighting. Interested? Great, then attack me.`
-- has custom AI which allows player to attack him without getting into trouble, after player accepted sword fighting lesson and before that lesson ends
-
