@@ -8,9 +8,6 @@ title: The People Of Old Camp
 - in original English translation of the early alpha translated in one place as `normal people`
   - `NOV_130_FriendDefeatedByVlk`: `You lost a fight with the normal people.`
 - early in the development they were merged with _Slave Diggers_ (`GIL_VLK = 5; // Volk/Buddler`)
-- named alpha members: `Crumb`, `Dumb`, `Numb`, `Sira`, `Nimblefinger`
-  - `Nimblefinger` is officially a _Slave Digger_, but actually earns by trading stolen goods
-  - `Crumb`, `Dumb` and `Numb` spend their time listening to preaching of `Quicktongue`
 
 ## Sub-groups
 
@@ -21,11 +18,13 @@ title: The People Of Old Camp
 - `sometimes insane, lunatic; sleepwalking` (design doc `NPCs per Guild`)
 - 7 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
-### Dayworkers
-- German: `Tagelöhner`
-- `do heavy work such as building, carrying & digging; otherwise just hang around` (design doc `NPCs per Guild`)
-- they are strong / muscular (design doc `NPCs per Guild`)
-- 12 of them live in _Old Camp_ (design doc `NPCs per Guild`)
+### Burnouts
+- German: `Ausgebrannte`
+- `completely insane or permanently on the edge of insanity` (design doc `NPCs per Guild`)
+- `rejects of The Sect who were "disposed" in the Old Camp` (design doc `NPCs per Guild`)
+  - they were made insane by psionic spells in punishment by _The Lobotomist_, with help of his magic artefact
+  - this effect appears similar to, but less strong than, the effect of staying too long at the edge of _Magic Barrier_
+- 3 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
 ### Crooks
 - German: `Ganoven`
@@ -33,11 +32,11 @@ title: The People Of Old Camp
 - `like to accept newcomers` (design doc `NPCs per Guild`)
 - 8 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
-### Traders
-- German: `Krämer/Hehler`
-- shopkeepers and `fences` (dealers of stolen goods)
-- `know how to protect themselves (and their goods), hire Crooks and Thugs` (design doc `NPCs per Guild`)
-- 8 of them live in _Old Camp_ (design doc `NPCs per Guild`)
+### Dayworkers
+- German: `Tagelöhner`
+- `do heavy work such as building, carrying & digging; otherwise just hang around` (design doc `NPCs per Guild`)
+- they are strong / muscular (design doc `NPCs per Guild`)
+- 12 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
 ### Thugs Of Old Camp
 - German: `Schlaeger`
@@ -48,18 +47,16 @@ title: The People Of Old Camp
 - 8 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 - there's a sub-group of the same name in the _New Camp_
 
-### Burnouts
-- German: `Ausgebrannte`
-- `completely insane or permanently on the edge of insanity` (design doc `NPCs per Guild`)
-- `rejects of The Sect who were "disposed" in the Old Camp` (design doc `NPCs per Guild`)
-  - they were made insane by psionic spells in punishment by _The Lobotomist_, with help of his magic artefact
-  - this effect appears similar to, but less strong than, the effect of staying too long at the edge of _Magic Barrier_
-- 3 of them live in _Old Camp_ (design doc `NPCs per Guild`)
-
 ### Tinkerers
 - German: `Kesselflicker`
 - `advanced Workers, capable of manual labor` (design doc `NPCs per Guild`)
 - 4 of them live in _Old Camp_ (design doc `NPCs per Guild`)
+
+### Traders
+- German: `Krämer/Hehler`
+- shopkeepers and `fences` (dealers of stolen goods)
+- `know how to protect themselves (and their goods), hire Crooks and Thugs` (design doc `NPCs per Guild`)
+- 8 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
 ## Creep
 - present in alpha as `VLK_504_CREEP`
@@ -78,9 +75,11 @@ title: The People Of Old Camp
 - lost his name and became `VLK_508_BUDDLER`
 
 ## Nimblefinger
-- trader of stolen goods in _Old Camp_, removed in late alpha
+- one of the _Traders_, selling stolen goods
+  - similarly to _Fisk_ from the final release (who is a _shadow_ instead)
+- removed in late alpha
 - dressed like a thief
-- somehow got hold of a _Fire Stone_ of now dead _Apprentice of Hellfire_
+- somehow got hold of a _Fire Stone_ of the now dead _Apprentice of Hellfire_
 
 ## Olon
 - present in alpha as `VLK_509_OLON`
