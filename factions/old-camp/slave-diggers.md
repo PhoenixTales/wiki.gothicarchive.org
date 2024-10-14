@@ -9,13 +9,19 @@ title: Slave Diggers
   - `OU_NPCS_DEMO3_SLD_GRIMFACE_225`: `Trying to outright talk us into giving up our workhorses` (German: `Versucht doch glatt uns unsere Arbeitstiere abzuschwatzen`)
 - early in the development they were merged with _The People Of Old Camp_ (`GIL_VLK = 5; // Volk/Buddler`)
 
+## Brownie
+- present in alpha as `VLK_501_BROWNIE`
+
 ## Canthar
 - can be found in alpha _Old Camp_ under ID `VLK_517_CANTHAR`
 - later lost his name and became `VLK_517_BUDDLER`
 
-## Crumb
-- present in early alpha
-- spends days listening to preachings of _Quicktongue_ with _Dumb_ and _Numb_
+## Creep
+- present in alpha as `VLK_504_CREEP`
+- first renamed to _Ryan_, later lost his name and became `VLK_504_BUDDLER`
+
+## Cutter
+- present in alpha as `VLK_500_CUTTER`
 
 ## Delon
 - subject of two missions in designs doc `Story 3.3 draft`
@@ -23,13 +29,21 @@ title: Slave Diggers
 - he tells the player `I have more powerful friends now. You're all weirdos. Don't you realize what game Y'Berion is playing? Has the drug already made you so blind?`
 - he first gets a letter delivered from _Gor-Na-Tot_, and is murdered by _Gor-Hanis_ soon after
 
-## Dumb
-- present in early alpha
-- spends days listening to preachings of _Quicktongue_ with _Crump_ and _Numb_
+## Grumpy
+- present in alpha as `VLK_505_GRUMPY`
+- lost his name and became `VLK_505_BUDDLER`
 
-## Numb
-- present in early alpha
-- spends days listening to preachings of _Quicktongue_ with _Crump_ and _Dumb_
+## Derek
+- present in alpha as `VLK_507_DEREK`
+- lost his name and became `VLK_507_BUDDLER`
+
+## Jug
+- present in alpha as `VLK_508_JUG`
+- lost his name and became `VLK_508_BUDDLER`
+
+## Olon
+- present in alpha as `VLK_509_OLON`
+- lost his name and became `VLK_509_BUDDLER`
 
 ## Sira
 - leader of the diggers in alpha 0.56 with ID `VLK_Sira`
@@ -43,3 +57,15 @@ title: Slave Diggers
 - seems to overlap with unnamed `VLK_50` from another alpha build where `Sira` is missing, who gives speeches to diggers
   - `VLK_50_VlkSpeech`: `Listen to me and you will see better times. If there are no better times the world will stumble and fall, or the stars will come down.`
   - `VLK_50_NSCASpeech`: `The forgotten people will rise.`
+
+## Scarry
+- present in alpha as `VLK_503_SCARRY`
+- lost his name and became `VLK_503_BUDDLER`
+
+## Smokie
+- present in alpha as `VLK_506_SMOKIE`
+- actually not smoking, lost his name and became `VLK_506_BUDDLER`
+
+## Woody
+- present in alpha as `VLK_502_WOODY`
+- first renamed to _Marus_, finally lost his name and became `VLK_502_BUDDLER`

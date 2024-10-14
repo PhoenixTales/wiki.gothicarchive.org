@@ -58,21 +58,13 @@ title: The People Of Old Camp
 - `know how to protect themselves (and their goods), hire Crooks and Thugs` (design doc `NPCs per Guild`)
 - 8 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
-## Creep
-- present in alpha as `VLK_504_CREEP`
-- first renamed to _Ryan_, later lost his name and became `VLK_504_BUDDLER`
+## Crumb
+- present in early alpha
+- spends days listening to preachings of _Quicktongue_ with _Dumb_ and _Numb_
 
-## Grumpy
-- present in alpha as `VLK_505_GRUMPY`
-- lost his name and became `VLK_505_BUDDLER`
-
-## Derek
-- present in alpha as `VLK_507_DEREK`
-- lost his name and became `VLK_507_BUDDLER`
-
-## Jug
-- present in alpha as `VLK_508_JUG`
-- lost his name and became `VLK_508_BUDDLER`
+## Dumb
+- present in early alpha
+- spends days listening to preachings of _Quicktongue_ with _Crump_ and _Numb_
 
 ## Nimblefinger
 - one of the _Traders_, selling stolen goods
@@ -81,18 +73,6 @@ title: The People Of Old Camp
 - dressed like a thief
 - somehow got hold of a _Fire Stone_ of the now dead _Apprentice of Hellfire_
 
-## Olon
-- present in alpha as `VLK_509_OLON`
-- lost his name and became `VLK_509_BUDDLER`
-
-## Woody
-- present in alpha as `VLK_502_WOODY`
-- first renamed to _Marus_, finally lost his name and became `VLK_502_BUDDLER`
-
-## Scarry
-- present in alpha as `VLK_503_SCARRY`
-- lost his name and became `VLK_503_BUDDLER`
-
-## Smokie
-- present in alpha as `VLK_506_SMOKIE`
-- actually not smoking, lost his name and became `VLK_506_BUDDLER`
+## Numb
+- present in early alpha
+- spends days listening to preachings of _Quicktongue_ with _Crump_ and _Dumb_
