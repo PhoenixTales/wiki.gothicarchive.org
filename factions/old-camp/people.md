@@ -12,7 +12,7 @@ title: The People Of Old Camp
   - `Nimblefinger` is officially a _Slave Digger_, but actually earns by trading stolen goods
   - `Crumb`, `Dumb` and `Numb` spend their time listening to preaching of `Quicktongue`
 
-### Sub-groups
+## Sub-groups
 
 ### Beggards
 - German: `Bettler`
@@ -61,7 +61,39 @@ title: The People Of Old Camp
 - `advanced Workers, capable of manual labor` (design doc `NPCs per Guild`)
 - 4 of them live in _Old Camp_ (design doc `NPCs per Guild`)
 
+## Creep
+- present in alpha as `VLK_504_CREEP`
+- first renamed to _Ryan_, later lost his name and became `VLK_504_BUDDLER`
+
+## Grumpy
+- present in alpha as `VLK_505_GRUMPY`
+- lost his name and became `VLK_505_BUDDLER`
+
+## Derek
+- present in alpha as `VLK_507_DEREK`
+- lost his name and became `VLK_507_BUDDLER`
+
+## Jug
+- present in alpha as `VLK_508_JUG`
+- lost his name and became `VLK_508_BUDDLER`
+
 ## Nimblefinger
 - trader of stolen goods in _Old Camp_, removed in late alpha
 - dressed like a thief
 - somehow got hold of a _Fire Stone_ of now dead _Apprentice of Hellfire_
+
+## Olon
+- present in alpha as `VLK_509_OLON`
+- lost his name and became `VLK_509_BUDDLER`
+
+## Woody
+- present in alpha as `VLK_502_WOODY`
+- first renamed to _Marus_, finally lost his name and became `VLK_502_BUDDLER`
+
+## Scarry
+- present in alpha as `VLK_503_SCARRY`
+- lost his name and became `VLK_503_BUDDLER`
+
+## Smokie
+- present in alpha as `VLK_506_SMOKIE`
+- actually not smoking, lost his name and became `VLK_506_BUDDLER`
