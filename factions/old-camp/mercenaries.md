@@ -17,6 +17,10 @@ title: The Mercenaries Of Old Camp
 - `Despite strong denials, the Mercenaries differ little in their structure from the Orcs!` (design doc `NPCs per Guild`)
 - `Since the rebellion, Gomez' guards have been walking about in the jail warders' armours` (`SIT_1_OC_RYAN_FEARFOX` / 0.94 alpha)
 
+## Borik
+- present in alpha as `SLD_200_BORIK`
+- `bad-tampered` friend of Bloodwyn
+
 ## The Captain Of Mercenaries
 - German: `Söldnerhauptmann`
 - leads _Mercenaries Of Old Camp_ (`SLD`)
@@ -66,6 +70,10 @@ title: The Mercenaries Of Old Camp
 - German: `der Leutnant`
 - `arrogant unexperienced man in charge of all the guards` (design doc `NPCs per Guild`)
 
+## Mort
+- present in alpha as `GRD_239_MORT`
+- later lost his name and became `GRD_239_GARDIST`
+
 ## The One-Eyed
 - German: `der Einäugige`
 - `very experienced fighter who leads most of the "field missions" harshly but fairly` (design doc `NPCs per Guild`)
@@ -87,3 +95,7 @@ title: The Mercenaries Of Old Camp
   - "scratch ass"
   - "scratch egg"
   - sleep in `OC_BED_01`
+
+## Snake
+- present in early alpha as `SLD_207_SNAKE`
+- walktrough suggests to use the _Control_ spell on him and kill him with suicidal jump
