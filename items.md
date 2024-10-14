@@ -194,6 +194,10 @@ title: Items
 - armor mentioned in 0.56
 - possibly an early prototype of `Minecrawler Plate Armor`
 
+## Sign Of The Brotherhood
+- a bleak purple amulet with a symbol
+- present in the final release as `ItMi_Amulet_Psi_01` but unused
+
 ## Silver Amulet
 - unused "conversation topic" in 0.56 alpha, probably involved in an uknown quest
 

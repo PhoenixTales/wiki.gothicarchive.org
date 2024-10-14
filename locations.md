@@ -128,6 +128,7 @@ title: Locations
 
 ## Sect Camp
 - German: `Sektenlager` (`SL`)
+- also known as _Camp Of The Brotherhood_
 - nearby _Swamp Of The Lost Souls_
 - `Our camp is a haven of peace and spiritual fulfillment. Whoever lives here attains enlightenment` (`Inf_Gur_SL`)
 
