@@ -62,6 +62,9 @@ title: Slave Diggers
 - present in alpha as `VLK_503_SCARRY`
 - lost his name and became `VLK_503_BUDDLER`
 
+## Sleeper
+- normal buddler in alpha, not sleeping
+
 ## Smokie
 - present in alpha as `VLK_506_SMOKIE`
 - actually not smoking, lost his name and became `VLK_506_BUDDLER`

@@ -61,6 +61,9 @@ title: The Novices
 - in the final release renamed _Baal Taran_
 - one of the _novices_ who in the final release still use the title _Baal_
 
+## The Baldhead
+- sect novice briefly mentioned in alpha
+
 ## Bartolo, the Newcomer
 - candidate to join _Novices Of The Sect_ mentioned in design doc `Story 3.3 draft`
 - `Not very big, not very strong. Shy. Fearful. Just looks for protection within the Sect. You can really feel sorry for him`
