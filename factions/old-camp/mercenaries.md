@@ -32,6 +32,9 @@ title: The Mercenaries Of Old Camp
 - in `Story 3.3 draft` this name is used by a _Novice of The Sect_
 - in the release version this name is used by a _Fire Mage_, `KDF_403_Drago`
 
+## Frightening
+- present in alpha as `SLD_204_FRIGHTENING`
+
 ## Gortak
 - _Old Camp_ member burned alive by angry _Fire Mage_ mentioned in alpha 0.94
 - `Before he could reach the river, he got burned. Shinig like a human torch, that poor boy. And he was screaming like a piglet getting slaughtered. Well, never annoy a mage.`
@@ -70,6 +73,10 @@ title: The Mercenaries Of Old Camp
 - German: `der Leutnant`
 - `arrogant unexperienced man in charge of all the guards` (design doc `NPCs per Guild`)
 
+## Mack
+- present in alpha as `SLD_MAINGATEGUARDN1`
+- guards the main gate of the _Old Camp_ at night with _Tack_
+
 ## Mort
 - present in alpha as `GRD_239_MORT`
 - later lost his name and became `GRD_239_GARDIST`
@@ -99,3 +106,10 @@ title: The Mercenaries Of Old Camp
 ## Snake
 - present in early alpha as `SLD_207_SNAKE`
 - walktrough suggests to use the _Control_ spell on him and kill him with suicidal jump
+
+## Tack
+- present in alpha as `SLD_MAINGATEGUARDN2`
+- guards the main gate of the _Old Camp_ at night with _Mack_
+
+## Talon
+- present in alpha as `SLD_205_TALON`
