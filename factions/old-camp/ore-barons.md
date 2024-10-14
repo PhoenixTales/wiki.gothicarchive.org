@@ -56,6 +56,7 @@ title: Ore Barons
 - codename `ZombieTheKeeper`
 - likely when hunting the orcs, he acquired a powerful _Orcish talisman_, that he then used to protect himself against the fireballs of angry _Orc Shamans_ 
   - `I'm looking for an Orcish talisman (...) its former owner used it to defend himself against angry Orcs.`
+  - _Ur-Shak_ mentions gifting a talisman of fire protection to the hero (but doesn't actually give one)
 - turned into a particularly powerful _Zombie_ by a curse guarding the _Focus Stone_ under the _Stone Circle Of The Damned_ on the _orc territorry_
   - now he is `the GUARDIAN under the ring of stone` / `the undead guardian in the crypt`
   - `He seems to be extremely resistant against the effects of normal weapons.`
