@@ -62,6 +62,9 @@ title: Religion
 - also called `Krushak`, already in early design docs (`Story 3.3 draft`)
 - `when Krushak awakens and distributes his power among the mortals who have served him loyally from the beginning` (`Story 3.3 draft`)
 - according to _Y'Berion_, awakening The Sleeper `will cause the magical barrier to burst` (`Story 3.3 draft`)
+- `The Sleeper can use more powerful versions of the learnable spells`
+  - `they might kill each other (Sleeper's Rage spell)`
+  - German: `Der Schläfer könnte mächtigere Versionen der erlernbaren Zaubersprüche benutzen`, `evtl. bringen sie sich gegenseitig um (Raserei-Spruch des Schläfers)`
 
 ## Shugul Sath
 - also known as the _Smoke Hunter_
