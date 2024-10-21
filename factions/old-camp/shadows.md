@@ -54,10 +54,11 @@ title: Shadows Of The Old Camp
 - `master spy, specializing in information gathering; Principal` (design doc `NPCs per Guild`)
 - the best _Spy_ of the _Shadows Of Old Camp_
 
-## The Invisible Man (The Leader)
+## The Invisible Man
 - German: `Der Unsichtbare`
 - `leader of the Shadows known to almost no one` (design doc `NPCs per Guild`)
 - design doc `Story 3.3 draft` mentions leader of Shadows named `Grmbl` (apparently he's also _The Unpronounceable Man_)
+- design doc Phoenix Level Design mentions his name as _Zampalo_ (German: `Der große Zampalo -> = Kopf der Schatten`) but it's likely just a placeholder name
 
 ## The Messenger
 - German: `Bote`
