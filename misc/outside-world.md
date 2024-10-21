@@ -10,6 +10,7 @@ title: Outside World
 - accessible from portal in _Temple Of Sleeper_ and under the _Stone Circle Of The Damned_
 - _arch demons_ live there and fight each other
 - according to early designs, player was supposed to be able to enter it, or even accidentally help a demon enter the world of living
+- `The demon world is a parallel dimension to which the player has only very limited access. The portals in the Ancient Temple lead through the demon world to the upper world. The player moves along winding, prescribed paths that are cut off from the rest of the demon world by a magical barrier. If he looks through the magical protective barrier, he sees part of the demon world. He also sees some demons that would like to tear him to pieces, but cannot because of the protective barrier. The portals must be activated from below. After the first passage, their exits to the upper world are permanently activated. `
 
 ## Great Northern Plains
 - `Following the heavy battles in the north, every countryman now knows how to use a bow and arrows`
