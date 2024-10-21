@@ -114,8 +114,8 @@ title: Items
   - oil lamp (`IT_I_OILLAMP2`)
 - they last for configurable amount of time, during which the intensity of light gradually decreases
 - all 3 of them have it copy-pasted to be 20 in-game minutes (`brightness = 20 * 60; // 20 Minuten Brenndauer`)
-- torch can be held in the right hand and then used as a weapon
-- torch can also be used in the left hand, while holding one-handed weapon in another hand
+- torch can be hung on walls in a torch holder and taken from there
+  - as long as a torch is in the holder, it does not lose its burn time (i.e. it burns forever)
 - oil lamps can be attached to user's belt, so that they can use bow or two-handed weapon
 - mentioned in Phoenix Docs (`Referenz_Items`)
 
