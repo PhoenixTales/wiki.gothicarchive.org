@@ -172,6 +172,9 @@ title: Locations
 - `in an uknown ancient temple, unchanged for 1000 years`
 - there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
 - it is lit with `luminous crystals` (Phoenix Level Design doc)
+- `PC [Player Character] can later encounter enemies killed in the AT [Ancient Temple] as zombies. Some power creates turns them undead. Are they captured by the Spirit of the Sleeper?`
+  - German: `SC könnte im AT getötete Gegner als Zombies wiedertreffen. Irgendeine Macht erschafft Untote. Geist des Schläfers, der sie einfängt?`
+  - from Phoenix Level Design document
 
 ## Tower Of Demon Summoner
 - German: `Turm des Dämonenbeschwörers` (`TDB`)
