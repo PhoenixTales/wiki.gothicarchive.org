@@ -41,6 +41,10 @@ title: Items
 - owned and used by _The Lobotomizer_, guru of _The Sect_
 - `his spells "Confusion" and "Chaos" are so strong thanks to a Magical Artifact that he can permanently drive people insane` (design doc `NPCs per guild`)
 
+## Gems
+- few kinds mentioned: `Gem`, `Crystal`, `Shard` (German: `Gemme`, `Kristall`, `Scherbe`)
+- mentioned in Phoenix Docs (`Referenz_Items`)
+
 ## Demon Blade
 - German: `Dämonenklinge`
 - special two-handed sword
@@ -113,6 +117,7 @@ title: Items
 - torch can be held in the right hand and then used as a weapon
 - torch can also be used in the left hand, while holding one-handed weapon in another hand
 - oil lamps can be attached to user's belt, so that they can use bow or two-handed weapon
+- mentioned in Phoenix Docs (`Referenz_Items`)
 
 ## Madman's Axe
 - German: `Axt des Wahnsinnigen`
