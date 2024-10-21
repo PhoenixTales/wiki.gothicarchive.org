@@ -2,6 +2,12 @@
 title: Religion
 ---
 
+## Archdemons
+- `There are a total of seven "Sleepers" in the World Of Demons. Six of them are still there (...) and one has been banished to "our" world.`
+  - from Phoenix Level Design docs
+- `Sleeper is a Demon Lord. And a Demon Lord behaves towards normal Demons like a human behaves towards animals. Problem: normal Demons are far superior to normal humans, but the Sleeper...`
+  - from Phoenix Level Design docs
+
 ## National religion of Myrtana
 - three gods are worshipped
   - `the man of the three gods, and governor of the highest god`
@@ -64,7 +70,9 @@ title: Religion
 - according to _Y'Berion_, awakening The Sleeper `will cause the magical barrier to burst` (`Story 3.3 draft`)
 - `The Sleeper can use more powerful versions of the learnable spells`
   - `they might kill each other (Sleeper's Rage spell)`
-  - German: `Der Schläfer könnte mächtigere Versionen der erlernbaren Zaubersprüche benutzen`, `evtl. bringen sie sich gegenseitig um (Raserei-Spruch des Schläfers)`
+  - from Phoenix Level Design docs
+- `The Sleeper only wants to gather enough energy to a) open a portal back to his world and b) create enough undead that will then help him show the other six [archdemons] what's what...`
+  - from Phoenix Level Design docs
 
 ## Shugul Sath
 - also known as the _Smoke Hunter_
