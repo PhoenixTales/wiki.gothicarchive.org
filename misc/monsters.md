@@ -109,4 +109,5 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
   - from early design docs
 - `Undead dragon in AT3 [Ancient Temple part 3] - PC [Player Character] finds scriptures describing how the temple servants of the Sleeper captured a dragon to protect access to the inner sanctuary, it is said to be chained there - when the PC enters the corresponding room he only finds the broken chains...`
   - `Untoter Drache in AT3 – SC findet Aufzeichnungen, in denen beschrieben ist, wie die Tempeldiener des Schläfers einen Drachen gefangengenomen haben, um durch ihn den Zugang zum inneren heiligtum zu schützen, er solle dort angekettet sein – wenn der SC den entsprechenden Raum betritt findet er nur noch die gesprengten Ketten vor...`
+  - from Phoenix Level Design document
 - later was replaced by the _Fifth Orc Shaman_, which similarly is an undead boss blocking the only way to _The Sleeper_, and has to be defeated with a special weapon
