@@ -168,8 +168,10 @@ title: Locations
 
 ## Temple Of Sleeper
 - in early docs called `The Ancient Temple Of The Being` (German: `Uralten Tempel der Wesenheit`) (design doc `NPCs per guild`)
+- codename: `AT` (`Ancient Temple`)
 - `in an uknown ancient temple, unchanged for 1000 years`
 - there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
+- it is lit with `luminous crystals` (Phoenix Level Design doc)
 
 ## Tower Of Demon Summoner
 - German: `Turm des Dämonenbeschwörers` (`TDB`)
