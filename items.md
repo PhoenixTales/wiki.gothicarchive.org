@@ -28,17 +28,35 @@ title: Items
 - `Magical Amulet against WS in order to get closer than 10m to the Barrier, without becoming insanse`
   - from early design docs
 
+## Armor Of The Dawn
+- German: `Panzer der Morgenröte`
+- a very light plate armor
+- grants high protection against normal damage
+- glows red in the dark
+- extremely conspicuous
+- mentioned in Phoenix Docs (`Referenz_Items`)
+
 ## Artefact Of Insanity
 - German: `ein magische Artefakt`
 - owned and used by _The Lobotomizer_, guru of _The Sect_
 - `his spells "Confusion" and "Chaos" are so strong thanks to a Magical Artifact that he can permanently drive people insane` (design doc `NPCs per guild`)
 
+## Demon Blade
+- German: `Dämonenklinge`
+- special two-handed sword
+- deals high magic damage
+- increases damage protection of the user (German: `Schadensresistenzen`)
+- gradually drains life points of the user
+- cannot be discarded (German: `kann nicht abgelegt werden`)
+- gradually increases madness points
+- mentioned in Phoenix Docs (`Referenz_Items`)
+
 ## Extra Large Organiser Armor
 - item with ID `ORG_ARMOR_XL` in 1.01d alpha
 
 ## Fiery Bow
-- bow of Hawkeye
-- without fire damage
+- bow of _Hawkeye_
+- in the alpha build, deals no fire damage and has no visual fire effect
 
 ## Fire Stone / Potion Of Inferno
 - in different alpha versions called either `Fire Stone` (probably runestone) or `Potion Of Inferno` (a red drink)
@@ -49,6 +67,13 @@ title: Items
   - alternatively he guesses it based on how few of them are under the barrier
   - `So that wretched imp tried to sell you the Fire Stone, tststs. This Fire Stone belongs to my apprentice, whom I haven't seen for two days.`
   - German: `Dieser elende Wicht hat also versucht, dir den Feuerstein anzudrehen, tststs. Der Feuerstein gehört meinem Lehrling, den ich schon seit zwei Tagen nicht mehr gesehen habe.`
+ 
+## Flame Tongue
+- German: `Flammenzunge`
+- a broadsword dealing fire damage
+- it has a visual fire effect and emits light
+- can be used as a torch 
+- mentioned in Phoenix Docs (`Referenz_Items`)
 
 ## Focus Stone
 - crystal-based energy storage device
@@ -85,6 +110,13 @@ title: Items
   - oil lamp (`IT_I_OILLAMP2`)
 - they last for configurable amount of time, during which the intensity of light gradually decreases
 - all 3 of them have it copy-pasted to be 20 in-game minutes (`brightness = 20 * 60; // 20 Minuten Brenndauer`)
+
+## Madman's Axe
+- German: `Axt des Wahnsinnigen`
+- looks like Berserker's Axe
+- deals high magic damage
+- gradually increases madness points
+- mentioned in Phoenix Docs (`Referenz_Items`)
 
 ## Magic Ore
 - see _Magic_
@@ -143,6 +175,13 @@ title: Items
 
 ## Orc Medicine
 - according to _Tarrok_, required to save an _orc_ poisoned by _minecrawler_ bites
+
+## Phantom Bow
+- German: `Phantombogen`
+- metal bow
+- does not require arrows, shoots magic (invisible?) projectiles dealing magic damage
+- blocks the user from using any magic (German: `keinerlei Magie möglich`)
+- mentioned in Phoenix Docs (`Referenz_Items`)
 
 ## Potion "Mad Bull"
 - causes temporary madness (`Npc_SetToMad (self,30)`)
