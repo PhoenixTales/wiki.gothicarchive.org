@@ -41,10 +41,6 @@ title: Items
 - owned and used by _The Lobotomizer_, guru of _The Sect_
 - `his spells "Confusion" and "Chaos" are so strong thanks to a Magical Artifact that he can permanently drive people insane` (design doc `NPCs per guild`)
 
-## Gems
-- few kinds mentioned: `Gem`, `Crystal`, `Shard` (German: `Gemme`, `Kristall`, `Scherbe`)
-- mentioned in Phoenix Docs (`Referenz_Items`)
-
 ## Demon Blade
 - German: `Dämonenklinge`
 - special two-handed sword
@@ -84,6 +80,10 @@ title: Items
 - much easier to release than charge
 - can be used to cast "high magic" spells, like giant force-fields or explosions able to destroy such force-fields
 - casting a spell with focus stone uses magic power from the stone, not (only) from the mage
+
+## Gems
+- few kinds mentioned: `Gem`, `Crystal`, `Shard` (German: `Gemme`, `Kristall`, `Scherbe`)
+- mentioned in Phoenix Docs (`Referenz_Items`)
 
 ## Gold
 - major unit of currency is _Unit Of Gold_ (e.g. 400 for a mountain fort)
