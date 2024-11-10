@@ -41,3 +41,7 @@ title: Water Magic
 ### Magic Blade (II)
 - German: `Zauberklinge`
 - mentioned in alpha design docs `Spells`
+
+### Magic Silence (III)
+- German: `Magische Stille`
+- mentioned in alpha design docs `Spells`
