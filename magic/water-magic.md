@@ -43,6 +43,7 @@ title: Water Magic
 ### Magic Blade (II)
 - German: `Zauberklinge`
 - mentioned in alpha design docs `Spells`
+- sounds similar to `Remote Blade`, a Level IV Psionic spell mentioned in the same doc 
 
 ### Magic Silence (III)
 - German: `Magische Stille`
