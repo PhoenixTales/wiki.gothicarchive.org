@@ -61,3 +61,7 @@ title: Water Magic
 ### Dispell Magic (V)
 - German: `Magie bannen`
 - mentioned in alpha design docs `Spells`
+
+### Revive (VI)
+- German: `Wiederbelebung`
+- mentioned in alpha design docs `Spells`
