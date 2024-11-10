@@ -28,6 +28,7 @@ title: Water Magic
 ### Lightning
 - the vertical one
 - removed from the final release
+- alpha design doc `Spells` mentions it as `Blitzschlag`, level IV spell of Circle of Fire 
 
 
 ### Invisibility
