@@ -28,3 +28,40 @@ title: Fire Magic
 - according to 0.56c, a fire spell
 - could be Fire type in reference to _Old Testament God Of Fire_ making a person turn into pillar of salt
 - removed from the final release
+
+### Shield (II)
+- German: `Schild`
+- mentioned in alpha document `Spells`
+
+### Magic Lock (II)
+- German: `Magisches Schloss`
+- mentioned in alpha document `Spells`
+
+### Mask Of Light (III)
+- German: `Maske des Lichts`
+- mentioned in alpha document `Spells`
+
+### Mirror Image (III)
+- German: `Spiegelbild`
+- mentioned in alpha document `Spells`
+
+### Air Bubble (IV)
+- German: `Luftblase`
+- mentioned in alpha document `Spells`
+
+### Hurricane (V)
+- German: `Wirbelsturm`
+- mentioned in alpha document `Spells`
+- appears later in G2NOTR as very small tornado levitating single enemy
+
+### Invulnerability (V)
+- German: `Unverwundbarkeit`
+- mentioned in alpha document `Spells`
+
+### Stone Tomb (VI)
+- German: `Steinernes Grab`
+- mentioned in alpha document `Spells`
+
+### Lesser Summoning (VI)
+- German: `Niedere Beschwörung`
+- mentioned in alpha document `Spells`
