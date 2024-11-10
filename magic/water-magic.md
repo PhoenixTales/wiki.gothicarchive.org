@@ -31,8 +31,10 @@ title: Water Magic
 - alpha design doc `Spells` mentions it as `Blitzschlag`, level IV spell of Circle of Fire 
 
 
-### Invisibility
+### Invisibility (V)
 - removed from the final release
+- mentioned in alpha design docs `Spells`
+- German: `Unsichtbarkeit`
 
 ### Battle Cry (I)
 - German: `Kampfspruchn`
