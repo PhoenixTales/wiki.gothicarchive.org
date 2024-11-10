@@ -46,7 +46,7 @@ title: Fire Magic
 - German: `Spiegelbild`
 - mentioned in alpha document `Spells`
 
-### Air Bubble (IV)
+### Bubble (IV)
 - German: `Luftblase`
 - mentioned in alpha document `Spells`
 
