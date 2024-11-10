@@ -15,14 +15,9 @@ title: Dark Magic
 - also known as _Ring Of Death_ or _URIZIEL's wrath_
 - `There are hardly any records about the rune carrying the powers of URIZIEL. It is only known that it has Beliar's powers.`
 
-### Summon Demon
-- also known as _Summon Deamon_
-- only available as scroll
-
-### Summon Skeleton
-- only available as scroll
-
-### Summon Golem
+### Summon 
+- one of: Demon/Deamon, Skeleton, Golem
+- alpha design doc `Spells` mentions `Lesser Summoning` as level VI spell of _Circle Of Fire_
 - only available as scroll
 
 ### Army Of Darkness
