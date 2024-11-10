@@ -2,7 +2,7 @@
 title: Dark Magic
 ---
 
-- according to alpha design doc `Spells`, the Demonic spells are of Magic Circles 7-11, while both Water and Fire spells are of Magic Circles 1-6
+- according to alpha design doc `Spells`, the Demonic spells and Guru spells are of Magic Circles 7-11, while both Water and Fire spells are of Magic Circles 1-6
 
 ### Death To The Undead (IV)
 - also known as _Banish Undead_ or _Destroy Undead_
