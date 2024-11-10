@@ -33,3 +33,11 @@ title: Water Magic
 
 ### Invisibility
 - removed from the final release
+
+### Battle Cry (I)
+- German: `Kampfspruchn`
+- mentioned in alpha design docs `Spells`
+
+### Magic Blade (II)
+- German: `Zauberklinge`
+- mentioned in alpha design docs `Spells`
