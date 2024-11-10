@@ -41,7 +41,7 @@ title: Dark Magic
 - German: `Der hungrige Schatten`
 - mentioned in alpha design doc `Spells`
 
-### Supremos: The Invincible One
+### Supremos: The Invincible One (XI)
 - German: `Der Unbezwingbare`
 - mentioned in alpha design doc `Spells`
 
