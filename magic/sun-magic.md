@@ -27,6 +27,7 @@ This group exists only based on texture information: all these spells are color-
 - also known as _Transform Into_
 - in the final release it is associated with forgotten deity worshipped by former _Monks Of Monastery On The Cliff_
 - available animals: Bloodfly, Minecrawler, Lurker, Meatbug, Molerat, Orc-dog, Razor, Scavenger, Scavenger2, Shadowbeast, Snapper, Waran, Wolf
+- alpha design doc `Spells` mentions it as `Verwandlung`, Level IV spell of _Circle Of Water_
 
 ### Stop Time
 - according to 0.56c, doesn't belong to Fire nor Water nor Darkness nor Psionic
