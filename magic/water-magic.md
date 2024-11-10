@@ -45,3 +45,15 @@ title: Water Magic
 ### Magic Silence (III)
 - German: `Magische Stille`
 - mentioned in alpha design docs `Spells`
+
+### Cure poison (III)
+- German: `Vergiftung heilen`
+- mentioned in alpha design docs `Spells`
+
+### Regeneration (IV)
+- mentioned in alpha design docs `Spells`
+
+### Seance (IV)
+- mentioned in alpha design docs `Spells`
+
+
