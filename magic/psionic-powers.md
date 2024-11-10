@@ -59,4 +59,7 @@ title: Psionic Powers
 ### Chaos
 - only mentioned in design doc `NPCs per guild`
 
-
+### Shrink Monster
+- only available as a scroll
+- categorized as psionic spell only based on the texture color-coding (green)
+- alpha design doc `Spells` mentions it as `Verschrumpeln`, Level 3 spell of _Circle Of Water_
