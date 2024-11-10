@@ -17,3 +17,7 @@ title: Other Spells
 - available destinations: Fire Mages, Water Mages, Demon Summoner, Orc Graveyard Secret, Ore Baron House
 - `The special feature of these magic formulas is that, although they are bound in runes, they can be cast by anybody with magic powers. The magic of these formulas can be activated at once. There are no restrictions to the teleportation spell.`
 - alpha design doc `Spells` mentions `Teleportation` as Level V spell of _Circle Of Water_
+
+### Unlock (II)
+- commented with `Chance: 5% * lev`
+- mentioned in alpha design doc `Spells`
