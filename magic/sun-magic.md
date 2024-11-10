@@ -18,6 +18,7 @@ This group exists only based on texture information: all these spells are color-
 ### Heal (II)
 - color code yellow
 - already in the early docs associated with _Water_ type and god _Adanos_, with most of _Water Mages_ called _healers_
+- alpha design docs `Spells` mentions `Healing Wounds` (`Wunden heilen`) as Level I spell of _Circle Of Water_ 
 
 ### Turn Into Animal
 - color code yellow
