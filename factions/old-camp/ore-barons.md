@@ -79,6 +79,7 @@ title: Ore Barons
 - in alpha had the same role protecting _The Big Boss_, but as a _Mercenary Of Old Camp_
   - one of the `SLD_BARONSGUARDN`, with _Arto_
 - possibly later merged with _The Right Hand_ (IDs match)
+- called `first bodyguard of Gomez` (promo doc `Shottake`)
 
 ## Shadow Baron
 - German: `Schattenbaron`
