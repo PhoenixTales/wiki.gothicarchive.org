@@ -28,7 +28,7 @@ title: Psionic Powers
 
 ### Storm Fist
 - advanced version of _Wind Fist_
-- clearly the same as `Wrath of the Wind` (German: `Zorn des Windes`) mentioned in alpha design doc `Spells` 
+- clearly the same as `Wrath of the Wind` (German: `Zorn des Windes`) and `Telekinetic Storm`, both mentioned in alpha design doc `Spells` 
 
 ### Forget
 - also known as _Befuddle_
@@ -66,11 +66,6 @@ title: Psionic Powers
 ### Chaos
 - only mentioned in design doc `NPCs per guild`
 
-### Shrink Monster
-- only available as a scroll
-- categorized as psionic spell only based on the texture color-coding (green)
-- alpha design doc `Spells` mentions it as `Verschrumpeln`, Level 3 spell of _Circle Of Water_
-
 ### Evil Eye (I)
 - German: `Böser Blick`
 - mentioned in alpha design doc `Spells`
@@ -93,6 +88,11 @@ title: Psionic Powers
 
 ### Illusion (IV)
 - commented as `Conjure monster` (German: `Monster erschaffen`)
+- mentioned in alpha design doc `Spells`
+
+### Remote Blade (IV)
+- mentioned in alpha design doc `Spells`
+- sounds similar to `Magic Blade` (German: `Zauberklinge`), Level II spell of _Circle Of Water_ mentioned in the same document
 
 ### Paralyze (V)
 - German: `Paralysieren`
@@ -104,8 +104,21 @@ title: Psionic Powers
 - mentioned in alpha design doc `Spells`
 - probably worked like a temporary control of an invisible body that cannot interact with anything
 
+### Mind Warp (V)
+- mentioned in alpha design doc `Spells`
+- probably the same as `Wandering Soul` mentioned in the same design doc
+- commented as `Spirit separates from body` (German: `Geist frenntsich von körper`) and `trough wall` (German: `durch wand`), and `Radius * LEV`
+
 ### Levitation (VI)
 - mentioned in alpha design doc `Spells`
+
+### Control Monster (VI)
+- mentioned in alpha design doc `Spells`
+
+### Death Grip (VI)
+- mentioned in alpha design doc `Spells`
+- commented with `PAIN`
+- appears similar to `Agony`, Level VIII psionic spell menioned in the same doc
 
 ### Will of the Master (VII)
 - German: `Wille des Meisters`
@@ -122,11 +135,14 @@ title: Psionic Powers
 - Guru-only spell
 - mentioned in alpha design doc `Spells`
 
-## Chaos (X)
+### Chaos (X)
+- also called `March Of Confusion` (German: `Märzenverwirrung`)
 - Guru-only spell
 - mentioned in alpha design doc `Spells`
+- in another place of the same design doc mentioned as Level VII
 
-- Mind Strike (XI)
+### Mind Strike (XI)
 - German: `Gedankenschlag`
 - Guru-only spell
 - mentioned in alpha design doc `Spells`
+- in another place of the same design doc mentioned as Level VII
