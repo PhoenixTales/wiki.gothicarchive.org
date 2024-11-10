@@ -9,6 +9,7 @@ title: Other Spells
 - only available as Scroll
 - color-coded as Psionic spell but doesn't seem to belong there
   - for example, it was sold by merchants in Khorinis, likely before creation of the barrier (as the dead owner found within the barrier, notes that he bought it for gold coins with intention of killing the troll and become rich - this plan would make no sense if the barrier already existed at the moment)
+- alpha design doc `Spells` mentions it as `Verschrumpeln`, Level 3 spell of _Circle Of Water_
 
 ### Magic of Teleportation
 - according to the color-codes on the textures, teleportation spells do not belong to any single magic type
