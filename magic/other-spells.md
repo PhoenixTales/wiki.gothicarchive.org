@@ -21,3 +21,9 @@ title: Other Spells
 ### Unlock (II)
 - commented with `Chance: 5% * lev`
 - mentioned in alpha design doc `Spells`
+
+### Summon Monster (IV)
+- mentioned in alpha design doc `Spells`
+
+### Morphing (V)
+- mentioned in alpha design doc `Spells`
