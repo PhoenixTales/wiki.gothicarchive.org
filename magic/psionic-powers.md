@@ -41,6 +41,7 @@ title: Psionic Powers
 - removed from the final release
 
 ### Sleep
+- in alpha design docs `Spells` mentioned as Level II spell of _Circle Of Water_
 
 ### Pyrokinesis
 
