@@ -2,6 +2,8 @@
 title: Dark Magic
 ---
 
+- according to alpha design doc `Spells`, the Demonic spells are of Magic Circles 7-11, while both Water and Fire spells are of Magic Circles 1-6
+
 ### Death To The Undead (IV)
 - also known as _Banish Undead_ or _Destroy Undead_
 - intuitively, this spell should be color-coded yellow (sun/light), but instead is color-coded purple (darkness)
@@ -22,3 +24,26 @@ title: Dark Magic
 
 ### Army Of Darkness
 - only available as scroll
+
+### Manos: The Helping Hand (VII)
+- German: `Die helfende Hand`
+- mentioned in alpha design doc `Spells`
+
+### Sentra: The Watcher (VIII)
+- German: `Die Wachterin` (feminine form)
+- mentioned in alpha design doc `Spells`
+
+### Agonom: The Tormented Soul (IX)
+- German: `Die geplagte Seele`
+- mentioned in alpha design doc `Spells`
+
+### Devor: The Hungry Shadow (X)
+- German: `Der hungrige Schatten`
+- mentioned in alpha design doc `Spells`
+
+### Supremos: The Invincible One
+- German: `Der Unbezwingbare`
+- mentioned in alpha design doc `Spells`
+
+
+  
