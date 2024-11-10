@@ -28,6 +28,7 @@ title: Fire Magic
 - according to 0.56c, a fire spell
 - could be Fire type in reference to _Old Testament God Of Fire_ making a person turn into pillar of salt
 - removed from the final release
+- alpha design doc `Spells` mentions `Curse of the Stone` (`Fluch des Steins`) as Level VI spell of _Circle Of Water_ 
 
 ### Shield (II)
 - German: `Schild`
