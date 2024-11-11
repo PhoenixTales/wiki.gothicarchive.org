@@ -55,10 +55,11 @@ title: Fire Magic
 - mentioned in alpha document `Spells`
 - appears later in G2NOTR as very small tornado levitating single enemy
 
-### Invulnerability (V)
+### Invincibility (V)
 - German: `Unverwundbarkeit`
 - mentioned in alpha document `Spells`
 - distinct from and likely much weaker than Level XI Dark Magic spell `Supremos: The Invincible One` (German: `Der Unbezwingbare`) mentioned in the same document
+- other place in the same document notes it as Level VI spell
 
 ### Stone Block (VI)
 - also mentioned as `Stone Tomb` (German: `Steinernes Grab`)
