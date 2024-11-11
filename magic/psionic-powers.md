@@ -147,8 +147,9 @@ title: Psionic Powers
 - Guru-only spell
 - mentioned in alpha design doc `Spells`
 - in another place of the same design doc mentioned as Level VII
+- works like _Confuse_, but on everyone in a radius
 
-### Mind Strike (XI)
+### Mind Disrupt (XI)
 - German: `Gedankenschlag`
 - Guru-only spell
 - mentioned in alpha design doc `Spells`
