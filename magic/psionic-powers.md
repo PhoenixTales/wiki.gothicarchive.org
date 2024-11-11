@@ -115,6 +115,10 @@ title: Psionic Powers
 ### Control Monster (VI)
 - mentioned in alpha design doc `Spells`
 
+### Kinetic Vortex (VI)
+- mentioned in alpha design doc `Spells`
+- not explicitly assigned to Psionic spells, but based on name very likely belongs here
+
 ### Death Grip (VI)
 - mentioned in alpha design doc `Spells`
 - commented with `PAIN`
