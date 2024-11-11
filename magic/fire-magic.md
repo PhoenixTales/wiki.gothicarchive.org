@@ -60,8 +60,8 @@ title: Fire Magic
 - mentioned in alpha document `Spells`
 - distinct from and likely much weaker than Level XI Dark Magic spell `Supremos: The Invincible One` (German: `Der Unbezwingbare`) mentioned in the same document
 
-### Stone Tomb (VI)
-- German: `Steinernes Grab`
+### Stone Block (VI)
+- also mentioned as `Stone Tomb` (German: `Steinernes Grab`)
 - mentioned in alpha document `Spells`
 
 ### Lesser Summoning (VI)
