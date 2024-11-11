@@ -122,9 +122,9 @@ title: Psionic Powers
 - mentioned in alpha design doc `Spells`
 - not explicitly assigned to Psionic spells, but based on name very likely belongs here
 
-### Death Grip (VI)
+### Pain (VI)
 - mentioned in alpha design doc `Spells`
-- commented with `PAIN`
+- also mentioned as `Death Grip`
 - appears similar to `Agony`, Level VIII psionic spell menioned in the same doc
 
 ### Will of the Master (VII)
