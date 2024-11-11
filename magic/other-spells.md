@@ -46,3 +46,7 @@ title: Other Spells
 
 ### Sentry
 - commented with `alarms caster on event / traspasser`
+
+### Summon Bat (II)
+- mentioned in alpha design doc `Spells`
+- commented with `(Spy)` and `Thief!`
