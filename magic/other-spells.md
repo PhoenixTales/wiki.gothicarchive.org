@@ -40,3 +40,9 @@ title: Other Spells
 ### Create Amulet
 - mentioned in alpha design doc `Spells`
 
+### Enchant Blade
+- mentioned in alpha design doc `Spells`
+- sounds a bit similar to `Magic Blade` (German: `Zauberklinge`), Level II spell of _Circle of Water_
+
+### Sentry
+- commented with `alarms caster on event / traspasser`
