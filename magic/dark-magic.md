@@ -37,17 +37,17 @@ title: Dark Magic
 ### Agonom: The Tormented Soul (IX)
 - German: `Die geplagte Seele`
 - mentioned in alpha design doc `Spells`
-- possibly the same as `Summon Banshee` which is commneted with `[ Invincible / Transluscent ] [ cries! ] [easy to destroy by magic & magic weapons ]`
+- possibly the same as `Summon Banshee` which is commneted with `( Invincible / Transluscent ) ( cries! ) (easy to destroy by magic & magic weapons )`
 
 ### Devor: The Hungry Shadow (X)
 - German: `Der hungrige Schatten`
 - mentioned in alpha design doc `Spells`
-- possibly the same as `Summon Hellhound` which is commented with `Strong attacker / at own will) (must be killed in order to get rid of -> attacks even good (N)PCs) (always returns to caster)
+- possibly the same as `Summon Hellhound` which is commented with `Strong attacker / at own will) (must be killed in order to get rid of -> attacks even good (N)PCs) (always returns to caster)`
 
 ### Supremos: The Invincible One (XI)
 - German: `Der Unbezwingbare`
 - mentioned in alpha design doc `Spells`
-- possibly the same as `Summon The Thinf That Should Not Be` which is commented with `(once casted, kills everyone in range including the caster -> cast & run) (stays for a while, then disintegrates in devastating effect)`
+- possibly the same as `Summon The Thing That Should Not Be` which is commented with `(once casted, kills everyone in range including the caster -> cast & run) (stays for a while, then disintegrates in devastating effect)`
 
 ### Black Hole
 - commented with `magnetism`
