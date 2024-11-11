@@ -27,3 +27,9 @@ title: Other Spells
 
 ### Morphing (V)
 - mentioned in alpha design doc `Spells`
+
+### Wizard's Wrath (VII)
+- mentioned in alpha design doc `Spells`
+
+### Stone Touch (VII)
+- mentioned in alpha design doc `Spells`
