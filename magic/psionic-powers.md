@@ -151,3 +151,10 @@ title: Psionic Powers
 - Guru-only spell
 - mentioned in alpha design doc `Spells`
 - in another place of the same design doc mentioned as Level VII
+
+### Masquerade
+- mentioned in alpha design doc `Spells`
+
+
+
+
