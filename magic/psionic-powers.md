@@ -37,6 +37,7 @@ title: Psionic Powers
 ### Confuse (III)
 - German: `Verwirrung`
 - mentioned in doc `NPCs per guild` and `Spells`
+- `An opponent is lost and moves randomly through the dungeon. He can run into walls and attack randomly (or cast spells if necessary)` (German: `Ein Gegner wird verlierst und bewegt sich zufällig durch den dungeon. Er kann dabei vor Wande laufen und zufallig attackieren (ggf. zaubern)`)
 
 ### Fear
 - alpha design doc `Spells` mentions it as Level I psionic spell
