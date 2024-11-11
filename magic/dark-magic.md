@@ -58,4 +58,7 @@ title: Dark Magic
 - mentioned in alpha design doc `Spells`
 - commented with `(Spy)` and `Thief!`
 
-  
+### Summon Thrall
+- mentioned in alpha design doc `Spells`
+- commented with `Fighter [Stupid Defender] STRONG!`
+- it's unclear if this spell belongs to Dark category or not
