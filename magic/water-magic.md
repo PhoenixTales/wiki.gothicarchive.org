@@ -58,6 +58,7 @@ title: Water Magic
 
 ### Seance (IV)
 - mentioned in alpha design docs `Spells`
+- commented as `Interview with the Dead`
 
 ### Dispell Magic (V)
 - German: `Magie bannen`
