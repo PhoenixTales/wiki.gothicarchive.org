@@ -74,6 +74,7 @@ title: Psionic Powers
 ### Word of Binding (I)
 - German: `Wort der Bindung`
 - mentioned in alpha design doc `Spells`
+- comment mentions that the target cannot move or rotate, can only attack whatever is in front of them
 
 ### Eye of a Thief (IV)
 - German: `Auge des Diebes`
