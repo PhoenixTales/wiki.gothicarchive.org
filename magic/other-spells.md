@@ -33,3 +33,10 @@ title: Other Spells
 
 ### Stone Touch (VII)
 - mentioned in alpha design doc `Spells`
+
+### Curse Object
+- mentioned in alpha design doc `Spells`
+
+### Create Amulet
+- mentioned in alpha design doc `Spells`
+
