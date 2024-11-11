@@ -32,24 +32,30 @@ title: Dark Magic
 ### Sentra: The Watcher (VIII)
 - German: `Die Wachterin` (feminine form)
 - mentioned in alpha design doc `Spells`
+- possibly the same as `Summon Sentry` which is commented with `alarms caster on event / traspasser`
 
 ### Agonom: The Tormented Soul (IX)
 - German: `Die geplagte Seele`
 - mentioned in alpha design doc `Spells`
+- possibly the same as `Summon Banshee` which is commneted with `[ Invincible / Transluscent ] [ cries! ] [easy to destroy by magic & magic weapons ]`
 
 ### Devor: The Hungry Shadow (X)
 - German: `Der hungrige Schatten`
 - mentioned in alpha design doc `Spells`
+- possibly the same as `Summon Hellhound` which is commented with `Strong attacker / at own will) (must be killed in order to get rid of -> attacks even good (N)PCs) (always returns to caster)
 
 ### Supremos: The Invincible One (XI)
 - German: `Der Unbezwingbare`
 - mentioned in alpha design doc `Spells`
+- possibly the same as `Summon The Thinf That Should Not Be` which is commented with `(once casted, kills everyone in range including the caster -> cast & run) (stays for a while, then disintegrates in devastating effect)`
 
 ### Black Hole
 - commented with `magnetism`
 - mentioned in alpha design doc `Spells`
 - not explicitly assigned to any spell group, listed under dark spells due to name
 
-
+### Summon Bat (II)
+- mentioned in alpha design doc `Spells`
+- commented with `(Spy)` and `Thief!`
 
   
