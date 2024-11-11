@@ -159,6 +159,7 @@ title: Psionic Powers
 ### Masquerade
 - mentioned in alpha design doc `Spells`
 
-
+### Summon Thrall
+- mentioned in alpha design doc `Spells`
 
 
