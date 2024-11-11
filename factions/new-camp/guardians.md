@@ -2,9 +2,9 @@
 title: The Guardians of The New Camp
 ---
 
-- in early design docs called `Noble Mercenaries` (German: `noble Söldner`) (see `Orpheus Guilds V1`)
+- in early design docs called `Noble Mercenaries` (German: `noble Söldner`) (see `Orpheus Guilds V1`) and `Paladins` (e.g. in `Roter Faden` design doc)
 - in the final game release known as `Mercenaries of New Camp`
-- known as `die Recken` in German version of _Sleeper's Ban_, and as `Die Garde` (`GRD`) in alpha builds
+- known as `die Recken` ("heroic" warriors) in German version of _Sleeper's Ban_, and as `Die Garde` (`GRD`) ("noble" guards) in alpha builds
 - protect _Alchemists of Water_, farmers living in _New Camp_ and _Miner's Association_ of _Free Camp_
   - `The miners from the Free Camp need our protection and we need their ore.` (`Inf_Grd_FL`)
 - 4 of them are bodyguards of _Lee_, `with healing ability; absolutely loyal` (design doc `NPCs per Guild`)
