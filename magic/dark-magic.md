@@ -48,5 +48,11 @@ title: Dark Magic
 - German: `Der Unbezwingbare`
 - mentioned in alpha design doc `Spells`
 
+### Black Hole
+- commented with `magnetism`
+- mentioned in alpha design doc `Spells`
+- not explicitly assigned to any spell group, listed under dark spells due to name
+
+
 
   
