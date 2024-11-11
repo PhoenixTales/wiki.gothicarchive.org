@@ -22,9 +22,6 @@ title: Dark Magic
 - alpha design doc `Spells` mentions `Lesser Summoning` as level VI spell of _Circle Of Fire_
 - only available as scroll
 
-### Summon Bat (II)
-- mentioned in alpha design doc `Spells`
-
 ### Army Of Darkness
 - only available as scroll
 
