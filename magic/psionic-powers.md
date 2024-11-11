@@ -161,5 +161,5 @@ title: Psionic Powers
 ### Summon Thrall
 - commented with `Fighter [Stupid Defender] STRONG!`
 - mentioned in alpha design doc `Spells`
-- design doc says `PSI: Thrall`, even other though summoning spells qualify as Dark Magic, possibly "recruits" some nearby stupid warrior (if any present) rather than summoning one from another dimension
+- design doc says `PSI: Thrall`, even though other summoning spells qualify as Dark Magic, possibly "recruits" some nearby stupid warrior (if any present) rather than summoning one from another dimension
 
