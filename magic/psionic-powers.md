@@ -19,6 +19,7 @@ title: Psionic Powers
 
 ### Control
 - also known as _Control Human_
+- probably the same as `Thrall` mentioned in alpha design doc `Spells`
 
 ### Telekinesis (III)
 
