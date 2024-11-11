@@ -158,3 +158,7 @@ title: Psionic Powers
 ### Masquerade
 - mentioned in alpha design doc `Spells`
 
+### Summon Thrall
+- commented with `Fighter [Stupid Defender] STRONG!`
+- mentioned in alpha design doc `Spells`
+- design doc says `PSI: Thrall`, even other though summoning spells qualify as Dark Magic
