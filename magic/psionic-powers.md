@@ -19,7 +19,6 @@ title: Psionic Powers
 
 ### Control
 - also known as _Control Human_
-- probably the same as `Thrall` mentioned in alpha design doc `Spells`
 - alpha design doc `Spells` mentions it as Level VIII spell
 
 ### Telekinesis (III)
@@ -161,5 +160,5 @@ title: Psionic Powers
 
 ### Summon Thrall
 - mentioned in alpha design doc `Spells`
-
+- commented with `Fighter [Stupid Defender] STRONG!`
 
