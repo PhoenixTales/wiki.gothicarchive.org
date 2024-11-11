@@ -68,3 +68,7 @@ title: Fire Magic
 ### Lesser Summoning (VI)
 - German: `Niedere Beschwörung`
 - mentioned in alpha document `Spells`
+
+### Phoenix (VI)
+- commented with `Better Fireball`
+- mentioned in alpha document `Spells`
