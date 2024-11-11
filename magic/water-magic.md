@@ -63,6 +63,7 @@ title: Water Magic
 - German: `Magie bannen`
 - mentioned in alpha design docs `Spells`
 
-### Revive (VI)
+### Reanimation (VI)
 - German: `Wiederbelebung`
 - mentioned in alpha design docs `Spells`
+- other place in the same doc mentions it as level VII spell
