@@ -12,6 +12,10 @@ title: Dark Magic
 
 ### Breath Of Death (VI)
 - `Beliar's breath. A cloud of destructive air, which may kill any being instantly.`
+- mentioned in design docs as `Spear Of Death`, used by the _Undead High Priests_ in _Ancient Temple Of Sleeper_ 
+  - source: `Phoenix-Konzept`, chapter on monster design
+  - German: `Todeslanze`
+  - described as visualized with "smoke particles"
 
 ### Mass Death (VI)
 - also known as _Ring Of Death_ or _URIZIEL's wrath_
