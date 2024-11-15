@@ -41,6 +41,12 @@ title: Items
 - owned and used by _The Lobotomizer_, guru of _The Sect_
 - `his spells "Confusion" and "Chaos" are so strong thanks to a Magical Artifact that he can permanently drive people insane` (design doc `NPCs per guild`)
 
+## Black Undead Blade
+- German: `Die Schwarze Untotenklinge`
+- "example" (`z.B.`) undead-related weapon mentioned in `Phoenix-Konzept`, chapter on Monster Design
+- drains health points from enemies
+- does not allow any other healing of the user while carried
+
 ## Demon Blade
 - German: `Dämonenklinge`
 - special two-handed sword
