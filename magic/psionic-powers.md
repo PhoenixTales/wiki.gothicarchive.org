@@ -163,3 +163,8 @@ title: Psionic Powers
 - mentioned in alpha design doc `Spells`
 - design doc says `PSI: Thrall`, even though other summoning spells qualify as Dark Magic, possibly "recruits" some nearby stupid warrior (if any present) rather than summoning one from another dimension
 
+### Aura Of Madness
+- German: `Aura-des-Wahnsinns`
+- briefly mentioned in design doc `Phoenix-Konzept` in chapter about monster desogn
+- uesd by the _Undead High Priests_ of the _Ancient Temple Of Sleeper_
+- not explicitly assigned to psionic category, but seems to fit here well
