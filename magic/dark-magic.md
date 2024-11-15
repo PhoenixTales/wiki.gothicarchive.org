@@ -66,3 +66,10 @@ title: Dark Magic
 - mentioned in alpha design doc `Spells`
 - commented with `Fighter [Stupid Defender] STRONG!`
 - it's unclear if this spell belongs to Dark category or not
+
+### Raise Zombies
+- no official name for this spell is mentioned
+- briefly mentioned in design doc `Phoenix-Konzept` in chapter on monster design
+- described as `can make zombies grow out of the ground`
+  - German: `Können Zombies aus der Erde wachsen lassen.`
+- used by the _Undead High Priests_ of _Ancient Temple Of Sleeper_
