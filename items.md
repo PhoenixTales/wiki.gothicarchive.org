@@ -47,6 +47,13 @@ title: Items
 - drains health points from enemies
 - does not allow any other healing of the user while carried
 
+## Cursed Black Blade
+- German: `verfluchte schwarze Klinge`
+- briefly mentioned in `Phoenix-Konzept`, chapter on Monster Design
+- used by some of the undead Temple Guards from _Ancient Temple Of Sleeper_
+- undead wounded with it "explode"
+  - German: `Untote explodieren wenn getroffen`
+
 ## Demon Blade
 - German: `Dämonenklinge`
 - special two-handed sword
