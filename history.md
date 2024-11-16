@@ -16,10 +16,10 @@ title: History
 - _Ancient Times_
 - _Golden Age Of Myrthana_ ruled by _Rhobar I_
 - _War with Varant_
-- _Rhotbar I_ dies when that atumn turns into winter
+- _Rhobar I_ dies when that atumn turns into winter
 - few unnamed kings rule in between
   - this is mentioned by Mike, not in the booklets
-- _Rhotbar II_, son of _Rhotbar I_ ascends to the throne without ceremony
+- _Rhobar II_, son of _Rhobar I_ ascends to the throne without ceremony
 - _First Orc War_
   - `The situation was bad all over the country, especially in the mining towns. Thieves and deserters rioted and many prisoners fled the mines`
   - _Magic Barrier Of Khorinis_ is created to help with war effort
