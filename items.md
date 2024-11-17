@@ -276,6 +276,7 @@ title: Items
 - can be sold for 5 ore
 
 ## Swamp Weed
+- called `Swamp Root` (German: `Sumpfwurzeln`) in early design docs (`Phoenix Hauptmissionen`)
 - `grown in the swamp (...) has to be processed before it can be smoked`
 - `have a tranquilizing and relaxing effect. They help you concentrate on the essentials and increase your awareness.`
 - `opens your spirit` and gives chance to experience visions (`Some people even see images`)
