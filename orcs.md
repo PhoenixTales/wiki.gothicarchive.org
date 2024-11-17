@@ -30,6 +30,8 @@ title: Orcs
 - orcs can learn human language, and humans can learn orcish language
   - this skill is no longer available to player in the final release of the game
 - originally they were supposed to be named differently than `orcs`, but a suitable name was never invented
+- orcs culture reassembles `Klingons` / `Indians`
+  - from an early design doc `Phoenix Hauptmissionen` (German: `Orkkultur: Klingonen/Indianer`)
 
 ## Known living orcs
 
