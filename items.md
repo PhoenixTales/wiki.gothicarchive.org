@@ -101,8 +101,8 @@ title: Items
 - can be used to cast "high magic" spells, like giant force-fields or explosions able to destroy such force-fields
 - casting a spell with focus stone uses magic power from the stone, not (only) from the mage
 - in the early design docs there were 12 stones used to create the barrier around the _Royal Ore Mines_, one for each participating mage
-  - `Then one of the Water Mages remembers the old altars from the creation of the barrier. These contain magical crystals that can focus energy. The player is supposed to get the 12 stones.`
-  - German: `Da fällt einem der KdW die alten Altäre von der Erschaffung der Barriere ein. Diese beinhalten magische Kristalle, die die Energie lenken können. Der Spieler soll die 12 Steine besorgen`
+  - `Then one of the Water Mages remembers the old altars from the creation of the barrier. These contain magical crystals that can focus energy. The player is supposed to get the 12 stones.`, `Bring us the stones of the twelve altars!`
+  - German: `Da fällt einem der KdW die alten Altäre von der Erschaffung der Barriere ein. Diese beinhalten magische Kristalle, die die Energie lenken können. Der Spieler soll die 12 Steine besorgen`, `Bring uns die Steine der zwölf Altäre!`
   - source: `Phoenix Hauptmissionen`
   - in the final version it was reduced to 5 stones, even though there were still 12 mages participating
 
