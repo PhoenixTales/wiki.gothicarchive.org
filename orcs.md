@@ -32,6 +32,9 @@ title: Orcs
 - originally they were supposed to be named differently than `orcs`, but a suitable name was never invented
 - orcs culture reassembles `Klingons` / `Indians`
   - from an early design doc `Phoenix Hauptmissionen` (German: `Orkkultur: Klingonen/Indianer`)
+- `Culture is everything. All fighters are equally worthy (regardless of race or species) if they abide by the rules of nature. For example, the orcs pay just as much respect to a shadow beast as they do to their own kind - or to a human if he abides by the rules.`
+  - from an early design doc `Phoenix Hauptmissionen`
+  - German: `Kultur ist alles. Alle Kämpfer sind gleich würdig (egal welche Rasse oder Art), wenn sie sich an die Regeln der Natur halten. Einem Shadowbeast z.B. zollen die Orks genauso großen Respekt wie ihresgleichen – oder eben einem Menschen, wenn er sich an die Regeln hält.`
 
 ## Known living orcs
 
