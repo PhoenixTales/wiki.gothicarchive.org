@@ -341,8 +341,8 @@ title: Items
 - has a form of large totem that can be used as a weapon
 - probably an amulet variant was originally planned, the _Orcish Talisman_ uses 3d model with a matchig name
 - shows that the wielder is a strong warrior who collected trophies of powerful beasts: _fire waran_, _shadowbeast_, _troll_ and a _swampshark_
-- in early design docs, made of `the horn of a shadowbeast, the bone of a troll and the feathers of a rock bird`
-  - German: `dem Horn eines Shadowbeasts, dem Knochen eines Trolls und den Federn eines Felsvogels`
+- in early design docs, made of `the horn of a shadowbeast, the bone of a troll and the feathers of a rock bird` and described as a `totem, a kind of spear`
+  - German: `dem Horn eines Shadowbeasts, dem Knochen eines Trolls und den Federn eines Felsvogels`, `Totem, eine Art Speer`
   - source: `Phoenix Hauptmissionen`
 
 ## Uriziel
