@@ -344,6 +344,8 @@ title: Items
 - in early design docs, made of `the horn of a shadowbeast, the bone of a troll and the feathers of a rock bird` and described as a `totem, a kind of spear`
   - German: `dem Horn eines Shadowbeasts, dem Knochen eines Trolls und den Federn eines Felsvogels`, `Totem, eine Art Speer`
   - source: `Phoenix Hauptmissionen`
+- use of Ulu-Mulu was supposed to involve going to the gate of the underground _Orc City_ and there ram the (spear-shaped) Ulu-Mulu into the ground
+  - then one of guarding orcs would challenge the hero to a duel, and once hero wins, he would be granted access to the orc chieftain
 
 ## Uriziel
 - `Ancient runes have been engraved into the blade`, `It says here, Uriziel the Great`
