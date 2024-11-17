@@ -36,6 +36,9 @@ These characters are encountered inside of the _Prison Colony of Khorinis_. They
 - according to alpha builds, _Fire Mages_ still try to stay in contact and learn from him
   - `Our magicians just can't resist going to the Demon Summoner's Tower to learn` (`Inf_Ebr_TDB`)
 - teaches _Master Of Fire_
+- `With his prophetic abilities, Xardas sees another way to release the energy of the ore pile`
+  - German: `Xardas sieht mit seinen seherischen Fähigkeiten einen anderen Weg, die Energie des Erzhaufens freizusetzen`
+  - source: early design doc  `Phoenix Hauptmissionen`
 
 ### Other games
 - Gothic 3 once refers to him as `Black Mage`, and calls skill that adds bonus to _Summoning Magic_ a `Dark mage`
