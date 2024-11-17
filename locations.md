@@ -168,6 +168,8 @@ title: Locations
 
 ## Temple Of Sleeper
 - in early docs called `The Ancient Temple Of The Being` (German: `Uralten Tempel der Wesenheit`) (design doc `NPCs per guild`)
+- called by orcs `realm of the dead` and `realm of the ancestors`
+  - German: `Totenreich`, `Reich der Ahnen` (in `Phoenix Hauptmissionen`)
 - codename: `AT` (`Ancient Temple`)
 - `in an uknown ancient temple, unchanged for 1000 years`
 - there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
