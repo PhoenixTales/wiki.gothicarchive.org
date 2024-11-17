@@ -47,6 +47,13 @@ title: Items
 - drains health points from enemies
 - does not allow any other healing of the user while carried
 
+## Crawler Potion
+- made of _minecrawler_ eggs
+- in the final release, permanently grants 10 max mana points
+- in the early design docs, Cor Kalom needs additional ingredients to make it
+  - wine, swamp weed, blood and "something cool from the Outside World"
+  - source: `Phoenix Hauptmissionen`
+
 ## Cursed Black Blade
 - German: `verfluchte schwarze Klinge`
 - briefly mentioned in `Phoenix-Konzept`, chapter on Monster Design
