@@ -92,7 +92,7 @@ title: Orcs
 - use fire magic
   - `he may listen to you before turning you into a living torch!`
 
-## Types of orcs found in game
+## Types of orcs
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
 - scout
 - shaman
@@ -102,6 +102,8 @@ title: Orcs
 - mummy (actually dead)
 - undead shaman
 - undead warrior
+- Uruk (very strong)
+  - mentioned in `Phoenix Hauptmissionen` (German: `Uruk (staaarker Ork)`
 
 ## Undead High Orc Priests
 - `few centuries ago, five Orc shamen invoked a very old arch demon`
