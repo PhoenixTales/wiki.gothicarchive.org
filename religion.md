@@ -76,7 +76,9 @@ title: Religion
   - from Phoenix Level Design docs
 - `The Sleeper only wants to gather enough energy to a) open a portal back to his world and b) create enough undead that will then help him show the other six [archdemons] what's what...`
   - from Phoenix Level Design docs
-
+- initial sketch of the final confrontation didn't mention Shaman hearts and instead involved `opening the portal and sending the Sleeper back`
+  - German: `das Portal öffnen und den Schläfer zurückschicken` (in `Phoenix Hauptmissionen`)
+ 
 ## Shugul Sath
 - also known as the _Smoke Hunter_
 - also known as the _Shadow Walker_, which in the alpha scripts is used as codename for the _Shadowbeast_, suggesting that _Shadowbeast_ might have originated as the animal form of _Shugul Sath_
