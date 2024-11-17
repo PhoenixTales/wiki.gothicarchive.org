@@ -102,6 +102,11 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - have poisonous venom
   - `The crawlers poisoned me. I need antidote.` (`DIA_FREEMINEORC_WASTUN_INFO_06.WAV` / 1.01d alpha)
 
+## Troll
+- Gothic Comic shows trolls marching together with orcs as _Northern Hordes_
+- early design doc mention `war trolls` accompanying orc patrols in the mine
+  - German: `Orkpatroullien in VM (incl. Kriegstroll?)` (in `Phoenix Hauptmissionen`)
+
 ## Undead Dragon
 - `Undead Dragon in chokepoint on the way towards the Sleeper`
   - from early design docs
