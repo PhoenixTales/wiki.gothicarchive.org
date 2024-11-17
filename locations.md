@@ -177,6 +177,9 @@ title: Locations
 - `PC [Player Character] can later encounter enemies killed in the AT [Ancient Temple] as zombies. Some power creates turns them undead. Are they captured by the Spirit of the Sleeper?`
   - German: `SC könnte im AT getötete Gegner als Zombies wiedertreffen. Irgendeine Macht erschafft Untote. Geist des Schläfers, der sie einfängt?`
   - from Phoenix Level Design document
+- in the early design, player had to fulfill a series of 7 ancient orc prophecies to make the sealed entrance portal to the temple open
+  - later, within the temple there would be another `locked portal`, `that only the combined psi powers of the sect can open`
+  - source: `Phoenix Hauptmissionen`
 
 ## Tower Of Demon Summoner
 - German: `Turm des Dämonenbeschwörers` (`TDB`)
