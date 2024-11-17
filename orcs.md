@@ -33,7 +33,7 @@ title: Orcs
 
 ## Known living orcs
 
-## Grub
+### Grub
 - enslaved orc shaman at _Royal Ore Mine_, speaking human language
 - `meet GRUB in room, with pointy black rock`
 - `free me from chains, hehe, only GRUB knows way to friend`
@@ -41,16 +41,23 @@ title: Orcs
 - `GRUB see you are wizard, too.`
 - source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
 
-## Tarrok
+### Tarrok
 - slave at the _Free Mine_, speaking human language
 - friend of _Ur-Shak_
 - knows how to make _Ulu-Mulu_, while _Ur-Shak_ apparently doesn't
 
-## Ur-Shak
+### Ur-Shak
 - shaman speaking human language
 - `He's not on good terms with his brothers in the Orc town`
 - `a banished Orc shaman in the ruins of a castle`
 - many years ago used to be a slave in the _Free Mine_ with _Tarrok_, but managed to escape
+
+## Relationship with trolls
+- in the released game, orcs and trolls are never seen together
+- Gothic comic shows the _Northern Hordes_ as made of both orcs and some trolls
+- early design docs mention orc patrols in _abandoned mine_ including an `war troll`
+  - German: `Orkpatroullien in VM (incl. Kriegstroll?)` (in `Phoenix Hauptmissionen`)
+
 
 ## Morlocks
 - removed pre-alpha guild, already in 0.56 alpha mentioned as `GIL_MRL = 17; // (gibt es nicht mehr)` (`no longer used`)
