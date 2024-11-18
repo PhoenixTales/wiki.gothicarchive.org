@@ -4,6 +4,10 @@ title: Psionic Powers
 - according to alpha design doc `Spells`, the Demonic spells and Guru spells are of Magic Circles 7-11, while both Water and Fire spells are of Magic Circles 1-6
 - not documented at all in the books of magic
 - `the powerful magic of the Sleeper`
+- `Magic is bestowed. Magicians wonder who gave the cultists magic.`
+  - German: `Magie wird verliehen. Magier wundern sich, wer den Sektenspinnern denn die Magie verliehen hat.` (`Phoenix Hauptmissionen`)
+- `What is PSI magic called? Magicians disparagingly call it witchcraft. Sect Templars only describe it, but have no name for it (psychic abilities, new magic, Sleeper's magic, enlightenment, contact with the Sleeper...)`
+  - German: `Wie heißt PSI-Magie? Magier nennen es abfällig Hexerei. Sektentempler umschreiben es nur, haben aber keinen Namen für ihre Magie (übersinnliche Fähigkeiten, neue Magie, Schläfermagie, Erleuchtung, Kontakt zum Schläfer...)` (`Phoenix Hauptmissionen`)
 
 ### Telestorm
 - also known as _Telekinetic Storm_
