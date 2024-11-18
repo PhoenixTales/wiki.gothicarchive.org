@@ -41,6 +41,8 @@ title: Orcs
   - German: `Orks fangen Tiere für Arena` (from `Phoenix Hauptmissionen`)
 - `Orcs need Minecrawler secretion for visions`
   - German: `Orks brauchen MC-Sekret für Visionen` (from `Phoenix Hauptmissionen`)
+- some of the contemporary orcs may still actually worship the Sleeper (in contrast to the rest of them, who just fear him)
+  - suggested by a brief mention in alpha doc `Phoenix Hauptmissionen`: `Schläfersekte der Orks`
 
 ## Known living orcs
 
