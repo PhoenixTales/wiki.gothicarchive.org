@@ -352,6 +352,8 @@ title: Items
   - source: `Phoenix Hauptmissionen`
 - use of Ulu-Mulu was supposed to involve going to the gate of the underground _Orc City_ and there ram the (spear-shaped) Ulu-Mulu into the ground
   - then one of guarding orcs would challenge the hero to a duel, and once hero wins, he would be granted access to the orc chieftain
+- early design docs mention `Ga-Helm` which similarly enables hero to safely enter the orc city
+  - `can go to Orc City with Ga-Helm` (German: `kann mit Ga-Helm in Orkstadt gehen` (source: `Phoenix Hauptmissionen`)
 
 ## Uriziel
 - `Ancient runes have been engraved into the blade`, `It says here, Uriziel the Great`
