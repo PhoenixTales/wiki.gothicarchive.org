@@ -25,3 +25,6 @@
     - German: `Ork übernehmen (bestimmte Person) und Sakrileg begehen`
   - 6: 3rd of `3 most important traditions is broken`: `old friends become enemies`
     - German: `Alte Freunde werden zu Feinden`
+  - 7: ???
+- `When the player has completed all the tasks, the portal to the Sleeper opens and the orcs flee to the upper world in panic`
+  - German: `Als der Spieler alle Aufträge erfüllt hat, öffnet sich das Portal zum Schläfer und die Orks fliehen in Panik an die Oberwelt`
