@@ -37,6 +37,10 @@ title: Orcs
   - German: `Kultur ist alles. Alle Kämpfer sind gleich würdig (egal welche Rasse oder Art), wenn sie sich an die Regeln der Natur halten. Einem Shadowbeast z.B. zollen die Orks genauso großen Respekt wie ihresgleichen – oder eben einem Menschen, wenn er sich an die Regeln hält.`
 - orc weapons are manufactured in a secret way (from the magic ore)
   - German: `Orkwaffen-Herstellung = Geheimnis (aus magischem Erz)` (from `Phoenix Hauptmissionen`)
+- `Orcs catch animals for arena`
+  - German: `Orks fangen Tiere für Arena` (from `Phoenix Hauptmissionen`)
+- `Orcs need Minecrawler secretion for visions`
+  - German: `Orks brauchen MC-Sekret für Visionen` (from `Phoenix Hauptmissionen`)
 
 ## Known living orcs
 
