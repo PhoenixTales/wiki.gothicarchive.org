@@ -67,6 +67,11 @@ title: Orcs
 - `a banished Orc shaman in the ruins of a castle`
 - many years ago used to be a slave in the _Free Mine_ with _Tarrok_, but managed to escape
 
+### Uruk
+- a very strong ork that hero has to duel after coming to the _Orc City_ with _Ulu-Mulu_, to further prove his worth
+- mentioned in `Phoenix Hauptmissionen` (German: `Uruk (staaarker Ork)`
+- the name exactly corresponds to a very strong sub-species of orcs in `Lord Of The Rings`
+
 ## Relationship with trolls
 - in the released game, orcs and trolls are never seen together
 - Gothic comic shows the _Northern Hordes_ as made of both orcs and some trolls
@@ -118,8 +123,6 @@ title: Orcs
 - mummy (actually dead)
 - undead shaman
 - undead warrior
-- Uruk (very strong)
-  - mentioned in `Phoenix Hauptmissionen` (German: `Uruk (staaarker Ork)`
 
 ## Undead High Orc Priests
 - `few centuries ago, five Orc shamen invoked a very old arch demon`
