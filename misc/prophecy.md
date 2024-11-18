@@ -6,3 +6,20 @@
   - there were supposed to be 7 signs appearing that this time has come
   - hero finds out that voluntarily fulfilling these signs himself is the only way to get access to the temple entrance guarded by orcs and open it
   - it is unclear to what degree it was hero's free willed choice, and to what degree it was his pre-destined fate playing out with a mere illusion of choice
+- `Evil sleeps in the depths for 1000 years. When the awakening threatens, a savior will come. 7 signs will tell you of the awakening.`
+  - German: `Das Böse schläft für 1000 Jahre in der Tiefe. Wenn das Erwachen dräunt, wird ein Retter kommen. 7 Zeichen werden euch vom Erwachen künden.` (from `Phoenix Hauptmissionen`)
+- `How a thousand years ago the orcs brought evil into the world and perished because of it. They just managed to make the evil fall into a thousand-year sleep and seal his temple. The scripture ends with the prophecy that one day someone will try to awaken the sleeper. At the same time, the savior will come who will banish evil from the world. The signs that announce this are written down in the 7 prophecies`
+  - German: `wie vor tausend Jahren die Orks das Böse auf die Welt holten und daran zugrunde gingen. Sie schafften es gerade noch, das Böse in einen tausendjährigen Schlaf fallen zu lassen und seinen Tempel zu versiegeln. Die Schrift endet mit der Prophezeiung, daß eines Tages jemand versuchen wird, den Schläfer wieder zu erwecken. Gleichzeitig wird der Retter kommen, der das Böse wieder aus der Welt verbannt. Die Zeichen, die das ankündigen sind in den 7 Prophezeiungen niedergeschrieben` (from `Phoenix Hauptmissionen`)
+- known prophecised signs according to `Phoenix Hauptmissionen`:
+  - `1. The first twitch of the Krushak will ring in your ears and drive you mad. This is the sign that Krushak will soon awaken. (Wave of Madness)`
+    - German: `Das erste Zucken des Krushak wird euch in den Ohren klingen und euch in den Wahnsinn treiben. Dies ist das Zeichen dafür, daß Krushak bald erwachen wird. (Wahnsinnswelle)`
+  - `2. The peace of the dead is disturbed – the graves of the ancestors are desecrated`
+    - German: `Die Ruhe der Toten wird gestört – Die Gräber der Ahnen werden geschändet`
+  - `3. The Tonga ( = pillar) of knowledge will fall` (`PC has to find out what "Tonga" means and topple the pillar`)
+    - German: `Die Tonga (=Säule) des Wissens wird fallen  SC muß rausfinden, was "Tonga" heißt und die Säule umkippen`
+  - 4: 1st of `3 most important traditions is broken`: `hero is attacked from behind by a guard (dishonorably)` (that `orc = former slave -> hates humans`)
+    - German: `Die 3 wichtigsten Traditionen werden gebrochen (und die dazugehörigen Siegel)`, `SC wird von Wächter hinterrücks angegriffen (ehrlos)`, `Ork = ehem. Sklave -> hasst Menschen`
+  - 5: 2nd of `3 most important traditions is broken`: a certain orcs commits some kind of sacrillege (while mind-controlled by the hero)
+    - German: `Ork übernehmen (bestimmte Person) und Sakrileg begehen`
+  - 6: 3rd of `3 most important traditions is broken`: `old friends become enemies`
+    - German: `Alte Freunde werden zu Feinden`
