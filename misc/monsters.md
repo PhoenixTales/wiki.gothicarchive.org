@@ -113,6 +113,8 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
     - German: `Schlägt auf Boden, Felsen prasseln herab`
   - `Grabs player character and bites off his head`
     - German: `Packt SC und beißt ihm den Kopf ab`
+- `Trolls can move boulders/stone portals that are too heavy for the player character`
+  - German: `Trolle können Felsbrocken/Steinportale verschieben, die für den SC zu schwer sind.` (from: `Phoenix Monsters` design doc)
 
 ## Undead Dragon
 - `Undead Dragon in chokepoint on the way towards the Sleeper`
