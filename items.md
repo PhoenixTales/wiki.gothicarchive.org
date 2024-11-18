@@ -352,8 +352,10 @@ title: Items
   - source: `Phoenix Hauptmissionen`
 - use of Ulu-Mulu was supposed to involve going to the gate of the underground _Orc City_ and there ram the (spear-shaped) Ulu-Mulu into the ground
   - then one of guarding orcs would challenge the hero to a duel, and once hero wins, he would be granted access to the orc chieftain
-- early design docs mention `Ga-Helm` which similarly enables hero to safely enter the orc city
-  - `can go to Orc City with Ga-Helm` (German: `kann mit Ga-Helm in Orkstadt gehen` (source: `Phoenix Hauptmissionen`)
+- early design docs mention that after New Camp temporarily allied with the orcs, wearing the helmet of New Camp Guardian similarly allowed the hero to safely enter the Orc City, even if the hero was actually a member of Old Camp or Sect Camp
+  - (Old Camp / New Camp / Sect Camp) hero `can go to Orc City with helmet of Guardian`
+  - `New Camp allies with orcs. New Camp - Guardians wear marked helmets from now on`, `can go to Orc City with helmet of Guardian`
+  - German: `NL verbündet sich mit Orks. NL-Ga tragen von nun an (spätestens) gekennzeichnete Helme.`, `kann mit Ga-Helm in Orkstadt gehen` (source: `Phoenix Hauptmissionen`)
 
 ## Uriziel
 - `Ancient runes have been engraved into the blade`, `It says here, Uriziel the Great`
