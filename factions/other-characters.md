@@ -43,6 +43,13 @@ These characters are encountered inside of the _Prison Colony of Khorinis_. They
 ### Other games
 - Gothic 3 once refers to him as `Black Mage`, and calls skill that adds bonus to _Summoning Magic_ a `Dark mage`
 
+## The Eternal Guardian
+- character of unspecified race encountered deep within _The Ancient Temple Of Sleeper_ in early design doc `Phoenix Hauptmissionen`
+- speaks fluent human language without indications of primitive grammar and strong accent present in dialogues with _Undead High Orc Priests_ or contemporary friendly orcs
+- it may correspond to the one of the Undead High Orc Priests, or to someone else, like an ancient human who contributed to sealing the temple 1000 years ago
+- `I have waited nearly 1000 years... Once I was tired. Then the centuries came and now I have forgotten what it is like to be tired. I have forgotten what it is like to feel anger. The only thing I am now is my task. You will not pass me by. Your path ends here, as did the path of all who came before you.`
+- German: `Ich habe fast 1000 Jahre gewartet... Einst war ich müde. Dann kamen die Jahrhunderte und nun habe ich vergessen, wie es ist, müde zu sein. Ich habe vergessen, wie es ist Zorn zu fühlen. Das einzige, was ich noch bin ist meine Aufgabe. Du wirst nicht an mir vorbeischreiten. Dein Weg endet hier, so wie der Weg aller die vor dir hier waren.`
+
 ## The Negotiator
 - German: `Der Unterhändler`
 - `A tough fighter lives in the castle and offers his services as a negotiator.`
