@@ -43,6 +43,8 @@ title: Orcs
   - German: `Orks brauchen MC-Sekret für Visionen` (from `Phoenix Hauptmissionen`)
 - some of the contemporary orcs may still actually worship the Sleeper (in contrast to the rest of them, who just fear him)
   - suggested by a brief mention in alpha doc `Phoenix Hauptmissionen`: `Schläfersekte der Orks`
+- orc shamans prepare a (temporary?) strength potion for the orc warriors
+  - German: `Die Orkschamanen stellen einen STR-Trank für die Orkkrieger her` (from `Phoenix Hauptmissionen`)
 
 ## Known living orcs
 
