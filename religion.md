@@ -78,7 +78,11 @@ title: Religion
   - from Phoenix Level Design docs
 - initial sketch of the final confrontation didn't mention Shaman hearts and instead involved `opening the portal and sending the Sleeper back`
   - German: `das Portal öffnen und den Schläfer zurückschicken` (in `Phoenix Hauptmissionen`)
- 
+- defeating the Sleeper would not automatically "clean up" all the demons and insanity released by him in the last chapter
+  - `The player leaves the temple/orc city through all the demons and crazy people (...) leaves the colony -> end of the game`
+  - `Der Spieler verläßt durch alle Dämonen und durchgedrehten Leute den Tempel/Orkstadt, (...) verläßt dann irgendwann die Kolonie -> Spielende.`
+  - source: `Phoenix Hauptmissionen`
+
 ## Shugul Sath
 - also known as the _Smoke Hunter_
 - also known as the _Shadow Walker_, which in the alpha scripts is used as codename for the _Shadowbeast_, suggesting that _Shadowbeast_ might have originated as the animal form of _Shugul Sath_
