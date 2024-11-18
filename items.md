@@ -17,6 +17,12 @@ title: Items
 - `magically enchanted` (German: `magisch belegtes`)
 - _Stomp_ was falsely accused of stealing it, and sentenced to lifetime in _Khorinis Prison Colony_
 
+## Anti-zombie potion
+- keeps zombies at distance
+- traditionally prepared by orc shamans
+- German: `antike Tränke der alten Orkschamanen`: `Anti-Zombie-Trank (hält sie auf Distanz)`
+- briefly mentioned in alpha design doc `Phoenix Hauptmissionen`
+
 ## Ancient Shaman Swords
 - _Clefter of Worlds_ (`Welten Spalter`)
 - _Blade of Light_ (`Licht Bringer`) (German name literally means _Light Bringer_)
