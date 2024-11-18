@@ -103,8 +103,9 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
   - `The crawlers poisoned me. I need antidote.` (`DIA_FREEMINEORC_WASTUN_INFO_06.WAV` / 1.01d alpha)
 
 ## Troll
+- `Trolls are cave dwellers` (from: `Phoenix Monsters` design doc)
 - Gothic Comic shows trolls marching together with orcs as _Northern Hordes_
-- early design doc mention `war trolls` accompanying orc patrols in the mine
+- early design doc mention `war trolls` accompanying orc patrols in the abandoned mine
   - German: `Orkpatroullien in VM (incl. Kriegstroll?)` (in `Phoenix Hauptmissionen`)
 - trolls were supposed to have two special attacks  (described in `Phoenix Monsters`):
   - when encountered in underground tunnel `Hits the ground, rocks rain down`
