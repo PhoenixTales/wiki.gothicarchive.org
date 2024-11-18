@@ -1,6 +1,7 @@
 # The Prophecy
 - `The player ends up in the colony because he has the task of defeating the Sleeper there, or rather, he has an even higher goal ahead of him, of which defeating the Sleeper is only the first step. (Similar to Star Wars 1 - Luke destroys the Death Star, but the story is far from over). Perhaps it is not even the Sleeper that is the decisive element in the future, but the liberation of the mines and the associated turning of the war against the Orcs - or something similar`
   - German: `Der Spieler landet in der Kolonie, weil er dort die Aufgabe hat, den Schläfer zu besiegen, oder besser, er hat noch ein höheres Ziel vor sich, zu dem der Sieg über den Schläfer nur die erste Etappe darstellt. (Analog zu Star Wars 1 – Luke zerstört den Todesstern, aber die Geschichte ist noch lange nicht zu Ende). Vielleicht ist es noch nicht einmal der Schläfer, der das entscheidende Element in der Zukunft darstellt, sondern die Befreiung der Minen und das damit verbundene Wenden des Krieges gegen die Orks – oder ähnliches.`
+  - source: `Phoenix Hauptmissionen`
 - hero learns about ancient orcish prophecy about the 1000 year sleep of Sleeper, and that a `holy enemy` will appear by the end of that time to defeat him
   - there were supposed to be 7 signs appearing that this time has come
   - hero finds out that voluntarily fulfilling these signs himself is the only way to get access to the temple entrance guarded by orcs and open it
