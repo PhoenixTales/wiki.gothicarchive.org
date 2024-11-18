@@ -78,9 +78,9 @@ title: Religion
   - from Phoenix Level Design docs
 - initial sketch of the final confrontation didn't mention Shaman hearts and instead involved `opening the portal and sending the Sleeper back`
   - German: `das Portal öffnen und den Schläfer zurückschicken` (in `Phoenix Hauptmissionen`)
-- defeating the Sleeper would not automatically "clean up" all the demons and insanity released by him in the last chapter
-  - `The player leaves the temple/orc city through all the demons and crazy people (...) leaves the colony -> end of the game`
-  - `Der Spieler verläßt durch alle Dämonen und durchgedrehten Leute den Tempel/Orkstadt, (...) verläßt dann irgendwann die Kolonie -> Spielende.`
+- defeating the Sleeper would not automatically "clean up" all the demons, undead and insanity released by him in the last chapter
+  - `The player leaves the temple/orc city through all the demons and crazy people (...) leaves the colony -> end of the game`, `After the Sleeper is defeated, everyone is dead. OC is occupied by demons, undead, etc.`
+  - `Der Spieler verläßt durch alle Dämonen und durchgedrehten Leute den Tempel/Orkstadt, (...) verläßt dann irgendwann die Kolonie -> Spielende.`, `Nach dem der Schläfer besiegt ist, sind alle tot. OC ist von Dämonen, Untoten usw. besetzt.`
   - source: `Phoenix Hauptmissionen`
 
 ## Shugul Sath
