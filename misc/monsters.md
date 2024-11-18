@@ -106,6 +106,12 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - Gothic Comic shows trolls marching together with orcs as _Northern Hordes_
 - early design doc mention `war trolls` accompanying orc patrols in the mine
   - German: `Orkpatroullien in VM (incl. Kriegstroll?)` (in `Phoenix Hauptmissionen`)
+- trolls were supposed to have two special attacks  (described in `Phoenix Monsters`):
+  - when encountered in underground tunnel `Hits the ground, rocks rain down`
+    - this visual effect was actually implemented in an alpha release (camera shaking + falling decals of giant rocks)
+    - German: `Schlägt auf Boden, Felsen prasseln herab`
+  - `Grabs player character and bites off his head`
+    - German: `Packt SC und beißt ihm den Kopf ab`
 
 ## Undead Dragon
 - `Undead Dragon in chokepoint on the way towards the Sleeper`
