@@ -134,8 +134,4 @@ title: Orcs
 - use powerful dark and psionic spells:
   - as described by _Phoenix-Konzept_ (chapter on monsters)
   - _Breath Of Death_, _Aura Of Madness_, _Raise Zombies_
-- The Eternal Guardian
-  - undead orc mentioned in early design doc `Phoenix Hauptmissionen`
-  - probably it's one of (the last?) of the Undead High Orc Priests
-  - `I have waited nearly 1000 years... Once I was tired. Then the centuries came and now I have forgotten what it is like to be tired. I have forgotten what it is like to feel anger. The only thing I am now is my task. You will not pass me by. Your path ends here, as did the path of all who came before you.`
-  - German: `Ich habe fast 1000 Jahre gewartet... Einst war ich müde. Dann kamen die Jahrhunderte und nun habe ich vergessen, wie es ist, müde zu sein. Ich habe vergessen, wie es ist Zorn zu fühlen. Das einzige, was ich noch bin ist meine Aufgabe. Du wirst nicht an mir vorbeischreiten. Dein Weg endet hier, so wie der Weg aller die vor dir hier waren.`
+
