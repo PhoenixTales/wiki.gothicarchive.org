@@ -9,7 +9,7 @@ title: Orcs
   - `Deep beneath the Free Mine live large, dangerous creatures called orcs.`
 - orcs bury their dead in underground tombs
   - `The Orcs used to bury their dead there, that's why we call this system of caves the Orc cemetery.`
-- there are orcs living in the south-west of the _Royal Ore Mines_ around _Khorinis_
+- there are orcs living in the south-west of the _Royal Ore Mines of Khorinis_
 - humans are using orc slaves, orcs used to do the same with humans in the past
 - orcs are similarly developed as humans, but in different ways
   - `Orcs are not animals, as many people think`, `Their culture is as old as the human culture.`
