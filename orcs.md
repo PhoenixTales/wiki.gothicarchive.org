@@ -79,7 +79,8 @@ title: Orcs
 - `Orth-Antak`: Troll tooth (source: `DIA_FREEMINEORC`)
 - `Dwachkarr`: Swampshark Tooth (source: `DIA_Orc_FreeMine`)
 - `Gach Lug`: Mine Crawler (source: `DIA_Orc_FreeMine`)
-- `Krushak`: Sleeper  (source: `DIA_Orc_Shaman`)
+- `Krushak`: Sleeper (source: `DIA_Orc_Shaman`)
+- `Tonga`: pillar (source: `Phoenix Hauptmissionen`)
 
 ### Other games
 - Gothic 3 suggests that `Krush` means `weapon`:
