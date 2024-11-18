@@ -5,6 +5,7 @@
 - hero learns about ancient orcish prophecy about the 1000 year sleep of Sleeper, and that a `holy enemy` will appear by the end of that time to defeat him
   - there were supposed to be 7 signs appearing that this time has come
   - hero finds out that voluntarily fulfilling these signs himself is the only way to get access to the temple entrance guarded by orcs and open it
+  - `The player finds out what the prophecies are and then has to come up with the idea of making them come true` (German: `Der Spieler findet heraus, wie die Prophezeiungen lauten, muß dann selber auf die Idee kommen, diese eintreten zu lassen`)
   - it is unclear to what degree it was hero's free willed choice, and to what degree it was his pre-destined fate playing out with a mere illusion of choice
 - `Evil sleeps in the depths for 1000 years. When the awakening threatens, a savior will come. 7 signs will tell you of the awakening.`
   - German: `Das Böse schläft für 1000 Jahre in der Tiefe. Wenn das Erwachen dräunt, wird ein Retter kommen. 7 Zeichen werden euch vom Erwachen künden.` (from `Phoenix Hauptmissionen`)
