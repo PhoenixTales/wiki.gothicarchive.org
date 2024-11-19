@@ -47,7 +47,7 @@ title: Orcs
   - German: `Die Orkschamanen stellen einen STR-Trank für die Orkkrieger her` (from `Phoenix Hauptmissionen`)
 - `Orcs keep "watchdogs" - starving wild animals chained up to raise the alarm. If the player character frees them, they will attack him unless there is an orc nearby.`
   - German: `Orcs halten sich „Wachhunde“ – augehungerte Wildtiere, angekettet, die Alarm schlagen. Wenn der SC sie befreit, greifen sie ihn an, es sei denn es ist ein Orc in der Nähe.` (from `Phoenix: Monsters`)
-- `Orcs manually trigger traps for the player character`, `Orcs place scavengers [later renamed wolves] in pit traps.`
+- `Orcs manually trigger traps for the player character`, `Orcs place scavengers in pit traps.`
   - German: `Orcs lösen Fallen für den SC manuell aus`, `Orcs setzen Aasfresser in Fallgruben` (from `Phoenix: Monsters`)
 
 ## Known living orcs
