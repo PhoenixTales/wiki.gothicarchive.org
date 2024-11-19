@@ -110,8 +110,10 @@ title: Orcs
 
 ## Shamans
 - `sons of spirit`
-- use fire magic
+- in the final release use fire magic
   - `he may listen to you before turning you into a living torch!`
+- in early design docs `Shamans can use voodoo magic (a form of psi magic)`, `The voodoo spell is represented by smoke jets and clouds`
+  - German: `Schamanen können Voodoo-Magie (eine Form der Psi-Magie)`, `Der Voodoo-Zauber wird durch Rauchstrahlen und –schwaden dargestellt` (from `Phoenix: Monsters)
 
 ## Types of orcs
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
