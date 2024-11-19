@@ -102,6 +102,10 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - have poisonous venom
   - `The crawlers poisoned me. I need antidote.` (`DIA_FREEMINEORC_WASTUN_INFO_06.WAV` / 1.01d alpha)
 
+## Swampshark
+- `mixture of a cobra and a sandworm`
+  - German: `Mischung aus Kobra und Sandwurm.` (`Phoenix Monsters`)
+
 ## Troll
 - `Trolls are cave dwellers` (from: `Phoenix Monsters` design doc)
 - Gothic Comic shows trolls marching together with orcs as _Northern Hordes_
