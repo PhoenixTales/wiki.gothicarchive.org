@@ -19,7 +19,7 @@ title: Curiosities
   - was jealos about their fathers future inheritance
   - framed Stomp for stealing a valuable amulet from the treasury of the city's Peace Council (German: `der Friedensräte der Stadt`)
   - bribed the Princeps (German: Prinzeps) to sentence him to extremely harsh punishment
-- unused dialogues in the release version of scripts in the mod development kit include Diego `Why did they throw you in here?`
+- unused dialogues in the release version of scripts in the mod development kit include Diego asking `Why did they throw you in here?`
   - player can choose one of three options, each giving different attribute boost
   - `Clever Heist` (+3 Dexterity): `I made a load of ore disappear. Unfortunately, the guy I hid it with preferred to collect the reward for turning me in rather than sharing the ore with me.`
     - (German: `Gewitzter Überfall: Ich habe ne Ladung Erz verschwinden lassen. Dummerweise hat der Typ bei dem ich sie versteckt habe, lieber die Belohnung für mich kassiert, anstatt mit mir das Erz zu teilen.`)
