@@ -31,9 +31,9 @@ title: Curiosities
   - `Innocent` (+1 to all attributes): `I am innocent!`
     - this one makes Diego advise: `if someone asks you why you're here, tell them you killed a guy who asked you why you're here.`
   - this, instead of openly allocating attributes to change hero directly, instead makes the player choose the origin / archetype of the protagonist, and the attribute boosts are implicitly either a cause of a result of belonging to given archetype, which for example may be interpreted as:
-  - `Clever Heist`: a betrayed criminal
-  - `Brawl with Consequences`: impulsive boxer, possibly lower class
-  - `True Words to the Wrong Man`: anti-royalist activist or rebel agent
+  - `Clever Heist`: betrayed mastermind thief, possibly with rich enemy (displayed sharpness and reflexes : dexterity +3)
+  - `Brawl with Consequences`: underground boxer disrespecting authorities (attacked recklessly : strength +3)
+  - `True Words to the Wrong Man`: anti-royalist activist, or a tavern drunk (philosophical type: mana +3)
 
 ## Disguise mechanic
 - `KDF_40_RecognizeDisguise`: `What is this masquerade for?`
