@@ -12,3 +12,7 @@ title: Magic Ore
   - German: `Erznuggets -> Pulver = Reagenzien` (design doc `NPCs per Guild`)
 - _Magic Ore_ powder is the main ingredient of both _Sruup_ and _Mana Potion_
 - violently explodes when hit with a _Fireball_, a bag is able to destroy a large tower 
+- `no one willingly works in the ore mines`
+  - (afterword to `Gothic Comic`) (German: `niemand gerne freiwillig in den Erzminen arbeitet`)
+  - this suggests that mining the magic ore is much more risky or unhealthy than mining of other precious materials
+  
