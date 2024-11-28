@@ -344,6 +344,7 @@ title: Items
 
 ## Ulu-mulu
 - `sign of friendship` respected by orcs (unless wielder attacks or uses magic)
+- the Nameless describes it as `an Orcish symbol for friendship` (`Info_Gorn_FOUNDULUMULU_Info`)
 - has a form of large totem that can be used as a weapon
 - probably an amulet variant was originally planned, the _Orcish Talisman_ uses 3d model with a matchig name
 - shows that the wielder is a strong warrior who collected trophies of powerful beasts: _fire waran_, _shadowbeast_, _troll_ and a _swampshark_
@@ -356,6 +357,7 @@ title: Items
   - (Old Camp / New Camp / Sect Camp) hero `can go to Orc City with helmet of Guardian`
   - `New Camp allies with orcs. New Camp - Guardians wear marked helmets from now on`, `can go to Orc City with helmet of Guardian`
   - German: `NL verbündet sich mit Orks. NL-Ga tragen von nun an (spätestens) gekennzeichnete Helme.`, `kann mit Ga-Helm in Orkstadt gehen` (source: `Phoenix Hauptmissionen`)
+- Gorn describes it as `Orc standard` (`Info_Gorn_FOUNDULUMULU_Info`)
 
 ## Uriziel
 - `Ancient runes have been engraved into the blade`, `It says here, Uriziel the Great`
