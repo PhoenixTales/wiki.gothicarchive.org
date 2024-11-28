@@ -30,10 +30,12 @@ title: Curiosities
     - (German: `Wahre Worte zum falschen Mann: Ich saß in der Kneipe und habe meine Meinung über König, Krieg und Steuern gesagt. Ich hab' mich nur zu spät daran erinnert, dass der, der die Wahrheit spricht, ein schnelles Pferd braucht.`)
   - `Innocent` (+1 to all attributes): `I am innocent!`
     - this one makes Diego advise: `if someone asks you why you're here, tell them you killed a guy who asked you why you're here.`
-  - this, instead of openly allocating attributes to change hero directly, instead makes the player choose the origin / archetype of the protagonist, and the attribute boosts are implicitly either a cause of a result of belonging to given archetype, which for example may be interpreted as:
-  - `Clever Heist`: betrayed mastermind thief, possibly with rich enemy (displayed sharpness and reflexes : dexterity +3)
-  - `Brawl with Consequences`: underground boxer disrespecting authorities (attacked recklessly : strength +3)
-  - `True Words to the Wrong Man`: anti-royalist activist, or a tavern drunk (philosophical type: mana +3)
+  - instead of openly allocating attributes to change hero directly, this keeps the immersion by making the player choose the origin / archetype of the protagonist
+    - this way the resulting attribute boosts have in-universe justification of being either cause or a result of the selected origin / archetype
+    - example interpretations of the archetypes and their 
+    - `Clever Heist`: betrayed mastermind thief, possibly with rich enemy (displayed sharpness and reflexes : dexterity +3)
+    - `Brawl with Consequences`: underground boxer disrespecting authorities (attacked recklessly : strength +3)
+    - `True Words to the Wrong Man`: anti-royalist activist, or a tavern drunk (was too philosophical for his own good : mana +3)
 
 ## Disguise mechanic
 - `KDF_40_RecognizeDisguise`: `What is this masquerade for?`
