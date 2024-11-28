@@ -2,6 +2,8 @@
 title: Style
 ---
 - `gothic medieval fantasy style`
+- `Gothic is set in the world of the damned`
+  - (Gothic comic promotional intro) (German: `Gothic ist angesiedelt in der Welt der Verdammten.`)
 - `Escape From New York` in the middle ages
 
 ## Gothic vs Fantasy
