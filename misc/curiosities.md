@@ -35,7 +35,7 @@ title: Curiosities
     - example interpretations of the archetypes and their 
     - `Clever Heist`: betrayed mastermind thief, possibly with rich enemy (displayed sharpness and reflexes : dexterity +3)
     - `Brawl with Consequences`: underground boxer disrespecting authorities (attacked recklessly : strength +3)
-    - `True Words to the Wrong Man`: anti-royalist activist, or a tavern drunk (was too philosophical for his own good : mana +3)
+    - `True Words to the Wrong Man`: anti-royalist activist and/or alcoholic (got too philosophical for his own good : mana +3)
 
 ## Disguise mechanic
 - `KDF_40_RecognizeDisguise`: `What is this masquerade for?`
