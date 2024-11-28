@@ -15,7 +15,8 @@ title: Outside World
 - `Later in the game the Demon Summoner will enable the PC [Player Character] to enter the Demon World (perhaps to get a powerful magical artifact)`
   - from Phoenix Level Design docs
 
-## Great Northern Plains
+## Great Northern Plain
+- German: `Grossen Nordebene` (in `Gothic Comic`)
 - `Following the heavy battles in the north, every countryman now knows how to use a bow and arrows`
 - `Hoards of orcs invading the land from the North` (old official website)
 
