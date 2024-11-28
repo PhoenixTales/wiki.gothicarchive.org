@@ -12,6 +12,29 @@ title: Curiosities
 - `Hey, you're wearing MY armor. Give it back immediately!!!`
 - German: `Hey, du trgst MEINE Rstung. Gib sie sofort zurck!!!'`
 
+## Crime of the Nameless Hero
+- Diego in an unused dialogue remarks: `In here, no one is innocent. In here you'll find men who have committed almost every crime imaginable. They're more than happy to tear apart an innocent man. If someone asks you why you're here, tell them you killed a guy who asked you why you're here.`
+  - German: `Hier drin ist niemand unschuldig`, `Hier findest du Männer die so ziemlich jedes mögliche Verbrechen begangen haben. Und einen unschuldigen nehmen die nur zu gerne auseinander`, `Wenn dich jemand fragt, warum du hier bist, sag ihm, du hast einen Typen gekillt, der dich gefragt hat, warum du hier bist. `
+- `Sleeper's Ban` tells that the protagonst (Stomp) was sentenced due to conspiracy of his younger stepbrother, who:
+  - was jealos about their fathers future inheritance
+  - framed Stomp for stealing a valuable amulet from the treasury of the city's Peace Council (German: `der Friedensräte der Stadt`)
+  - bribed the Princeps (German: Prinzeps) to sentence him to extremely harsh punishment
+- unused dialogues in the release version of scripts in the mod development kit include Diego `Why did they throw you in here?`
+  - player can choose one of three options, each giving different attribute boost
+  - `Clever Heist` (+3 Dexterity): `I made a load of ore disappear. Unfortunately, the guy I hid it with preferred to collect the reward for turning me in rather than sharing the ore with me.`
+    - (German: `Gewitzter Überfall: Ich habe ne Ladung Erz verschwinden lassen. Dummerweise hat der Typ bei dem ich sie versteckt habe, lieber die Belohnung für mich kassiert, anstatt mit mir das Erz zu teilen.`)
+  - `Brawl with Consequences` (+3 Strength): `I could never turn down a challenge. Not even from the king's guardsman. Unfortunately, the king has many guardsmen. Too many.`
+    - term `brawl` (`Schlägerei`) suggests spontaneous fistfight rather than planned lethal confrontation 
+    - (German: `Schlägerei mit Folgen: Eine Herausforderung konnte ich noch nie abschlagen. Auch nicht von des Königs Gardisten. dummerweise hat der König viele Gardisten. Zu viele.`)
+  - `True Words to the Wrong Man` (+3 Mana): `I was sitting in the tavern and voiced my opinion about the king, war, and taxes. I only remembered too late that the one who speaks the truth needs a fast horse.`
+    - (German: `Wahre Worte zum falschen Mann: Ich saß in der Kneipe und habe meine Meinung über König, Krieg und Steuern gesagt. Ich hab' mich nur zu spät daran erinnert, dass der, der die Wahrheit spricht, ein schnelles Pferd braucht.`)
+  - `Innocent` (+1 to all attributes): `I am innocent!`
+    - this one makes Diego advise: `if someone asks you why you're here, tell them you killed a guy who asked you why you're here.`
+  - this, instead of openly allocating attributes to change hero directly, instead makes the player choose the origin / archetype of the protagonist, and the attribute boosts are implicitly either a cause of a result of belonging to given archetype, which for example may be interpreted as:
+  - `Clever Heist`: a betrayed criminal
+  - `Brawl with Consequences`: impulsive boxer, possibly lower class
+  - `True Words to the Wrong Man`: anti-royalist activist or rebel agent
+
 ## Disguise mechanic
 - `KDF_40_RecognizeDisguise`: `What is this masquerade for?`
 - `KDF_40_RemoveDisguise`: `WHO is this HERE!?!`
