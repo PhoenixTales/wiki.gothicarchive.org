@@ -14,5 +14,5 @@ title: Magic Ore
 - violently explodes when hit with a _Fireball_, a bag is able to destroy a large tower 
 - `no one willingly works in the ore mines`
   - (afterword to `Gothic Comic`) (German: `niemand gerne freiwillig in den Erzminen arbeitet`)
-  - this suggests that mining the magic ore is much more risky or unhealthy than mining of other precious materials
-  
+  - this suggests that mining the magic ore is somehow more risky or damaging than mining of other precious materials
+  - this could suggest that even the _guards_ accompanying the prisoner-slaves were on the very bottom of the royalist career ladder
