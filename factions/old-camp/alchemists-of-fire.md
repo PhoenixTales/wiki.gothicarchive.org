@@ -3,7 +3,7 @@ title: Alchemists Of Fire
 ---
 
 - in early design docs referred to as `Battle Mages` (German: `Kampfmagier`) (see `Orpheus Guilds V1`)
-- in the final game release known as `Fire Mages`
+- in the final game release known as `Fire Mages` or `the priests of Innos`
   - also mentioned as `Circle Of Fire`, already in alpha
   - `KDF_40_FoeStoleFromMyGuild`: `You've stolen from the circle of fire`
 - 6 of them accidentally imprisoned in Khorinis Mine Valley
