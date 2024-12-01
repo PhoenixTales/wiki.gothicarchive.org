@@ -17,11 +17,11 @@ title: Items
 - `magically enchanted` (German: `magisch belegtes`)
 - _Stomp_ was falsely accused of stealing it, and sentenced to lifetime in _Khorinis Prison Colony_
 
-## Anti-zombie potion
-- keeps zombies at distance
-- traditionally prepared by orc shamans
-- German: `antike Tränke der alten Orkschamanen`: `Anti-Zombie-Trank (hält sie auf Distanz)`
-- briefly mentioned in alpha design doc `Phoenix Hauptmissionen`
+## Ancient Ore Armor
+- `belonged to the general who wielded URIZIEL in the battle against the Orcs.`
+- `particularly rare artefact` in possesion of Xardas
+- `This ancient armor was made of magic ore`
+- implies that ancient humans (or orcs allied with them) knew the _Magic Ore_ and a way to process it without loss of magic energy
 
 ## Ancient Shaman Swords
 - _Clefter of Worlds_ (`Welten Spalter`)
@@ -33,6 +33,12 @@ title: Items
 ## Anti-barrier amulet
 - `Magical Amulet against WS in order to get closer than 10m to the Barrier, without becoming insanse`
   - from early design docs
+
+## Anti-zombie potion
+- keeps zombies at distance
+- traditionally prepared by orc shamans
+- German: `antike Tränke der alten Orkschamanen`: `Anti-Zombie-Trank (hält sie auf Distanz)`
+- briefly mentioned in alpha design doc `Phoenix Hauptmissionen`
 
 ## Armor Of The Dawn
 - German: `Panzer der Morgenröte`
@@ -378,6 +384,7 @@ title: Items
 - `It's a weapon from the olden days, when the human race was still young.`
 - can be used to make a rune that `has Beliar's powers`, called `Wave of Death`
 - `the weapon was able to pierce the strongest armor and to overcome even the most powerful of protection spells.`
+  - ability to "overcome spells" is not normally associated with _Magic Ore_ (which powers spells), may hint that another special alloy was used
 - `This sword is forged from a noble ore by dwarves who were master craftsmen`
   - `Dieses Schwert ist aus einem edelen Erz geschmiedet, von Zwergen, die ihr Handwerk meisterlich verstanden`
   - this sentence was later removed, and all later references to _dwarves_ are displayed as easter eggs
