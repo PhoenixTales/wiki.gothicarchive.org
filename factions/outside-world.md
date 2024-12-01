@@ -56,6 +56,11 @@ title: Outside World
 - use two-handed swords and crossbows (source: their commented-out scripts)
 - appear to be get important assignments like overseeing the _Khorinis Ore Mines_ and/or escorting _Royal Judges_ there
 
+## Scholars
+- German: `die Gelehrten`
+- mentioned in the Letter to the Fire Mages: `the scholars are studying the ancient books`
+- it's implied they work with the `priests of Innos` to explain powers of the Sect
+
 ## Stomp's Family
 - only mentioned in _Sleeper's Ban_
 - `respected merchant family`
