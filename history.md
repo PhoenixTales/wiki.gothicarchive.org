@@ -29,6 +29,9 @@ title: History
   - Myrtana is going to lose that war
 
 ## Ancient Times
+- `It's a weapon from the olden days, when the human race was still young. (...) forged from an unknown material. And there's nothing written about who created it!`
+  - German: `es ist eine Waffe aus alten Tagen, als die Menschheit noch jung war. Die Waffe ist aus einem völlig unbekannten Material geschmiedet. Auch über den Erschaffer steht nichts geschrieben!`
+  - source: dialogue `Info_Xardas_LOADSWORD_Info` in the final G1 release
 - ancient Khorinis orcs first won battle against humans and _Ancient General_, but then their society mysteriously collapsed
 - in early days of human race, humans coexisted with orcs on the surface, until racist conflicts led the orcs to seek refuge in underground cities
 - there are prophecies that apocalyptic crisis from almost 1000 years ago is going to return
