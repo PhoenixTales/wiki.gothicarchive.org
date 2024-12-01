@@ -392,5 +392,6 @@ title: Items
   - `Dieses Schwert ist aus einem edelen Erz geschmiedet, von Zwergen, die ihr Handwerk meisterlich verstanden`
   - this sentence was later removed, and all later references to _dwarves_ are displayed as easter eggs
   - `The weapon was forged from an unknown material. And there's nothing written about who created it!`
+- after charging deals fire damage (30 pts), can set enemies and flammable objects (like torch holders) on fire
 
 ## Winepipe
