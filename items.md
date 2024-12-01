@@ -384,7 +384,7 @@ title: Items
 - `It's a weapon from the olden days, when the human race was still young.`
 - can be used to make a rune that `has Beliar's powers`, called `Wave of Death`
 - `the weapon was able to pierce the strongest armor and to overcome even the most powerful of protection spells.`
-  - ability to "overcome spells" is not normally associated with _Magic Ore_ (which powers spells), may hint that another special alloy was used
+  - ability to overcome / neutralize spells is not normally associated with _Magic Ore_ (which instead powers / strengthens spells), it may hint that another special alloy was used
 - `This sword is forged from a noble ore by dwarves who were master craftsmen`
   - `Dieses Schwert ist aus einem edelen Erz geschmiedet, von Zwergen, die ihr Handwerk meisterlich verstanden`
   - this sentence was later removed, and all later references to _dwarves_ are displayed as easter eggs
