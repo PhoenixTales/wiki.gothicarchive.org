@@ -45,6 +45,7 @@ title: Religion
 - `Adanos brought man versatility, knowledge, curiosity and courage`
 - `god Adanos, who is the balance between good and evil`
 - `Adanos (...) spoke: (...) I shall give mankind the power of healing.`
+- `Work and live, for the day was created so that man may work. Seek learning and knowledge so that you may pass it on, for it is for that purpose that you were created.` (book `Words of the Gods`)
 - as suggested by `OtWaMaskWater.tga`, symbolized by light blue droplet
 
 ## Beliar, God of Darkness
@@ -57,6 +58,7 @@ title: Religion
 - `the mightiest spell of the Fifth Circle is the Ripple of Death. (...) Be careful to use this kind of magic as little as possible. It's a gift from the god of darkness.`
 - as suggested by `OtWaMaskMoon.tga`, symbolized by crescent moon on dark purple
 - `humans died and it was the will of Beliar that it should be that way` (from book `The Second Circle`
+- `whosoever shall do wrong and go against the will of the gods, him I will punish. I will plague his body with pain, suffering and death` (book `Words of the Gods`)
 
 ## Archdemon Sleeper
 - in early design docs mentioned as `The Being` (German: `der Wesenheit`) (see `NPCs per guild`)
