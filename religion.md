@@ -86,6 +86,9 @@ title: Religion
   - `The player leaves the temple/orc city through all the demons and crazy people (...) leaves the colony -> end of the game`, `After the Sleeper is defeated, everyone is dead. OC is occupied by demons, undead, etc.`
   - `Der Spieler verläßt durch alle Dämonen und durchgedrehten Leute den Tempel/Orkstadt, (...) verläßt dann irgendwann die Kolonie -> Spielende.`, `Nach dem der Schläfer besiegt ist, sind alle tot. OC ist von Dämonen, Untoten usw. besetzt.`
   - source: `Phoenix Hauptmissionen`
+ 
+## Human soul
+- `[Man's] soul allows him to take part in the highest plane of existence, the divine spirit.`
 
 ## Shugul Sath
 - also known as the _Smoke Hunter_
