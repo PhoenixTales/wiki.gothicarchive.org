@@ -374,6 +374,7 @@ title: Items
   - it is mentioned in book _Sixth Circle of Magic_ sold by _Mages Of Fire_ and _Mages Of Water_ under Magic Barrier Of Khorinis
   - `the big blue jewel in the blade. It contains the magical powers of the blade. If I remove the jewel, I'll be able to create a magic rune which contains the attributes of URIZIEL itself.` (G1-final, DIA_KDF_404_Xardas.d)
   - before charging it was `plain gray gem`, and after it became `shimmering bluish`
+  - book `The Sixth Circle` says that `the rune carrying the powers of URIZIEL (...) has Beliar's powers.`
 - orcs took it from the defeated _Ancient General_ 
   - `the Orcs took it from a powerful warlord`
   - `Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him` (early design docs)
@@ -393,5 +394,6 @@ title: Items
   - this sentence was later removed, and all later references to _dwarves_ are displayed as easter eggs
   - `The weapon was forged from an unknown material. And there's nothing written about who created it!`
 - after charging deals fire damage (30 pts), can set enemies and flammable objects (like torch holders) on fire
+- Uriziel is famous enough that the book `The Sixth Circle` mentions it by name
 
 ## Winepipe
