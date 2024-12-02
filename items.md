@@ -332,7 +332,7 @@ title: Items
   - `Swampweed, stranger. Pure, fine swampweed. (...) The conditions are ideal - lots of sun, fresh breezes... That makes the pollen unbelievably fine.`
 
 ## Syos
-- common herb blended with grapes when making wine of _Archolos_
+- common herb blended with grapes when making _The Wine of Oblivion_
 - `The grapes are blended with the common syos herb` (book `Recipes`)
   - German: `Die Trauben werden vor der Kellerei mit dem gemeinen Syos-kraut versetzt.`
 
@@ -400,5 +400,14 @@ title: Items
   - `The weapon was forged from an unknown material. And there's nothing written about who created it!`
 - after charging deals fire damage (30 pts), can set enemies and flammable objects (like torch holders) on fire
 - Uriziel is famous enough that the book `The Sixth Circle` mentions it by name
+
+## The Wine of Oblivion
+- only mentioned in the book `Recipes`
+- `The best grapes for this wine are found high up on the slopes of Archolos`
+- `The grapes are blended with the common syos herb`
+- recipe is followed by vague text implying it has hallucinogenic or magical properties:
+  - `Observe and marvel as the master turns the clearest well water into excellent wine. The master punishes his lazy disciples by locking them in bottles. A fire is miraculously ignited and black serpents rise up.`
+  - German: `Sehet und staunet, wenn der Magister klarstes Brunnenwasser zu vortrefflichen Wein verwandelt. Der Magister seine faulen Lehrlinge zur Strafe in Flaschen sperrt, Feuer sich auf wundersame Weise entzündet und schwarze Schlangen emporwachsen.`
+
 
 ## Winepipe
