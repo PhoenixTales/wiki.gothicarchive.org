@@ -11,6 +11,9 @@ title: History
 - years are counted by solstices or winters
   - `This war lasted more than four solstices`
   - `many winters ago`
+- some of the known history is said to reach thousands of years (millennia) into the past
+  - `The techniques employed in this traditional method of hunting have hardly altered in the course of the millennia`
+  - German: `Die Technik dieser Art der traditionellen Jagd hat sich im Lauf der Jahrtausende kaum verändert`, from book `Hunt and Prey`
  
 ## Timeline
 - _Ancient Times_
