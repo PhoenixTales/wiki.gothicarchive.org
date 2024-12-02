@@ -14,6 +14,8 @@ title: History
 - some of the known history is said to reach thousands of years (millennia) into the past
   - `The techniques employed in this traditional method of hunting have hardly altered in the course of the millennia`
   - German: `Die Technik dieser Art der traditionellen Jagd hat sich im Lauf der Jahrtausende kaum verändert`, from book `Hunt and Prey`
+  - `For 2000 years, the teachings of this expert have determined the development of the art of fighting`
+  - German: `2000 Jahre lang bildeten diese Lehren des Meisters die Pfeiler bei der Entwicklung der Kampfkunst`, from book `The Art of Fighting`
  
 ## Timeline
 - _Ancient Times_
