@@ -3,6 +3,7 @@ title: Psionic Powers
 ---
 - according to alpha design doc `Spells`, the Demonic spells and Guru spells are of Magic Circles 7-11, while both Water and Fire spells are of Magic Circles 1-6
 - not documented at all in the books of magic
+  - `determine what gods and what knowledge their magic powers are derived from (...) Even now, the scholars are studying the ancient books`
 - `the powerful magic of the Sleeper`
 - `Magic is bestowed. Magicians wonder who gave the cultists magic.`
   - German: `Magie wird verliehen. Magier wundern sich, wer den Sektenspinnern denn die Magie verliehen hat.` (`Phoenix Hauptmissionen`)
