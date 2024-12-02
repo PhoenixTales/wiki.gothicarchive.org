@@ -9,7 +9,7 @@ title: Orcs
   - `Deep beneath the Free Mine live large, dangerous creatures called orcs.`
 - orcs bury their dead in underground tombs
   - `The Orcs used to bury their dead there, that's why we call this system of caves the Orc cemetery.`
-- there are orcs living in the south-west of the _Royal Ore Mines_ around _Khorinis_
+- there are orcs living in the south-west of the _Royal Ore Mines of Khorinis_
 - humans are using orc slaves, orcs used to do the same with humans in the past
 - orcs are similarly developed as humans, but in different ways
   - `Orcs are not animals, as many people think`, `Their culture is as old as the human culture.`
@@ -30,10 +30,29 @@ title: Orcs
 - orcs can learn human language, and humans can learn orcish language
   - this skill is no longer available to player in the final release of the game
 - originally they were supposed to be named differently than `orcs`, but a suitable name was never invented
+- orcs culture reassembles `Klingons` / `Indians`
+  - from an early design doc `Phoenix Hauptmissionen` (German: `Orkkultur: Klingonen/Indianer`)
+- `Culture is everything. All fighters are equally worthy (regardless of race or species) if they abide by the rules of nature. For example, the orcs pay just as much respect to a shadow beast as they do to their own kind - or to a human if he abides by the rules.`
+  - from an early design doc `Phoenix Hauptmissionen`
+  - German: `Kultur ist alles. Alle Kämpfer sind gleich würdig (egal welche Rasse oder Art), wenn sie sich an die Regeln der Natur halten. Einem Shadowbeast z.B. zollen die Orks genauso großen Respekt wie ihresgleichen – oder eben einem Menschen, wenn er sich an die Regeln hält.`
+- orc weapons are manufactured in a secret way (from the magic ore)
+  - German: `Orkwaffen-Herstellung = Geheimnis (aus magischem Erz)` (from `Phoenix Hauptmissionen`)
+- `Orcs catch animals for arena`
+  - German: `Orks fangen Tiere für Arena` (from `Phoenix Hauptmissionen`)
+- `Orcs need Minecrawler secretion for visions`
+  - German: `Orks brauchen MC-Sekret für Visionen` (from `Phoenix Hauptmissionen`)
+- some of the contemporary orcs may still actually worship the Sleeper (in contrast to the rest of them, who just fear him)
+  - suggested by a brief mention in alpha doc `Phoenix Hauptmissionen`: `Schläfersekte der Orks`
+- orc shamans prepare a (temporary?) strength potion for the orc warriors
+  - German: `Die Orkschamanen stellen einen STR-Trank für die Orkkrieger her` (from `Phoenix Hauptmissionen`)
+- `Orcs keep "watchdogs" - starving wild animals chained up to raise the alarm. If the player character frees them, they will attack him unless there is an orc nearby.`
+  - German: `Orcs halten sich „Wachhunde“ – augehungerte Wildtiere, angekettet, die Alarm schlagen. Wenn der SC sie befreit, greifen sie ihn an, es sei denn es ist ein Orc in der Nähe.` (from `Phoenix: Monsters`)
+- `Orcs manually trigger traps for the player character`, `Orcs place scavengers in pit traps.` (scavenger here = removed jackal-like animal)
+  - German: `Orcs lösen Fallen für den SC manuell aus`, `Orcs setzen Aasfresser in Fallgruben` (from `Phoenix: Monsters`)
 
 ## Known living orcs
 
-## Grub
+### Grub
 - enslaved orc shaman at _Royal Ore Mine_, speaking human language
 - `meet GRUB in room, with pointy black rock`
 - `free me from chains, hehe, only GRUB knows way to friend`
@@ -41,16 +60,28 @@ title: Orcs
 - `GRUB see you are wizard, too.`
 - source: `0.56c\Data\Sound\Speech\dbts\speech.txt`
 
-## Tarrok
+### Tarrok
 - slave at the _Free Mine_, speaking human language
 - friend of _Ur-Shak_
 - knows how to make _Ulu-Mulu_, while _Ur-Shak_ apparently doesn't
 
-## Ur-Shak
+### Ur-Shak
 - shaman speaking human language
 - `He's not on good terms with his brothers in the Orc town`
 - `a banished Orc shaman in the ruins of a castle`
 - many years ago used to be a slave in the _Free Mine_ with _Tarrok_, but managed to escape
+
+### Uruk
+- a very strong ork that hero has to duel after coming to the _Orc City_ with _Ulu-Mulu_, to further prove his worth
+- mentioned in `Phoenix Hauptmissionen` (German: `Uruk (staaarker Ork)`
+- the name exactly corresponds to a very strong sub-species of orcs in `Lord Of The Rings`
+
+## Relationship with trolls
+- in the released game, orcs and trolls are never seen together
+- Gothic comic shows the _Northern Hordes_ as made of both orcs and some trolls
+- early design docs mention orc patrols in _abandoned mine_ including an `war troll`
+  - German: `Orkpatroullien in VM (incl. Kriegstroll?)` (in `Phoenix Hauptmissionen`)
+
 
 ## Morlocks
 - removed pre-alpha guild, already in 0.56 alpha mentioned as `GIL_MRL = 17; // (gibt es nicht mehr)` (`no longer used`)
@@ -67,7 +98,8 @@ title: Orcs
 - `Orth-Antak`: Troll tooth (source: `DIA_FREEMINEORC`)
 - `Dwachkarr`: Swampshark Tooth (source: `DIA_Orc_FreeMine`)
 - `Gach Lug`: Mine Crawler (source: `DIA_Orc_FreeMine`)
-- `Krushak`: Sleeper  (source: `DIA_Orc_Shaman`)
+- `Krushak`: Sleeper (source: `DIA_Orc_Shaman`)
+- `Tonga`: pillar (source: `Phoenix Hauptmissionen`)
 
 ### Other games
 - Gothic 3 suggests that `Krush` means `weapon`:
@@ -82,10 +114,11 @@ title: Orcs
 
 ## Shamans
 - `sons of spirit`
-- use fire magic
+- in the final release use _Fire Magic_
   - `he may listen to you before turning you into a living torch!`
+- in early design docs use _Voodoo Magic_ (`Phoenix: Monsters`)
 
-## Types of orcs found in game
+## Types of orcs
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
 - scout
 - shaman
@@ -109,3 +142,4 @@ title: Orcs
 - use powerful dark and psionic spells:
   - as described by _Phoenix-Konzept_ (chapter on monsters)
   - _Breath Of Death_, _Aura Of Madness_, _Raise Zombies_
+

@@ -102,6 +102,24 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 - have poisonous venom
   - `The crawlers poisoned me. I need antidote.` (`DIA_FREEMINEORC_WASTUN_INFO_06.WAV` / 1.01d alpha)
 
+## Swampshark
+- `mixture of a cobra and a sandworm`
+  - German: `Mischung aus Kobra und Sandwurm.` (`Phoenix Monsters`)
+
+## Troll
+- `Trolls are cave dwellers` (from: `Phoenix Monsters` design doc)
+- Gothic Comic shows trolls marching together with orcs as _Northern Hordes_
+- early design doc mention `war trolls` accompanying orc patrols in the abandoned mine
+  - German: `Orkpatroullien in VM (incl. Kriegstroll?)` (in `Phoenix Hauptmissionen`)
+- trolls were supposed to have two special attacks  (described in `Phoenix Monsters`):
+  - when encountered in underground tunnel `Hits the ground, rocks rain down`
+    - this visual effect was actually implemented in an alpha release (camera shaking + falling decals of giant rocks)
+    - German: `Schlägt auf Boden, Felsen prasseln herab`
+  - `Grabs player character and bites off his head`
+    - German: `Packt SC und beißt ihm den Kopf ab`
+- `Trolls can move boulders/stone portals that are too heavy for the player character`
+  - German: `Trolle können Felsbrocken/Steinportale verschieben, die für den SC zu schwer sind.` (from: `Phoenix Monsters` design doc)
+
 ## Undead Dragon
 - `Undead Dragon in chokepoint on the way towards the Sleeper`
   - from early design docs

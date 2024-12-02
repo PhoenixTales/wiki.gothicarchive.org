@@ -11,6 +11,11 @@ title: History
 - years are counted by solstices or winters
   - `This war lasted more than four solstices`
   - `many winters ago`
+- some of the known history is said to reach thousands of years (millennia) into the past
+  - `The techniques employed in this traditional method of hunting have hardly altered in the course of the millennia`
+  - German: `Die Technik dieser Art der traditionellen Jagd hat sich im Lauf der Jahrtausende kaum verändert`, from book `Hunt and Prey`
+  - `For 2000 years, the teachings of this expert have determined the development of the art of fighting`
+  - German: `2000 Jahre lang bildeten diese Lehren des Meisters die Pfeiler bei der Entwicklung der Kampfkunst`, from book `The Art of Fighting`
  
 ## Timeline
 - _Ancient Times_
@@ -29,10 +34,18 @@ title: History
   - Myrtana is going to lose that war
 
 ## Ancient Times
+- `It's a weapon from the olden days, when the human race was still young. (...) forged from an unknown material. And there's nothing written about who created it!`
+  - German: `es ist eine Waffe aus alten Tagen, als die Menschheit noch jung war. Die Waffe ist aus einem völlig unbekannten Material geschmiedet. Auch über den Erschaffer steht nichts geschrieben!`
+  - source: dialogue `Info_Xardas_LOADSWORD_Info` in the final G1 release
 - ancient Khorinis orcs first won battle against humans and _Ancient General_, but then their society mysteriously collapsed
 - in early days of human race, humans coexisted with orcs on the surface, until racist conflicts led the orcs to seek refuge in underground cities
 - there are prophecies that apocalyptic crisis from almost 1000 years ago is going to return
   - `constellations of stars start moving to the same positions`
+ 
+### Ancient War Of Priests
+- book `Words Of The Gods` suggests that separation between priests of Innos and Adanos started with an ancient war, initiated by priests of Innos who rebelled against him
+- `Innos raised the few who had shown him gratitude above the others (...) people called them priests. But among them were many who soon became dissatisfied. And so it happened that they prayed to Adanos and forgot their origins. The league of priests was divided. Wars ensued (...) And so the priests were separated.`
+- German: `Die Riege der Priester war gespalten. Kriege wurden entfesselt`
 
 ### Other games
 - Gothic 3
@@ -81,6 +94,7 @@ Origin of Myrtana is only described in Gothic 3:
   - `The kingdom was gradually recovering from the wounds of the past. Wheat flourished in the fields and new trade agreements were signed.`
 - on _Khorinis_ there are `old fortifications dating back to the time of the first Orc war`
   - according to Mike, that's because in those times Orc lived all over (under) Myrtana, not only in the North
+- `Following the heavy battles in the north, every countryman now knows how to use a bow and arrows.`
  
 ### Other games
 Gothic 3 suggests that _First Orc War_ was won by Orcs:

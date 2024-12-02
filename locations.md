@@ -168,6 +168,8 @@ title: Locations
 
 ## Temple Of Sleeper
 - in early docs called `The Ancient Temple Of The Being` (German: `Uralten Tempel der Wesenheit`) (design doc `NPCs per guild`)
+- called by orcs `realm of the dead` and `realm of the ancestors`
+  - German: `Totenreich`, `Reich der Ahnen` (in `Phoenix Hauptmissionen`)
 - codename: `AT` (`Ancient Temple`)
 - `in an uknown ancient temple, unchanged for 1000 years`
 - there is a dimensional portal to _Demon World_ that makes it possible to summon or banish an _arch demon_
@@ -175,6 +177,9 @@ title: Locations
 - `PC [Player Character] can later encounter enemies killed in the AT [Ancient Temple] as zombies. Some power creates turns them undead. Are they captured by the Spirit of the Sleeper?`
   - German: `SC könnte im AT getötete Gegner als Zombies wiedertreffen. Irgendeine Macht erschafft Untote. Geist des Schläfers, der sie einfängt?`
   - from Phoenix Level Design document
+- in the early design, player had to fulfill a series of 7 ancient orc prophecies to make the sealed entrance portal to the temple open
+  - later, within the temple there would be another `locked portal`, `that only the combined psi powers of the sect can open`
+  - source: `Phoenix Hauptmissionen`
 
 ## Tower Of Demon Summoner
 - German: `Turm des Dämonenbeschwörers` (`TDB`)

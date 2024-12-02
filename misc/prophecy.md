@@ -1,0 +1,32 @@
+# The Prophecy
+- `Maybe you really are the man the Orcish prophecies told of! (...) Ancient Orcish documents written shortly after the sealing of the underground temple mention a 'Holy Foe'. Someone who shall come to drive the SLEEPER from our world forever!`
+  - source: dialogue `Info_Xardas_PROPHECY_Info` in release version
+- `The player ends up in the colony because he has the task of defeating the Sleeper there, or rather, he has an even higher goal ahead of him, of which defeating the Sleeper is only the first step. (Similar to Star Wars 1 - Luke destroys the Death Star, but the story is far from over). Perhaps it is not even the Sleeper that is the decisive element in the future, but the liberation of the mines and the associated turning of the war against the Orcs - or something similar`
+  - German: `Der Spieler landet in der Kolonie, weil er dort die Aufgabe hat, den Schläfer zu besiegen, oder besser, er hat noch ein höheres Ziel vor sich, zu dem der Sieg über den Schläfer nur die erste Etappe darstellt. (Analog zu Star Wars 1 – Luke zerstört den Todesstern, aber die Geschichte ist noch lange nicht zu Ende). Vielleicht ist es noch nicht einmal der Schläfer, der das entscheidende Element in der Zukunft darstellt, sondern die Befreiung der Minen und das damit verbundene Wenden des Krieges gegen die Orks – oder ähnliches.`
+  - source: `Phoenix Hauptmissionen`
+- hero learns about ancient orcish prophecy about the 1000 year sleep of Sleeper, and that a `holy enemy` will appear by the end of that time to defeat him
+  - there were supposed to be 7 signs appearing that this time has come
+  - hero finds out that voluntarily fulfilling these signs himself is the only way to get access to the temple entrance guarded by orcs and open it
+  - `The player finds out what the prophecies are and then has to come up with the idea of making them come true` (German: `Der Spieler findet heraus, wie die Prophezeiungen lauten, muß dann selber auf die Idee kommen, diese eintreten zu lassen`)
+  - `Fulfill prophecies to demoralize Orcs` (German: `Prophezeiungen erüllen, um Orks zu demoralisieren`)
+  - it is unclear to what degree it was hero's free willed choice, and to what degree it was his pre-destined fate playing out with a mere illusion of choice
+- `Evil sleeps in the depths for 1000 years. When the awakening threatens, a savior will come. 7 signs will tell you of the awakening.`
+  - German: `Das Böse schläft für 1000 Jahre in der Tiefe. Wenn das Erwachen dräunt, wird ein Retter kommen. 7 Zeichen werden euch vom Erwachen künden.` (from `Phoenix Hauptmissionen`)
+- `How a thousand years ago the orcs brought evil into the world and perished because of it. They just managed to make the evil fall into a thousand-year sleep and seal his temple. The scripture ends with the prophecy that one day someone will try to awaken the sleeper. At the same time, the savior will come who will banish evil from the world. The signs that announce this are written down in the 7 prophecies`
+  - German: `wie vor tausend Jahren die Orks das Böse auf die Welt holten und daran zugrunde gingen. Sie schafften es gerade noch, das Böse in einen tausendjährigen Schlaf fallen zu lassen und seinen Tempel zu versiegeln. Die Schrift endet mit der Prophezeiung, daß eines Tages jemand versuchen wird, den Schläfer wieder zu erwecken. Gleichzeitig wird der Retter kommen, der das Böse wieder aus der Welt verbannt. Die Zeichen, die das ankündigen sind in den 7 Prophezeiungen niedergeschrieben` (from `Phoenix Hauptmissionen`)
+- known prophecised signs according to `Phoenix Hauptmissionen`:
+  - `1. The first twitch of the Krushak will ring in your ears and drive you mad. This is the sign that Krushak will soon awaken. (Wave of Madness)`
+    - German: `Das erste Zucken des Krushak wird euch in den Ohren klingen und euch in den Wahnsinn treiben. Dies ist das Zeichen dafür, daß Krushak bald erwachen wird. (Wahnsinnswelle)`
+  - `2. The peace of the dead is disturbed – the graves of the ancestors are desecrated`
+    - German: `Die Ruhe der Toten wird gestört – Die Gräber der Ahnen werden geschändet`
+  - `3. The Tonga ( = pillar) of knowledge will fall` (`PC has to find out what "Tonga" means and topple the pillar`)
+    - German: `Die Tonga (=Säule) des Wissens wird fallen  SC muß rausfinden, was "Tonga" heißt und die Säule umkippen`
+  - 4: 1st of `3 most important traditions is broken`: `hero is attacked from behind by a guard (dishonorably)` (that `orc = former slave -> hates humans`)
+    - German: `Die 3 wichtigsten Traditionen werden gebrochen (und die dazugehörigen Siegel)`, `SC wird von Wächter hinterrücks angegriffen (ehrlos)`, `Ork = ehem. Sklave -> hasst Menschen`
+  - 5: 2nd of `3 most important traditions is broken`: a certain orcs commits some kind of sacrillege (while mind-controlled by the hero)
+    - German: `Ork übernehmen (bestimmte Person) und Sakrileg begehen`
+  - 6: 3rd of `3 most important traditions is broken`: `old friends become enemies`
+    - German: `Alte Freunde werden zu Feinden`
+  - 7: ???
+- `When the player has completed all the tasks, the portal to the Sleeper opens and the orcs flee to the upper world in panic`
+  - German: `Als der Spieler alle Aufträge erfüllt hat, öffnet sich das Portal zum Schläfer und die Orks fliehen in Panik an die Oberwelt`

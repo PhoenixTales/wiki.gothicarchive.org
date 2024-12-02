@@ -48,6 +48,7 @@ title: Outside World
 - army service is mandatory 
  - `all the others that were forced by the king to fight in the war against the orcs` (_Milten_ in Gothic I comic)
 - _Myrtana_ wins battles thanks to `the interplay of army and magic`
+- army members are called `soldiers` (see book `The Battle of Varant`)
 
 ## Royal Guard
 - escort the main character during his sentencing
@@ -55,6 +56,11 @@ title: Outside World
 - wear gold-themed armors
 - use two-handed swords and crossbows (source: their commented-out scripts)
 - appear to be get important assignments like overseeing the _Khorinis Ore Mines_ and/or escorting _Royal Judges_ there
+
+## Scholars
+- German: `die Gelehrten`
+- mentioned in the Letter to the Fire Mages: `the scholars are studying the ancient books`
+- it's implied they work with the `priests of Innos` to explain powers of the Sect
 
 ## Stomp's Family
 - only mentioned in _Sleeper's Ban_

@@ -3,12 +3,24 @@ title: Magic Ore
 ---
 
 - naturally stores certain amount of magic energy
-- used for making the famous alloy known as _steel of Khorinis_, considered the best in entire _Myrtana_
-- known since ancient times, used by "Kings and heroes of old"
+- used for making the famous alloy known as `steel of Khorinis`, considered the best in entire _Myrtana_
+  - `weapons forged from the finest steel of Khorinis, and high prices are still paid for such weapons throughout Myrtana` (book `Magic Ore`)
+- known since ancient times
+  - used by `Kings and heroes of old`
+  - main material of the magic armor of the _Ancient General_ who wielded _Uriziel_
 - `The magic ore does have special qualities. Weapons forged from it don't break, their blades are sharper than usual ones.`
 - `the magic powers of the ore vanish during the smelting process`
-- `The best ore(...)is(...)in the ore mines of Khorinis.(...)A weapon forged from this steel(...)`
+- produces a steel alloy: `ore mines of Khorinis ... A weapon forged from this steel ...` (book `Magic Ore`)
 - `ore nuggets -> powder = reagents`
   - German: `Erznuggets -> Pulver = Reagenzien` (design doc `NPCs per Guild`)
 - _Magic Ore_ powder is the main ingredient of both _Sruup_ and _Mana Potion_
 - violently explodes when hit with a _Fireball_, a bag is able to destroy a large tower 
+- `no one willingly works in the ore mines`
+  - (afterword to `Gothic Comic`) (German: `niemand gerne freiwillig in den Erzminen arbeitet`)
+  - this implies that voluntary work in the Royal Magic Ore Mines is somehow more risky, damaging or poorly paid than work in other mines or joining the army
+- according to the book `Magic Ore`, it's only found around Khorinis, or author believes that this source is `doubtless the best`:
+  - `The best ore for use when forging weapons is doubtless found in the ore mines of Khorinis.`
+- `of fundamental purity and suffused with magic`
+- `of incomparable strength, yet so soft that it cannot break`
+- `is a match for any blade, albeit made of the strongest steel`
+- `It will break any shield and pierce any armor`

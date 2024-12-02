@@ -45,6 +45,7 @@ title: Religion
 - `Adanos brought man versatility, knowledge, curiosity and courage`
 - `god Adanos, who is the balance between good and evil`
 - `Adanos (...) spoke: (...) I shall give mankind the power of healing.`
+- `Work and live, for the day was created so that man may work. Seek learning and knowledge so that you may pass it on, for it is for that purpose that you were created.` (book `Words of the Gods`)
 - as suggested by `OtWaMaskWater.tga`, symbolized by light blue droplet
 
 ## Beliar, God of Darkness
@@ -56,6 +57,9 @@ title: Religion
 - `until my body shall return to the realm of Beliar and the fire of my life be extinguished`
 - `the mightiest spell of the Fifth Circle is the Ripple of Death. (...) Be careful to use this kind of magic as little as possible. It's a gift from the god of darkness.`
 - as suggested by `OtWaMaskMoon.tga`, symbolized by crescent moon on dark purple
+- `humans died and it was the will of Beliar that it should be that way` (from book `The Second Circle`)
+- `whosoever shall do wrong and go against the will of the gods, him I will punish. I will plague his body with pain, suffering and death` (book `Words of the Gods`)
+- book `Words of the Gods` says that Beliar `created a man, a man to pray to him alone`, but after seeing that `the man he created was like all other men` (did not worship him), `Beliar became so furious that he killed the man` and said `If they will not worship me, then at least they shall fear me`
 
 ## Archdemon Sleeper
 - in early design docs mentioned as `The Being` (German: `der Wesenheit`) (see `NPCs per guild`)
@@ -76,6 +80,15 @@ title: Religion
   - from Phoenix Level Design docs
 - `The Sleeper only wants to gather enough energy to a) open a portal back to his world and b) create enough undead that will then help him show the other six [archdemons] what's what...`
   - from Phoenix Level Design docs
+- initial sketch of the final confrontation didn't mention Shaman hearts and instead involved `opening the portal and sending the Sleeper back`
+  - German: `das Portal öffnen und den Schläfer zurückschicken` (in `Phoenix Hauptmissionen`)
+- defeating the Sleeper would not automatically "clean up" all the demons, undead and insanity released by him in the last chapter
+  - `The player leaves the temple/orc city through all the demons and crazy people (...) leaves the colony -> end of the game`, `After the Sleeper is defeated, everyone is dead. OC is occupied by demons, undead, etc.`
+  - `Der Spieler verläßt durch alle Dämonen und durchgedrehten Leute den Tempel/Orkstadt, (...) verläßt dann irgendwann die Kolonie -> Spielende.`, `Nach dem der Schläfer besiegt ist, sind alle tot. OC ist von Dämonen, Untoten usw. besetzt.`
+  - source: `Phoenix Hauptmissionen`
+ 
+## Human soul
+- `[Man's] soul allows him to take part in the highest plane of existence, the divine spirit.`
 
 ## Shugul Sath
 - also known as the _Smoke Hunter_

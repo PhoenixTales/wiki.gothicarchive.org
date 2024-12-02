@@ -17,6 +17,12 @@ title: Items
 - `magically enchanted` (German: `magisch belegtes`)
 - _Stomp_ was falsely accused of stealing it, and sentenced to lifetime in _Khorinis Prison Colony_
 
+## Ancient Ore Armor
+- `belonged to the general who wielded URIZIEL in the battle against the Orcs.`
+- `particularly rare artefact` in possesion of Xardas
+- `This ancient armor was made of magic ore`
+- implies that ancient humans (or orcs allied with them) knew the _Magic Ore_ and a way to process it without loss of magic energy
+
 ## Ancient Shaman Swords
 - _Clefter of Worlds_ (`Welten Spalter`)
 - _Blade of Light_ (`Licht Bringer`) (German name literally means _Light Bringer_)
@@ -27,6 +33,12 @@ title: Items
 ## Anti-barrier amulet
 - `Magical Amulet against WS in order to get closer than 10m to the Barrier, without becoming insanse`
   - from early design docs
+
+## Anti-zombie potion
+- keeps zombies at distance
+- traditionally prepared by orc shamans
+- German: `antike Tränke der alten Orkschamanen`: `Anti-Zombie-Trank (hält sie auf Distanz)`
+- briefly mentioned in alpha design doc `Phoenix Hauptmissionen`
 
 ## Armor Of The Dawn
 - German: `Panzer der Morgenröte`
@@ -46,6 +58,13 @@ title: Items
 - "example" (`z.B.`) undead-related weapon mentioned in `Phoenix-Konzept`, chapter on Monster Design
 - drains health points from enemies
 - does not allow any other healing of the user while carried
+
+## Crawler Potion
+- made of _minecrawler_ eggs
+- in the final release, permanently grants 10 max mana points
+- in the early design docs, Cor Kalom needs additional ingredients to make it
+  - wine, swamp weed, blood and "something cool from the Outside World"
+  - source: `Phoenix Hauptmissionen`
 
 ## Cursed Black Blade
 - German: `verfluchte schwarze Klinge`
@@ -93,6 +112,11 @@ title: Items
 - much easier to release than charge
 - can be used to cast "high magic" spells, like giant force-fields or explosions able to destroy such force-fields
 - casting a spell with focus stone uses magic power from the stone, not (only) from the mage
+- in the early design docs there were 12 stones used to create the barrier around the _Royal Ore Mines_, one for each participating mage
+  - `Then one of the Water Mages remembers the old altars from the creation of the barrier. These contain magical crystals that can focus energy. The player is supposed to get the 12 stones.`, `Bring us the stones of the twelve altars!`
+  - German: `Da fällt einem der KdW die alten Altäre von der Erschaffung der Barriere ein. Diese beinhalten magische Kristalle, die die Energie lenken können. Der Spieler soll die 12 Steine besorgen`, `Bring uns die Steine der zwölf Altäre!`
+  - source: `Phoenix Hauptmissionen`
+  - in the final version it was reduced to 5 stones, even though there were still 12 mages participating
 
 ## Gems
 - few kinds mentioned: `Gem`, `Crystal`, `Shard` (German: `Gemme`, `Kristall`, `Scherbe`)
@@ -276,13 +300,14 @@ title: Items
 - can be sold for 5 ore
 
 ## Swamp Weed
+- called `Swamp Root` (German: `Sumpfwurzeln`) in early design docs (`Phoenix Hauptmissionen`)
 - `grown in the swamp (...) has to be processed before it can be smoked`
 - `have a tranquilizing and relaxing effect. They help you concentrate on the essentials and increase your awareness.`
 - `opens your spirit` and gives chance to experience visions (`Some people even see images`)
 - there are multiple distinct blends of _Swampweed_ that differ in strength, price and gameplay effect
-  - Green Novice (8 ore, 1x +5xp)
-  - Northern Dark (15 ore, 1x +10xp)
-  - Dream Call (20 ore, 1x +2 max mana)
+  - Green Novice (`Grüner Novize`, 8 ore, 1x +5xp)
+  - Northern Dark (`Schwarzer Weiser` / `Black Old Man`, 15 ore, 1x +10xp)
+  - Dream Call (`Traumruf`, 20 ore, 1x +2 max mana)
   - special Dream Call (from _Baal Kagan_, 200 ore, causes sleep, for _Baal Tyon_ causes a vision)
 - there's a blend called `Sleeper's Dream` (German: `Schläfertraum`) mentioned in design doc `Story 3.3 draft`
   - it's the only blend mentioned in the document, the one which _Novices_ receive daily and which is traded with other camps
@@ -306,6 +331,11 @@ title: Items
 - Gothic 3:
   - `Swampweed, stranger. Pure, fine swampweed. (...) The conditions are ideal - lots of sun, fresh breezes... That makes the pollen unbelievably fine.`
 
+## Syos
+- common herb blended with grapes when making _The Wine of Oblivion_
+- `The grapes are blended with the common syos herb` (book `Recipes`)
+  - German: `Die Trauben werden vor der Kellerei mit dem gemeinen Syos-kraut versetzt.`
+
 ## Teleport Stone
 - single item `TeleportStone` connected with single spell `Spell_Teleportation`
 - as opposed to teleportation spells in the final release, this one does not lead to any particular location
@@ -325,9 +355,20 @@ title: Items
 
 ## Ulu-mulu
 - `sign of friendship` respected by orcs (unless wielder attacks or uses magic)
+- the Nameless describes it as `an Orcish symbol for friendship` (`Info_Gorn_FOUNDULUMULU_Info`)
 - has a form of large totem that can be used as a weapon
 - probably an amulet variant was originally planned, the _Orcish Talisman_ uses 3d model with a matchig name
 - shows that the wielder is a strong warrior who collected trophies of powerful beasts: _fire waran_, _shadowbeast_, _troll_ and a _swampshark_
+- in early design docs, made of `the horn of a shadowbeast, the bone of a troll and the feathers of a rock bird` and described as a `totem, a kind of spear`
+  - German: `dem Horn eines Shadowbeasts, dem Knochen eines Trolls und den Federn eines Felsvogels`, `Totem, eine Art Speer`
+  - source: `Phoenix Hauptmissionen`
+- use of Ulu-Mulu was supposed to involve going to the gate of the underground _Orc City_ and there ram the (spear-shaped) Ulu-Mulu into the ground
+  - then one of guarding orcs would challenge the hero to a duel, and once hero wins, he would be granted access to the orc chieftain
+- early design docs mention that after New Camp temporarily allied with the orcs, wearing the helmet of New Camp Guardian similarly allowed the hero to safely enter the Orc City, even if the hero was actually a member of Old Camp or Sect Camp
+  - (Old Camp / New Camp / Sect Camp) hero `can go to Orc City with helmet of Guardian`
+  - `New Camp allies with orcs. New Camp - Guardians wear marked helmets from now on`, `can go to Orc City with helmet of Guardian`
+  - German: `NL verbündet sich mit Orks. NL-Ga tragen von nun an (spätestens) gekennzeichnete Helme.`, `kann mit Ga-Helm in Orkstadt gehen` (source: `Phoenix Hauptmissionen`)
+- Gorn describes it as `Orc standard` (`Info_Gorn_FOUNDULUMULU_Info`)
 
 ## Uriziel
 - `Ancient runes have been engraved into the blade`, `It says here, Uriziel the Great`
@@ -337,6 +378,8 @@ title: Items
 - it contains magic rune known as _Ring of Death_ that `has Beliar's powers`
   - it is mentioned in book _Sixth Circle of Magic_ sold by _Mages Of Fire_ and _Mages Of Water_ under Magic Barrier Of Khorinis
   - `the big blue jewel in the blade. It contains the magical powers of the blade. If I remove the jewel, I'll be able to create a magic rune which contains the attributes of URIZIEL itself.` (G1-final, DIA_KDF_404_Xardas.d)
+  - before charging it was `plain gray gem`, and after it became `shimmering bluish`
+  - book `The Sixth Circle` says that `the rune carrying the powers of URIZIEL (...) has Beliar's powers.`
 - orcs took it from the defeated _Ancient General_ 
   - `the Orcs took it from a powerful warlord`
   - `Dead Paladin in ancient temple behind door, sieged by undeads -> has weapon against Sleeper with him` (early design docs)
@@ -348,9 +391,23 @@ title: Items
 - `It's a weapon from the olden days, when the human race was still young.`
 - can be used to make a rune that `has Beliar's powers`, called `Wave of Death`
 - `the weapon was able to pierce the strongest armor and to overcome even the most powerful of protection spells.`
+  - ability to overcome / neutralize spells is not normally associated with _Magic Ore_ (which instead powers / strengthens spells), it may hint that another special alloy was used for the blade
+  - Xardas would be probably able to recognize a blade made of Magic Ore, but instead he says Uriziel `was forged from an unknown material`
+  - Uriziel's magic power comes not from the blade, but from the `blue jewel` that looks similar to Mana Potions (which are made of Magic Ore) and can be transformed into a Rune Stone (which are made of Magic Ore)
 - `This sword is forged from a noble ore by dwarves who were master craftsmen`
   - `Dieses Schwert ist aus einem edelen Erz geschmiedet, von Zwergen, die ihr Handwerk meisterlich verstanden`
   - this sentence was later removed, and all later references to _dwarves_ are displayed as easter eggs
   - `The weapon was forged from an unknown material. And there's nothing written about who created it!`
+- after charging deals fire damage (30 pts), can set enemies and flammable objects (like torch holders) on fire
+- Uriziel is famous enough that the book `The Sixth Circle` mentions it by name
+
+## The Wine of Oblivion
+- only mentioned in the book `Recipes`
+- `The best grapes for this wine are found high up on the slopes of Archolos`
+- `The grapes are blended with the common syos herb`
+- recipe is followed by vague text implying it has hallucinogenic or magical properties:
+  - `Observe and marvel as the master turns the clearest well water into excellent wine. The master punishes his lazy disciples by locking them in bottles. A fire is miraculously ignited and black serpents rise up.`
+  - German: `Sehet und staunet, wenn der Magister klarstes Brunnenwasser zu vortrefflichen Wein verwandelt. Der Magister seine faulen Lehrlinge zur Strafe in Flaschen sperrt, Feuer sich auf wundersame Weise entzündet und schwarze Schlangen emporwachsen.`
+
 
 ## Winepipe
