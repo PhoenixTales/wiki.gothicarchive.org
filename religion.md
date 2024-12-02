@@ -57,8 +57,9 @@ title: Religion
 - `until my body shall return to the realm of Beliar and the fire of my life be extinguished`
 - `the mightiest spell of the Fifth Circle is the Ripple of Death. (...) Be careful to use this kind of magic as little as possible. It's a gift from the god of darkness.`
 - as suggested by `OtWaMaskMoon.tga`, symbolized by crescent moon on dark purple
-- `humans died and it was the will of Beliar that it should be that way` (from book `The Second Circle`
+- `humans died and it was the will of Beliar that it should be that way` (from book `The Second Circle`)
 - `whosoever shall do wrong and go against the will of the gods, him I will punish. I will plague his body with pain, suffering and death` (book `Words of the Gods`)
+- book `Words of the Gods` says that Beliar `created a man, a man to pray to him alone`, but after seeing that `the man he created was like all other men` (did not worship him), `Beliar became so furious that he killed the man` and said `If they will not worship me, then at least they shall fear me`
 
 ## Archdemon Sleeper
 - in early design docs mentioned as `The Being` (German: `der Wesenheit`) (see `NPCs per guild`)
