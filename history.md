@@ -40,6 +40,7 @@ title: History
 ### Ancient War Of Priests
 - book `Words Of The Gods` suggests that separation between priests of Innos and Adanos started with an ancient war, initiated by priests of Innos who rebelled against him
 - `Innos raised the few who had shown him gratitude above the others (...) people called them priests. But among them were many who soon became dissatisfied. And so it happened that they prayed to Adanos and forgot their origins. The league of priests was divided. Wars ensued (...) And so the priests were separated.`
+- German: `Die Riege der Priester war gespalten. Kriege wurden entfesselt`
 
 ### Other games
 - Gothic 3
