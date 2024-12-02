@@ -1,19 +1,36 @@
 # The Cosmos
 
-- world of mortals (`place of transience`) is called `Morgrad`
-  - "transience" means short, temporary existence
-- cosmos is divided into three realms neighbouring one another:
-  - realm of darkness (`the heart of the inexpressible darkness of Beliar`)
-  - realm of mortals (`In the center`, `place of transience`, `containing the four elements`)
-  - realm of heavens (`Above all this`, `the highest plane of existence`, `the divine`)
-- cosmos has spherical structure, with each higher realm surrounding the lower one
-- there are four elements of cosmos: `earth, water, fire and air`
 - `In the center lies the Morgrad, containing the four elements earth, water, fire and air. It is the place of transience, [within which lies] the heart of the inexpressible darkness of Beliar. Above all this towers the sphere of the heavens.`
   - from book `Astronomy`
   - German: `Im Zentrum befindet sich der Morgrad mit seinen vier Elementen Erde, Wasser, Feuer und Luft, der Raum des Vergänglichen, in seinem Inneren die unaussprechliche Dunkelheit des Beliar. Über allem befindet sich die Sphäre des Himmels`
   - original English translation missed words `in seinem Inneren` (`within which lies`)
   - it made it appear like "Morgrad is the heart of darkness", rather than as the original text means, "the heart of darkness is deep inside Morgrad" 
 - `[Man] is a reflection of the world itself`
+
+## Three Spheres
+- cosmos is divided into three "Spheres", with each surrounding the lower one:
+- realm of darkness
+  - `the heart of the inexpressible darkness of Beliar`
+  - populated by spirits of the dead (and guarded by Beliar)
+  - made of element of darkness
+- realm of mortals
+  - `In the center`, `place of transience`, `containing the four elements`
+  - "transience" means short, temporary existence
+  - populated by humans and animals
+  - made of four elements `earth, water, fire and air`
+- realm of heavens
+  - `Above all this`, `the highest plane of existence`, `the divine`, `the Other Side`
+  - populated by the gods (ruled by Innos?)
+  - made of element of light (?)
+ 
+## Heavens as the source of magic
+- `magus' spirit rises above our sphere and gazes upon the Other Side, the home of power` (`The Secrets of Magic`)
+- `magus has reached a stage which enables him to rise above the limits of his existence, he can place himself on a higher plane than that in which mortal man lives` (`True Power`)
+
+## Other worlds
+- `The synodic orbit of the planets, that is the course they take between two identical positions in relation to the Morgrad of our world`
+  - German: `Die synodische Umlaufszeit der Planeten, dh. die Zeitdauer zwischen zwei gleichartigen Stellungen in Bezug zum Morgrad unserer Welt`, from book `Astronomy`
+- expression `Morgrad of our world` (German: `Morgrad unserer Welt`) suggests there may be other worlds with similar structure, having realm of mortals halfway between realm of darkness and heavens
 
 ## Demon World
 - accessible from portal in _Temple Of Sleeper_ and under the _Stone Circle Of The Damned_
