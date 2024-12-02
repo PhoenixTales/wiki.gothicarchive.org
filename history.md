@@ -89,6 +89,7 @@ Origin of Myrtana is only described in Gothic 3:
   - `The kingdom was gradually recovering from the wounds of the past. Wheat flourished in the fields and new trade agreements were signed.`
 - on _Khorinis_ there are `old fortifications dating back to the time of the first Orc war`
   - according to Mike, that's because in those times Orc lived all over (under) Myrthana, not only in the North
+- `Following the heavy battles in the north, every countryman now knows how to use a bow and arrows.`
  
 ### Other games
 Gothic 3 suggests that _First Orc War_ was won by Orcs:
