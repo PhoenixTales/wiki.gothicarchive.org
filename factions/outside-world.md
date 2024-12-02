@@ -48,6 +48,7 @@ title: Outside World
 - army service is mandatory 
  - `all the others that were forced by the king to fight in the war against the orcs` (_Milten_ in Gothic I comic)
 - _Myrtana_ wins battles thanks to `the interplay of army and magic`
+- army members are called `soldiers` (see book `The Battle of Varant`)
 
 ## Royal Guard
 - escort the main character during his sentencing
