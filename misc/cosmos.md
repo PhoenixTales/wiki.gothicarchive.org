@@ -1,7 +1,19 @@
 # The Cosmos
 
-- `In the center lies the Morgrad, containing the four elements earth, water, fire and air. It is the place of transience, the heart of the inexpressible darkness of Beliar. Above all this towers the sphere of the heavens.`
+- world of mortals (`place of transience`) is called `Morgrad`
+  - "transience" means short, temporary existence
+- cosmos is divided into three realms neighbouring one another:
+  - realm of darkness (`the heart of the inexpressible darkness of Beliar`)
+  - realm of mortals (`In the center`, `place of transience`, `containing the four elements`)
+  - realm of heavens (`Above all this`, `the highest plane of existence`, `the divine`)
+- cosmos has spherical structure, with each higher realm surrounding the lower one
+- there are four elements of cosmos: `earth, water, fire and air`
+- `In the center lies the Morgrad, containing the four elements earth, water, fire and air. It is the place of transience, [within which lies] the heart of the inexpressible darkness of Beliar. Above all this towers the sphere of the heavens.`
   - from book `Astronomy`
+  - German: `Im Zentrum befindet sich der Morgrad mit seinen vier Elementen Erde, Wasser, Feuer und Luft, der Raum des Vergänglichen, in seinem Inneren die unaussprechliche Dunkelheit des Beliar. Über allem befindet sich die Sphäre des Himmels`
+  - original English translation missed words `in seinem Inneren` (`within which lies`)
+  - it made it appear like "Morgrad is the heart of darkness", rather than as the original text means, "the heart of darkness is deep inside Morgrad" 
+- `[Man] is a reflection of the world itself`
 
 ## Demon World
 - accessible from portal in _Temple Of Sleeper_ and under the _Stone Circle Of The Damned_
