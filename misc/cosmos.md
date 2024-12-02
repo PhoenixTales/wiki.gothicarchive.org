@@ -4,8 +4,14 @@
   - from book `Astronomy`
   - German: `Im Zentrum befindet sich der Morgrad mit seinen vier Elementen Erde, Wasser, Feuer und Luft, der Raum des Vergänglichen, in seinem Inneren die unaussprechliche Dunkelheit des Beliar. Über allem befindet sich die Sphäre des Himmels`
   - original English translation missed words `in seinem Inneren` (`within which lies`)
-  - it made it appear like "Morgrad is the heart of darkness", rather than as the original text means, "the heart of darkness is deep inside Morgrad" 
+  - it made it appear like "Morgrad is the heart of darkness", rather than as the original text means, "the heart of darkness is deep inside Morgrad"
+ 
+## Microcosm vs Macrocosm and unity of opposites
 - `[Man] is a reflection of the world itself`
+  - this refers to philosophical idea that microcosm ("small world", like human body) reflects macrocosm ("great world", the universe)
+  - the same idea is metaphorically expressed in the 1803 real-world poem by William Blake: `see a World in a Grain of Sand`
+- `His soul allows him to take part in (...) the divine spirit. Yet man's body is made from the substance of the Morgrad.`
+  - this refers to philosophical idea of unity of opposites, which are connected and inseparable, neccessary for world to exist
 
 ## Three Spheres
 - cosmos is divided into three "Spheres", with each surrounding the lower one:
