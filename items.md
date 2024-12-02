@@ -331,6 +331,11 @@ title: Items
 - Gothic 3:
   - `Swampweed, stranger. Pure, fine swampweed. (...) The conditions are ideal - lots of sun, fresh breezes... That makes the pollen unbelievably fine.`
 
+## Syos
+- common herb blended with grapes when making wine of _Archolos_
+- `The grapes are blended with the common syos herb` (book `Recipes`)
+  - German: `Die Trauben werden vor der Kellerei mit dem gemeinen Syos-kraut versetzt.`
+
 ## Teleport Stone
 - single item `TeleportStone` connected with single spell `Spell_Teleportation`
 - as opposed to teleportation spells in the final release, this one does not lead to any particular location
