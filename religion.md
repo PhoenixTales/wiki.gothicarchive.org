@@ -56,6 +56,7 @@ title: Religion
 - `until my body shall return to the realm of Beliar and the fire of my life be extinguished`
 - `the mightiest spell of the Fifth Circle is the Ripple of Death. (...) Be careful to use this kind of magic as little as possible. It's a gift from the god of darkness.`
 - as suggested by `OtWaMaskMoon.tga`, symbolized by crescent moon on dark purple
+- `humans died and it was the will of Beliar that it should be that way` (from book `The Second Circle`
 
 ## Archdemon Sleeper
 - in early design docs mentioned as `The Being` (German: `der Wesenheit`) (see `NPCs per guild`)
