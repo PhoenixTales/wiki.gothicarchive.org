@@ -23,20 +23,24 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - `magic power` (book `The Second Circle`)
 - `magic formulas` (book `The Fourth Circle`)
 - `arcane power` (book `The Secrets of Magic`)
+- `Arcane Art` (book `A Powerful Art`)
+- `Arcanum` (book `Elementary Arcanum`)
 
 ## Terms for magic users
 - `magician` (book `The First Circle`)
 - `the caster` (book `The Fourth Circle`)
 - `weavers of magic` (book `A Gift from the Gods`)
-- `magus` (book `The Secrets of Magic`)
+- `magus` (book `The Secrets of Magic`, `Elementary Arcanum`, `True Power`)
 - `disciple of the art of magic` (book `The Secrets of Magic`)
+- `Those Instructed in the Arcane Art` (book `A Powerful Art`)
 
 ## Terms for mages and magic in religious context
 - `servants of the gods` (book `The First Circle`)
 - `divine power` (book `The First Circle`)
 - `the divine gift` (book `A Gift from the Gods`)
 - `chosen ones` (book `A Gift from the Gods`)
+- `The Sacred Duty` (book `True Power`)
 
 ## Terms for organizations of mages
 - `temple of the Magicians of Water`
-- 
+
