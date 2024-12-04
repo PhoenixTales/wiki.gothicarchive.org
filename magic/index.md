@@ -7,6 +7,8 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - magic is also called `arcane power`, `Arcane Art` or `Arcanum`
 - `Elementary Arcanum`: `magic represents the perfect element. It has the power to transform all the elements and to shape them, which means it is superior to them`
 - `True Power`: `Once a magus has reached a stage which enables him to rise above the limits of his existence, he can place himself on a higher plane than that in which mortal man lives. He can break through the boundaries of time and space`
+- `The Secrets Of Magic`: `disciple of the art of magic must be able to use his spirit as a tool`
+- effect of `Ball Lightning` spell is described as `A ball of magic power`, implying that the raw, most basic form of magic energy may reassemble lightning / electric plasma
 
 ## Source of magic: mage or gods?
 - it's unclear if magic originates from the mage himself, or from the gods
@@ -15,3 +17,26 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - `A Powerful Art`: `magician's ability to control the divine power grows`
 - `Words Of The Gods`: `Innos gave mankind (...) the power to perform great miracles, and he called them magic. With this power, the people were able to design the world after their will. Innos gave them no limits. And thus man received a portion of the divine power of creation. (...) Innos raised the few who had shown him gratitude above the others. These few were soon revered and feared, and the people called them priests.`
 - `the gods gave mankind the gift of magic, they taught them to make magic runes as well` (from book `The First Cirle`)
+
+## Terms for the magic
+- `gift of magic` (book `The First Circle`)
+- `magic power` (book `The Second Circle`)
+- `magic formulas` (book `The Fourth Circle`)
+- `arcane power` (book `The Secrets of Magic`)
+
+## Terms for magic users
+- `magician` (book `The First Circle`)
+- `the caster` (book `The Fourth Circle`)
+- `weavers of magic` (book `A Gift from the Gods`)
+- `magus` (book `The Secrets of Magic`)
+- `disciple of the art of magic` (book `The Secrets of Magic`)
+
+## Terms for mages and magic in religious context
+- `servants of the gods` (book `The First Circle`)
+- `divine power` (book `The First Circle`)
+- `the divine gift` (book `A Gift from the Gods`)
+- `chosen ones` (book `A Gift from the Gods`)
+
+## Terms for organizations of mages
+- `temple of the Magicians of Water`
+- 
