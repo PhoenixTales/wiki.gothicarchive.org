@@ -9,6 +9,7 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - `True Power`: `Once a magus has reached a stage which enables him to rise above the limits of his existence, he can place himself on a higher plane than that in which mortal man lives. He can break through the boundaries of time and space`
 - `The Secrets Of Magic`: `disciple of the art of magic must be able to use his spirit as a tool`
 - effect of `Ball Lightning` spell is described as `A ball of magic power`, implying that the raw, most basic form of magic energy may reassemble lightning / electric plasma
+- `Chromanin I`: `the source of my power lies hidden (...) use it to break the chains of this world`
 
 ## Source of magic: mage or gods?
 - it's unclear if magic originates from the mage himself, or from the gods
@@ -33,6 +34,8 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - `magus` (book `The Secrets of Magic`, `Elementary Arcanum`, `True Power`)
 - `disciple of the art of magic` (book `The Secrets of Magic`)
 - `Those Instructed in the Arcane Art` (book `A Powerful Art`)
+- `Venerable Master` (about the leader of the circle) (in `Cronos' letter` and `Letter to the Magicians of Fire`)
+- `Magicians of the Circle of ...` (in `Cronos' letter`)
 
 ## Terms for mages and magic in religious context
 - `servants of the gods` (book `The First Circle`)
