@@ -14,6 +14,9 @@ title: Religion
   - `Pray for the last time to your gods` (alpha threat from a _Sect Novice_)
 - but not considered almighty
   - `faith in divine omnipotence soon became a myth`
+- expression `Oh, Ancient Gods` in `Chromanin III` may suggest that the ancient times had gods different than current times
+  - it also shows that the book author somehow still knew or remembered about those replaced gods
+  - German: `Oh, ihr Götter der alten Zeiten` / `Oh, you Gods of the ancient Times`
 
 ## Priests
 -  _Priests of Innos_ are members of _House of Innos_ 
