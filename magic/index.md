@@ -22,7 +22,7 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 ## Terms for the magic
 - `gift of magic` (book `The First Circle`)
 - `magic power` (book `The Second Circle`)
-- `magic formulas` (book `The Fourth Circle`)
+- `magic formulas` (book `The Fourth Circle`, `Almanac`)
 - `arcane power` (book `The Secrets of Magic`)
 - `Arcane Art` (book `A Powerful Art`)
 - `Arcanum` (book `Elementary Arcanum`)
