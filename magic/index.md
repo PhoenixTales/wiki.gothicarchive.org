@@ -26,6 +26,7 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - `arcane power` (book `The Secrets of Magic`)
 - `Arcane Art` (book `A Powerful Art`)
 - `Arcanum` (book `Elementary Arcanum`)
+- `words of the ancient power` (book `Almanac`)
 
 ## Terms for magic users
 - `the caster` (book `The Fourth Circle`)
