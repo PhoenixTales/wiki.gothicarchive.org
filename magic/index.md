@@ -28,14 +28,14 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - `Arcanum` (book `Elementary Arcanum`)
 
 ## Terms for magic users
-- `magician` (book `The First Circle`)
 - `the caster` (book `The Fourth Circle`)
 - `weavers of magic` (book `A Gift from the Gods`)
 - `magus` (book `The Secrets of Magic`, `Elementary Arcanum`, `True Power`)
 - `disciple of the art of magic` (book `The Secrets of Magic`)
 - `Those Instructed in the Arcane Art` (book `A Powerful Art`)
 - `Venerable Master` (about the leader of the circle) (in `Cronos' letter` and `Letter to the Magicians of Fire`)
-- `Magicians of the Circle of ...` (in `Cronos' letter`)
+- `magician`, `Magicians of the Circle of ...` (in `The First Circle`,  `Cronos' letter`)
+- `artists of arcane power` (in `almanach`)
 
 ## Terms for mages and magic in religious context
 - `servants of the gods` (book `The First Circle`)
