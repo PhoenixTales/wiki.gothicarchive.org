@@ -117,6 +117,8 @@ title: Orcs
 - in the final release use _Fire Magic_
   - `he may listen to you before turning you into a living torch!`
 - in early design docs use _Voodoo Magic_ (`Phoenix: Monsters`)
+- can write runes on walls and parchments, andeven create magic scrolls
+  - `Half Of a parchment` (`OrkParchmentOne`): `A part of an ancient parchment. The writing resembles the runes on the cave's walls.`
 
 ## Types of orcs
 - boss (only one exists, with ID `Boss` and name `Orc Boss`)
