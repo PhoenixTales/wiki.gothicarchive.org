@@ -12,6 +12,7 @@ title: Religion
 - three gods are worshipped
   - `the man of the three gods, and governor of the highest god`
   - `Pray for the last time to your gods` (alpha threat from a _Sect Novice_)
+  - `The gods will be with me` (`Journal Page` of `a troll hunter`)
 - but not considered almighty
   - `faith in divine omnipotence soon became a myth`
 - expression `Oh, Ancient Gods` in `Chromanin III` may suggest that the ancient times had gods different than current times
