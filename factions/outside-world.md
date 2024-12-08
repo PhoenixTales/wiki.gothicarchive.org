@@ -56,6 +56,7 @@ title: Outside World
 - wear gold-themed armors
 - use two-handed swords and crossbows (source: their commented-out scripts)
 - appear to be get important assignments like overseeing the _Khorinis Ore Mines_ and/or escorting _Royal Judges_ there
+- term `Royal Guard` is known from the name of armor item they wear (German: `Königliche Garde`)
 
 ## Scholars
 - German: `die Gelehrten`
