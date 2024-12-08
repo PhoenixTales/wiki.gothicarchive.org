@@ -38,6 +38,8 @@ title: Outside World
 - `that goddam king!` (source: a _Scraper_ from the _Free Mine_, `Info_Sld_8_WichtigePersonen_Info`)
 - `the damned king!` (source: _Mordrag_, `Org_826_Mordrag_NCInfo_Info`)
 - `King (...) the old guy` (source: _Diego_, `Info_Diego_OldCamp_Info`)
+- `They used the King's wife to get me` (source: _Lee_)
+  - suggests that the king had at least one `wife` who is not a `queen`
 
 ### Royal Judge
 - called `Court Archon` in _Sleeper's Ban_
