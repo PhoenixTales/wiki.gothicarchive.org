@@ -3,6 +3,7 @@ title: Dark Magic
 ---
 
 - according to alpha design doc `Spells`, the Demonic spells and Guru spells are of Magic Circles 7-11, while both Water and Fire spells are of Magic Circles 1-6
+- called `Dark Arts` (German: `der Dunklen Künste`) in the name of necromancer's robe
 
 ### Death To The Undead (IV)
 - also known as _Banish Undead_ or _Destroy Undead_
