@@ -228,6 +228,14 @@ title: Items
 - blocks the user from using any magic (German: `keinerlei Magie möglich`)
 - mentioned in Phoenix Docs (`Referenz_Items`)
 
+## Piece of an Ice Golem
+- German: `Eistück` / `Stück eines Eisgolems`
+- `This is a fragment of a defeated ice golem.`
+- appears in final relased game
+- separate from the `Heart of an Ice Golem`, but looks the same
+- works like a rune of spell _Thunderbolt_
+- requires 500 max mana to equip
+
 ## Potion "Mad Bull"
 - causes temporary madness (`Npc_SetToMad (self,30)`)
 - looks like a vial of yellow liquid
