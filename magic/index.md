@@ -33,6 +33,7 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - `words of the ancient power` (book `Almanac`)
 - `Spiritual Power` (item `Schutzamulett_Magie`)
 - `magic energy` (descriptions of mana potions)
+- `the Spirit` (description of max mana potion)
 
 ## Terms for magic spells
 - `formula` (German: `Formel`):
