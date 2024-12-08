@@ -14,6 +14,8 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - spells are organized into thematic series known as `schools of magic`
   - `Now I've joined the Circle of Water. From now on I've got access to both schools of magic` (journal entry)
 - known schools of magic: fire, water, necromancy, psionics, possibly Sun
+- on the other hand, the book `The First Circle` says suggests that term `Circles Of Magic` can be used with this meaning
+  - `The magician's Circle determines which kind of magic he is able to understand and to use`
 
 ## Source of magic: mage or gods?
 - it's unclear if magic originates from the mage himself, or from the gods
