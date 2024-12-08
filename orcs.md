@@ -100,17 +100,28 @@ title: Orcs
 - `Gach Lug`: Mine Crawler (source: `DIA_Orc_FreeMine`)
 - `Krushak`: Sleeper (source: `DIA_Orc_Shaman`)
 - `Tonga`: pillar (source: `Phoenix Hauptmissionen`)
+- `Grachtnakk` = name for orc-shaman's staff
+- `ShaBaNakk` = name for ancient undead orc-priest's staff
+
+## Weapons
+- weapon naming suggests that `krush` means something like "meele weapon", because it includes swords, axes and maces
+- `Krush Varrok` = `OrcSword01` (for orc-scouts)
+- `Krush Pach` = `OrcAxe01` (for orc-warriors)
+- `Krush UrRok` = `OrcAxe02` (for orc-warriors)
+- `Krush Agash` = `OrcAxe03` (for orc-warriors)
+- `Krush BrokDar` `OrcAxe04` (for orc-warriors)
+- `Krush Karrok` = `OrcMace01` (for orc-warriors)
 
 ### Other games
-- Gothic 3 suggests that `Krush` means `weapon`:
-  - `Krush Milok` = `Milok's old sword`
+- Gothic 3 expands the weapon naming, further confirming expanding meaning of `krush` as "meele weapon"
   - `Krush Pach` = `OrcAxe`
-  - `Krush Tarach` = `OrcHalberd`
-  - `Krush Varok` = `OrcSword_01`
-  - `Krush Morok` = `OrcSword_02`
   - `Krush Agash` = `OrcWaraxe`
-  - `Krash Morra` = `Crossbow_KrashMorra`
-  - `Krush Irmak` = `Irmak_2H_Halberd`
+  - `Krush Varok` = `OrcSword_01`
+  - `Krush Tarach` = `OrcHalberd` (new)
+  - `Krush Morok` = `OrcSword_02` (new)
+  - `Krash Morra` = `Crossbow_KrashMorra` (new)
+  - `Krush Milok` = `Milok's old sword`
+  - `Krush Irmak` = `Irmak_2H_Halberd` (Irmak's halberd)
 
 ## Shamans
 - `sons of spirit`
