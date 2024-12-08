@@ -12,6 +12,8 @@ title: Water Magic
 ### Ice Cube (III)
 - also known as _Freeze_ or _Ice Block_
 - `The victim is enclosed in a block of ice`
+- `surrounds the unsuspecting with a pillar of ice`
+  - according to book `Arcanum Golum`, describing spell-attack of _Ice Golem_
 
 ### Ball Lightning (III)
 - also known as _Thunder Ball_
