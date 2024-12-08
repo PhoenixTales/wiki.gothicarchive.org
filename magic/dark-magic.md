@@ -20,6 +20,7 @@ title: Dark Magic
 
 ### Mass Death (VI)
 - also known as _Ring Of Death_ or _URIZIEL's wrath_
+- also mentioned by Saturas as `Ripple of Death` (official English translation) or `Wave of death` (German: `Welle des Todes`)
 - `There are hardly any records about the rune carrying the powers of URIZIEL. It is only known that it has Beliar's powers.`
 
 ### Summon 
