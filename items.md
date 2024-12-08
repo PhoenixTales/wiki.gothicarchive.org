@@ -59,6 +59,10 @@ title: Items
 - drains health points from enemies
 - does not allow any other healing of the user while carried
 
+## The Convicts
+- German: `Die Verurteilten`
+- unused book item in the final release, with no known content
+
 ## Crawler Potion
 - made of _minecrawler_ eggs
 - in the final release, permanently grants 10 max mana points
