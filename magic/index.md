@@ -4,7 +4,6 @@ title: Magic
 
 Spells can categorized in a few ways: based on in-game books, based on design docs, based on comments in the game scripts or based on texture of the scroll or runestone. These sources do not fully agree with each other.
 
-- magic is also called `arcane power`, `Arcane Art` or `Arcanum`
 - `Elementary Arcanum`: `magic represents the perfect element. It has the power to transform all the elements and to shape them, which means it is superior to them`
 - `True Power`: `Once a magus has reached a stage which enables him to rise above the limits of his existence, he can place himself on a higher plane than that in which mortal man lives. He can break through the boundaries of time and space`
 - `The Secrets Of Magic`: `disciple of the art of magic must be able to use his spirit as a tool`
@@ -30,7 +29,7 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - `magic formulas` (book `The Fourth Circle`, `Almanac`)
 - `arcane power` (book `The Secrets of Magic`)
 - `Arcane Art` (book `A Powerful Art`)
-- `Arcanum` (book `Elementary Arcanum`)
+- `Arcanum` (book `Elementary Arcanum`, book `Arcanum Golum`)
 - `words of the ancient power` (book `Almanac`)
 - `Spiritual Power` (item `Schutzamulett_Magie`)
 
