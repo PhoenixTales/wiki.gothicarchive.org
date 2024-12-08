@@ -299,6 +299,12 @@ title: Items
 - readable 'document' without any content programmed
 - can be sold for 5 ore
 
+## Summoning Amulet
+- German: `Beschwörungsamulett`
+- description: `Black like the soul. Black like the night. Black like the evil. Black promises might.`
+  - German: `Schwarz wie die Seele. Schwarz wie die Nacht. Schwarz wie das Böse. Schwarz verheisst Macht.`
+- present but commented out in the final released script sources
+
 ## Swamp Weed
 - called `Swamp Root` (German: `Sumpfwurzeln`) in early design docs (`Phoenix Hauptmissionen`)
 - `grown in the swamp (...) has to be processed before it can be smoked`
