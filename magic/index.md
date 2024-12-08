@@ -11,6 +11,11 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - effect of `Ball Lightning` spell is described as `A ball of magic power`, implying that the raw, most basic form of magic energy may reassemble lightning / electric plasma
 - `Chromanin I`: `the source of my power lies hidden (...) use it to break the chains of this world`
 
+## Schools of magic
+- spells are organized into thematic series known as `schools of magic`
+  - `Now I've joined the Circle of Water. From now on I've got access to both schools of magic` (journal entry)
+- known schools of magic: fire, water, necromancy, psionics, possibly Sun
+
 ## Source of magic: mage or gods?
 - it's unclear if magic originates from the mage himself, or from the gods
 - `The First Circle`: `All magic originates from the magic powers of the user`, `Every activation of a magic spell costs the magician a portion of his powers.`, `spells remain in force for as long as the magician lets his mana flow into them`
