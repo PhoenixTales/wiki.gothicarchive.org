@@ -46,3 +46,6 @@
   - from Phoenix Level Design docs
 - `Later in the game the Demon Summoner will enable the PC [Player Character] to enter the Demon World (perhaps to get a powerful magical artifact)`
   - from Phoenix Level Design docs
+- according to one miner, _Minecrawlers_ come from the realm of Baliar:
+  - `Beware of the minecrawlers. (...) Those rotten creatures come directly from Beliar's realm!` (_Glen_, `VLK_583_Glen_INFO_Info`)
+  
