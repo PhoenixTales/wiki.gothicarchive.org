@@ -38,8 +38,14 @@ title: Outside World
 - `that goddam king!` (source: a _Scraper_ from the _Free Mine_, `Info_Sld_8_WichtigePersonen_Info`)
 - `the damned king!` (source: _Mordrag_, `Org_826_Mordrag_NCInfo_Info`)
 - `King (...) the old guy` (source: _Diego_, `Info_Diego_OldCamp_Info`)
-- `They used the King's wife to get me` (source: _Lee_)
+
+### King's wife
+- `They used the King's wife to get me. I was blamed for her pointless murder`
+  - source: _Lee_ (`Sld_700_Lee_DAMNPAST_Info`)
   - suggests that the king had at least one `wife` who is not a `queen`
+-  `We could buy the King's wife for that`
+  - source: _Jarvis_, `DIA_Jarvis_Erzhaufen_Info`
+  - suggests that there was overall more than one such `wife`, because _Lee_ was sentenced for allegedly killing one in the past
 
 ### Royal Judge
 - called `Court Archon` in _Sleeper's Ban_
