@@ -39,6 +39,14 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - `magician`, `Magicians of the Circle of ...` (in `The First Circle`,  `Cronos' letter`)
 - `artists of arcane power` (in `almanach`)
 
+## Terms for magic spells
+- `formula` (German: `Formel`):
+  - `The words that must be spoken to (...) This formula of days long past` (book `Almanac`)
+  - `The Magic of Teleportation: The special feature of these magic formulas is (...) The magic of these formulas can be activated at once` (book `The Fourth Circle`)
+  - `Xardas is busy creating a magic formula to transfer the energy` (journal entry)
+  - `Xardas has created the magic formula` (journal entry)
+  - `magic scrolls, which are magic formulas` (said by _Corristo)
+
 ## Terms for mages and magic in religious context
 - `servants of the gods` (book `The First Circle`)
 - `divine power` (book `The First Circle`)
