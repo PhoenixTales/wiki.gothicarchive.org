@@ -29,16 +29,6 @@ Spells can categorized in a few ways: based on in-game books, based on design do
 - `words of the ancient power` (book `Almanac`)
 - `Spiritual Power` (item `Schutzamulett_Magie`)
 
-## Terms for magic users
-- `the caster` (book `The Fourth Circle`)
-- `weavers of magic` (book `A Gift from the Gods`)
-- `magus` (book `The Secrets of Magic`, `Elementary Arcanum`, `True Power`)
-- `disciple of the art of magic` (book `The Secrets of Magic`)
-- `Those Instructed in the Arcane Art` (book `A Powerful Art`)
-- `Venerable Master` (about the leader of the circle) (in `Cronos' letter` and `Letter to the Magicians of Fire`)
-- `magician`, `Magicians of the Circle of ...` (in `The First Circle`,  `Cronos' letter`)
-- `artists of arcane power` (in `almanach`)
-
 ## Terms for magic spells
 - `formula` (German: `Formel`):
   - `The words that must be spoken to (...) This formula of days long past` (book `Almanac`)
