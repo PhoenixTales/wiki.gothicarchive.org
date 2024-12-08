@@ -13,7 +13,8 @@ title: Outside World
   - originally they were all _Alchemists Of Fire_, later 6 of them were replaced with _Alchemists Of Water_
 
 ## Nobility
-- _The Nobles_ have "dirty business" and are jelaous of generals' influence
+- _The Nobles_ have "dirty business" and were concerned of general's influence on the king
+  - `the nobles didn't like me, because the King listened to my advice. And they knew I posed a threat to their dirty business.` (source: _Lee_, `Sld_700_Lee_DAMNPAST_Info`)
   - design docs imply that general(s) are also "Lords" (nobles)
 - known ranks of nobility: `king`, `lord`, `burgrave`, possibly `baron`
   - `ore barons` likely based their title on a title used outside of the barrier rather than inventing it from scratch
@@ -34,6 +35,9 @@ title: Outside World
 - `the one who united the four Mirtanian kingdoms of the sea`
 - called _Rhotbar II_ in the Gothic I handbook
 - `King Rhotbar died that winter, weakened and consumed by the wounds of war. His son, Rhotbar the Second , took the scepter in silence, without ceremony or celebration`
+- `that goddam king!` (source: a _Scraper_ from the _Free Mine_, `Info_Sld_8_WichtigePersonen_Info`)
+- `the damned king!` (source: _Mordrag_, `Org_826_Mordrag_NCInfo_Info`)
+- `King (...) the old guy` (source: _Diego_, `Info_Diego_OldCamp_Info`)
 
 ### Royal Judge
 - called `Court Archon` in _Sleeper's Ban_
