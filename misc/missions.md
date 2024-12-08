@@ -224,3 +224,13 @@ title: Missions
 - given by _Baal-Orun_
 - `In the Abandoned Mine, mushrooms grow in some places that cannot be found anywhere else. Bring me at least a dozen. They will recognize you.`
 - `The mushrooms begin to glow slightly as the player approaches them`
+
+## Steal an axe
+- only briefly mentioned in commented-out line in `STT_309_Whistler.d` as `Mis_1_OC_Whistler_StealAxe`
+- it was first chapter mission for Old Camp, given by _Whistler_
+- it was about stealing some axe
+
+## Teach lockpicking
+- only briefly mentioned in commented-out line in `STT_331_Fingers.d` as `Mis_1_OC_Fingers_TeachLockpick`
+- it was first chapter mission for Old Camp, given by _Fingers_
+- it was probably about hero teaching someone else how to lockpick, alternatively about learning it
