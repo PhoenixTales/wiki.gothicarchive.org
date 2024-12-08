@@ -59,6 +59,9 @@ title: Items
 - drains health points from enemies
 - does not allow any other healing of the user while carried
 
+## Book Of Tales
+- unused book in script `TestModelle_Roman.d` (`ItWrBookOfTales`)
+
 ## The Convicts
 - German: `Die Verurteilten`
 - unused book item in the final release, with no known content
@@ -147,6 +150,23 @@ title: Items
 ## Leather Armor
 - the only armor separate from body mesh (rendered on top of it) in the entire game
 - only present in alpha 0.56
+
+## Legendary short sword of burning
+- description: `This is a fucking good sword for killing all fucking creatures who trying to fuck with you!`
+- unused sword in script `TestModelle_Roman.d` (`ItMw1hSwordBurning`)
+
+## Legendary heavy sword of burning
+- description: `Nothing restists the burning touch of this legendary shword that was already believed to be lost forever`
+- unused sword in script `TestModelle_Roman.d` (`ItMw1hSwordBurning`)
+
+## Legendary War Bow of Burning
+- description: `Carved in the ancient times before the creation of mankind, this bow is the mightiest ranged weapon ever`
+- unused bow in script `TestModelle_Roman.d` (`ItRwWarBowBurning`)
+- in the script, causes both fire damage and `fly` damage (pushback)
+
+## Ledengary mithril robe
+- unused robe in script `TestModelle_Roman.d` (`ItArRobeMithril`)
+- no description, uses visual model of Necromancer's robe
 
 ## Light sources
 - in alpha 0.64b there are multiple portable light sources:
