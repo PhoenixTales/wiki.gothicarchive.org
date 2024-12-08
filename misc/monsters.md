@@ -51,6 +51,9 @@ Around were dozens of arm-thick, green-scaled tentacles diving in his direction,
 ## Minecrawler
 - giant insect-like creatures that eat _orcs_ and humans
 - they have venomous mandibles, poisoned _orcs_ need the _Orc Medicine_ to survive
+- `Beware of the minecrawlers. (...) Those rotten creatures come directly from Beliar's realm!`
+  - source: dialogue with `Glen` (`VLK_583_Glen_INFO_Info`)
+  - unclear if it's a literal fact or just exaggeration caused by fear
 
 ## Minesprayer
 - known as `Felssprüher` in German version of `Sleeper's Ban`
