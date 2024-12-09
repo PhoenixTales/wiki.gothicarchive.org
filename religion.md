@@ -24,9 +24,8 @@ title: Religion
   - some of the _Priests of Innos_ are members of the _Circle of Fire_ and known as _Alchemists of Fire_ or _Fire Mages_
  
 ## Ra, God Of The Sun
-- `I am the rising sun, the light, and the life`
 - king of Myrtana is `governor of the highest god, Ra`
-- as suggested by `OtWaMaskSun.tga`, symbolized by bright yellow 8-armed star
+- as suggested by `OtWaMaskSun.tga`, symbolized by bright yellow 8-armed star, which according to file name is the Sun
 - does not appear in the final release of the game, mostly replaced with _Innos_
 
 ## Innos, God Of Fire
@@ -34,6 +33,13 @@ title: Religion
 - `Innos, the highest of all gods` (_Corristo_ in `KDF_402_Corristo_EXPLAINMAGE_Info`)
 - as suggested by `OtWaMaskFire.tga`, symbolized by red flame
 - `KDF_40_VlkSpeech`: `Follow the way of mana, and all will be saved. Otherwise the earth will burn.`
+- `Innos, the god of light` (_Baal Taran_)
+- there's a sword called _Innos' Rage_
+- `I am the rising sun, the light, and the life`
+- `Innos appeared and his light shone upon the world. And Innos gave unto the world the gift of life. But no creature could live in the light of Innos, so he created the sun.`
+- `Innos divided himself and thus created Beliar`, `Innos divided himself again and created Adanos.`
+- Innos `decided to leave mankind in the care of Adanos, and he rested`
+- `Innos gave mankind the power to hear him and speak to him. He gave mankind the power to perform great miracles, and he called them magic`
 
 ### Other games
 - Gothic 3 suggests that faith in Innos originally was brought to _Nordmar_ in ancient times from South by _Akasha_, and in recent past from _Nordmar_ to _Midlands_ by _Rhobar I_:
