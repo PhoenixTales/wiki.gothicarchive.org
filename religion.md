@@ -72,7 +72,8 @@ title: Religion
 - `humans died and it was the will of Beliar that it should be that way` (from book `The Second Circle`)
 - `whosoever shall do wrong and go against the will of the gods, him I will punish. I will plague his body with pain, suffering and death, but his spirit shall join me in the shadows forever more.` (book `Words of the Gods`)
 - book `Words of the Gods` says that Beliar `created a man, a man to pray to him alone`, but after seeing that `the man he created was like all other men` (did not worship him), `Beliar became so furious that he killed the man` and said `If they will not worship me, then at least they shall fear me`
-- `inexpressible darkness of Beliar` (book `Astronomy`
+- `inexpressible darkness of Beliar` (book `Astronomy`)
+- `Beliar became so furious` (book `Words of the Gods`)
 
 ## Archdemon Sleeper
 - in early design docs mentioned as `The Being` (German: `der Wesenheit`) (see `NPCs per guild`)
