@@ -31,7 +31,7 @@ title: Religion
 
 ## Innos, God Of Fire
 - `The god of light, truth and justice`
-- `Innos, the highest of all gods`
+- `Innos, the highest of all gods` (_Corristo_ in `KDF_402_Corristo_EXPLAINMAGE_Info`)
 - as suggested by `OtWaMaskFire.tga`, symbolized by red flame
 - `KDF_40_VlkSpeech`: `Follow the way of mana, and all will be saved. Otherwise the earth will burn.`
 
