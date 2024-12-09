@@ -80,6 +80,10 @@ title: Items
 - undead wounded with it "explode"
   - German: `Untote explodieren wenn getroffen`
 
+## The Crypt
+- German: `Die Gruft`
+- unused book present in final release (`Die_Gruft`)
+
 ## Demon Blade
 - German: `Dämonenklinge`
 - special two-handed sword
