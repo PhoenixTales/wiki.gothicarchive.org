@@ -40,6 +40,7 @@ title: Religion
 - `Innos divided himself and thus created Beliar`, `Innos divided himself again and created Adanos.`
 - Innos `decided to leave mankind in the care of Adanos, and he rested`
 - `Innos gave mankind the power to hear him and speak to him. He gave mankind the power to perform great miracles, and he called them magic`
+- blessings: `May Innos watch over you!` (_Torrez_), `May Innos protect us all` (_Letter to the Magicians of Fire_)
 
 ### Other games
 - Gothic 3 suggests that faith in Innos originally was brought to _Nordmar_ in ancient times from South by _Akasha_, and in recent past from _Nordmar_ to _Midlands_ by _Rhobar I_:
@@ -58,6 +59,7 @@ title: Religion
 - `Work and live, for the day was created so that man may work. Seek learning and knowledge so that you may pass it on, for it is for that purpose that you were created.` (book `Words of the Gods`)
 - as suggested by `OtWaMaskWater.tga`, symbolized by light blue droplet
 - `many who soon became dissatisfied [with Innos]. And so it happened that they prayed to Adanos and forgot their origins. The league of priests was divided. Wars ensued and the faith in divine omnipotence soon became a myth. And so the priests were separated.`
+- greeting: `May the blessing of Adanos be with you` (_Cronos_)
 
 ## Beliar, God of Darkness
 - before called _Vandras_
