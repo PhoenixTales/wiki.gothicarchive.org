@@ -25,7 +25,7 @@
   - populated by humans and animals
   - made of four elements `earth, water, fire and air`
 - realm of heavens
-  - `Above all this`, `the highest plane of existence`, `the divine`, `the Other Side`
+  - `Above all this`, `highest plane of existence, the divine spirit`, `the Other Side`
   - populated by the gods (ruled by Innos?)
   - made of element of light (?)
  
