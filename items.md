@@ -345,7 +345,7 @@ title: Items
 - called `Swamp Root` (German: `Sumpfwurzeln`) in early design docs (`Phoenix Hauptmissionen`)
 - `grown in the swamp (...) has to be processed before it can be smoked`
 - `have a tranquilizing and relaxing effect. They help you concentrate on the essentials and increase your awareness.`
-- `opens your spirit` and gives chance to experience visions (`Some people even see images`)
+- `This weed opens your spirit` (_Joru_) and gives chance to experience visions (`Some people even see images`)
 - there are multiple distinct blends of _Swampweed_ that differ in strength, price and gameplay effect
   - Green Novice (`Grüner Novize`, 8 ore, 1x +5xp)
   - Northern Dark (`Schwarzer Weiser` / `Black Old Man`, 15 ore, 1x +10xp)
