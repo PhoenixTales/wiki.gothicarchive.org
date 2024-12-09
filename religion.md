@@ -57,6 +57,7 @@ title: Religion
 - `Adanos (...) spoke: (...) I shall give mankind the power of healing.`
 - `Work and live, for the day was created so that man may work. Seek learning and knowledge so that you may pass it on, for it is for that purpose that you were created.` (book `Words of the Gods`)
 - as suggested by `OtWaMaskWater.tga`, symbolized by light blue droplet
+- `many who soon became dissatisfied [with Innos]. And so it happened that they prayed to Adanos and forgot their origins. The league of priests was divided. Wars ensued and the faith in divine omnipotence soon became a myth. And so the priests were separated.`
 
 ## Beliar, God of Darkness
 - before called _Vandras_
