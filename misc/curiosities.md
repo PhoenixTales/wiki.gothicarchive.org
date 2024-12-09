@@ -48,6 +48,11 @@ title: Curiosities
   - `FUNC VOID UseBeer() { Npc_SetToDrunk (self,20); // 20 Sekunden betrunken`
   - `func void UseWine() { Npc_SetToDrunk(self, 30);`
 
+## Horses
+- book `The Battle of Varant` mentions `heavy cavalry` (warriors on horses)
+- _Gothic Comic_ shows horses pulling carts
+- early _Old Camp_ concept art had a stable in place of the later smithy
+
 ## "I thought you were dead..."
 - player in some situations hears from various NPC's lines along:
   - `You're alive? I thought you were dead!`
