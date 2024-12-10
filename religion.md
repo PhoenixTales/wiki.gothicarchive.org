@@ -52,11 +52,10 @@ title: Religion
 ## Adanos, God Of Water
 - before called _Cyvanis_
 - patron of healing, work, knowledge, curiosity, courage
-- `The words Cyvanis: Work and live, for the day is made for man to work. Look for learning and knowledge so that you can pass it on`
+- `The words Cyvanis: Work and live, for the day is made for man to work. Look for learning and knowledge so that you can pass it on, for it is for that purpose that you were created` (book `Words of the Gods`, early version)
 - `Adanos brought man versatility, knowledge, curiosity and courage`
 - `god Adanos, who is the balance between good and evil`
 - `Adanos (...) spoke: (...) I shall give mankind the power of healing.`
-- `Work and live, for the day was created so that man may work. Seek learning and knowledge so that you may pass it on, for it is for that purpose that you were created.` (book `Words of the Gods`)
 - as suggested by `OtWaMaskWater.tga`, symbolized by light blue droplet
 - `many who soon became dissatisfied [with Innos]. And so it happened that they prayed to Adanos and forgot their origins. The league of priests was divided. Wars ensued and the faith in divine omnipotence soon became a myth. And so the priests were separated.`
 - greeting: `May the blessing of Adanos be with you` (_Cronos_)
