@@ -77,7 +77,7 @@ THE FRIENDLY PRISONER: Get up.
 ## Character details
 
 - RHOBAR II: wears a simple crown, and his scepter has a form of common-looking spear, reassembling the [Holy Lance](https://en.wikipedia.org/wiki/Imperial_Regalia) (real-world insignia of the medieval `Holy Roman Emperor`, also known as the Spear of Destiny) 
-- THE HOODED MAGE: wears a robe of Archmage of Water, is voiced by the same actor who dubbed both Xardas and Saturas, it's unclear which one it is
+- THE HOODED MAGE: wears a robe of Archmage of Water, is voiced by the same actor who dubbed both Xardas and Saturas
 - THE BRUTAL PRISONER: later introduced as _Bullit_
 - THE FRIENDLY PRISONER: later introduced as _Diego_
 - THE NEW CONVICT: the player character
