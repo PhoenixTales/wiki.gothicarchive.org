@@ -2,7 +2,7 @@
 title: Intro
 ---
 
-THE HOODED MAGE:
+## Screenplay
 
 The kingdom of Myrtana, united by king Rhobar II.
 
@@ -42,50 +42,43 @@ The king had no choice, he had to negotiate, he needed the ore.
 
 Month after month the king supplied everything the prisoners needed. Month after month they brought the ore to the edge of the barrier in exchange, until the present day.
 
-(THE EDGE OF THE BARRIER, YEARS LATER; ON THE ELEVATED OUTER SIDE A PRISONER IS BROUGHT BY TWO ROYAL GUARDS, ACCOMPANIED BY A PRISON GUARD AND THE JUDGE)
+(THE EDGE OF THE BARRIER, YEARS LATER; ON THE ELEVATED OUTER SIDE THE NEW CONVICT IS BROUGHT BY TWO ROYAL GUARDS, ACCOMPANIED BY A PRISON GUARD AND THE JUDGE)
 
 Another convict was brought to the cliff. He did not know, but he would change everything.
 
-THE JUDGE:
-
-In the name of king Rhobar II, bearer of the scepter of Varant, I sentence this convict to...
+THE JUDGE: In the name of king Rhobar II, bearer of the scepter of Varant, I sentence this convict to...
 
 (THE HIGH MAGE OF FIRE SUDDENLY WALKS INTO THE SCENE)
 
-THE HIGH MAGE OF FIRE:
+THE HIGH MAGE OF FIRE: Stop! Convict, I've got an offer to make you: this letter must reach the leader of the Magicians of Fire.
 
-Stop! Convict, I've got an offer to make you: this letter must reach the leader of the Magicians of Fire.
+THE NEW CONVICT: You're wasting your time.
 
-THE NEW PRISONER:
+THE HIGH MAGE OF FIRE: You may choose your own reward, they'll give you anything you ask for.
 
-You're wasting your time.
+THE NEW CONVICT: Very well, I'll take your letter... on one condition: spare me the rest of his nonsense.
 
-THE HIGH MAGE OF FIRE:
+THE JUDGE: How dare you!
 
-You may choose your own reward, they'll give you anything you ask for.
+THE HIGH MAGE OF FIRE: Keep silent! Right, send him in.
 
-THE NEW PRISONER:
+(TWO ROYAL GUARDS PUSH THE NEW CONVICT DOWN THE CLIFF, MAKING HIM FALL TROUGH THE BARRIER INTO A SMALL LAKE, THE NEW CONVICT CRAWLS OUT OF THE WATER ON THE OTHER SIDE, WHERE THREE BRUTAL PRISONERS AWAIT)
 
-Very well, I'll take your letter... on one condition: spare me the rest of his nonsense.
+THE BRUTAL PRISONER: Welcome to the colony.
 
-THE JUDGE: 
+(THE BRUTAL PRISONER KNOCKS OUT THE NEW CONVICT, THE FRIENDLY PRISONER ENTERS THE SCENE)
 
-How dare you!
+THE FRIENDLY PRISONER: That's enough, leave him alone. And now scram. 
 
-THE HIGH MAGE OF FIRE:
+(THREE BRUTAL PRISONERS LEAVE)
 
-Keep silent! Right, send him in.
+THE FRIENDLY PRISONER: Get up.
 
-(TWO ROYAL GUARDS PUSH THE NEW PRISONER DOWN THE CLIFF, MAKING HIM FALL TROUGH THE BARRIER INTO A SMALL LAKE, THE NEW PRISONER CRAWLS OUT OF THE WATER ON THE OTHER SIDE, WHERE THREE ARMED PRISONERS AWAIT)
+## Character details
 
-THE ARMED PRISONER:
+- RHOBAR II: wears a simple crown, and his scepter has a form of common-looking spear, reassembling the [Holy Lance](https://en.wikipedia.org/wiki/Imperial_Regalia) (real-world insignia of the medieval `Holy Roman Emperor`, also known as the Spear of Destiny) 
+- THE HOODED MAGE: wears a robe of Archmage of Water, is voiced by the same actor who dubbed both Xardas and Saturas, it's unclear which one it is
+- THE BRUTAL PRISONER: later introduced as _Bullit_
+- THE FRIENDLY PRISONER: later introduced as _Diego_
+- THE NEW CONVICT: the player character
 
-Welcome to the colony.
-
-(THE ARMED PRISONER KNOCKS OUT THE NEW PRISONER, ANOTHER ARMED PRISONER ENTERS THE SCENE REPLACING THE PREVIOUS THREE)
-
-ANOTHER ARMED PRISONER:
-
-That's enough, leave him alone. And now scram. 
-
-Get up.
