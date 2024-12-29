@@ -12,17 +12,17 @@ During the long years of his reign, he was able to defeat all foes of his realm.
 
 (A BATTLEFIELD; ORCS TRIUMPH OVER HUMAN SOLDIERS, FIRES ARE RAGING)
 
-(INSIDE A MINE; ARMORED GUARDS OVERSEE MINERS)
+(INSIDE A MINE; ARMORED GUARDS OVERSEE THE MINERS)
 
 The war against the orcs took its toll, and the prisoners of the realm were to pay the price.
 
 The king needed swords for his army, and every man guilty of a crime, no matter how insignificant, was forced to work in the ore mines of Khorinis.
 
-(A MOUNTAIN PASS LEADING TO THE MINE VALLEY; A PROCESSION OF CHAINED PRISONERS WALKS TOWARDS THE VALLEY, OVERSEEN BY ARMORED GUARDS)
+(THE MOUNTAIN PASS; A PROCESSION OF CHAINED PRISONERS OVERSEEN BY ARMORED GUARDS WALKS TOWARDS THE MINE VALLEY)
 
 To make it impossible for them to escape, the king sent out the best magicians of the kingdom to create a magic barrier around the entire valley. I was one of them.
 
-(THE MINE VALLEY; THE HOODED MAGE MAGICALLY APPEARS AND CASTS A SPELL, A MAGIC BARRIER STARTS TO EXPAND FROM THE CENTER OF THE VALLEY)
+(THE MINE VALLEY; THE HOODED MAGE CASTS A SPELL, A MAGIC BARRIER STARTS TO EXPAND FROM THE CENTER OF THE VALLEY)
 
 Something disturbed the delicate structure of magic. We were trapped inside our own barrier.
 
