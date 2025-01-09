@@ -429,7 +429,7 @@ title: Items
   - in alpha it was the _Undead Dragon_, in final it was 5th High Orc Priest
 - sword powerful enough to harm, but not kill, arch demon
 - has codename `Mythrilklinge`
-  - reference to supernatural metal from _Lord Of The Rings_ that could only be find in a mine that was just above imprisoned enormous primeval demon (`Balrog`) 
+  - reference to supernatural metal `Mythril` from _Lord Of The Rings_ that was only found in the mine `Moria`, that was built by dwarves directly above an imprisoned enormous primeval demon (`Balrog`) 
 - `It's a weapon from the olden days, when the human race was still young.`
 - can be used to make a rune that `has Beliar's powers`, called `Wave of Death`
 - `the weapon was able to pierce the strongest armor and to overcome even the most powerful of protection spells.`
