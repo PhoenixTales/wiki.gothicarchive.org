@@ -79,7 +79,7 @@ title: Orcs
 ## Relationship with trolls
 - in the released game, orcs and trolls are never seen together
 - Gothic comic shows the _Northern Hordes_ as made of both orcs and some trolls
-- early design docs mention orc patrols in _abandoned mine_ including an `war troll`
+- early design docs mention orc patrols in _abandoned mine_ including a `war troll`
   - German: `Orkpatroullien in VM (incl. Kriegstroll?)` (in `Phoenix Hauptmissionen`)
 
 
