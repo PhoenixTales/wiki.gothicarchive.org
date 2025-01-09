@@ -125,6 +125,8 @@ title: Orcs
 
 ## Shamans
 - `sons of spirit`
+  - German: `Sohn von Geist`
+  - the word `von` in the German original can mean both `descendant of`, as well as `made of` or `pervaded by`
 - in the final release use _Fire Magic_
   - `he may listen to you before turning you into a living torch!`
 - in early design docs use _Voodoo Magic_ (`Phoenix: Monsters`)
