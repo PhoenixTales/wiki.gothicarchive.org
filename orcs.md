@@ -128,6 +128,7 @@ title: Orcs
   - `Krush Morok` = `OrcSword_02` (new)
   - `Krush Milok` = `Milok's old sword`
   - `Krush Irmak` = `Irmak_2H_Halberd` (Irmak's halberd)
+- in Gothic 2, _Ur-Shak_ exclaims `KHROTOK JABARTH` after noticing the protagonist, before recognizing him 
 
 ## Shamans
 - `sons of spirit`
