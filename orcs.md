@@ -126,7 +126,6 @@ title: Orcs
   - `Krush Varok` = `OrcSword_01`
   - `Krush Tarach` = `OrcHalberd` (new)
   - `Krush Morok` = `OrcSword_02` (new)
-  - `Krash Morra` = `Crossbow_KrashMorra` (new)
   - `Krush Milok` = `Milok's old sword`
   - `Krush Irmak` = `Irmak_2H_Halberd` (Irmak's halberd)
 
