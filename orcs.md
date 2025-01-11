@@ -120,7 +120,7 @@ title: Orcs
 - negative reaction to player holding a weapon (SVN `WeaponDown`): `NEMROK KA VARROK`
 
 ### Other games
-- Gothic 3 expands the weapon naming, further confirming expanding meaning of `krush` as "meele weapon"
+- Gothic 3 reuses some of the previous weapon names and adds few new meele weapons, all again named with prefix `Krush`:
   - `Krush Pach` = `OrcAxe`
   - `Krush Agash` = `OrcWaraxe`
   - `Krush Varok` = `OrcSword_01`
