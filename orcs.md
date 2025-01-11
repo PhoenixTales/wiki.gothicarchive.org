@@ -131,6 +131,7 @@ title: Orcs
 - in Gothic 2, _Ur-Shak_ exclaims:
   - `KHROTOK JABARTH`, after noticing the protagonist, before recognizing him
   - `RUSHTASOK`, after learning that the great shaman who was his mentor, and made him a shaman, was killed
+  - `KHROTOK`, after meeting the protagonist and already knowing that he's the murderer of his mentor
 
 ## Shamans
 - `sons of spirit`
