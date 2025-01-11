@@ -103,7 +103,7 @@ title: Orcs
 - `Grachtnakk` = name for orc-shaman's staff
 - `ShaBaNakk` = name for ancient undead orc-priest's staff
 
-## Weapons
+### Weapon-related terms
 - weapon naming suggests that `krush` means something like "meele weapon", because it includes swords, axes and maces
 - `Krush Varrok` = `OrcSword01` (for orc-scouts)
 - `Krush Pach` = `OrcAxe01` (for orc-warriors)
@@ -111,6 +111,13 @@ title: Orcs
 - `Krush Agash` = `OrcAxe03` (for orc-warriors)
 - `Krush BrokDar` `OrcAxe04` (for orc-warriors)
 - `Krush Karrok` = `OrcMace01` (for orc-warriors)
+
+### Ambient orc speech
+- in Zengine, each guild has a set of spoken reactions to certain specific events (they are called `SVM`)
+- orcs have three SVM lines (human guilds have a lot more)
+- negative reaction to player using magic (SVN `StopMagic`): `KARROK UR SHAK TOS KARRAS DA GACH`
+- repeated warning to stop using magic (SVN `ISaidStopMagic`): `ROK KRUSHAK KOR GANORG`
+- negative reaction to player holding a weapon (SVN `WeaponDown`): `NEMROK KA VARROK`
 
 ### Other games
 - Gothic 3 expands the weapon naming, further confirming expanding meaning of `krush` as "meele weapon"
