@@ -24,6 +24,14 @@ title: Outside World
 - owner of _Mountain Fortress_
 - past owner of some of _Royal Ore Mines_
 
+### Count of Meidheim
+- in the early draft of _Lee_'s story, the _Count of Meidheim_ has sent to the king a mounted messenger with a letter
+  - `the Count’s head would be at stake due to the content`
+  - the messenger dropped the unsealed message at the stable by the courtyard
+  - Lee, the leader of Royal Guard who passed there on the way back from the throne room, found and read the message
+  - moments later, the messenger returned there, and seeing Lee reading the scroll, ordered Royal Guards to arrest him
+  - Lee was accused of some kind of treason for that, and sentenced by the king to lifetime imprisonment
+
 ### Lord of Tymoris
 - high feudal lord of the realm containing _Royal Ore Mines_
 
