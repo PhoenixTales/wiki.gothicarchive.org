@@ -46,7 +46,13 @@ title: Outside World
 - `the damned king!` (source: _Mordrag_, `Org_826_Mordrag_NCInfo_Info`)
 - `King (...) the old guy` (source: _Diego_, `Info_Diego_OldCamp_Info`)
 
-### King's wife
+### Rigaldo
+- king's marshal
+- only mentioned in commented out lines of the final release of the G1 MDK
+- German: `Rigaldo Marschall des Königs`
+- marshal can mean either a high official of the royal house, or the highest general
+
+### Rhobar's wife
 - `They used the King's wife to get me. I was blamed for her pointless murder`
   - source: _Lee_ (`Sld_700_Lee_DAMNPAST_Info`)
   - suggests that the king had at least one `wife` who is not a `queen`
