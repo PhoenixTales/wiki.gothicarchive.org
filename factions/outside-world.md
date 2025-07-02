@@ -16,7 +16,7 @@ title: Outside World
 - _The Nobles_ have "dirty business" and were concerned of general's influence on the king
   - `the nobles didn't like me, because the King listened to my advice. And they knew I posed a threat to their dirty business.` (source: _Lee_, `Sld_700_Lee_DAMNPAST_Info`)
   - design docs imply that general(s) are also "Lords" (nobles)
-- known ranks of nobility: `king`, `lord`, `burgrave`
+- known ranks of nobility: `king` (`König`), `lord` (`Herr`), `count` (`Graf`), `burgrave` (`Burggraf`)
 
 ### Burgrave Bergmar
 - comes from _Western Field_
