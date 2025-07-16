@@ -104,9 +104,9 @@ title: Orcs
 - `ShaBaNakk`: name for ancient undead orc-priest's staff
 - `Varrag`: probably `priest` or `shaman` (source: names of the undead high orc priests)
 - `Grash`: probably `the great` (source: names of the undead high orc priests)
+- `Krush`: probably `weapon` or `meele weapon` (source: weapon-related terms)
 
 ### Weapon-related terms
-- weapon naming suggests that `krush` means something like "meele weapon", because it includes swords, axes and maces
 - `Krush Varrok` = `OrcSword01` (for orc-scouts)
 - `Krush Pach` = `OrcAxe01` (for orc-warriors)
 - `Krush UrRok` = `OrcAxe02` (for orc-warriors)
