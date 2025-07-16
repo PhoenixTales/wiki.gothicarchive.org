@@ -100,8 +100,10 @@ title: Orcs
 - `Gach Lug`: Mine Crawler (source: `DIA_Orc_FreeMine`)
 - `Krushak`: Sleeper (source: `DIA_Orc_Shaman`)
 - `Tonga`: pillar (source: `Phoenix Hauptmissionen`)
-- `Grachtnakk` = name for orc-shaman's staff
-- `ShaBaNakk` = name for ancient undead orc-priest's staff
+- `Grachtnakk`: name for orc-shaman's staff
+- `ShaBaNakk`: name for ancient undead orc-priest's staff
+- `Varrag`: probably `priest` or `shaman` (source: names of the undead high orc priests)
+- `Grash`: probably `the great` (source: names of the undead high orc priests)
 
 ### Weapon-related terms
 - weapon naming suggests that `krush` means something like "meele weapon", because it includes swords, axes and maces
@@ -129,9 +131,9 @@ title: Orcs
   - `Krush Milok` = `Milok's old sword`
   - `Krush Irmak` = `Irmak_2H_Halberd` (Irmak's halberd)
 - in Gothic 2, _Ur-Shak_ exclaims:
-  - `KHROTOK JABARTH`, after noticing the protagonist, before recognizing him
-  - `RUSHTASOK`, after learning that the great shaman who was his mentor, and made him a shaman, was killed
-  - `KHROTOK`, after meeting the protagonist and already knowing that he's the murderer of his mentor
+  - `Khrotok Jabarth`, after noticing the protagonist, before recognizing him
+  - `Rushtasok`, after learning that the great shaman who was his mentor, and made him a shaman, was killed
+  - `Khrotok`, after meeting the protagonist and already knowing that he's the murderer of his mentor
 
 ## Shamans
 - `sons of spirit`
