@@ -1,4 +1,7 @@
-# Voodoo
+---
+title: Voodoo
+---
+
 - magic of orc shamans, related to psionic magic, mentioned in `Phoenix: Monsters` design doc
 - `Shamans can use voodoo magic (a form of psi magic)`
   - German: `Schamanen können Voodoo-Magie (eine Form der Psi-Magie)`
