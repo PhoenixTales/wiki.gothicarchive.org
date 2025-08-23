@@ -3,7 +3,7 @@ title: History
 ---
 
 ## Common knowledge
-- _kingdom of Myrtana_ "united" (conquered/annexed?) _Nordmar_, _Varant_ and 4th land
+- _kingdom of Myrtana_ "united" _Nordmar_, _Varant_ and a 4th land
   - according to Myrtanian chronicle, _Varant_ initially started the war with intent to conquer _Myrtana_, but in the end was conquered instead
 - months are called _moons_ and by corresponding constellation
   - `In a few weeks, when the moon of the Unicorn will be complete.`
@@ -11,6 +11,7 @@ title: History
 - years are counted by solstices or winters
   - `This war lasted more than four solstices`
   - `many winters ago`
+  - counting years by winters was common in the real-world medieval Germanic countries
 - some of the known history is said to reach thousands of years (millennia) into the past
   - `The techniques employed in this traditional method of hunting have hardly altered in the course of the millennia`
   - German: `Die Technik dieser Art der traditionellen Jagd hat sich im Lauf der Jahrtausende kaum verändert`, from book `Hunt and Prey`
