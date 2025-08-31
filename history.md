@@ -76,11 +76,6 @@ Origin of Myrtana is only described in Gothic 3:
 - war lasts `over 4 solstices`, on both land and the sea
 - won thanks to good strategy of a general, and military use of _Fire Magic_
 - king `was not satisfied with protecting the country's borders, (...) advanced deep into the country and conquered counties, villages and cities. And whatever his troops could not hold was razed to the ground. (...)had the ruler of Varant hanged, appointed a governor and a council`
- 
-### Speculation
-- Varantian conquest turned into defeat because of a [black swan event](https://en.wikipedia.org/wiki/Black_swan_theory) involving heroic individual like _General Lee_
-- _Varant_ could have been unaware of use of _Fire Magic_ by army of Myrtana: maybe it was first known military use, or even public witnessing of such magic in these times
-- initial aggression of _Varant_ on _Myrtana_ could have been a [false flag operation meant to provoke a war](https://en.wikipedia.org/wiki/False_flag#As_pretexts_for_war), and Rhobar knew that Myrtanian army is stronger, or that _Fire Magic_ will ensure their victory
 
 ## First Orc War
 - orc raids started during first year of reign of _Rhobar II_, after death of _Rhobar I_
