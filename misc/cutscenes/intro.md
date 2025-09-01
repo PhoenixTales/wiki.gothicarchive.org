@@ -84,7 +84,7 @@ THE FRIENDLY PRISONER: Get up.
 
 ## Text version by Kai Rosenkranz (translated)
 
-Before every battle, there is silence. Tense silence. Like in the eye of a hurricane. For a moment, time seemed to stand still. The air pressed down on the ground like a dense blanket of dust. Howling voices broke the silence, and like a storm wind, the orcs swept across the land, ready to mow down anything that stood in their way. The soldiers' arrows brought the giant bodies to the ground, yet every gap was immediately filled again.
+Before every battle, there is silence. Tense silence. Like in the eye of a hurricane. For a moment, time seemed to stand still. The air pressed down on the ground like a dense blanket of dust. Suddenly, howling broke the silence, and like a storm wind, the orcs swept across the land, ready to mow down anything that stood in their way. The soldiers' arrows brought the giant bodies to the ground, yet every gap was immediately filled again.
 
 The war with the orcs took its toll, and the prisoners of the kingdom were to pay it.
 
