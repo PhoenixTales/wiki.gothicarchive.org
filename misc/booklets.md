@@ -2,7 +2,7 @@
 title: Booklets
 ---
 
-## Tanslated official German booklet
+## Translated official German booklet
 - [original PDF in German](https://media.gothicarchive.org/documents/manuals/Handbuch.pdf)
 - this is our own unofficial translation
 - the spelling mistakes (`Rhotbar` vs `Rhobar`) and contradictions with other versions of the story are there in German original as well and were accurately preserved here
