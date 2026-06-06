@@ -94,7 +94,7 @@ title: Orcs
 
 ## Orc language
 - `Krotahk` : Flame Tongue (source: `DIA_FREEMINEORC`)
-- `Khaz-Tak`: Lurker Claw (source: `DIA_FREEMINEORC`)
+- `Khaz-Tak`: Horn of Shadowbeast (source: `DIA_FREEMINEORC`)
 - `Orth-Antak`: Troll tooth (source: `DIA_FREEMINEORC`)
 - `Dwachkarr`: Swampshark Tooth (source: `DIA_Orc_FreeMine`)
 - `Gach Lug`: Mine Crawler (source: `DIA_Orc_FreeMine`)
