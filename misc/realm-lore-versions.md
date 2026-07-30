@@ -16,7 +16,7 @@ Those who break the law in these days are punished hard; they are sent in to sla
 
 ## English release booklet
 
-( [https://bin.gothicarchive.org/documents/manuals/Gothic-Manual_en.pdf](bin.gothicarchive.org/documents/manuals/Gothic-Manual_en.pdf) )
+( [bin.gothicarchive.org/documents/manuals/Gothic-Manual_en.pdf](https://bin.gothicarchive.org/documents/manuals/Gothic-Manual_en.pdf) )
 
 Myrtana...
 
@@ -30,7 +30,7 @@ Endless raids and battles devastated the land throughout the next years and as M
 
 ## German release booklet
 
-( [https://bin.gothicarchive.org/documents/manuals/Handbuch.pdf](bin.gothicarchive.org/documents/manuals/Handbuch.pdf) )
+( [bin.gothicarchive.org/documents/manuals/Handbuch.pdf](https://bin.gothicarchive.org/documents/manuals/Handbuch.pdf) )
 
 Many years ago, in a distant land, people lived in a kingdom of Myrtana.
 
