@@ -3,7 +3,7 @@ title: Booklets
 ---
 
 ## Translated official German booklet
-- [original PDF in German](https://media.gothicarchive.org/documents/manuals/Handbuch.pdf)
+- [original PDF in German](https://bin.gothicarchive.org/documents/manuals/Handbuch.pdf)
 - this is our own unofficial translation
 - the spelling mistakes (`Rhotbar` vs `Rhobar`) and contradictions with other versions of the story are there in German original as well and were accurately preserved here
 
@@ -123,7 +123,7 @@ At least that's what they think...
 ```
 
 ## Egmont promotional English booklet
-- [original PDF](https://media.gothicarchive.org/documents/press/Gothic_PromoBooklet.pdf)
+- [original PDF](https://bin.gothicarchive.org/documents/press/Gothic_PromoBooklet.pdf)
 - Genre: action role-playing game
 - Scenery: dark fantasy
 - `has got all the important game elements of a typical RPG, but presents them in an easy-to-understand way`
@@ -169,7 +169,7 @@ You see the blurred outlines of the shore. Slowly, with little strength left, yo
 ```
 
 ## Official english final manual
-- [original pdf](https://media.gothicarchive.org/documents/manuals/Gothic-Manual_en.pdf)
+- [original pdf](https://bin.gothicarchive.org/documents/manuals/Gothic-Manual_en.pdf)
 
 ```
 Myrtana...
