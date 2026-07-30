@@ -1,5 +1,5 @@
 ---
-title: Realm Lore Versions
+title: Realm Lore 
 ---
 
 ## Egmont promo booklet
