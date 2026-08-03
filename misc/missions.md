@@ -142,12 +142,14 @@ title: Missions
 - the player has to accept, or otherwie this powerful Fire Mage will attack him for disobedience
 - `The letter says: Great Master. I know I am unworthy, but I have reached the final circle of fire and now I want to be instructed by you. Your devoted servant Zampalo`
 
-## Letter From The Shadows To Lee
+## Letter From The Shadows To "The Duke"
 - mission offered by _Shadows Of The Old Camp_, described in design doc `Story 3.3 draft`
 - for a low level player character who did not join any faction yet
 - `We need someone inconspicuous. You're still new here. Do you want to make some friends?`
-- `In the new camp there is one they call the Duke. He should find this in his bed. If you do it without getting caught, I'll put in a good word for you with Grmbl, our leader.`
-- the letter is sealed and says: `Duke! The one who brought this letter could have brought a knife... Maybe protecting the Free Mine with your boys isn't such a good idea after all. THE SHADOW`
+- `In the new camp there is one they call (the Duke). He should find this in his bed. If you do it without getting caught, I'll put in a good word for you with (Grmbl), our leader.`
+- the letter is sealed and says: `(Duke)! The one who brought this letter could have brought a knife... Maybe protecting the Free Mine with your boys isn't such a good idea after all. THE SHADOW`
+- both "The Duke" and "Grmbl" are surrounded by square brackets in the text, which means they are placeholders
+- it is very likely that "The Duke" placeholder referred to the character known in that version of the story as "Lord Protector", the leader of _The Guardians Of The New Camp_, later renamed _Lee_, but we don't know that for sure
 
 ## Bring Milking Vessel to Abandoned Mine
 - mission described in design doc `Story 3.3 draft`
