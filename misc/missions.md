@@ -149,7 +149,7 @@ title: Missions
 - `In the new camp there is one they call (the Duke). He should find this in his bed. If you do it without getting caught, I'll put in a good word for you with (Grmbl), our leader.`
 - the letter is sealed and says: `(Duke)! The one who brought this letter could have brought a knife... Maybe protecting the Free Mine with your boys isn't such a good idea after all. THE SHADOW`
 - both "The Duke" and "Grmbl" are surrounded by square brackets in the text, which means they are placeholders
-- it is very likely that "The Duke" placeholder referred to the character known in that version of the story as "Lord Protector", the leader of _The Guardians Of The New Camp_, later renamed _Lee_, but we don't know that for sure
+- it is very likely that "The Duke" placeholder referred to _Lee_, the leader of _The Guardians Of The New Camp_ also known in that version of the story as _Lord Protector_, but we don't know that for sure
 
 ## Bring Milking Vessel to Abandoned Mine
 - mission described in design doc `Story 3.3 draft`
