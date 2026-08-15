@@ -88,3 +88,11 @@ Hordes of orcs are invading the land from the north.
 To keep up the strength of the king's troops, the blacksmiths of the realm are constantly producing new weapons.
 
 Those who break the law await a terrible fate: they are sentenced to heavy labor in the penal colony to dig the ORE needed to create weapons.
+
+## Phoenix Pitch
+
+( [bin.gothicarchive.org/documents/phoenix/PhoenixPitch.pdf](https://bin.gothicarchive.org/documents/phoenix/PhoenixPitch.pdf) )
+
+The kingdom is at war with the northern hordes.
+
+In these times, criminals are thrown into the prison mine colony to provide the royal army with its most urgent need: iron ore.
