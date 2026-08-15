@@ -78,3 +78,13 @@ In those days, anyone found guilty of any crime, no matter how small, was taken 
 
 The fire burned day and night in the smelters and the hammering in the forges could be heard constantly.
 
+
+## Mod Development Kit
+
+There is war in the human kingdom. 
+
+Hordes of orcs are invading the land from the north. 
+
+To keep up the strength of the king's troops, the blacksmiths of the realm are constantly producing new weapons.
+
+Those who break the law await a terrible fate: they are sentenced to heavy labor in the penal colony to dig the ORE needed to create weapons.
