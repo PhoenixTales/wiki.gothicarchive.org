@@ -54,6 +54,14 @@ title: Outside World
 - also called _Martiana_ (alpha docs) and _Myrthana_ (handbook)
 - the original kingdom was on the continental lands known as _Midlands_
 
+### Other games
+- when working on Gothic 3, [Mike Hoge clarified](https://web.archive.org/web/20041013050519/http://forum.rpg-ring.com:80/forum/showthread.php?s=d3e323ed0052c08ff633a2bc9518e404&p=781873&#post781873) that "the four realms" referred to Myrtana and 3 other realms conquered by it during the reign of _Rhobar II_:
+  - Varant
+  - Nordmar
+  - Southern Islands
+- in the same post, Mike confirmed that Myrtana was founded by _Rhobar I_
+- German: `König Rhobar der Erste ist der Begründer von Myrtana. König Rhobar der Zweite ist der Vereiniger der vier Reiche am Myrtanischen Meer, die zusammen das Königreich Myrtana gebildet haben (das deswegen so hieß, weil das eroberende Land Myrtana war). Die vier Reiche sind Nordmar, Myrtana, Varant, Die südlichen Inseln`
+
 ## Nordmar
 - place with blast furnaces
 - only local masters know secret technique for smelting _Magic Ore_ without sacrificing it's magic power
