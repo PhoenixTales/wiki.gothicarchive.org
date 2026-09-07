@@ -319,7 +319,7 @@ title: Items
 - present in the final release as `ItMi_Amulet_Psi_01` but unused
 
 ## Silver Amulet
-- unused "conversation topic" in 0.56 alpha, probably involved in an uknown quest
+- unused "conversation topic" in 0.56 alpha, probably involved in an unknown quest
 
 ## Sruup
 - appears in _Sleeper's Ban_, is referred in alpha game builds as `PSI` or `drug`
