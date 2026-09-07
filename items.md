@@ -283,7 +283,7 @@ title: Items
 - there is a related mission, _Bring Psi Potion_ (`I urgently need a PSI vial`)
 - `There isn't much to pick up in the cult camp other than mountains of drug vials` (`Inf_Org_SL`)
 
-## Psionic Articat
+## Psionic Artefact
 - makes psionic spells particularly strong
 - owned by _The Lobotomist_
   - `thanks to a magical artifact his spells "Confusion" and "Chaos" are so strong that he can drive people permanently insane`
@@ -342,13 +342,13 @@ title: Items
 - present but commented out in the final released script sources
 
 ## Swamp Weed
-- called `Swamp Root` (German: `Sumpfwurzeln`) in early design docs (`Phoenix Hauptmissionen`)
+- called `Swamp Root` (German: `Sumpfwurzeln`) in early design docs (`Phoenix Hauptmissionen`), later "Sumpfkraut" in German ("swamp herb") 
 - `grown in the swamp (...) has to be processed before it can be smoked`
 - `have a tranquilizing and relaxing effect. They help you concentrate on the essentials and increase your awareness.`
 - `This weed opens your spirit` (_Joru_) and gives chance to experience visions (`Some people even see images`)
 - there are multiple distinct blends of _Swampweed_ that differ in strength, price and gameplay effect
   - Green Novice (`Grüner Novize`, 8 ore, 1x +5xp)
-  - Northern Dark (`Schwarzer Weiser` / `Black Old Man`, 15 ore, 1x +10xp)
+  - Northern Dark (has been wrongly translated; in German it is `Schwarzer Weiser`, which correctly translates to `Black Sage`; 15 ore, 1x +10xp)
   - Dream Call (`Traumruf`, 20 ore, 1x +2 max mana)
   - special Dream Call (from _Baal Kagan_, 200 ore, causes sleep, for _Baal Tyon_ causes a vision)
 - there's a blend called `Sleeper's Dream` (German: `Schläfertraum`) mentioned in design doc `Story 3.3 draft`
