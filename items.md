@@ -168,7 +168,7 @@ title: Items
 - unused bow in script `TestModelle_Roman.d` (`ItRwWarBowBurning`)
 - in the script, causes both fire damage and `fly` damage (pushback)
 
-## Ledengary mithril robe
+## Legendary mithril robe
 - unused robe in script `TestModelle_Roman.d` (`ItArRobeMithril`)
 - no description, uses visual model of Necromancer's robe
 
