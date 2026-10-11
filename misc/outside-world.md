@@ -101,13 +101,18 @@ Point at the base of the mountain (...) Stomp took a closer look and saw a free-
 - there is a `peace council` (`der Friedensräte der Stadt`) with a treasury storing valuable artefacts
 
 ## Tymoris
-- region ruled by the _Lord of Tymoris_
-- contains _Khorinis_ and the _Royal Ore Mines_
-- likely contains _Western Field_ (_Bergmar_ of Western Field is subordinate to _Lord Of Tymoris_)
+- German: `Bergmar Burggraf zu Westfeld und meines Herren zu Tymoris Landrichter Ã¼ber das Gut in dem Gebiet um Khorinis gelegen`
+  - official English translation: `Bergmar, Burgrave of the Western Field and presiding judge over the lands of my Lord of Tymorisin, the region surrounding Khorinis`
+- Tymoris is a realm ruled by the _Lord of Tymoris_, which includes _Castle Westfeld_
 
-## Western Field
-- city or area either ruled by _Burgrave Bergmar_, or where he was born
-- likely part of _Tymoris_ (_Bergmar_ is subordinate to _Lord Of Tymoris_)
+### Speculation
+- _Tymoris_ likely includes the _City Of Khorinis_ and the _Mine Valley_ 
+- _Tymoris_ likely used to be an independent realm in the past, but was at some point annexed into kingdom of Myrtana (becoming one of "the four realms"); _Lord Of Tymoris_ became a vassal of the king of Myrtana (_Rhobar II_ or his predecessor) and was later forced to sell his lands within the _Mine Valley_ to him
+
+## Castle Westfeld
+- in the official English translation translated as "Western Field" 
+- castle ruled by _Burgrave Bergmar_
+- somewhere in the land of _Tymoris_ (_Bergmar_ is subordinate to _Lord Of Tymoris_)
 
 ## Varant
 - land neighbouring the _Midlands_
